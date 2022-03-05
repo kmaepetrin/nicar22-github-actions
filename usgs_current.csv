@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T08:48:27.040Z,19.2021675109863,-155.511672973633,34.3899993896484,2.71,ml,49,80,,0.140000001,hv,hv72938637,2022-03-05T08:53:58.290Z,"3 km W of Pāhala, Hawaii",earthquake,0.57,0.779999971,3.74,32,automatic,hv,hv
 2022-03-05T08:33:19.780Z,35.9148333,-117.6803333,13.21,1.04,ml,9,74,0.04098,0.13,ci,ci40200000,2022-03-05T08:36:44.850Z,"20km E of Little Lake, CA",earthquake,0.42,0.93,0.226,10,automatic,ci,ci
 2022-03-05T08:32:34.500Z,19.1625003814697,-155.47233581543,31.5799999237061,2.13000011,md,44,99,,0.119999997,hv,hv72938617,2022-03-05T08:35:42.480Z,"4 km S of Pāhala, Hawaii",earthquake,0.48,0.860000014,0.699999988,9,automatic,hv,hv
 2022-03-05T08:26:06.720Z,34.153,-117.059,22.81,1.25,ml,21,145,0.1582,0.27,ci,ci40199992,2022-03-05T08:29:49.172Z,"8km SE of Running Springs, CA",earthquake,0.88,2.12,0.247,26,automatic,ci,ci
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T05:46:48.987Z,38.2378,-118.3606,8.7,1.1,ml,10,155.73,0.114,0.2329,nn,nn00834929,2022-03-05T05:50:49.518Z,"27 km SW of Mina, Nevada",earthquake,,1.5,0.3,5,automatic,nn,nn
 2022-03-05T05:35:39.839Z,59.1593,-155.0882,195,2.9,ml,,,,0.85,ak,ak0222xxkzl6,2022-03-05T06:04:35.040Z,"35 km SSW of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-05T05:24:01.380Z,38.7908325,-122.7621689,1.78,0.71,md,21,64,0.009965,0.03,nc,nc73701521,2022-03-05T05:40:14.459Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.44,0.25,4,automatic,nc,nc
-2022-03-05T05:19:36.460Z,34.5595,-118.8236667,2.1,1.74,ml,39,86,0.0992,0.28,ci,ci40199888,2022-03-05T05:23:05.329Z,"16km N of Piru, CA",earthquake,0.43,0.99,0.187,29,automatic,ci,ci
+2022-03-05T05:19:36.460Z,34.5595,-118.8236667,2.1,1.74,ml,39,86,0.0992,0.28,ci,ci40199888,2022-03-05T08:53:50.948Z,"16km N of Piru, CA",earthquake,0.43,0.99,0.187,29,automatic,ci,ci
 2022-03-05T05:08:51.660Z,33.5796667,-116.698,-0.17,0.37,ml,11,84,0.03576,0.11,ci,ci40199880,2022-03-05T05:12:25.500Z,"4km NW of Anza, CA",earthquake,0.21,31.61,0.05,4,automatic,ci,ci
 2022-03-05T05:03:04.015Z,-58.4502,-23.7089,10,5,mb,,112,8.227,0.97,us,us6000h28x,2022-03-05T05:20:21.040Z,"South Sandwich Islands region",earthquake,10.7,1.8,0.082,50,reviewed,us,us
 2022-03-05T04:38:57.980Z,38.796833,-122.7819977,2.91,0.84,md,11,80,0.005892,0.02,nc,nc73701516,2022-03-05T04:46:11.107Z,"3km NW of The Geysers, CA",earthquake,0.5,0.79,,1,automatic,nc,nc
