@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-05T10:49:12.770Z,34.0315018,-117.1566696,10.64,1.46,ml,31,143,0.08497,0.16,ci,ci40200064,2022-03-05T10:51:36.108Z,"4km SE of Redlands, CA",earthquake,0.35,0.7,0.196,10,automatic,ci,ci
+2022-03-05T10:49:12.870Z,34.0296667,-117.154,9.3,1.39,ml,38,103,0.08355,0.18,ci,ci40200064,2022-03-05T10:52:53.662Z,"4km SE of Redlands, CA",earthquake,0.28,0.8,0.139,27,automatic,ci,ci
 2022-03-05T10:26:59.132Z,61.5656,-141.0164,0,2.2,ml,,,,0.65,ak,ak0222y0i8tu,2022-03-05T10:33:35.179Z,"102 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T10:21:13.620Z,19.19700050354,-155.480499267578,30.5,1.82000005,md,42,82,,0.140000001,hv,hv72938712,2022-03-05T10:24:17.210Z,"0 km SSW of Pāhala, Hawaii",earthquake,0.54,0.939999998,1.79999995,6,automatic,hv,hv
 2022-03-05T10:08:22.730Z,34.0283333,-117.1503333,9.87,0.99,ml,14,112,0.03229,0.16,ci,ci40200056,2022-03-05T10:11:54.417Z,"4km SE of Redlands, CA",earthquake,0.45,1.15,0.355,21,automatic,ci,ci
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T23:26:11.460Z,33.962,-117.0676667,11.84,1.21,ml,25,99,0.1369,0.24,ci,ci40199744,2022-03-04T23:29:52.823Z,"3km SSW of Calimesa, CA",earthquake,0.42,1.42,0.267,31,automatic,ci,ci
 2022-03-04T23:16:10.820Z,33.3753333,-116.3755,3.13,0.98,ml,26,85,0.05664,0.2,ci,ci40199736,2022-03-04T23:19:41.139Z,"13km N of Borrego Springs, CA",earthquake,0.3,0.91,0.127,25,automatic,ci,ci
 2022-03-04T23:15:00.640Z,36.611,-121.063,9.83,1.66,md,22,115,0.03753,0.12,nc,nc73701301,2022-03-05T08:48:14.524Z,"11km NE of Pinnacles, CA",earthquake,0.45,0.44,0.145,17,reviewed,nc,nc
-2022-03-04T22:54:58.110Z,36.6125,-121.0676667,10.04,1.82,md,32,109,0.04079,0.13,nc,nc73701291,2022-03-05T08:36:16.454Z,"11km NE of Pinnacles, CA",earthquake,0.31,0.45,0.27,31,reviewed,nc,nc
+2022-03-04T22:54:58.110Z,36.6125,-121.0676667,10.04,1.82,md,32,109,0.04079,0.13,nc,nc73701291,2022-03-05T10:58:15.325Z,"11km NE of Pinnacles, CA",earthquake,0.31,0.45,0.27,31,reviewed,nc,nc
 2022-03-04T22:54:39.040Z,19.2110004425049,-155.451507568359,36.3800010681152,1.94000006,md,36,146,,0.109999999,hv,hv72938042,2022-03-04T22:57:52.960Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.53,0.790000021,1.94000006,4,automatic,hv,hv
 2022-03-04T22:51:28.785Z,63.4584,-147.508,0,1.6,ml,,,,1.42,ak,ak0222wk9e53,2022-03-04T22:55:55.694Z,"72 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-04T22:51:26.560Z,33.7236667,-116.7796667,14.49,0.97,ml,30,80,0.056,0.1,ci,ci40199720,2022-03-04T22:54:57.970Z,"6km WSW of Idyllwild, CA",earthquake,0.21,0.29,0.144,25,automatic,ci,ci
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T11:10:26.650Z,33.3618333,-116.359,10.08,0.74,ml,25,103,0.03567,0.21,ci,ci40199384,2022-03-04T18:11:16.480Z,"12km N of Borrego Springs, CA",earthquake,0.36,0.81,0.114,11,reviewed,ci,ci
 2022-03-04T11:02:28.990Z,18.0438333333333,-66.8186666666667,13.99,2.25,md,7,131,,0.13,pr,pr71338898,2022-03-04T11:55:05.470Z,"3 km ENE of Yauco, Puerto Rico",earthquake,0.42,0.99,0.0353602705595879,5,reviewed,pr,pr
 2022-03-04T11:02:18.359Z,36.432,-96.94333333,7.02,0.43,ml,24,68,0.02609487929,0.11,ok,ok2022ekda,2022-03-04T15:52:19.100Z,"16 km NNE of Morrison, Oklahoma",earthquake,,0.4,0.23,3,reviewed,ok,ok
-2022-03-04T10:55:32.290Z,38.833168,-122.8168335,1.83,0.71,md,16,56,0.0111,0.02,nc,nc73701006,2022-03-04T11:42:12.855Z,"8km NW of The Geysers, CA",earthquake,0.25,0.61,0.14,2,automatic,nc,nc
