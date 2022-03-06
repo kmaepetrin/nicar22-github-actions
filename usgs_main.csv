@@ -691,3 +691,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T21:18:07.810Z,38.8191681,-122.7968369,2.52,1.12,md,29.0,44.0,0.01117,0.03,nc,nc73702211,2022-03-06T21:19:43.776Z,"6km NW of The Geysers, CA",earthquake,0.23,0.4,0.18,5.0,automatic,nc,nc
 2022-03-06T21:08:02.781Z,61.1945,-151.665,81.2,0.9,ml,,,,0.54,ak,ak0222zuhdoj,2022-03-06T21:19:30.707Z,"31 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-06T06:05:33.550Z,61.5581,-146.134,36.2,1.4,ml,,,,0.25,ak,ak0222zljaol,2022-03-06T21:13:19.853Z,"48 km NNE of Valdez, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2022-03-06T21:21:23.050Z,19.1749992370605,-155.488830566406,34.560001373291,2.24,ml,45.0,87.0,,0.129999995,hv,hv72940452,2022-03-06T21:26:54.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.5,0.699999988,4.58,4.0,automatic,hv,hv
+2022-03-06T06:27:07.636Z,51.8535,-177.4664,14.9,1.6,ml,,,,0.64,ak,ak0222zlnur6,2022-03-06T21:25:41.530Z,"57 km W of Adak, Alaska",earthquake,,2.2,,,reviewed,ak,ak
