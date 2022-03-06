@@ -632,3 +632,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T15:11:08.960Z,33.7051667,-116.7161667,17.43,1.13,ml,44.0,52.0,0.006213,0.18,ci,ci40200720,2022-03-06T15:14:53.439Z,"4km S of Idyllwild, CA",earthquake,0.23,0.41,0.13,25.0,automatic,ci,ci
 2022-03-06T12:51:41.810Z,44.452,-115.2028333,6.4,1.82,ml,6.0,82.0,0.852,0.14,mb,mb80539839,2022-03-06T15:18:47.540Z,"33 km NW of Stanley, Idaho",earthquake,0.79,1.66,0.25,7.0,reviewed,mb,mb
 2022-03-06T09:13:32.240Z,44.4325,-115.1823333,4.37,1.71,ml,7.0,82.0,0.877,0.26,mb,mb80539829,2022-03-06T15:24:37.880Z,"30 km NW of Stanley, Idaho",earthquake,0.97,2.12,0.189,6.0,reviewed,mb,mb
+2022-03-06T15:35:18.350Z,33.7051667,-116.7181667,18.0,0.65,ml,21.0,54.0,0.006851,0.18,ci,ci40200728,2022-03-06T15:38:53.679Z,"4km S of Idyllwild, CA",earthquake,0.46,0.61,0.099,15.0,automatic,ci,ci
+2022-03-06T15:11:18.380Z,18.0321666666667,-66.7905,15.63,1.89,md,11.0,100.0,,0.09,pr,pr71339263,2022-03-06T15:28:19.780Z,"1 km N of Guayanilla, Puerto Rico",earthquake,0.39,0.71,0.160470443558972,8.0,reviewed,pr,pr
