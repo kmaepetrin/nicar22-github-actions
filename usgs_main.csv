@@ -708,3 +708,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T22:23:45.512Z,61.796,-149.78,48.8,1.5,ml,,,,0.62,ak,ak0222zv64dz,2022-03-06T22:28:59.289Z,"14 km ENE of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-06T22:37:51.720Z,35.6623344,-117.4676666,5.42,1.18,ml,14.0,121.0,0.0758,0.09,ci,ci40200976,2022-03-06T22:39:57.986Z,"13km SSW of Searles Valley, CA",earthquake,0.48,2.4,0.272,4.0,automatic,ci,ci
 2022-03-06T22:33:30.640Z,35.721,-117.5208333,13.73,0.86,ml,12.0,226.0,0.1132,0.23,ci,ci40200960,2022-03-06T22:37:01.252Z,"12km WSW of Searles Valley, CA",earthquake,1.53,1.06,0.161,9.0,automatic,ci,ci
+2022-03-06T22:43:19.810Z,19.412166595459,-154.985000610352,5.65999984741211,1.75,md,25.0,186.0,,0.370000005,hv,hv72940572,2022-03-06T22:46:47.430Z,"9 km SW of Leilani Estates, Hawaii",earthquake,1.51,1.12,0.439999998,7.0,automatic,hv,hv
