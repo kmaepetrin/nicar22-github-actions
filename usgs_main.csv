@@ -856,3 +856,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T15:30:05.280Z,33.5616667,-116.7675,27.49,0.74,ml,11.0,86.0,0.02549,0.26,ci,ci40201296,2022-03-07T15:33:42.155Z,"9km W of Anza, CA",earthquake,1.31,2.89,0.269,12.0,automatic,ci,ci
 2022-03-07T15:51:23.130Z,35.7408333,-117.5556641,8.53,1.55,ml,20.0,95.0,0.08213,0.14,ci,ci40201328,2022-03-07T15:53:32.320Z,"14km WSW of Searles Valley, CA",earthquake,0.34,1.21,0.184,8.0,automatic,ci,ci
 2022-03-06T20:44:43.840Z,47.3788333,-113.7148333,1.65,1.18,ml,15.0,107.0,0.204,0.13,mb,mb80539859,2022-03-07T15:56:04.850Z,"16 km S of Condon, Montana",earthquake,0.38,0.91,0.161,2.0,reviewed,mb,mb
+2022-03-07T15:57:40.965Z,63.4645,-149.6251,98.2,1.6,ml,,,,0.29,ak,ak02231eqpn4,2022-03-07T16:10:10.288Z,"34 km WNW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2022-03-07T09:43:04.632Z,61.0229,-152.3935,13.2,0.7,ml,,,,0.63,ak,ak02231b31fu,2022-03-07T16:21:41.941Z,"68 km W of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2022-03-07T03:47:44.261Z,63.1602,-150.9061,130.4,1.2,ml,,,,0.37,ak,ak022317jdng,2022-03-07T16:10:10.062Z,"58 km SE of Denali National Park, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2022-03-07T02:00:49.260Z,44.6913333,-111.8491667,10.26,2.3,ml,32.0,106.0,0.136,0.19,mb,mb80539884,2022-03-07T16:05:38.760Z,"45 km NE of Spencer, Idaho",earthquake,0.45,0.75,0.315,11.0,reviewed,mb,mb
