@@ -932,3 +932,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T21:37:02.120Z,38.7596667,-122.7363333,1.48,0.08,md,11.0,95.0,0.009173,0.02,nc,nc73702581,2022-03-07T21:49:10.991Z,"3km SE of The Geysers, CA",earthquake,0.46,0.77,0.185,2.0,reviewed,nc,nc
 2022-03-07T21:15:02.670Z,17.9526666666667,-66.9358333333333,11.09,2.15,md,6.0,206.0,,0.05,pr,pr71339413,2022-03-07T21:49:52.530Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.63,0.58,0.0058601280876731,4.0,reviewed,pr,pr
 2022-03-07T16:55:13.580Z,34.96183333,-97.70283333,7.69,2.0,ml,80.0,59.0,0.09718092979,0.29,ok,ok2022eqbe,2022-03-07T21:47:03.451Z,"8 km NE of Alex, Oklahoma",earthquake,,0.6,0.23,35.0,reviewed,ok,ok
+2022-03-07T03:47:21.367Z,-8.0046,122.3745,10.0,4.5,mb,,143.0,0.641,1.19,us,us6000h2qs,2022-03-07T21:55:27.040Z,"70 km NNE of Maumere, Indonesia",earthquake,4.2,1.9,0.271,5.0,reviewed,us,us
