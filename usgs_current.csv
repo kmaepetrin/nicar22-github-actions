@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-07T05:24:05.370Z,38.8051682,-122.7815018,1.54,1.02,md,16,85,0.008104,0.02,nc,nc73702346,2022-03-07T05:32:10.974Z,"4km NW of The Geysers, CA",earthquake,0.25,0.49,0.12,3,automatic,nc,nc
+2022-03-07T05:24:05.370Z,38.8051682,-122.7815018,1.54,1.02,md,16,85,0.008104,0.02,nc,nc73702346,2022-03-07T05:42:15.037Z,"4km NW of The Geysers, CA",earthquake,0.25,0.49,0.12,3,automatic,nc,nc
 2022-03-07T05:15:15.910Z,38.8300018,-122.8153305,2.17,1.37,md,27,44,0.00777,0.02,nc,nc73702341,2022-03-07T05:30:15.965Z,"8km NW of The Geysers, CA",earthquake,0.19,0.35,0.1,4,automatic,nc,nc
 2022-03-07T05:07:32.750Z,17.8898333333333,-67.508,16.3,3.17,md,8,312,,0.12,pr,pr71339323,2022-03-07T05:28:46.570Z,"35 km WSW of Pole Ojea, Puerto Rico",earthquake,1.01,0.54,0.0105854967412728,4,reviewed,pr,pr
 2022-03-07T04:57:02.400Z,34.2215,-117.4733333,2.34,1.03,ml,27,62,0.04773,0.18,ci,ci40201128,2022-03-07T05:00:38.726Z,"5km SSE of Lytle Creek, CA",earthquake,0.29,0.78,0.147,29,automatic,ci,ci
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T06:01:27.670Z,48.704166666666666,-122.21183333333333,8.28,0.89,ml,12,77,0.03973,0.22,uw,uw61820391,2022-03-06T16:17:20.310Z,"1 km SSW of Acme, Washington",earthquake,0.55,0.65,0.09162431259199577,3,reviewed,uw,uw
 2022-03-06T05:55:13.570Z,34.024,-117.1565,10.63,1.61,ml,47,35,0.07761,0.2,ci,ci40200512,2022-03-06T06:06:05.470Z,"4km SE of Redlands, CA",earthquake,0.22,0.58,0.126,25,automatic,ci,ci
 2022-03-06T05:50:06.030Z,19.1791667938232,-155.504669189453,36.0299987792969,2.33999991,md,46,86,,0.129999995,hv,hv72939697,2022-03-06T05:53:23.980Z,"3 km SW of Pāhala, Hawaii",earthquake,0.49,0.800000012,1.07000005,20,automatic,hv,hv
-2022-03-06T05:45:00.190Z,33.713,-116.8253333,15.4,1.08,ml,39,44,0.08488,0.24,ci,ci40200504,2022-03-06T05:48:41.621Z,"7km ESE of Valle Vista, CA",earthquake,0.4,0.61,0.168,26,automatic,ci,ci
