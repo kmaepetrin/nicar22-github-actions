@@ -1255,3 +1255,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T22:48:20.390Z,36.1531667,-118.2183333,15.68,0.8,ml,7.0,167.0,0.2964,0.22,ci,ci40202672,2022-03-08T22:51:48.586Z,"24km SW of Olancha, CA",earthquake,2.86,6.25,0.179,5.0,automatic,ci,ci
 2022-03-08T21:53:57.927Z,14.2012,-91.304,81.47,4.1,mb,,162.0,1.508,0.96,us,us6000h35x,2022-03-08T22:54:32.040Z,"0 km WNW of Nueva Concepción, Guatemala",earthquake,6.6,8.9,0.077,46.0,reviewed,us,us
 2022-03-08T02:42:11.579Z,39.4413,-120.3042,9.2,0.1,ml,5.0,215.84,0.016,0.1413,nn,nn00835080,2022-03-08T22:54:08.419Z,"14 km NNE of Soda Springs, California",earthquake,,3.1,0.1,2.0,reviewed,nn,nn
+2022-03-08T22:59:59.564Z,60.9199,-146.4375,11.4,1.8,ml,,,,0.99,ak,ak022336gk8f,2022-03-08T23:02:40.822Z,"14 km ENE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-08T03:05:35.782Z,40.2111,-119.8635,10.8,0.0,ml,4.0,244.24,0.109,0.1595,nn,nn00835081,2022-03-08T23:03:25.532Z,"24 km ENE of Herlong, California",earthquake,,3.7,0.21,2.0,reviewed,nn,nn
