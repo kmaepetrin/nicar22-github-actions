@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-08T13:43:19.210Z,38.7946663,-122.7646637,0.87,1.32,md,22,67,0.007097,0.05,nc,nc73702836,2022-03-08T13:44:56.438Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.37,0.09,6,automatic,nc,nc
 2022-03-08T13:26:57.900Z,38.7958336,-122.7496643,1.94,0.86,md,25,93,0.009194,0.04,nc,nc73702831,2022-03-08T13:34:10.680Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.41,0.2,6,automatic,nc,nc
 2022-03-08T13:12:14.083Z,63.5196,-150.8408,10.5,1.5,ml,,,,0.86,ak,ak022330thme,2022-03-08T13:24:13.251Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-08T13:00:45.792Z,38.2948,-119.0461,0,0.8,ml,9,197.42,0.372,0.1234,nn,nn00835066,2022-03-08T13:04:56.206Z,"California-Nevada border region",earthquake,,46.7,0.23,5,automatic,nn,nn
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T07:10:49.400Z,17.9593333333333,-66.7211666666667,7.43,2.1,md,3,224,,0.1,pr,pr71339448,2022-03-08T07:21:05.170Z,"3 km S of Tallaboa, Puerto Rico",earthquake,2.22,0.56,,1,reviewed,pr,pr
 2022-03-08T07:00:48.620Z,33.2118333,-115.5561667,7.34,1.51,ml,10,251,0.06051,0.23,ci,ci40202016,2022-03-08T07:04:25.572Z,"5km SW of Niland, CA",earthquake,1.49,1.37,0.242,28,automatic,ci,ci
 2022-03-08T06:59:43.560Z,32.8178333,-115.5993333,5.45,1.32,ml,19,62,0.08952,0.17,ci,ci40202008,2022-03-08T07:03:22.767Z,"4km SW of Imperial, CA",earthquake,0.38,0.8,0.212,17,automatic,ci,ci
-2022-03-08T06:52:31.570Z,41.5268333,-121.8665,9.19,1.89,md,31,60,0.1645,0.15,nc,nc73702731,2022-03-08T11:53:17.086Z,"8km SSE of Tennant, CA",earthquake,0.25,0.96,0.189,24,reviewed,nc,nc
+2022-03-08T06:52:31.570Z,41.5268333,-121.8665,9.19,1.89,md,31,60,0.1645,0.15,nc,nc73702731,2022-03-08T13:43:10.725Z,"8km SSE of Tennant, CA",earthquake,0.25,0.96,0.189,24,reviewed,nc,nc
 2022-03-08T06:52:17.850Z,19.2193336486816,-155.377502441406,31.3700008392334,2.09,ml,44,156,,0.119999997,hv,hv72942447,2022-03-08T06:57:47.260Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.75999999,0.36,4,automatic,hv,hv
 2022-03-08T06:40:32.460Z,19.2134990692139,-155.370834350586,33.5200004577637,1.88,md,40,162,,0.119999997,hv,hv72942427,2022-03-08T06:43:48.200Z,"11 km E of Pāhala, Hawaii",earthquake,0.63,0.810000002,0.720000029,8,automatic,hv,hv
 2022-03-08T06:31:34.130Z,36.48566667,-98.73266667,8.25,1.24,ml,46,47,0.01079788109,0.18,ok,ok2022ercc,2022-03-08T13:25:37.858Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.22,15,reviewed,ok,ok
