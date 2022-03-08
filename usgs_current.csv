@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-08T23:21:38.981Z,27.5689,56.0146,10,4.5,mb,,83,2.618,0.86,us,us6000h36i,2022-03-08T23:45:58.040Z,"southern Iran",earthquake,8.4,1.9,0.074,53,reviewed,us,us
 2022-03-08T23:21:32.170Z,38.5135002,-119.5055008,6.62,1.98,md,9,121,0.05359,0.07,nc,nc73703046,2022-03-08T23:40:15.044Z,"2km W of Walker, CA",earthquake,0.82,1.16,0.16,5,automatic,nc,nc
 2022-03-08T23:17:30.519Z,61.5527,-149.9222,38.4,1.4,ml,,,,0.53,ak,ak022336sxhe,2022-03-08T23:19:55.124Z,"3 km NNE of Big Lake, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-08T23:16:03.520Z,44.6895,-110.0263333,12.38,1.26,md,11,95,0.08562,0.16,uu,uu60484902,2022-03-08T23:25:34.420Z,"35 km S of Silver Gate, Montana",earthquake,0.45,0.83,0.52,8,reviewed,uu,uu
@@ -146,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T09:42:31.900Z,19.4843333333333,-155.655166666667,4.06,0.72,md,12,120,,0.1,hv,hv72942672,2022-03-08T11:41:58.420Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.73,0.227961170725425,7,reviewed,hv,hv
 2022-03-08T09:40:21.920Z,38.7965012,-122.8156662,3.41,0.77,md,17,93,0.01279,0.03,nc,nc73702796,2022-03-08T10:29:17.549Z,"6km WNW of The Geysers, CA",earthquake,0.34,0.74,0.4,3,automatic,nc,nc
 2022-03-08T09:33:59.050Z,19.4836666666667,-155.6545,4.36,1.54,ml,13,118,,0.1,hv,hv72942657,2022-03-08T11:16:30.720Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.81,0.0988283698239136,6,reviewed,hv,hv
+2022-03-08T09:31:36.830Z,39.4365,-120.2417,13.9,-0.2,ml,3,164.11,0.055,0.0495,nn,nn00835090,2022-03-08T23:46:51.122Z,"13 km NNW of Truckee, California",earthquake,,4.7,0.03,2,reviewed,nn,nn
 2022-03-08T09:25:19.390Z,38.8400002,-122.810997,0.42,1.18,md,7,129,0.01621,0.01,nc,nc73702791,2022-03-08T13:00:12.496Z,"8km WNW of Cobb, CA",earthquake,0.31,1.96,,1,automatic,nc,nc
 2022-03-08T09:25:00.900Z,38.8404999,-122.8101654,0.74,0.86,md,8,120,0.01562,0.01,nc,nc73702781,2022-03-08T09:57:15.345Z,"8km WNW of Cobb, CA",earthquake,0.35,0.93,,1,automatic,nc,nc
 2022-03-08T09:22:48.410Z,35.8518333,-119.8403333,-0.38,1.83,md,35,112,0.2101,0.19,nc,nc73702776,2022-03-08T15:32:22.384Z,"21km SSE of Kettleman City, CA",earthquake,0.42,0.43,0.108,37,reviewed,nc,nc
@@ -267,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T23:54:56.999Z,61.7773,-149.9755,58.7,1.6,ml,,,,0.56,ak,ak02231jhkkj,2022-03-07T23:57:50.584Z,"4 km NE of Willow, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-03-07T23:54:45.530Z,35.9091667,-117.6876667,8.67,0.93,ml,16,72,0.04909,0.07,ci,ci40201824,2022-03-08T00:34:22.179Z,"20km E of Little Lake, CA",earthquake,0.16,0.37,0.217,8,reviewed,ci,ci
 2022-03-07T23:54:44.270Z,34.0096667,-117.2011667,10.54,0.96,ml,26,143,0.07808,0.11,ci,ci40201832,2022-03-08T00:32:02.169Z,"5km SSW of Redlands, CA",earthquake,0.2,0.48,0.103,17,reviewed,ci,ci
-2022-03-07T23:43:26.430Z,39.4201667,-110.3125,-1.52,1.45,md,7,196,0.01052,0.1,uu,uu60484762,2022-03-08T15:34:40.000Z,"15 km SSE of Sunnyside, Utah",earthquake,0.79,0.47,0.13,5,reviewed,uu,uu
