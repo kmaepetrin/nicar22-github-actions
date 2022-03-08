@@ -997,3 +997,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T02:48:48.890Z,19.183500289917,-155.498992919922,36.0299987792969,2.03999996,md,42.0,79.0,,0.150000006,hv,hv72942202,2022-03-08T02:51:53.140Z,"3 km SW of Pāhala, Hawaii",earthquake,0.56,0.75999999,1.11000001,13.0,automatic,hv,hv
 2022-03-08T02:48:34.580Z,38.8409996,-122.8218307,1.46,0.37,md,11.0,62.0,0.01093,0.03,nc,nc73702651,2022-03-08T02:50:10.493Z,"9km WNW of Cobb, CA",earthquake,0.29,0.74,,1.0,automatic,nc,nc
 2022-03-08T02:28:25.803Z,38.245,-119.0731,0.0,0.9,ml,9.0,160.41,0.386,0.1709,nn,nn00835051,2022-03-08T02:36:54.149Z,"13 km E of Bridgeport, California",earthquake,,49.7,0.27,5.0,automatic,nn,nn
+2022-03-08T03:17:20.710Z,38.8436661,-122.8266678,2.02,0.37,md,8.0,143.0,0.008552,0.02,nc,nc73702666,2022-03-08T03:18:54.366Z,"9km WNW of Cobb, CA",earthquake,0.4,1.2,,1.0,automatic,nc,nc
+2022-03-08T03:12:24.609Z,63.3754,-151.5637,7.0,1.5,ml,,,,0.24,ak,ak02232uv6e9,2022-03-08T03:20:06.870Z,"20 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-08T03:05:59.280Z,17.9818333333333,-66.9275,10.54,2.53,md,18.0,146.0,,0.16,pr,pr71339428,2022-03-08T03:19:51.900Z,"1 km WSW of Fuig, Puerto Rico",earthquake,0.42,0.46,0.172666848903682,10.0,reviewed,pr,pr
