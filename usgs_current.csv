@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-08T19:45:36.080Z,32.8086662,-115.5928345,6.39,1.8,ml,27,110,0.09642,0.22,ci,ci40202432,2022-03-08T19:47:43.487Z,"4km NW of El Centro, CA",earthquake,0.38,1.2,0.272,13,automatic,ci,ci
 2022-03-08T19:10:29.480Z,17.9426666666667,-66.9548333333333,8.31,1.95,md,4,223,,0.07,pr,pr71339543,2022-03-08T19:33:17.640Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.61,1.28,0.0853635773294439,3,reviewed,pr,pr
 2022-03-08T19:09:04.950Z,38.7981682,-122.7498322,1.65,1.23,md,23,133,0.0081,0.05,nc,nc73702951,2022-03-08T19:19:10.996Z,"2km NNE of The Geysers, CA",earthquake,0.3,0.39,0.07,6,automatic,nc,nc
 2022-03-08T19:08:05.601Z,-30.4823,-177.1561,10,5,mb,,69,1.385,0.7,us,us6000h34m,2022-03-08T19:34:17.040Z,"Kermadec Islands, New Zealand",earthquake,8.8,1.8,0.071,68,reviewed,us,us
@@ -274,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T20:07:45.290Z,38.8288345,-122.8526688,1.83,0.96,md,17,64,0.01491,0.02,nc,nc73702546,2022-03-07T20:15:10.404Z,"10km NW of The Geysers, CA",earthquake,0.21,0.58,0.23,3,automatic,nc,nc
 2022-03-07T20:05:51.110Z,52.0791666666667,178.3565,-2.66,2.87,ml,9,312,,0.06,av,av91506201,2022-03-08T02:00:32.310Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.68,1.68,0.183894636660856,9,reviewed,av,av
 2022-03-07T20:01:12.340Z,34.998,-118.1951667,-0.82,1.27,ml,15,55,0.1204,0.15,ci,ci40201536,2022-03-07T22:28:23.681Z,"6km SSW of Mojave, CA",quarry blast,0.33,31.61,0.111,9,reviewed,ci,ci
-2022-03-07T19:48:06.340Z,39.4225,-110.3168333,-1.15,1.21,md,4,193,0.006599,0.02,uu,uu60484727,2022-03-07T21:08:17.280Z,"15 km SSE of Sunnyside, Utah",earthquake,1.16,0.36,0.146,4,reviewed,uu,uu
