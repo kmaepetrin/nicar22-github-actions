@@ -1051,3 +1051,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T05:48:42.451Z,18.7505,-74.168,10.0,4.6,mb,,68.0,1.418,1.22,us,us6000h2z3,2022-03-08T06:51:52.040Z,"12 km NNW of Jérémie, Haiti",earthquake,3.8,1.9,0.136,16.0,reviewed,us,us
 2022-03-08T07:00:48.620Z,33.2118333,-115.5561667,7.34,1.51,ml,10.0,251.0,0.06051,0.23,ci,ci40202016,2022-03-08T07:04:25.572Z,"5km SW of Niland, CA",earthquake,1.49,1.37,0.242,28.0,automatic,ci,ci
 2022-03-08T06:59:43.560Z,32.8178333,-115.5993333,5.45,1.32,ml,19.0,62.0,0.08952,0.17,ci,ci40202008,2022-03-08T07:03:22.767Z,"4km SW of Imperial, CA",earthquake,0.38,0.8,0.212,17.0,automatic,ci,ci
+2022-03-08T07:21:44.040Z,35.6148333,-117.4713333,8.83,1.14,ml,12.0,158.0,0.02923,0.12,ci,ci40202024,2022-03-08T07:25:17.291Z,"18km SSW of Searles Valley, CA",earthquake,0.48,0.63,0.186,7.0,automatic,ci,ci
+2022-03-08T07:15:29.651Z,60.5125,-143.001,5.5,1.5,ml,,,,0.62,ak,ak02232x9kcl,2022-03-08T07:17:41.679Z,"102 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-08T07:10:49.400Z,17.9593333333333,-66.7211666666667,7.43,2.1,md,3.0,224.0,,0.1,pr,pr71339448,2022-03-08T07:21:05.170Z,"3 km S of Tallaboa, Puerto Rico",earthquake,2.22,0.56,,1.0,reviewed,pr,pr
