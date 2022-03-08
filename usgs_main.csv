@@ -1129,3 +1129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T13:59:39.890Z,19.1561660766602,-155.473495483398,30.3899993896484,1.90999997,md,37.0,165.0,,0.150000006,hv,hv72943012,2022-03-08T14:03:01.500Z,"5 km S of Pāhala, Hawaii",earthquake,0.56,0.810000002,1.07000005,11.0,automatic,hv,hv
 2022-03-08T07:56:36.630Z,36.0875,-89.773,6.68,1.93,md,29.0,60.0,0.06601,0.1,nm,nm60375827,2022-03-08T14:08:41.910Z,"5 km E of Steele, Missouri",earthquake,0.16,0.59,0.134,19.0,reviewed,nm,nm
 2022-03-07T14:19:26.289Z,34.8885,-97.75466667,11.22,1.23,ml,18.0,67.0,0.09268181267,0.22,ok,ok2022epwb,2022-03-08T13:59:21.674Z,"3 km SE of Alex, Oklahoma",earthquake,,1.4,0.18,8.0,reviewed,ok,ok
+2022-03-08T14:10:34.172Z,62.3551,-149.0425,25.9,1.2,ml,,,,0.32,ak,ak022331ejcp,2022-03-08T14:12:21.925Z,"47 km ENE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-03-08T05:32:23.670Z,39.4111667,-110.2921667,-3.44,1.17,ml,7.0,203.0,0.02859,0.23,uu,uu60484797,2022-03-08T14:11:58.720Z,"17 km SSE of Sunnyside, Utah",earthquake,1.99,4.09,0.067,2.0,reviewed,uu,uu
+2022-03-08T04:58:55.960Z,39.4096667,-110.282,-3.44,1.74,md,7.0,206.0,0.03637,0.27,uu,uu60484792,2022-03-08T14:09:53.240Z,"18 km SSE of Sunnyside, Utah",earthquake,2.32,4.0,0.116,5.0,reviewed,uu,uu
+2022-03-08T01:53:29.449Z,36.15366667,-97.48833333,6.76,1.21,ml,78.0,25.0,0.1223759857,0.3,ok,ok2022eqsy,2022-03-08T14:13:30.240Z,"9 km W of Orlando, Oklahoma",earthquake,,0.6,0.21,33.0,reviewed,ok,ok
