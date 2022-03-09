@@ -1416,3 +1416,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T11:11:46.060Z,34.0348333,-117.1596667,10.28,0.82,ml,17.0,95.0,0.08791,0.18,ci,ci40203216,2022-03-09T11:15:19.494Z,"3km SE of Redlands, CA",earthquake,0.43,1.15,0.193,19.0,automatic,ci,ci
 2022-03-09T11:43:13.580Z,35.784,-117.5976667,5.72,0.82,ml,12.0,143.0,0.03167,0.15,ci,ci40203224,2022-03-09T11:46:49.721Z,"18km W of Searles Valley, CA",earthquake,0.42,0.68,0.199,8.0,automatic,ci,ci
 2022-03-09T10:39:17.775Z,33.4131,137.9029,346.7,4.0,mb,,84.0,1.282,0.93,us,us6000h39n,2022-03-09T11:44:00.040Z,"135 km SSW of Ōyama, Japan",earthquake,9.0,4.0,0.093,31.0,reviewed,us,us
+2022-03-09T11:31:36.555Z,50.9453,-179.182,35.0,3.9,mb,,227.0,0.906,0.71,us,us6000h39t,2022-03-09T11:47:48.040Z,"205 km WSW of Adak, Alaska",earthquake,5.7,2.0,0.097,28.0,reviewed,us,us
