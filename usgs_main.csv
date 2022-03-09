@@ -1563,3 +1563,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T15:10:58.073Z,44.3894,-115.2604,14.58,2.6,ml,,60.0,0.874,0.47,us,us6000h3as,2022-03-09T22:34:14.040Z,"32 km NW of Stanley, Idaho",earthquake,4.4,10.2,0.05,52.0,reviewed,us,us
 2022-03-09T22:42:24.400Z,33.8451653,-117.5028305,0.06,1.23,ml,19.0,89.0,0.05552,0.22,ci,ci40203760,2022-03-09T22:44:29.741Z,"4km SSE of Home Gardens, CA",earthquake,0.56,1.08,0.261,6.0,automatic,ci,ci
 2022-03-09T02:47:57.713Z,38.5518,-119.5598,5.2,0.1,ml,3.0,237.06,0.046,0.0806,nn,nn00835126,2022-03-09T22:47:48.005Z,"4 km WSW of Coleville, California",earthquake,,8.4,0.17,2.0,reviewed,nn,nn
+2022-03-09T21:18:50.470Z,37.5173333,-118.8673333,10.38,0.93,md,11.0,117.0,0.07867,0.14,nc,nc73703486,2022-03-09T22:58:57.980Z,"16km SE of Mammoth Lakes, CA",earthquake,0.59,31.61,0.175,10.0,reviewed,nc,nc
+2022-03-09T04:13:19.583Z,39.0505,-118.1846,7.7,1.2,ml,12.0,168.45,0.065,0.0998,nn,nn00835127,2022-03-09T22:57:06.679Z,"30 km NW of Gabbs, Nevada",earthquake,,2.9,0.3,3.0,reviewed,nn,nn
