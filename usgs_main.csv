@@ -1483,3 +1483,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T17:02:56.160Z,19.2323341369629,-155.387664794922,33.2299995422363,2.18,ml,47.0,146.0,,0.129999995,hv,hv72944737,2022-03-09T17:08:28.140Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.52,0.660000026,0.16,3.0,automatic,hv,hv
 2022-03-09T17:02:05.970Z,61.8426,-150.6587,58.2,1.4,ml,,,,0.33,ak,ak02234qoer9,2022-03-09T17:03:57.224Z,"34 km NNW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-09T06:42:54.316Z,38.3784,-118.9016,7.9,1.1,ml,15.0,174.74,0.133,0.1085,nn,nn00835099,2022-03-09T17:13:14.650Z,"29 km SW of Hawthorne, Nevada",earthquake,,3.4,0.18,3.0,reviewed,nn,nn
+2022-03-09T17:31:02.120Z,62.1621,-145.6601,21.1,1.6,ml,,,,1.11,ak,ak02234qum6t,2022-03-09T17:33:51.316Z,"8 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-09T17:29:54.370Z,35.8401667,-117.603,8.49,0.8,ml,10.0,148.0,0.02478,0.17,ci,ci40203424,2022-03-09T17:33:25.948Z,"20km WNW of Searles Valley, CA",earthquake,0.52,0.86,0.294,7.0,automatic,ci,ci
+2022-03-09T17:26:13.430Z,38.7651672,-122.6971664,1.54,1.3,md,11.0,120.0,0.00343,0.04,nc,nc73703336,2022-03-09T17:27:47.675Z,"1km SSW of Anderson Springs, CA",earthquake,0.33,0.45,0.09,4.0,automatic,nc,nc
