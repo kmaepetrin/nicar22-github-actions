@@ -1536,3 +1536,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T20:02:56.050Z,46.0168333,-112.472,-2.0,1.89,ml,19.0,113.0,0.057,0.17,mb,mb80540029,2022-03-09T20:48:11.430Z,"5 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.238,11.0,reviewed,mb,mb
 2022-03-09T07:09:33.460Z,47.8255,-122.7345,26.14,1.13,ml,25.0,52.0,0.09554,0.19,uw,uw61821106,2022-03-09T20:46:56.150Z,"5 km WNW of Lofall, Washington",earthquake,0.43,0.61,0.1883617349217008,7.0,reviewed,uw,uw
 2022-03-09T20:41:16.728Z,63.3042,-151.0966,0.0,1.2,ml,,,,0.56,ak,ak02234sp3bf,2022-03-09T20:51:27.510Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-09T21:09:23.870Z,35.775,-117.5723333,7.06,0.9,ml,10.0,153.0,0.04551,0.15,ci,ci40203632,2022-03-09T21:12:57.768Z,"15km W of Searles Valley, CA",earthquake,0.44,0.64,0.13,9.0,automatic,ci,ci
+2022-03-09T20:55:23.130Z,60.0143333333333,-153.073166666667,0.57,-0.44,ml,4.0,137.0,,0.06,av,av91508321,2022-03-09T21:12:38.290Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.28,1.18,0.116492783579928,4.0,reviewed,av,av
