@@ -1577,3 +1577,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T21:37:11.689Z,-10.3742,161.217,39.57,4.5,mb,,67.0,1.558,0.55,us,us6000h3ey,2022-03-09T23:35:08.040Z,"77 km W of Kirakira, Solomon Islands",earthquake,9.8,7.8,0.093,34.0,reviewed,us,us
 2022-03-09T23:44:30.870Z,33.659668,-116.7068329,16.87,1.32,ml,32.0,52.0,0.02905,0.15,ci,ci40203832,2022-03-09T23:46:36.047Z,"9km S of Idyllwild, CA",earthquake,0.33,0.5,0.281,14.0,automatic,ci,ci
 2022-03-09T21:33:50.460Z,33.1875,-115.6046667,2.44,1.82,ml,15.0,108.0,0.01359,0.19,ci,ci37401564,2022-03-09T23:44:41.265Z,"10km SW of Niland, CA",earthquake,0.38,0.19,0.109,7.0,reviewed,ci,ci
+2022-03-09T23:46:12.775Z,60.226,-150.6328,43.6,1.7,ml,,,,0.37,ak,ak02234uigf1,2022-03-09T23:48:19.285Z,"31 km SSE of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-09T22:31:48.067Z,19.0715,-68.124,35.0,2.9,ml,,202.0,0.605,0.68,us,us6000h3fd,2022-03-09T23:51:49.040Z,"61 km NNE of Punta Cana, Dominican Republic",earthquake,4.9,2.0,0.059,38.0,reviewed,us,us
+2022-03-09T21:44:57.620Z,33.1815,-115.605,3.71,1.56,ml,12.0,106.0,0.009786,0.22,ci,ci40203688,2022-03-09T23:53:28.769Z,"10km SW of Niland, CA",earthquake,0.42,0.25,0.278,3.0,reviewed,ci,ci
+2022-03-09T11:02:25.678Z,40.0767,-120.2886,10.0,0.7,ml,5.0,242.88,0.217,0.0584,nn,nn00835133,2022-03-09T23:49:46.028Z,"12 km SE of Milford, California",earthquake,,8.2,0.6,4.0,reviewed,nn,nn
