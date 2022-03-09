@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-09T14:53:01.630Z,38.7818336,-122.7634964,0.76,1.17,md,6,128,0.06618,0.11,nc,nc73703296,2022-03-09T14:54:35.720Z,"1km NW of The Geysers, CA",earthquake,0.79,2,0.05,5,automatic,nc,nc
+2022-03-09T14:50:15.830Z,38.8278351,-122.8063354,1.52,1.02,md,13,56,0.005309,0.02,nc,nc73703291,2022-03-09T14:51:54.311Z,"7km NW of The Geysers, CA",earthquake,0.27,0.72,,1,automatic,nc,nc
+2022-03-09T14:46:00.180Z,36.1861649,-120.253334,11.16,2.21,md,22,121,0.1315,0.06,nc,nc73703286,2022-03-09T14:52:14.493Z,"11km ENE of Coalinga, CA",earthquake,0.41,0.62,0.13,9,automatic,nc,nc
 2022-03-09T14:38:27.197Z,36.7506,-116.2698,10.4,0.2,ml,8,234.38,0.051,0.1406,nn,nn00835105,2022-03-09T14:42:13.236Z,"47 km ESE of Beatty, Nevada",earthquake,,2.1,0.22,5,automatic,nn,nn
 2022-03-09T14:17:07.570Z,19.1611671447754,-155.423492431641,31.5799999237061,1.74000001,md,34,176,,0.100000001,hv,hv72944572,2022-03-09T14:20:26.400Z,"7 km SE of Pāhala, Hawaii",earthquake,0.66,0.910000026,1.79999995,4,automatic,hv,hv
 2022-03-09T14:15:48.230Z,38.8398323,-122.8763351,2.43,0.84,md,16,85,0.005786,0.02,nc,nc73703281,2022-03-09T14:45:16.443Z,"12km NW of The Geysers, CA",earthquake,0.32,0.56,0.04,3,automatic,nc,nc
@@ -242,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T15:04:48.870Z,19.2096672058105,-155.371337890625,32.4300003051758,2.56,ml,48,160,,0.119999997,hv,hv72943052,2022-03-08T15:39:47.040Z,"11 km E of Pāhala, Hawaii",earthquake,0.5,0.639999986,3.01,25,automatic,hv,hv
 2022-03-08T15:03:19.131Z,37.3298,-115.1714,1.6,1.4,ml,16,148.34,0.123,0.1789,nn,nn00835071,2022-03-09T02:37:36.821Z,"3 km S of Alamo, Nevada",earthquake,,14.2,0.23,7,reviewed,nn,nn
 2022-03-08T14:57:28.890Z,38.8336678,-122.7969971,1.8,0.36,md,7,91,0.007029,0.01,nc,nc73702851,2022-03-08T15:14:18.298Z,"6km WNW of Cobb, CA",earthquake,0.48,1.43,,1,automatic,nc,nc
-2022-03-08T14:47:03.638Z,26.8735,126.5404,10,4.8,mb,,52,1.547,0.64,us,us6000h31g,2022-03-08T15:20:10.040Z,"135 km WNW of Naha, Japan",earthquake,7.3,1.9,0.088,43,reviewed,us,us
