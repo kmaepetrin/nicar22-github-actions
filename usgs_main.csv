@@ -1388,3 +1388,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T09:28:24.090Z,63.3443,-145.1329,0.0,2.1,ml,,,,1.16,ak,ak02234m2jwf,2022-03-09T09:30:25.207Z,"37 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-09T09:26:41.782Z,62.8783,-150.6824,0.0,1.6,ml,,,,0.73,ak,ak02234m25we,2022-03-09T09:32:58.724Z,Central Alaska,earthquake,,0.9,,,automatic,ak,ak
 2022-03-09T09:17:08.050Z,32.9273333,-116.2323333,8.92,0.64,ml,13.0,103.0,0.06564,0.13,ci,ci40203168,2022-03-09T09:20:47.730Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.37,0.7,0.126,5.0,automatic,ci,ci
+2022-03-09T09:40:45.430Z,33.3111649,-116.314003,10.22,1.42,ml,53.0,111.0,0.0512,0.19,ci,ci40203192,2022-03-09T09:42:51.701Z,"8km NE of Borrego Springs, CA",earthquake,0.28,0.55,0.266,17.0,automatic,ci,ci
+2022-03-09T09:37:01.820Z,33.3118333,-116.3116667,10.33,1.81,ml,63.0,26.0,0.05043,0.23,ci,ci40203184,2022-03-09T09:41:05.661Z,"9km NE of Borrego Springs, CA",earthquake,0.24,0.59,0.176,26.0,automatic,ci,ci
+2022-03-09T08:54:26.900Z,17.9601666666667,-66.9553333333333,14.12,1.51,md,5.0,199.0,,0.08,pr,pr71339628,2022-03-09T09:39:26.830Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.66,0.76,0.592832167137997,6.0,reviewed,pr,pr
