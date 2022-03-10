@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-10T19:43:32.720Z,40.3833351,-124.2385025,23.29,1.57,md,10,219,0.07059,0.06,nc,nc73703901,2022-03-10T19:48:10.765Z,"8km NNE of Petrolia, CA",earthquake,1.7,1.19,0.21,3,automatic,nc,nc
+2022-03-10T19:43:32.720Z,40.3833351,-124.2385025,23.29,1.57,md,10,219,0.07059,0.06,nc,nc73703901,2022-03-10T20:04:15.849Z,"8km NNE of Petrolia, CA",earthquake,1.7,1.19,0.21,3,automatic,nc,nc
 2022-03-10T19:40:07.420Z,38.788166,-122.7626648,0.93,1.64,md,22,78,0.01265,0.07,nc,nc73703891,2022-03-10T19:59:23.824Z,"1km NNW of The Geysers, CA",earthquake,0.25,0.45,0.08,6,automatic,nc,nc
 2022-03-10T19:34:22.201Z,14.4426,-93.0294,35,4.9,mb,,167,2.021,1.04,us,us6000h3ms,2022-03-10T19:46:18.040Z,"72 km WSW of Puerto Madero, Mexico",earthquake,7.1,2,0.036,250,reviewed,us,us
 2022-03-10T19:30:08.889Z,62.5826,-151.0981,84.7,1.5,ml,,,,0.41,ak,ak02236fkmqg,2022-03-10T19:36:31.584Z,"19 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T18:25:41.620Z,33.5831667,-116.806,8.19,1.06,ml,33,52,0.03652,0.14,ci,ci40204432,2022-03-10T19:20:12.120Z,"13km WNW of Anza, CA",earthquake,0.17,0.37,0.199,18,reviewed,ci,ci
 2022-03-10T18:20:21.360Z,32.243,-115.2456667,14.05,2.19,ml,15,142,0.1556,0.27,ci,ci40204424,2022-03-10T19:03:34.060Z,"7km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,0.61,1.3,0.196,7,reviewed,ci,ci
 2022-03-10T18:16:35.759Z,59.5445,-152.9955,89.2,2.3,ml,,,,0.56,ak,ak02236ew96d,2022-03-10T18:22:43.784Z,"64 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-10T18:08:46.690Z,40.4141655,-124.1998367,22.29,1.57,md,7,231,0.06045,0.05,nc,nc73703831,2022-03-10T19:30:10.663Z,"12km NE of Petrolia, CA",earthquake,1.61,1.66,0.06,4,automatic,nc,nc
+2022-03-10T18:08:46.690Z,40.4141655,-124.1998367,22.29,1.57,md,7,231,0.06045,0.05,nc,nc73703831,2022-03-10T20:04:16.849Z,"12km NE of Petrolia, CA",earthquake,1.61,1.66,0.06,4,automatic,nc,nc
 2022-03-10T18:02:36.330Z,39.4193333,-110.3016667,-3.36,1.91,md,7,199,0.01876,0.14,uu,uu60485122,2022-03-10T18:11:26.390Z,"16 km SSE of Sunnyside, Utah",earthquake,1.06,3.87,0.092,6,reviewed,uu,uu
 2022-03-10T17:46:01.320Z,33.5848333,-116.807,7.92,0.85,ml,32,46,0.03688,0.1,ci,ci40204384,2022-03-10T19:08:04.840Z,"13km WNW of Anza, CA",earthquake,0.14,0.3,0.135,18,reviewed,ci,ci
 2022-03-10T17:39:23.410Z,19.2014999389648,-155.43083190918,33.6599998474121,2.36,ml,46,146,,0.119999997,hv,hv72946042,2022-03-10T17:44:54.810Z,"5 km E of Pāhala, Hawaii",earthquake,0.43,0.689999998,3.94,5,automatic,hv,hv
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T15:21:59.440Z,35.7525,-117.5783333,5.99,0.47,ml,8,147,0.065,0.12,ci,ci40204296,2022-03-10T18:01:46.386Z,"16km W of Searles Valley, CA",earthquake,0.38,0.54,0.244,2,reviewed,ci,ci
 2022-03-10T15:21:59.420Z,35.7496667,-117.5775,5.73,0.45,ml,8,148,0.06791,0.12,ci,ci40204280,2022-03-10T17:33:15.617Z,"16km W of Searles Valley, CA",earthquake,0.3,0.7,0.251,2,reviewed,ci,ci
 2022-03-10T15:12:53.740Z,33.0061667,-116.4805,6.91,0.65,ml,20,80,0.07934,0.2,ci,ci40204272,2022-03-10T18:29:10.841Z,"14km SE of Julian, CA",earthquake,0.26,0.57,0.077,7,reviewed,ci,ci
-2022-03-10T15:11:16.120Z,36.07266667,-98.43933333,19.15,2.24,ml,79,45,0.1025798703,0.17,ok,ok2022evkh,2022-03-10T15:21:44.653Z,"12 km WSW of Okeene, Oklahoma",earthquake,,0.5,0.28,32,reviewed,ok,ok
+2022-03-10T15:11:16.120Z,36.07266667,-98.43933333,19.15,2.24,ml,79,45,0.1025798703,0.17,ok,ok2022evkh,2022-03-10T20:00:28.546Z,"12 km WSW of Okeene, Oklahoma",earthquake,,0.5,0.28,32,reviewed,ok,ok
 2022-03-10T15:03:26.502Z,64.2821,-148.001,8.5,1.5,ml,,,,0.56,ak,ak02236d15cb,2022-03-10T15:06:46.926Z,"57 km E of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-10T14:54:18.660Z,38.7821655,-122.7186661,1.67,1.2,md,8,171,0.01415,0.01,nc,nc73703791,2022-03-10T16:36:12.604Z,"2km WNW of Anderson Springs, CA",earthquake,0.55,0.92,,1,automatic,nc,nc
 2022-03-10T14:54:04.600Z,38.7789993,-122.716835,1.89,2.04,md,34,72,0.01611,0.07,nc,nc73703786,2022-03-10T16:10:12.453Z,"2km WNW of Anderson Springs, CA",earthquake,0.27,0.4,0.12,10,automatic,nc,nc
@@ -245,8 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T20:41:16.728Z,63.3042,-151.0966,0,1.2,ml,,,,0.56,ak,ak02234sp3bf,2022-03-09T20:51:27.510Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-09T20:38:28.638Z,38.1199,-118.113,11.1,2.5,ml,21,51.25,0.122,0.1393,nn,nn00835115,2022-03-10T02:37:21.317Z,"30 km S of Mina, Nevada",earthquake,,1.4,0.23,11,reviewed,nn,nn
 2022-03-09T20:32:52.970Z,38.8353348,-122.8071671,1.66,0.85,md,11,85,0.01214,0.03,nc,nc73703441,2022-03-09T21:28:12.829Z,"7km WNW of Cobb, CA",earthquake,0.35,0.68,,1,automatic,nc,nc
-2022-03-09T20:17:21.980Z,38.8078346,-122.8251648,2.12,0.85,md,10,67,0.003301,0.02,nc,nc73703431,2022-03-09T21:06:12.715Z,"7km WNW of The Geysers, CA",earthquake,0.36,0.8,,1,automatic,nc,nc
-2022-03-09T20:12:27.630Z,37.8129997,-121.8486633,16.21,1.85,md,15,119,0.1228,0.07,nc,nc73703426,2022-03-09T22:57:14.348Z,"5km E of Blackhawk, CA",earthquake,0.45,0.97,0.24,10,automatic,nc,nc
-2022-03-09T20:10:22.870Z,41.5063333,-112.1711667,3.99,0.66,md,14,64,0.1027,0.1,uu,uu60484992,2022-03-09T20:19:47.720Z,"7 km SW of Corinne, Utah",earthquake,0.26,1.97,0.196,9,reviewed,uu,uu
-2022-03-09T20:02:56.050Z,46.0168333,-112.472,-2,1.89,ml,19,113,0.057,0.17,mb,mb80540029,2022-03-09T20:48:11.430Z,"5 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.238,11,reviewed,mb,mb
-2022-03-09T20:00:04.380Z,38.7960014,-122.7385025,1.42,0.99,md,17,99,0.01282,0.04,nc,nc73703416,2022-03-09T20:44:12.603Z,"3km NE of The Geysers, CA",earthquake,0.26,0.53,0.07,6,automatic,nc,nc
