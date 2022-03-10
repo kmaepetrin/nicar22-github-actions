@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T23:52:40.109Z,40.1814,-119.656,9,1.2,ml,8,207.93,0.059,0.4215,nn,nn00835178,2022-03-10T23:56:09.176Z,"26 km N of Sutcliffe, Nevada",earthquake,,1.1,0.65,4,automatic,nn,nn
 2022-03-10T23:38:37.210Z,35.1363333,-119.7816667,5.55,1.85,ml,7,146,0.3603,0.31,ci,ci40204712,2022-03-10T23:42:15.571Z,"30km W of Taft, CA",earthquake,1.77,31.61,0.392,5,automatic,ci,ci
 2022-03-10T23:21:36.651Z,61.6862,-150.7583,50.4,1.5,ml,,,,0.33,ak,ak02236hwhsd,2022-03-10T23:26:36.679Z,"20 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-10T23:00:47.670Z,38.8269997,-122.8106689,1.47,1.43,md,24,40,0.003629,0.02,nc,nc73703946,2022-03-10T23:28:15.020Z,"7km NW of The Geysers, CA",earthquake,0.17,0.32,0.02,5,automatic,nc,nc
@@ -244,6 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T00:00:05.230Z,48.730333333333334,-123.64033333333333,-0.31,1.02,ml,2,270,0.1485,0.01,uw,uw61821336,2022-03-10T19:39:46.590Z,"1 km WSW of Cowichan Bay, Canada",explosion,1.2,31.61,0.1577008243540734,2,reviewed,uw,uw
 2022-03-10T00:00:04.440Z,38.829,-122.8155,2.06,0.23,md,19,56,0.007021,0.02,nc,nc73703531,2022-03-10T19:13:12.694Z,"8km NW of The Geysers, CA",earthquake,0.22,0.38,0.316,2,reviewed,nc,nc
 2022-03-09T23:59:07.730Z,34.0148333,-117.1455,4.11,0.49,ml,15,141,0.1566,0.12,ci,ci40203864,2022-03-10T01:18:09.508Z,"6km SE of Redlands, CA",earthquake,0.3,0.93,0.128,4,reviewed,ci,ci
-2022-03-09T23:58:33.160Z,37.5265,-117.1221,0,1.3,ml,16,119.99,0.252,0.1595,nn,nn00835136,2022-03-10T02:37:36.180Z,"22 km SSE of Goldfield, Nevada",earthquake,,0,1.01,5,reviewed,nn,nn
-2022-03-09T23:55:39.470Z,34.0286667,-117.1563333,9.78,1.7,ml,26,56,0.0371,0.12,ci,ci40203856,2022-03-10T00:38:35.385Z,"4km SE of Redlands, CA",earthquake,0.21,0.53,0.154,68,reviewed,ci,ci
-2022-03-09T23:55:25.670Z,34.0238333,-117.1548333,10.18,1.8,ml,53,66,0.03709,0.12,ci,ci40203848,2022-03-10T00:34:06.630Z,"4km SE of Redlands, CA",earthquake,0.14,0.29,0.151,26,reviewed,ci,ci
