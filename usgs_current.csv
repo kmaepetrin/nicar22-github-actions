@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T14:54:18.660Z,38.7821655,-122.7186661,1.67,1.2,md,8,171,0.01415,0.01,nc,nc73703791,2022-03-10T14:55:55.605Z,"2km WNW of Anderson Springs, CA",earthquake,0.55,0.92,,1,automatic,nc,nc
+2022-03-10T14:54:04.600Z,38.7789993,-122.716835,1.89,2.04,md,34,72,0.01611,0.07,nc,nc73703786,2022-03-10T14:55:40.864Z,"2km WNW of Anderson Springs, CA",earthquake,0.27,0.4,0.12,10,automatic,nc,nc
+2022-03-10T14:53:32.770Z,35.5115013,-118.3893356,8.28,1.29,ml,14,100,0.1858,0.1,ci,ci40204256,2022-03-10T14:55:37.614Z,"13km SE of Bodfish, CA",earthquake,0.4,1.5,0.123,5,automatic,ci,ci
 2022-03-10T14:37:08.820Z,18.0171666666667,-66.9626666666667,4.25,2.41,md,3,152,,0.05,pr,pr71339728,2022-03-10T14:50:25.980Z,"3 km SW of Liborio Negron Torres, Puerto Rico",earthquake,5.09,7.59,0.195727103697157,3,reviewed,pr,pr
 2022-03-10T14:35:40.740Z,19.2663326263428,-155.255828857422,28.0599994659424,1.95000005,md,45,158,,0.119999997,hv,hv72945912,2022-03-10T14:38:42.090Z,"19 km S of Volcano, Hawaii",earthquake,0.45,0.449999988,0.610000014,16,automatic,hv,hv
 2022-03-10T14:02:50.370Z,19.1846675872803,-155.486831665039,33.4000015258789,1.97000003,md,39,73,,0.140000001,hv,hv72945892,2022-03-10T14:05:58.180Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.54,0.709999979,1.42999995,6,automatic,hv,hv
@@ -217,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T15:08:21.720Z,61.3756,-150.0903,37.6,1.6,ml,,,,0.58,ak,ak02234piv24,2022-03-09T15:10:42.289Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-09T15:00:54.800Z,19.2450008392334,-155.397827148438,31.4500007629395,2.04999995,md,43,135,,0.140000001,hv,hv72944627,2022-03-09T15:04:13.920Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.790000021,0.189999998,17,automatic,hv,hv
 2022-03-09T14:58:29.075Z,61.7213,-146.2213,6,2.5,ml,,,,0.78,ak,ak02234p85vf,2022-03-09T15:23:19.157Z,"40 km SSE of Mendeltna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-09T14:55:24.180Z,37.5256667,-121.8945,6.23,1.04,md,21,70,0.01557,0.06,nc,nc73703301,2022-03-10T01:26:14.309Z,"8km ESE of Fremont, CA",earthquake,0.22,0.43,0.188,13,reviewed,nc,nc
-2022-03-09T14:53:01.630Z,38.7818336,-122.7634964,0.76,1.17,md,6,128,0.06618,0.11,nc,nc73703296,2022-03-09T17:06:15.340Z,"1km NW of The Geysers, CA",earthquake,0.79,2,0.05,5,automatic,nc,nc
