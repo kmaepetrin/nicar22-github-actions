@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T07:34:16.930Z,38.8165016,-122.8251648,1.97,0.36,md,9,100,0.008242,0.02,nc,nc73703686,2022-03-10T07:35:55.878Z,"7km NW of The Geysers, CA",earthquake,0.39,1.02,,1,automatic,nc,nc
+2022-03-10T07:33:12.630Z,33.7521667,-117.5376667,6.31,0.85,ml,16,81,0.05136,0.16,ci,ci40204128,2022-03-10T07:36:46.457Z,"11km NNE of Trabuco Canyon, CA",earthquake,0.34,0.79,0.183,15,automatic,ci,ci
 2022-03-10T07:22:07.917Z,60.3997,-152.2924,91.7,2.6,ml,,,,0.56,ak,ak022368dpp4,2022-03-10T07:28:30.644Z,"52 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-10T07:21:59.716Z,63.4745,-150.2495,9.6,1.2,ml,,,,0.1,ak,ak022368dlyb,2022-03-10T07:24:39.738Z,"65 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-10T07:17:45.390Z,19.1948337554932,-155.474502563477,34.9199981689453,2.27,ml,51,89,,0.119999997,hv,hv72945587,2022-03-10T07:23:15.870Z,"0 km SSE of Pāhala, Hawaii",earthquake,0.45,0.730000019,3.73,10,automatic,hv,hv
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T04:34:17.728Z,35.09921646,-95.55261993,1.179904819,2.22,ml,18,101.5184326,0.1233266518,0.448855978,ok,ok2022eupg,2022-03-10T04:36:36.621Z,"11 km ESE of Crowder, Oklahoma",earthquake,3.287662676,2.301616676,,14,automatic,ok,ok
 2022-03-10T04:31:15.330Z,19.1788330078125,-155.473663330078,33.7700004577637,2.01999998,md,44,84,,0.119999997,hv,hv72945477,2022-03-10T04:34:30.790Z,"2 km S of Pāhala, Hawaii",earthquake,0.53,0.709999979,0.819999993,15,automatic,hv,hv
 2022-03-10T04:26:53.336Z,3.8882,95.9188,50.44,5.1,mb,,144,3.054,0.99,us,us6000h3h3,2022-03-10T04:59:25.254Z,"36 km SW of Meulaboh, Indonesia",earthquake,6,6.6,0.056,108,reviewed,us,us
-2022-03-10T04:24:28.240Z,19.1686668395996,-155.484664916992,32.9599990844727,2.61,ml,48,97,,0.140000001,hv,hv72945472,2022-03-10T06:11:19.605Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,0.75,3.83,25,automatic,hv,hv
+2022-03-10T04:24:28.240Z,19.1686668395996,-155.484664916992,32.9599990844727,2.61,ml,48,97,,0.140000001,hv,hv72945472,2022-03-10T07:39:28.064Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,0.75,3.83,25,automatic,hv,hv
 2022-03-10T04:16:18.070Z,33.2278333,-116.7348333,11.64,0.84,ml,31,33,0.02164,0.16,ci,ci40204032,2022-03-10T04:19:50.790Z,"3km ESE of Lake Henshaw, CA",earthquake,0.25,0.52,0.105,20,automatic,ci,ci
 2022-03-10T04:00:36.590Z,38.7921677,-122.7606659,2.18,0.85,md,9,110,0.008478,0.01,nc,nc73703616,2022-03-10T04:17:17.338Z,"2km NNW of The Geysers, CA",earthquake,0.47,0.94,,1,automatic,nc,nc
 2022-03-10T03:58:43.580Z,41.56366666666667,-118.668,15.83,3.16,ml,3,294,1.27,0.2,uw,uw61821391,2022-03-10T06:20:20.200Z,"47 km S of Denio, Nevada",earthquake,3.67,17.96,0.12471199979893965,3,reviewed,uw,uw
@@ -182,7 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T14:12:46.276Z,38.5749,-119.4361,10.3,0.1,ml,5,120.71,0.067,0.1578,nn,nn00835135,2022-03-10T02:37:34.774Z,"California-Nevada border region",earthquake,,7.6,0.21,2,reviewed,nn,nn
 2022-03-09T14:12:36.840Z,38.8466682,-122.8166656,1.38,0.86,md,14,54,0.009535,0.02,nc,nc73703276,2022-03-09T15:35:21.777Z,"9km WNW of Cobb, CA",earthquake,0.24,0.62,,1,automatic,nc,nc
 2022-03-09T14:11:32.529Z,62.5535,-150.3831,103.5,1.1,ml,,,,1,ak,ak02234oy3fo,2022-03-09T14:14:11.341Z,"18 km NW of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-09T14:08:46.550Z,37.5975,-121.652,6.02,1.75,md,61,69,0.08499,0.09,nc,nc73703271,2022-03-10T06:54:10.311Z,"14km SE of Livermore, CA",earthquake,0.12,0.76,0.199,52,reviewed,nc,nc
+2022-03-09T14:08:46.550Z,37.5975,-121.652,6.02,1.75,md,61,69,0.08499,0.09,nc,nc73703271,2022-03-10T07:37:12.567Z,"14km SE of Livermore, CA",earthquake,0.12,0.76,0.199,52,reviewed,nc,nc
 2022-03-09T13:56:45.723Z,63.325,-150.3379,22.9,1.3,ml,,,,0.63,ak,ak02234omc2k,2022-03-09T13:58:55.917Z,"69 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-09T13:53:42.110Z,17.9876666666667,-66.726,7.26,2.77,md,10,149,,0.15,pr,pr71339653,2022-03-09T14:16:11.970Z,"1 km SW of Tallaboa, Puerto Rico",earthquake,0.32,0.27,0.342038364355242,5,reviewed,pr,pr
 2022-03-09T13:51:49.900Z,17.9716666666667,-66.8731666666667,16.28,2.51,md,5,201,,0.12,pr,pr71339648,2022-03-09T14:12:46.300Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,1.53,0.89,0.226022787397966,4,reviewed,pr,pr
