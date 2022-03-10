@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T22:44:11.080Z,33.6518333,-116.706,13.95,0.83,ml,25,98,0.05957,0.17,ci,ci40204632,2022-03-10T22:47:41.248Z,"10km S of Idyllwild, CA",earthquake,0.37,0.44,0.147,18,automatic,ci,ci
 2022-03-10T22:23:51.800Z,38.831665,-122.8188324,1.31,1.63,md,28,50,0.01072,0.03,nc,nc73703936,2022-03-10T22:32:10.679Z,"8km NW of The Geysers, CA",earthquake,0.17,0.31,0.07,8,automatic,nc,nc
 2022-03-10T22:16:34.340Z,18.1361666666667,-66.7616666666667,18.49,2.26,md,8,122,,0.13,pr,pr71339748,2022-03-10T22:30:15.050Z,"5 km SW of Adjuntas, Puerto Rico",earthquake,0.37,1.18,,1,reviewed,pr,pr
 2022-03-10T22:11:18.302Z,-23.1791,179.3011,556.89,5.2,mww,,70,5.531,0.77,us,us6000h3nt,2022-03-10T22:27:54.040Z,"south of the Fiji Islands",earthquake,10.4,7.3,0.098,10,reviewed,us,us
