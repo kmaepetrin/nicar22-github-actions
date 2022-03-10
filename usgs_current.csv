@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T12:43:50.170Z,35.6626667,-117.439,5.57,1.15,ml,18,121,0.07832,0.17,ci,ci40204200,2022-03-10T12:54:50.060Z,"12km SSW of Searles Valley, CA",earthquake,0.44,1.27,0.184,13,automatic,ci,ci
 2022-03-10T12:40:54.178Z,39.4097,143.6864,34.74,4.4,mb,,143,2.437,0.65,us,us6000h3jw,2022-03-10T13:27:48.040Z,"149 km E of Yamada, Japan",earthquake,8.5,6.2,0.109,25,reviewed,us,us
 2022-03-10T12:37:42.742Z,38.1351,-117.9779,9.3,1.3,ml,10,139.31,0.064,0.2101,nn,nn00835149,2022-03-10T12:41:24.689Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.26,7,automatic,nn,nn
-2022-03-10T12:33:52.440Z,38.8224983,-122.8529968,2.44,1.33,md,22,63,0.005879,0.02,nc,nc73703776,2022-03-10T13:07:10.350Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.39,0.11,4,automatic,nc,nc
+2022-03-10T12:33:52.440Z,38.8224983,-122.8529968,2.44,1.33,md,22,63,0.005879,0.02,nc,nc73703776,2022-03-10T13:39:13.534Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.39,0.11,4,automatic,nc,nc
 2022-03-10T12:22:09.090Z,38.7923317,-122.7593307,1.86,0.65,md,10,118,0.008287,0.02,nc,nc73703746,2022-03-10T13:20:10.413Z,"2km N of The Geysers, CA",earthquake,0.33,0.77,,1,automatic,nc,nc
 2022-03-10T12:13:27.580Z,19.2676658630371,-155.396331787109,33.2099990844727,1.80999994,md,29,168,,0.129999995,hv,hv72945797,2022-03-10T12:16:31.960Z,"11 km NE of Pāhala, Hawaii",earthquake,0.71,1.33000004,0.899999976,3,automatic,hv,hv
 2022-03-10T12:09:13.679Z,36.7557,-116.1529,4.2,0.6,ml,10,98.57,0.038,0.1168,nn,nn00835148,2022-03-10T12:12:14.667Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1,0.37,6,automatic,nn,nn
@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T13:53:42.110Z,17.9876666666667,-66.726,7.26,2.77,md,10,149,,0.15,pr,pr71339653,2022-03-09T14:16:11.970Z,"1 km SW of Tallaboa, Puerto Rico",earthquake,0.32,0.27,0.342038364355242,5,reviewed,pr,pr
 2022-03-09T13:51:49.900Z,17.9716666666667,-66.8731666666667,16.28,2.51,md,5,201,,0.12,pr,pr71339648,2022-03-09T14:12:46.300Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,1.53,0.89,0.226022787397966,4,reviewed,pr,pr
 2022-03-09T13:44:49.800Z,54.568,-163.307166666667,13.37,0.66,ml,5,248,,0.22,av,av91051413,2022-03-10T00:37:00.670Z,"32 km SSE of False Pass, Alaska",earthquake,1.53,1.3,0.113007763865596,5,reviewed,av,av
-2022-03-09T13:41:00.360Z,62.1638,-150.0683,16.6,1.3,ml,,,,0.65,ak,ak02234oj0tw,2022-03-09T13:43:21.883Z,"11 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
