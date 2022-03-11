@@ -10,8 +10,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T19:38:14.169Z,60.5489,-147.6342,10.9,1.8,ml,,,,0.88,ak,ak0223835pbp,2022-03-11T19:41:33.052Z,"57 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-11T19:27:42.809Z,61.0036,-147.0666,16.9,1.9,ml,,,,1.07,ak,ak0223833ep9,2022-03-11T19:32:56.662Z,"26 km NW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-11T19:15:41.626Z,60.2277,-152.357,84.1,2.2,ml,,,,0.48,ak,ak0223830tzw,2022-03-11T19:27:19.043Z,"43 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-11T19:07:01.830Z,38.8421667,-122.7701667,1.72,0.04,md,14,153,0.004886,0.05,nc,nc73704286,2022-03-11T20:45:01.808Z,"5km WNW of Cobb, CA",earthquake,0.38,0.4,0.086,4,reviewed,nc,nc
 2022-03-11T18:53:25.200Z,38.4761667,-112.8485,0.94,-0.26,md,6,185,0.02008,0.02,uu,uu60030054,2022-03-11T19:49:27.260Z,"16 km ENE of Milford, Utah",earthquake,0.76,1.56,0.324,2,reviewed,uu,uu
 2022-03-11T18:53:01.180Z,38.4643333,-112.8786667,4.91,-0.74,md,5,197,0.01464,0.28,uu,uu60030059,2022-03-11T19:49:01.620Z,"13 km ENE of Milford, Utah",earthquake,9.59,3.57,0.178,2,reviewed,uu,uu
+2022-03-11T18:49:33.709Z,67.3016,-156.2037,5.54,2.7,ml,,62,0.315,0.75,us,us6000h3vn,2022-03-11T20:45:18.040Z,"52 km NE of Kobuk, Alaska",earthquake,2.9,7.4,0.041,80,reviewed,us,us
 2022-03-11T18:48:35.640Z,38.8368333,-122.8348333,1.81,0.3,md,21,39,0.001826,0.02,nc,nc73704276,2022-03-11T20:24:11.845Z,"10km NW of The Geysers, CA",earthquake,0.19,0.31,0.189,5,reviewed,nc,nc
 2022-03-11T18:27:46.530Z,38.8288345,-122.8051682,1.84,0.46,md,12,117,0.006647,0.01,nc,nc73704266,2022-03-11T18:55:14.297Z,"7km NW of The Geysers, CA",earthquake,0.35,0.51,0.39,2,automatic,nc,nc
 2022-03-11T18:25:14.768Z,62.9162,-150.7034,104.9,1.4,ml,,,,0.28,ak,ak022382hhht,2022-03-11T18:28:22.409Z,"46 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T17:57:20.290Z,35.961,-117.6688333,3.59,-0.14,ml,5,157,0.01988,0.04,ci,ci40205296,2022-03-11T19:14:15.321Z,"22km E of Little Lake, CA",earthquake,0.3,0.24,0.13,2,reviewed,ci,ci
 2022-03-11T17:51:08.590Z,38.7879982,-122.7473297,2.02,0.86,md,19,84,0.009555,0.02,nc,nc73704251,2022-03-11T18:33:15.165Z,"1km NNE of The Geysers, CA",earthquake,0.23,0.44,0.12,4,automatic,nc,nc
 2022-03-11T17:49:49.780Z,44.798,-110.9215,8.97,0.82,ml,12,117,0.05147,0.14,uu,uu60485367,2022-03-11T18:05:23.850Z,"20 km NE of West Yellowstone, Montana",earthquake,0.59,1,0.212,3,reviewed,uu,uu
-2022-03-11T17:44:30.460Z,37.9205017,-122.3013306,4.85,2.79,md,71,36,0.03744,0.11,nc,nc73704246,2022-03-11T20:39:42.697Z,"1km ENE of El Cerrito, CA",earthquake,0.15,0.3,0.14,83,automatic,nc,nc
+2022-03-11T17:44:30.460Z,37.9205017,-122.3013306,4.85,2.79,md,71,36,0.03744,0.11,nc,nc73704246,2022-03-11T20:44:57.304Z,"1km ENE of El Cerrito, CA",earthquake,0.15,0.3,0.14,83,automatic,nc,nc
 2022-03-11T17:43:45.446Z,-17.5687,-178.8451,524.28,4.2,mb,,148,2.962,0.5,us,us6000h3vc,2022-03-11T20:14:21.040Z,"202 km ENE of Levuka, Fiji",earthquake,8.9,9.6,0.081,45,reviewed,us,us
 2022-03-11T17:41:43.080Z,37.296,-117.5883,5.8,1.4,ml,13,107.08,0.078,0.1526,nn,nn00835208,2022-03-11T18:14:51.046Z,"51 km S of Silver Peak, Nevada",earthquake,,1.9,0.88,8,reviewed,nn,nn
 2022-03-11T17:40:59.906Z,59.8777,-153.1234,118.4,2.1,ml,,,,0.66,ak,ak022381zd2o,2022-03-11T18:56:06.040Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -31,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T17:34:06.963Z,0.3181,125.738,10,4.6,mb,,41,1.689,0.85,us,us6000h3v6,2022-03-11T18:15:35.040Z,"142 km SE of Tondano, Indonesia",earthquake,2,1.9,0.07,71,reviewed,us,us
 2022-03-11T17:28:07.350Z,35.8806667,-117.68,7.13,0.38,ml,12,85,0.07127,0.08,ci,ci40205248,2022-03-11T19:03:48.569Z,"21km ESE of Little Lake, CA",earthquake,0.2,0.61,0.062,5,reviewed,ci,ci
 2022-03-11T17:22:15.036Z,62.9962,-150.667,110.8,2,ml,,,,0.4,ak,ak022381veqe,2022-03-11T17:28:35.325Z,"55 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-11T17:09:45.650Z,35.9986667,-120.5591667,1.7,1.11,md,30,82,0.02121,0.07,nc,nc73704236,2022-03-11T20:32:13.892Z,"16km NW of Parkfield, CA",earthquake,0.16,0.4,0.306,15,reviewed,nc,nc
+2022-03-11T17:09:45.650Z,35.9986667,-120.5591667,1.7,1.11,md,30,82,0.02121,0.07,nc,nc73704236,2022-03-11T20:43:13.955Z,"16km NW of Parkfield, CA",earthquake,0.16,0.4,0.306,15,reviewed,nc,nc
 2022-03-11T17:03:54.358Z,62.9893,-150.0124,85.8,1.2,ml,,,,0.45,ak,ak022381rf6z,2022-03-11T17:05:55.880Z,"60 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-11T17:02:00.410Z,-17.7371,-178.5301,529.17,4.3,mb,,112,3.256,0.79,us,us6000h3uy,2022-03-11T17:44:32.040Z,"231 km E of Levuka, Fiji",earthquake,12.4,7.3,0.051,120,reviewed,us,us
 2022-03-11T17:00:38.182Z,0.5673,126.3221,10,5.1,mb,,26,1.064,0.6,us,us6000h3ux,2022-03-11T17:26:14.040Z,"120 km WSW of Ternate, Indonesia",earthquake,6.2,1.8,0.05,142,reviewed,us,us
