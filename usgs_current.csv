@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-11T13:49:59.990Z,38.8196678,-122.7623367,1.69,1.24,md,24,105,0.0123,0.04,nc,nc73704181,2022-03-11T13:51:32.546Z,"3km W of Cobb, CA",earthquake,0.23,0.36,0.06,5,automatic,nc,nc
 2022-03-11T13:10:15.233Z,61.6242,-151.9274,250,2,ml,,,,1.17,ak,ak02237zf3rn,2022-03-11T13:13:08.113Z,"49 km SW of Skwentna, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2022-03-11T13:09:51.970Z,36.3513333,-117.9683333,0.03,2.16,ml,24,78,0.1263,0.23,ci,ci40205000,2022-03-11T13:13:22.535Z,"8km NNE of Olancha, CA",earthquake,0.45,1.37,0.222,26,automatic,ci,ci
 2022-03-11T13:07:36.661Z,61.8432,-144.9184,249.8,2.2,ml,,,,1.03,ak,ak02237zei9u,2022-03-11T13:20:44.808Z,"13 km N of Kenny Lake, Alaska",earthquake,,6.4,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T12:16:22.241Z,-37.1731,177.452,155.36,4.3,mb,,79,0.783,0.69,us,us6000h3s3,2022-03-11T12:42:16.040Z,"93 km N of Opotiki, New Zealand",earthquake,14.7,7.2,0.133,16,reviewed,us,us
 2022-03-11T12:16:03.910Z,34.0178333,-116.8821667,9.67,0.92,ml,34,42,0.05746,0.19,ci,ci40204952,2022-03-11T12:19:37.193Z,"10km N of Banning, CA",earthquake,0.3,0.59,0.13,23,automatic,ci,ci
 2022-03-11T12:08:59.390Z,17.925,-66.7538333333333,5.9,2.27,md,15,180,,0.25,pr,pr71339803,2022-03-11T12:30:28.520Z,"8 km SSW of Tallaboa, Puerto Rico",earthquake,0.54,0.45,0.468148654577546,8,reviewed,pr,pr
-2022-03-11T11:59:08.095Z,46.8744,-112.6286,10.91,3.3,ml,,58,0.118,0.75,us,us6000h3ry,2022-03-11T12:06:09.040Z,"9 km SSE of Lincoln, Montana",earthquake,3,8.4,0.041,77,reviewed,us,us
+2022-03-11T11:59:08.095Z,46.8744,-112.6286,10.91,3.3,ml,,58,0.118,0.75,us,us6000h3ry,2022-03-11T13:48:32.133Z,"9 km SSE of Lincoln, Montana",earthquake,3,8.4,0.041,77,reviewed,us,us
 2022-03-11T11:43:51.433Z,46.8997,-112.6781,11.23,3.2,ml,,56,0.157,0.59,us,us6000h3rx,2022-03-11T12:22:29.578Z,"6 km S of Lincoln, Montana",earthquake,2.2,8.5,0.042,73,reviewed,us,us
 2022-03-11T11:25:55.150Z,35.4815,-118.2988333,0.15,1.14,ml,15,110,0.1405,0.25,ci,ci40204944,2022-03-11T11:29:27.902Z,"21km SE of Bodfish, CA",earthquake,0.47,0.83,0.151,11,automatic,ci,ci
 2022-03-11T11:21:35.800Z,19.1693325042725,-155.470993041992,34.7999992370605,2.22,ml,50,79,,0.140000001,hv,hv72946887,2022-03-11T11:37:38.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.46,0.629999995,4.14,8,automatic,hv,hv
