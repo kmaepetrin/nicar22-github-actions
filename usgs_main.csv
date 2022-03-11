@@ -2100,3 +2100,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T18:11:52.150Z,38.6386667,-122.2193333,1.48,0.49,md,3.0,252.0,0.07137,0.02,nc,nc71127379,2022-03-11T20:56:11.045Z,"18km WSW of Esparto, CA",earthquake,0.91,1.28,0.112,3.0,reviewed,nc,nc
 2022-03-11T15:05:54.810Z,46.9026667,-112.6361667,14.92,0.91,ml,12.0,101.0,0.02,0.1,mb,mb80540279,2022-03-11T20:50:00.070Z,"6 km SSE of Lincoln, Montana",earthquake,0.35,0.42,0.103,5.0,reviewed,mb,mb
 2022-03-11T00:21:26.592Z,36.6223,-116.9384,4.7,0.3,ml,5.0,190.08,0.107,0.1359,nn,nn00835220,2022-03-11T20:55:32.535Z,"20 km NNW of Furnace Creek, California",earthquake,,5.8,1.12,4.0,reviewed,nn,nn
+2022-03-11T17:12:08.030Z,46.836,-112.8266667,14.09,0.71,ml,10.0,92.0,0.135,0.14,mb,mb80540284,2022-03-11T20:56:48.280Z,"17 km SW of Lincoln, Montana",earthquake,0.46,1.26,0.048,2.0,reviewed,mb,mb
