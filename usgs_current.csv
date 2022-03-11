@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-11T10:31:20.500Z,36.1761667,-118.0856667,2.04,0.72,ml,7,155,0.1957,0.06,ci,ci40204936,2022-03-11T10:34:48.167Z,"14km SSW of Olancha, CA",earthquake,0.23,1.02,0.127,2,automatic,ci,ci
+2022-03-11T10:27:48.046Z,63.2741,-149.4747,90.3,1.6,ml,,,,0.56,ak,ak02237xqino,2022-03-11T10:30:22.827Z,"29 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-11T10:21:13.610Z,32.9158333,-116.2886667,8.31,0.88,ml,16,90,0.04059,0.11,ci,ci40204928,2022-03-11T10:24:46.528Z,"25km ENE of Pine Valley, CA",earthquake,0.2,0.43,0.115,10,automatic,ci,ci
 2022-03-11T09:58:38.200Z,19.1718330383301,-155.470001220703,34.9599990844727,2.01999998,md,37,161,,0.129999995,hv,hv72946837,2022-03-11T10:01:52.010Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.62,0.699999988,1.00999999,3,automatic,hv,hv
 2022-03-11T09:46:27.725Z,-20.8189,-175.6126,10,4.9,mb,,116,6.718,0.56,us,us6000h3rh,2022-03-11T10:23:20.040Z,"55 km NW of Nuku‘alofa, Tonga",earthquake,8.7,1.8,0.052,114,reviewed,us,us
@@ -211,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T10:47:05.630Z,18.0093333333333,-66.7451666666667,6.52,2.55,md,8,136,,0.21,pr,pr71339718,2022-03-10T14:07:24.263Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.59,0.68,0.0905617971362411,7,reviewed,pr,pr
 2022-03-10T10:45:41.801Z,38.1607,-118.1684,11.2,0.7,ml,9,165.17,0.269,0.1256,nn,nn00835168,2022-03-11T02:37:20.040Z,"26 km SSW of Mina, Nevada",earthquake,,5.6,0.29,2,reviewed,nn,nn
 2022-03-10T10:37:14.650Z,52.0791666666667,-174.35,7.45,0.39,ml,5,228,,0.07,av,av91051463,2022-03-11T01:23:51.400Z,"16 km SW of Atka, Alaska",earthquake,1.37,1.5,0.341119393505626,5,reviewed,av,av
-2022-03-10T10:36:06.180Z,19.1844997406006,-155.474838256836,34.2000007629395,2.22000003,md,33,199,,0.140000001,hv,hv72945747,2022-03-10T10:39:17.920Z,"2 km S of Pāhala, Hawaii",earthquake,1.15,0.879999995,2.22000003,4,automatic,hv,hv
