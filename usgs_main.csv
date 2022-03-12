@@ -2198,3 +2198,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T02:51:46.650Z,37.4906667,-118.8471667,4.29,0.57,md,9.0,126.0,0.1002,0.02,nc,nc73704501,2022-03-12T05:19:48.190Z,"17km WSW of Toms Place, CA",earthquake,0.79,1.96,0.276,9.0,reviewed,nc,nc
 2022-03-12T02:41:37.170Z,37.4921667,-118.8468333,4.16,0.48,md,13.0,126.0,0.0987,0.04,nc,nc73704496,2022-03-12T05:18:18.019Z,"17km WSW of Toms Place, CA",earthquake,0.48,1.78,0.206,11.0,reviewed,nc,nc
 2022-03-12T01:38:29.020Z,37.7396667,-119.4376667,5.57,1.57,md,11.0,105.0,0.3109,0.27,nc,nc73704476,2022-03-12T05:21:10.179Z,"12km E of Yosemite Valley, CA",earthquake,0.83,20.04,0.32,13.0,reviewed,nc,nc
+2022-03-12T03:02:47.880Z,38.8168333,-122.7608333,2.18,0.21,md,16.0,117.0,0.01535,0.03,nc,nc73704506,2022-03-12T05:28:11.107Z,"3km W of Cobb, CA",earthquake,0.24,0.48,0.258,4.0,reviewed,nc,nc
+2022-03-11T17:58:19.226Z,-39.8812,177.0519,4.84,3.4,ml,,108.0,1.007,0.67,us,us6000h3yp,2022-03-12T05:24:53.161Z,"32 km SSE of Hastings, New Zealand",earthquake,4.7,10.3,0.085,18.0,reviewed,us,us
