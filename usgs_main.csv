@@ -2274,3 +2274,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T14:13:58.300Z,19.2078342437744,-155.444671630859,33.5299987792969,1.85000002,md,36.0,148.0,,0.150000006,hv,hv72947867,2022-03-12T14:17:06.340Z,"3 km E of Pāhala, Hawaii",earthquake,0.57,0.720000029,1.63,6.0,automatic,hv,hv
 2022-03-12T14:05:58.711Z,38.263,-118.3595,9.7,1.5,ml,17.0,111.4,0.115,0.1593,nn,nn00835261,2022-03-12T14:09:46.459Z,"26 km WSW of Mina, Nevada",earthquake,,0.5,0.19,11.0,automatic,nn,nn
 2022-03-12T14:28:34.642Z,60.9164,-151.0804,13.0,1.6,ml,,,,0.48,ak,ak02239nns94,2022-03-12T14:30:16.450Z,"17 km S of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-12T14:37:02.980Z,62.6044,-149.6556,12.6,0.9,ml,,,,0.56,ak,ak02239npn96,2022-03-12T14:39:26.609Z,"28 km NE of Chase, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-03-12T14:17:48.130Z,44.2921667,-114.953,3.03,1.61,ml,9.0,89.0,0.827,0.23,mb,mb80540354,2022-03-12T14:41:15.080Z,"8 km N of Stanley, Idaho",earthquake,0.64,4.36,0.197,8.0,reviewed,mb,mb
