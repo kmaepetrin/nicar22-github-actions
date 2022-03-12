@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-12T07:47:49.400Z,38.8078346,-122.8264999,1.4,0.85,md,8,108,0.002333,0.02,nc,nc73704611,2022-03-12T07:49:22.431Z,"7km WNW of The Geysers, CA",earthquake,0.48,0.97,,1,automatic,nc,nc
 2022-03-12T07:29:58.660Z,17.9841666666667,-66.8395,12.59,1.81,md,7,182,,0.05,pr,pr71339883,2022-03-12T07:42:08.860Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.63,0.39,0.136824972398274,6,reviewed,pr,pr
 2022-03-12T07:23:07.209Z,61.8082,-150.6736,55.9,1.1,ml,,,,0.53,ak,ak02239jgmcf,2022-03-12T07:26:53.250Z,"30 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-03-12T07:02:38.430Z,33.3888321,-116.9355011,28.38,1.27,ml,21,166,0.2125,0.34,ci,ci40205728,2022-03-12T07:06:11.928Z,"8km WNW of Palomar Observatory, CA",earthquake,2.04,3.63,0.202,7,automatic,ci,ci
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T03:34:00.380Z,61.4968,-147.7683,20.8,1.9,ml,,,,0.96,ak,ak02239h588z,2022-03-12T03:56:04.431Z,"35 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-12T03:20:19.830Z,44.2965,-114.9491,10,2.6,ml,,64,0.829,0.6,us,us6000h3y6,2022-03-12T04:00:11.040Z,"8 km N of Stanley, Idaho",earthquake,2.1,2,0.049,54,reviewed,us,us
 2022-03-12T03:18:45.210Z,38.8025,-122.8026667,2.47,0.36,md,22,55,0.007932,0.05,nc,nc73704516,2022-03-12T06:26:12.438Z,"5km NW of The Geysers, CA",earthquake,0.28,0.46,0.369,5,reviewed,nc,nc
-2022-03-12T03:08:41.110Z,38.8211667,-122.7635,2.4,1.79,md,57,45,0.01056,0.04,nc,nc73704511,2022-03-12T07:02:10.644Z,"4km W of Cobb, CA",earthquake,0.12,0.18,0.188,28,reviewed,nc,nc
+2022-03-12T03:08:41.110Z,38.8211667,-122.7635,2.4,1.79,md,57,45,0.01056,0.04,nc,nc73704511,2022-03-12T07:49:12.949Z,"4km W of Cobb, CA",earthquake,0.12,0.18,0.188,28,reviewed,nc,nc
 2022-03-12T03:02:47.880Z,38.8168333,-122.7608333,2.18,0.21,md,16,117,0.01535,0.03,nc,nc73704506,2022-03-12T05:28:11.107Z,"3km W of Cobb, CA",earthquake,0.24,0.48,0.258,4,reviewed,nc,nc
 2022-03-12T02:54:58.125Z,59.9576,-153.201,124.7,1.9,ml,,,,0.61,ak,ak02239go7f7,2022-03-12T02:59:01.021Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-12T02:51:46.650Z,37.4906667,-118.8471667,4.29,0.57,md,9,126,0.1002,0.02,nc,nc73704501,2022-03-12T05:24:10.087Z,"17km WSW of Toms Place, CA",earthquake,0.79,1.96,0.276,9,reviewed,nc,nc
@@ -241,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T08:03:58.630Z,32.8381667,-116.2211667,12.69,1.06,ml,27,77,0.1142,0.16,ci,ci40204880,2022-03-11T18:04:15.949Z,"24km WNW of Ocotillo, CA",earthquake,0.22,0.66,0.223,13,reviewed,ci,ci
 2022-03-11T08:02:05.186Z,39.8465,-118.8886,13.4,1.2,ml,7,156.96,0.405,0.1314,nn,nn00835234,2022-03-12T02:37:48.049Z,"40 km E of Nixon, Nevada",earthquake,,3.2,0.44,5,reviewed,nn,nn
 2022-03-11T07:57:34.518Z,36.7866,-115.9456,10.9,0.2,ml,16,104.45,0.012,0.1307,nn,nn00835194,2022-03-11T19:23:04.984Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.1,0.35,8,reviewed,nn,nn
-2022-03-11T07:47:40.984Z,34.7536,24.455,36.02,4.5,mb,,114,0.641,0.65,us,us6000h3qw,2022-03-11T08:51:13.040Z,"34 km ESE of Kastrí, Greece",earthquake,3.7,7.5,0.071,58,reviewed,us,us
-2022-03-11T07:46:45.876Z,69.4076,-143.8247,6.44,2.6,ml,,135,0.223,0.32,us,us6000h3qv,2022-03-11T08:33:27.040Z,"81 km S of Kaktovik, Alaska",earthquake,3.8,7.5,0.048,56,reviewed,us,us
