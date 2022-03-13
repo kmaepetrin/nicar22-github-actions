@@ -2511,3 +2511,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T20:14:44.590Z,33.9785004,-116.9745026,18.6,1.15,ml,20.0,124.0,0.07588,0.18,ci,ci40206880,2022-03-13T20:16:49.979Z,"6km N of Beaumont, CA",earthquake,0.33,0.65,0.086,8.0,automatic,ci,ci
 2022-03-13T19:28:40.430Z,18.7613333333333,-67.3385,4.45,3.23,md,35.0,198.0,,0.28,pr,pr71340073,2022-03-13T20:12:18.910Z,"39 km NW of San Antonio, Puerto Rico",earthquake,0.63,0.88,0.0314467154872062,11.0,reviewed,pr,pr
 2022-03-13T19:00:46.580Z,19.3623333333333,-67.1341666666667,24.16,3.38,md,19.0,290.0,,0.43,pr,pr71340058,2022-03-13T20:08:48.320Z,"96 km N of Isabela, Puerto Rico",earthquake,1.58,28.8,0.0455921788864337,12.0,reviewed,pr,pr
+2022-03-13T20:27:08.087Z,62.8055,-148.8691,50.9,3.1,ml,,,,0.64,ak,ak0223bergkc,2022-03-13T20:30:25.239Z,"65 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-13T20:05:32.259Z,51.5491,-175.2238,17.09,4.1,mb,,188.0,0.753,1.0,us,us6000h484,2022-03-13T20:20:43.040Z,"100 km SW of Atka, Alaska",earthquake,5.3,8.4,0.083,40.0,reviewed,us,us
