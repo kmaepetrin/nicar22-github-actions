@@ -2488,3 +2488,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T17:22:19.293Z,37.3207,-97.7466,5.0,2.4,mb_lg,,121.0,0.167,0.53,us,us6000h476,2022-03-13T17:34:12.040Z,"6 km NNE of Argonia, Kansas",earthquake,1.4,1.9,0.142,13.0,reviewed,us,us
 2022-03-13T17:42:57.519Z,60.2138,-152.4397,76.3,1.4,ml,,,,0.25,ak,ak0223bd2hcn,2022-03-13T17:44:59.393Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-13T17:40:42.964Z,61.6362,-151.9603,90.3,1.9,ml,,,,0.56,ak,ak0223bd20sp,2022-03-13T17:44:22.832Z,"49 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-13T17:55:44.460Z,33.6833344,-116.7011642,15.77,0.98,ml,32.0,107.0,0.0298,0.15,ci,ci40206816,2022-03-13T17:57:50.865Z,"6km SSE of Idyllwild, CA",earthquake,0.35,0.54,0.222,9.0,automatic,ci,ci
