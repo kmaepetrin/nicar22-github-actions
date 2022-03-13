@@ -2389,3 +2389,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T04:09:59.950Z,33.326,-116.877,11.51,1.02,ml,44.0,34.0,0.03004,0.22,ci,ci40206496,2022-03-13T04:13:34.726Z,"4km SSW of Palomar Observatory, CA",earthquake,0.27,0.78,0.148,26.0,automatic,ci,ci
 2022-03-13T04:07:38.275Z,60.0421,-153.0706,122.5,1.4,ml,,,,0.65,ak,ak0223b54az1,2022-03-13T04:09:44.577Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-13T04:00:54.436Z,31.5326227,-104.0681736,7.468383789,3.5,ml,10.0,70.0,0.01227214981,0.2,tx,tx2022faar,2022-03-13T04:23:08.163Z,"35 km NW of Toyah, Texas",earthquake,1.171791515,1.004125868,0.1,6.0,reviewed,tx,tx
+2022-03-13T04:43:14.554Z,61.5594,-149.8952,42.3,1.3,ml,,,,0.52,ak,ak0223b5byvx,2022-03-13T04:46:01.575Z,"5 km NE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-13T04:35:23.146Z,59.6847,-151.7354,52.0,1.3,ml,,,,0.26,ak,ak0223b5a9tm,2022-03-13T04:37:39.209Z,"10 km W of Diamond Ridge, Alaska",earthquake,,1.7,,,automatic,ak,ak
