@@ -2406,3 +2406,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T05:33:30.138Z,61.3178,-151.0277,77.4,1.7,ml,,,,0.69,ak,ak0223b5valf,2022-03-13T05:36:45.004Z,"19 km N of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-13T05:31:43.830Z,33.9885,-116.8248333,17.7,1.74,ml,64.0,26.0,0.04864,0.18,ci,ci40206560,2022-03-13T05:42:03.760Z,"8km NE of Banning, CA",earthquake,0.19,0.41,0.149,26.0,automatic,ci,ci
 2022-03-13T05:22:17.195Z,-17.955,-178.3599,589.58,4.3,mb,,114.0,3.423,0.72,us,us6000h44r,2022-03-13T05:43:14.040Z,"246 km E of Levuka, Fiji",earthquake,13.4,8.5,0.052,106.0,reviewed,us,us
+2022-03-13T04:34:08.940Z,17.9298333333333,-66.9193333333333,12.75,1.78,md,7.0,249.0,,0.08,pr,pr71339973,2022-03-13T06:21:37.360Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.86,0.51,0.0451535810868881,6.0,reviewed,pr,pr
