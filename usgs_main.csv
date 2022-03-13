@@ -2391,3 +2391,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T04:00:54.436Z,31.5326227,-104.0681736,7.468383789,3.5,ml,10.0,70.0,0.01227214981,0.2,tx,tx2022faar,2022-03-13T04:23:08.163Z,"35 km NW of Toyah, Texas",earthquake,1.171791515,1.004125868,0.1,6.0,reviewed,tx,tx
 2022-03-13T04:43:14.554Z,61.5594,-149.8952,42.3,1.3,ml,,,,0.52,ak,ak0223b5byvx,2022-03-13T04:46:01.575Z,"5 km NE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-13T04:35:23.146Z,59.6847,-151.7354,52.0,1.3,ml,,,,0.26,ak,ak0223b5a9tm,2022-03-13T04:37:39.209Z,"10 km W of Diamond Ridge, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-03-13T04:57:39.360Z,34.012,-116.2748333,9.36,1.14,ml,19.0,98.0,0.1114,0.17,ci,ci40206536,2022-03-13T05:01:06.242Z,"14km SSE of Joshua Tree, CA",earthquake,0.37,0.84,0.182,27.0,automatic,ci,ci
+2022-03-13T04:57:04.893Z,66.437,-148.2486,4.9,1.6,ml,,,,1.02,ak,ak0223b5ey6i,2022-03-13T05:06:46.475Z,"39 km WNW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-13T04:55:14.080Z,34.0608333,-117.1851667,19.11,0.94,ml,21.0,121.0,0.1136,0.29,ci,ci40206528,2022-03-13T04:58:50.227Z,"1km NNW of Redlands, CA",earthquake,0.65,1.2,0.229,28.0,automatic,ci,ci
+2022-03-13T04:37:41.030Z,15.5431,-94.6082,35.0,4.2,mb,,180.0,2.488,0.79,us,us6000h44l,2022-03-13T05:06:05.040Z,"76 km S of San Francisco del Mar Viejo, Mexico",earthquake,10.0,2.0,0.112,24.0,reviewed,us,us
+2022-03-13T00:40:32.760Z,18.009,-66.8411666666667,16.73,1.51,md,6.0,158.0,,0.15,pr,pr71339948,2022-03-13T05:01:36.110Z,"2 km NW of Indios, Puerto Rico",earthquake,3.12,1.49,0.129176171634354,6.0,reviewed,pr,pr
