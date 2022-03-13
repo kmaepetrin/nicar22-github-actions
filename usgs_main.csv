@@ -2500,3 +2500,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T18:41:57.990Z,38.8203316,-122.7789993,2.09,0.84,md,6.0,140.0,0.007184,0.01,nc,nc73705091,2022-03-13T18:43:36.371Z,"5km W of Cobb, CA",earthquake,1.15,0.83,,1.0,automatic,nc,nc
 2022-03-13T18:39:11.030Z,19.2006664276123,-155.38916015625,31.7600002288818,1.90999997,md,27.0,175.0,,0.129999995,hv,hv72948897,2022-03-13T18:42:25.180Z,"9 km E of Pāhala, Hawaii",earthquake,0.79,0.850000024,1.90999997,4.0,automatic,hv,hv
 2022-03-13T18:38:28.776Z,64.7462,-151.0203,10.4,1.6,ml,,,,1.03,ak,ak0223bdmzvh,2022-03-13T18:45:41.488Z,"33 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-13T18:50:12.070Z,34.0166667,-117.2031667,11.19,0.88,ml,19.0,144.0,0.07358,0.23,ci,ci40206848,2022-03-13T18:53:42.490Z,"5km SSW of Redlands, CA",earthquake,0.53,0.94,0.176,21.0,automatic,ci,ci
