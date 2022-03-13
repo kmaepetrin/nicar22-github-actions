@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-13T19:41:41.511Z,59.5214,-152.8852,90,1.7,ml,,,,0.22,ak,ak0223be93lz,2022-03-13T19:43:48.716Z,"57 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-13T19:47:19.240Z,38.8358345,-122.8063354,1.96,1.18,md,12,61,0.01275,0.02,nc,nc73705106,2022-03-13T19:48:55.206Z,"7km WNW of Cobb, CA",earthquake,0.29,0.8,,1,automatic,nc,nc
+2022-03-13T19:41:41.511Z,59.5214,-152.8852,90,1.7,ml,,,,0.22,ak,ak0223be93lz,2022-03-13T19:44:27.184Z,"57 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-13T19:29:46.977Z,64.6015,-151.2006,18.1,1.5,ml,,,,1.27,ak,ak0223be6jft,2022-03-13T19:44:17.042Z,"52 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-13T19:03:53.120Z,17.9375,-66.9516666666667,12.06,2.77,md,21,213,,0.11,pr,pr71340068,2022-03-13T19:43:03.030Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.43,0.31,0.0874769753416889,5,reviewed,pr,pr
 2022-03-13T18:56:00.510Z,19.329,-67.072,45,3.63,md,24,223,0.8624,0.61,pr,pr2022072001,2022-03-13T19:31:58.483Z,"91 km N of Isabela, Puerto Rico",earthquake,2.84,12.05,0.1,21,reviewed,pr,pr
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T10:21:22.560Z,60.2436,-152.29,97,2.3,ml,,,,0.38,ak,ak0223b8rve4,2022-03-13T10:33:23.040Z,"40 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-13T10:08:32.090Z,37.3681667,-121.7195,8.1,0.91,md,28,62,0.03961,0.09,nc,nc73705006,2022-03-13T18:46:14.551Z,"10km E of Alum Rock, CA",earthquake,0.25,0.31,0.292,23,reviewed,nc,nc
 2022-03-13T10:05:50.060Z,33.8788333,-117.8178333,3.65,0.78,ml,13,139,0.05547,0.22,ci,ci40206624,2022-03-13T10:09:28.577Z,"1km SSW of Yorba Linda, CA",earthquake,0.63,0.92,0.129,13,automatic,ci,ci
-2022-03-13T10:04:16.110Z,35.7528333,-118.4816667,4,2.37,ml,36,46,0.04457,0.21,ci,ci40206616,2022-03-13T10:16:28.016Z,"5km W of Kernville, CA",earthquake,0.28,0.64,0.236,26,automatic,ci,ci
+2022-03-13T10:04:16.110Z,35.7528333,-118.4816667,4,2.37,ml,36,46,0.04457,0.21,ci,ci40206616,2022-03-13T19:47:40.770Z,"5km W of Kernville, CA",earthquake,0.28,0.64,0.236,26,automatic,ci,ci
 2022-03-13T09:53:08.550Z,19.5698337554932,-155.943496704102,8.77999973297119,1.88,md,20,219,,0.230000004,hv,hv72948537,2022-03-13T09:56:25.870Z,"1 km E of Kahaluu-Keauhou, Hawaii",earthquake,1.01,0.75999999,0.939999998,3,automatic,hv,hv
 2022-03-13T09:39:48.440Z,38.8154984,-122.8199997,2.85,0.25,md,11,71,0.00976,0.02,nc,nc73704996,2022-03-13T12:04:13.047Z,"7km NW of The Geysers, CA",earthquake,0.39,1.07,0.11,2,automatic,nc,nc
 2022-03-13T09:31:25.970Z,38.8294983,-122.814003,1.59,0.85,md,8,161,0.006824,0.02,nc,nc73704991,2022-03-13T11:37:13.870Z,"8km NW of The Geysers, CA",earthquake,0.49,0.96,,1,automatic,nc,nc
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T20:22:52.926Z,-57.7151,-23.9727,10,5.2,mb,,70,7.811,0.75,us,us6000h42h,2022-03-12T20:42:11.040Z,"South Sandwich Islands region",earthquake,9.9,1.8,0.059,97,reviewed,us,us
 2022-03-12T19:59:48.801Z,60.7797,-152.0345,88.4,5.1,ml,,,,0.75,ak,ak02239qtmiy,2022-03-13T18:18:50.626Z,"41 km WNW of Nikiski, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-03-12T19:56:34.450Z,19.1236667633057,-155.375,30.3899993896484,1.82000005,md,30,193,,0.109999999,hv,hv72948077,2022-03-12T20:00:01.730Z,"13 km SE of Pāhala, Hawaii",earthquake,0.76,1.04999995,1.07000005,8,automatic,hv,hv
-2022-03-12T19:46:06.124Z,59.7392,-150.4554,31.9,1.8,ml,,,,0.59,ak,ak02239qqqys,2022-03-12T20:50:10.891Z,"31 km ESE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
