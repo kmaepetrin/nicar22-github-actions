@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-13T09:39:48.440Z,38.8154984,-122.8199997,2.85,0.25,md,11,71,0.00976,0.02,nc,nc73704996,2022-03-13T09:48:11.150Z,"7km NW of The Geysers, CA",earthquake,0.39,1.07,0.11,2,automatic,nc,nc
+2022-03-13T10:05:50.060Z,33.8788333,-117.8178333,3.65,0.78,ml,13,139,0.05547,0.22,ci,ci40206624,2022-03-13T10:09:28.577Z,"1km SSW of Yorba Linda, CA",earthquake,0.63,0.92,0.129,13,automatic,ci,ci
+2022-03-13T10:04:16.110Z,35.7528333,-118.4816667,4,2.37,ml,36,46,0.04457,0.21,ci,ci40206616,2022-03-13T10:07:54.143Z,"5km W of Kernville, CA",earthquake,0.28,0.64,0.236,26,automatic,ci,ci
+2022-03-13T09:53:08.550Z,19.5698337554932,-155.943496704102,8.77999973297119,1.88,md,20,219,,0.230000004,hv,hv72948537,2022-03-13T09:56:25.870Z,"1 km E of Kahaluu-Keauhou, Hawaii",earthquake,1.01,0.75999999,0.939999998,3,automatic,hv,hv
+2022-03-13T09:39:48.440Z,38.8154984,-122.8199997,2.85,0.25,md,11,71,0.00976,0.02,nc,nc73704996,2022-03-13T10:06:12.252Z,"7km NW of The Geysers, CA",earthquake,0.39,1.07,0.11,2,automatic,nc,nc
 2022-03-13T09:31:25.970Z,38.8294983,-122.814003,1.59,0.85,md,8,161,0.006824,0.02,nc,nc73704991,2022-03-13T09:52:14.176Z,"8km NW of The Geysers, CA",earthquake,0.49,0.96,,1,automatic,nc,nc
 2022-03-13T09:25:42.620Z,38.0768318,-122.2369995,9.4,1.9,md,33,72,0.01699,0.24,nc,nc73704986,2022-03-13T09:42:14.097Z,"3km NW of Crockett, CA",earthquake,0.41,0.79,0.09,25,automatic,nc,nc
 2022-03-13T09:23:12.846Z,-21.2889,-68.8911,124.12,4.1,mb,,63,0.607,0.58,us,us6000h45n,2022-03-13T09:48:23.040Z,"129 km N of Calama, Chile",earthquake,6.8,7,0.151,12,reviewed,us,us
@@ -184,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T10:34:58.590Z,44.2875,-114.9576667,6.07,2.19,ml,14,66,0.824,0.24,mb,mb80540334,2022-03-12T15:11:01.060Z,"7 km N of Stanley, Idaho",earthquake,0.54,1.21,0.109,13,reviewed,mb,mb
 2022-03-12T10:20:01.679Z,-59.6924,-26.1125,35,4.9,mb,,49,7.836,0.56,us,us6000h3zw,2022-03-12T10:44:03.040Z,"South Sandwich Islands region",earthquake,9.6,2,0.062,81,reviewed,us,us
 2022-03-12T10:13:45.890Z,17.9361666666667,-66.986,10.59,2.38,md,13,231,,0.06,pr,pr71339903,2022-03-12T10:38:54.610Z,"Puerto Rico region",earthquake,0.36,0.45,0.157380930366637,5,reviewed,pr,pr
-2022-03-12T10:06:12.020Z,37.8973351,-121.7746658,-0.07,1.6,md,8,120,0.1321,0.22,nc,nc73704646,2022-03-12T12:37:13.645Z,"5km SW of Brentwood, CA",earthquake,0.84,8.35,0.03,3,automatic,nc,nc
-2022-03-12T10:05:23.400Z,38.8148346,-122.8208313,2.67,0.85,md,9,64,0.008833,0.01,nc,nc73704641,2022-03-12T12:12:17.518Z,"7km NW of The Geysers, CA",earthquake,0.47,1.17,,1,automatic,nc,nc
