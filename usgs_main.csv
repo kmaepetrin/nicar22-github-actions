@@ -2777,3 +2777,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T19:16:16.360Z,33.9356651,-116.6389999,10.89,3.1,ml,115.0,37.0,0.1226,0.18,ci,ci40207704,2022-03-14T19:19:38.137Z,"9km WNW of Garnet, CA",earthquake,0.16,0.73,0.301,16.0,automatic,ci,ci
 2022-03-14T19:08:39.597Z,60.2894,-150.598,32.0,1.6,ml,,,,0.6,ak,ak0223d1ldbr,2022-03-14T19:17:53.570Z,"25 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-14T19:02:17.610Z,37.6786667,-119.4338333,5.32,1.69,md,6.0,220.0,0.3571,0.31,nc,nc73705576,2022-03-14T19:16:42.121Z,"14km ESE of Yosemite Valley, CA",earthquake,1.76,31.61,0.04,6.0,reviewed,nc,nc
+2022-03-14T19:27:23.537Z,60.0726,-152.461,92.0,1.9,ml,,,,0.85,ak,ak0223d1penv,2022-03-14T19:32:13.637Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-14T19:26:22.400Z,33.197,-115.6368333,3.17,1.46,ml,21.0,81.0,0.01829,0.17,ci,ci40207720,2022-03-14T19:29:57.883Z,"12km WSW of Niland, CA",earthquake,0.33,0.4,0.277,29.0,automatic,ci,ci
+2022-03-14T19:22:57.360Z,38.788166,-122.7509995,2.85,1.31,md,7.0,132.0,0.01219,0.01,nc,nc73705591,2022-03-14T19:32:10.715Z,"1km NNE of The Geysers, CA",earthquake,0.76,2.01,,1.0,automatic,nc,nc
+2022-03-14T19:22:28.250Z,38.7818336,-122.7536697,1.85,2.97,md,69.0,37.0,0.01332,0.08,nc,nc73705586,2022-03-14T19:32:09.714Z,"1km NNE of The Geysers, CA",earthquake,0.14,0.23,0.15,56.0,automatic,nc,nc
