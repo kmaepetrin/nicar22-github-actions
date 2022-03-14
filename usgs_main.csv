@@ -2829,3 +2829,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T22:42:46.718Z,36.6146,-116.0429,9.6,0.6,ml,8.0,255.44,0.11,0.0297,nn,nn00835330,2022-03-14T22:45:43.877Z,"33 km W of Indian Springs, Nevada",earthquake,,1.4,0.47,6.0,automatic,nn,nn
 2022-03-14T22:40:38.143Z,60.1002,-152.3765,59.0,1.4,ml,,,,1.31,ak,ak0223d3kil3,2022-03-14T22:47:46.880Z,"39 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-14T21:52:56.992Z,-7.4854,120.147,388.17,4.2,mb,,68.0,2.364,0.6,us,us6000h4kc,2022-03-14T22:44:09.040Z,"115 km NNE of Labuan Bajo, Indonesia",earthquake,10.0,11.1,0.176,9.0,reviewed,us,us
+2022-03-14T22:53:31.610Z,19.1878337860107,-155.486831665039,32.3300018310547,2.55999994,md,43.0,71.0,,0.140000001,hv,hv72950282,2022-03-14T22:56:50.990Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.54,0.920000017,0.5,37.0,automatic,hv,hv
+2022-03-14T19:51:39.408Z,37.2739,-117.5784,5.3,1.4,ml,7.0,109.33,0.068,0.0911,nn,nn00835331,2022-03-14T22:53:57.252Z,"53 km S of Silver Peak, Nevada",earthquake,,4.0,1.08,5.0,reviewed,nn,nn
