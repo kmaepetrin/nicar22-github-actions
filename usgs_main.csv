@@ -2580,3 +2580,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T04:51:52.850Z,17.9123,-66.9085,10.0,3.3,md,25.0,200.0,0.0693,0.16,pr,pr2022073000,2022-03-14T05:17:47.565Z,"6 km S of Guánica, Puerto Rico",earthquake,0.57,0.48,0.23,17.0,reviewed,pr,pr
 2022-03-14T04:47:25.777Z,63.001,-149.127,56.5,1.9,ml,,,,0.99,ak,ak0223csw73z,2022-03-14T05:00:29.322Z,"44 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-14T04:10:03.460Z,17.8585,-66.9038333333333,12.52,2.41,md,9.0,250.0,,0.23,pr,pr71340113,2022-03-14T04:51:23.210Z,"12 km S of Guánica, Puerto Rico",earthquake,1.13,0.8,0.0900485957646109,5.0,reviewed,pr,pr
+2022-03-14T05:40:39.590Z,33.3498333,-115.7828333,2.87,1.99,ml,49.0,33.0,0.04159,0.22,ci,ci40207208,2022-03-14T05:44:31.473Z,"5km W of Bombay Beach, CA",earthquake,0.26,0.57,0.147,26.0,automatic,ci,ci
+2022-03-14T05:37:55.478Z,62.0978,-151.4335,83.4,2.3,ml,,,,0.52,ak,ak0223ctfjuy,2022-03-14T05:47:30.005Z,"12 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-14T05:30:16.640Z,38.8055,-122.8243332,2.32,0.25,md,11.0,71.0,0.005063,0.02,nc,nc73705291,2022-03-14T05:47:24.648Z,"7km WNW of The Geysers, CA",earthquake,0.42,0.86,0.11,2.0,automatic,nc,nc
