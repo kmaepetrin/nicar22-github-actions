@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-14T14:40:36.070Z,35.998,-117.3225,2.52,1.1,ml,10,218,0.1115,0.14,ci,ci40207432,2022-03-14T14:44:08.070Z,"26km N of Trona, CA",earthquake,0.64,2.08,0.097,9,automatic,ci,ci
 2022-03-14T14:32:28.820Z,46.4831657409668,-122.408332824707,16.6399993896484,1.77999997,md,29,132,,0.119999997,uw,uw61822356,2022-03-14T14:34:54.570Z,"7 km SE of Mossyrock, Washington",earthquake,0.48,0.959999979,0.370000005,6,automatic,uw,uw
 2022-03-14T14:12:09.005Z,-0.5651,98.5518,19.03,5.2,mww,,52,2.097,0.62,us,us6000h4ff,2022-03-14T14:28:50.040Z,"174 km W of Pariaman, Indonesia",earthquake,6.5,3.5,0.098,10,reviewed,us,us
 2022-03-14T14:07:39.120Z,38.8231659,-122.8564987,2.14,0.85,md,17,98,0.004382,0.02,nc,nc73705491,2022-03-14T14:32:10.765Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.45,0.02,3,automatic,nc,nc
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T14:58:22.200Z,17.9725,-66.9776666666667,12.28,2.06,md,3,180,,0.05,pr,pr71340018,2022-03-13T15:29:41.820Z,"6 km WSW of Fuig, Puerto Rico",earthquake,2.33,1.1,0.0380639645072915,3,reviewed,pr,pr
 2022-03-13T14:52:35.063Z,60.0556,-152.6347,98.3,1.4,ml,,,,0.66,ak,ak0223bbc9xp,2022-03-13T15:00:03.171Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-13T14:48:46.869Z,36.85383333,-97.79016667,7.26,1.88,ml,29,71,0.05578905228,0.21,ok,ok2022fawa,2022-03-14T14:20:35.912Z,"7 km NW of Medford, Oklahoma",earthquake,,0.6,0.18,5,reviewed,ok,ok
-2022-03-13T14:44:16.980Z,19.2456665039062,-155.417831420898,32.4900016784668,1.75,md,38,127,,0.109999999,hv,hv72948727,2022-03-13T14:47:29.890Z,"7 km NE of Pāhala, Hawaii",earthquake,0.63,0.839999974,0.74000001,3,automatic,hv,hv
