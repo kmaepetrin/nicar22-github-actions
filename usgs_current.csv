@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-14T13:47:20.740Z,59.5587,-152.9513,88.1,1.7,ml,,,,0.55,ak,ak0223cy9362,2022-03-14T13:49:18.308Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-14T13:46:14.690Z,38.7468338,-122.7194977,1.19,1.46,md,15,106,0.01532,0.05,nc,nc73705456,2022-03-14T13:47:51.371Z,"4km SW of Anderson Springs, CA",earthquake,0.28,0.38,0.12,6,automatic,nc,nc
+2022-03-14T13:47:21.027Z,59.471,-152.9817,79.5,1.8,ml,,,,0.54,ak,ak0223cy9362,2022-03-14T13:50:36.253Z,"61 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-14T13:46:14.690Z,38.7468338,-122.7194977,1.19,1.46,md,15,106,0.01532,0.05,nc,nc73705456,2022-03-14T13:56:10.543Z,"4km SW of Anderson Springs, CA",earthquake,0.28,0.38,0.12,6,automatic,nc,nc
 2022-03-14T13:43:13.240Z,36.1143333,-117.8476667,1.54,0.95,ml,13,113,0.006665,0.14,ci,ci40207400,2022-03-14T13:46:38.651Z,"12km NE of Coso Junction, CA",earthquake,0.32,0.19,0.091,10,automatic,ci,ci
 2022-03-14T13:25:01.440Z,38.8391685,-122.8101654,1.97,0.9,md,22,53,0.0155,0.02,nc,nc73705451,2022-03-14T13:48:14.499Z,"8km WNW of Cobb, CA",earthquake,0.2,0.43,0.16,4,automatic,nc,nc
 2022-03-14T13:13:01.380Z,33.0525,-116.212,3.72,1.26,ml,31,60,0.1094,0.19,ci,ci40207392,2022-03-14T13:16:38.472Z,"13km SW of Ocotillo Wells, CA",earthquake,0.3,1.45,0.146,26,automatic,ci,ci
-2022-03-14T13:11:11.301Z,60.0102,-153.0144,118.9,2.2,ml,,,,0.43,ak,ak0223cy1cno,2022-03-14T13:23:38.040Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-14T13:11:11.301Z,60.0102,-153.0144,118.9,2.2,ml,,,,0.43,ak,ak0223cy1cno,2022-03-14T13:52:38.040Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-14T13:06:42.670Z,19.1891670227051,-155.495834350586,34.6300010681152,1.86000001,md,39,144,,0.170000002,hv,hv72949677,2022-03-14T13:10:01.170Z,"2 km SW of Pāhala, Hawaii",earthquake,0.73,0.899999976,0.930000007,8,automatic,hv,hv
 2022-03-14T12:56:44.960Z,38.8318329,-122.8016663,2.14,0.8,md,21,45,0.01068,0.03,nc,nc73705441,2022-03-14T13:26:16.355Z,"7km W of Cobb, CA",earthquake,0.23,0.5,0.25,3,automatic,nc,nc
 2022-03-14T12:56:34.560Z,38.8320007,-122.8014984,2.38,0.75,md,14,68,0.01081,0.01,nc,nc73705436,2022-03-14T13:15:15.287Z,"7km W of Cobb, CA",earthquake,0.33,0.73,0.1,2,automatic,nc,nc
