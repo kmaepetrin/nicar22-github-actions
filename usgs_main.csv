@@ -2909,3 +2909,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T07:01:21.671Z,62.9541,-148.1352,58.7,2.2,ml,,,,0.48,ak,ak0223ehxz5d,2022-03-15T07:14:51.041Z,"63 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-15T06:40:15.593Z,26.8934,126.409,10.0,4.9,mww,,70.0,1.665,0.45,us,us6000h4mq,2022-03-15T07:00:42.040Z,"Ryukyu Islands, Japan",earthquake,4.1,1.8,0.098,10.0,reviewed,us,us
 2022-03-15T05:55:54.507Z,31.71133258,-104.2770224,7.622631836000001,1.9,ml,12.0,57.0,0.04111907972,0.2,tx,tx2022fdvm,2022-03-15T07:10:19.015Z,"52 km S of Whites City, New Mexico",earthquake,0.9780972007,0.8113844472000001,0.2,6.0,reviewed,tx,tx
+2022-03-15T07:25:07.872Z,59.8082,-152.9888,100.8,1.8,ml,,,,0.55,ak,ak0223ei33a2,2022-03-15T07:28:57.335Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-15T07:21:03.899Z,64.844,-148.9375,3.0,1.4,ml,,,,0.76,ak,ak0223ei2840,2022-03-15T07:28:43.792Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-15T07:13:55.716Z,60.8572,-150.9589,20.1,1.4,ml,,,,0.33,ak,ak0223ei0mdv,2022-03-15T07:26:57.267Z,"16 km WSW of Point Possession, Alaska",earthquake,,17.4,,,automatic,ak,ak
