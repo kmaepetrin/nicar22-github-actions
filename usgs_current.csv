@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-15T21:39:03.524Z,62.3763,-148.5238,25.5,2.1,ml,,,,0.76,ak,ak0223eqi5g5,2022-03-15T21:41:29.922Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-15T21:37:32.870Z,39.2364998,-123.1956635,5.08,1.72,md,13,90,0.08747,0.09,nc,nc73706186,2022-03-15T21:39:07.892Z,"3km SSE of Redwood Valley, CA",earthquake,0.31,1.5,0.11,7,automatic,nc,nc
+2022-03-15T21:37:32.870Z,39.2364998,-123.1956635,5.08,1.72,md,13,90,0.08747,0.09,nc,nc73706186,2022-03-15T21:47:11.064Z,"3km SSE of Redwood Valley, CA",earthquake,0.31,1.5,0.11,7,automatic,nc,nc
 2022-03-15T21:17:30.650Z,18.0583333333333,-66.8136666666667,21.03,2.19,md,6,133,,0.08,pr,pr71340353,2022-03-15T21:35:04.070Z,"4 km NE of Yauco, Puerto Rico",earthquake,0.51,1.09,0.149452100452956,4,reviewed,pr,pr
 2022-03-15T20:54:59.132Z,60.1515,-152.8205,98.5,1.8,ml,,,,0.42,ak,ak0223eq051q,2022-03-15T21:18:33.780Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-15T20:50:33.410Z,44.6043333,-110.3118333,2.95,1.15,md,12,96,0.0778,0.17,uu,uu60485732,2022-03-15T21:29:22.720Z,"51 km SSW of Silver Gate, Montana",earthquake,0.39,1.64,0.218,8,reviewed,uu,uu
@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T16:07:54.013Z,60.4459,-151.5329,56.3,1.7,ml,,,,0.71,ak,ak0223enc8eh,2022-03-15T16:10:27.320Z,"13 km WNW of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-15T16:02:26.747Z,-58.6342,-25.3256,10,4.7,mb,,97,7.562,0.71,us,us6000h4r8,2022-03-15T16:36:55.040Z,"South Sandwich Islands region",earthquake,11.5,1.9,0.12,24,reviewed,us,us
 2022-03-15T15:56:58.350Z,17.9046666666667,-66.8595,12.28,2.6,md,17,198,,0.18,pr,pr71340308,2022-03-15T16:16:29.530Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.43,0.41,0.0714206756669706,8,reviewed,pr,pr
-2022-03-15T15:55:16.018Z,61.3968,-149.8356,31.6,1.1,ml,,,,0.54,ak,ak0223en108h,2022-03-15T16:10:03.526Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-15T15:55:16.018Z,61.3968,-149.8356,31.6,1.1,ml,,,,0.54,ak,ak0223en108h,2022-03-15T16:10:03.526Z,"8 km ENE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T15:51:39.507Z,-58.5703,-24.9683,10,5.3,mww,,83,7.693,0.9,us,us6000h4r3,2022-03-15T16:48:37.040Z,"South Sandwich Islands region",earthquake,10.1,1.9,0.098,10,reviewed,us,us
 2022-03-15T15:48:45.416Z,28.6777,-99.0273,5,2.6,mb_lg,,84,0.478,0.41,us,us6000h4r0,2022-03-15T17:16:32.040Z,"14 km E of Dilley, Texas",earthquake,2.5,2,0.12,18,reviewed,us,us
 2022-03-15T15:40:30.982Z,37.3918,-117.0838,0.4,1.4,ml,14,110.51,0.168,0.1354,nn,nn00835372,2022-03-15T20:22:36.229Z,"37 km SSE of Goldfield, Nevada",earthquake,,3.7,1.03,6,reviewed,nn,nn
@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T14:06:14.400Z,17.9125,-66.8628333333333,16.55,2.65,md,9,195,,0.15,pr,pr71340298,2022-03-15T14:30:27.510Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.79,0.85,0.334990302650965,3,reviewed,pr,pr
 2022-03-15T13:58:51.910Z,33.3741667,-116.8778333,6.34,1.02,ml,37,38,0.02412,0.16,ci,ci40208296,2022-03-15T17:29:41.500Z,"2km NNW of Palomar Observatory, CA",earthquake,0.2,0.46,0.1,22,reviewed,ci,ci
 2022-03-15T13:55:52.605Z,-60.3239,-27.0977,10,4.8,mb,,81,7.9,0.36,us,us6000h4qc,2022-03-15T14:16:33.040Z,"South Sandwich Islands region",earthquake,14.2,1.9,0.121,24,reviewed,us,us
-2022-03-15T13:50:30.796Z,-21.1304,-69.3679,100.36,4.9,mww,,59,0.141,0.64,us,us6000h4q8,2022-03-15T18:32:48.601Z,"130 km SE of Iquique, Chile",earthquake,5.1,2.2,0.089,12,reviewed,us,us
+2022-03-15T13:50:30.796Z,-21.1304,-69.3679,100.36,4.9,mww,,59,0.141,0.64,us,us6000h4q8,2022-03-15T21:52:59.228Z,"130 km SE of Iquique, Chile",earthquake,5.1,2.2,0.089,12,reviewed,us,us
 2022-03-15T13:46:31.876Z,37.1183,-115.2935,3.6,1.8,ml,26,113.62,0.347,0.1576,nn,nn00835369,2022-03-15T19:57:44.662Z,"29 km SSW of Alamo, Nevada",earthquake,,2.6,0.71,16,reviewed,nn,nn
 2022-03-15T13:43:08.540Z,32.657,-115.6335,11.18,1.82,ml,38,139,0.07873,0.2,ci,ci40208280,2022-03-15T16:56:41.153Z,"10km NNW of Progreso, B.C., MX",earthquake,0.25,0.33,0.15,18,reviewed,ci,ci
 2022-03-15T13:43:08.170Z,32.743,-115.5781667,13.88,1.34,ml,17,136,0.156,0.18,ci,ci37490701,2022-03-15T16:52:49.132Z,"5km WNW of Heber, CA",earthquake,0.36,0.56,0.021,2,reviewed,ci,ci
@@ -285,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T22:03:53.160Z,17.9741666666667,-66.9671666666667,14.2,1.84,md,3,178,,0.08,pr,pr71340228,2022-03-14T22:11:39.810Z,"5 km WSW of Fuig, Puerto Rico",earthquake,2.91,1.09,0.0407074180295641,3,reviewed,pr,pr
 2022-03-14T21:54:39.120Z,19.2116661071777,-155.416000366211,35.4700012207031,2.29,ml,47,144,,0.129999995,hv,hv72950217,2022-03-14T23:03:03.040Z,"6 km E of Pāhala, Hawaii",earthquake,0.56,0.75999999,3.75,13,automatic,hv,hv
 2022-03-14T21:54:06.918Z,60.118,-152.0977,83.7,1.5,ml,,,,0.6,ak,ak0223d320yb,2022-03-14T21:57:00.194Z,"25 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-14T21:52:56.992Z,-7.4854,120.147,388.17,4.2,mb,,68,2.364,0.6,us,us6000h4kc,2022-03-14T22:44:09.040Z,"Flores Sea",earthquake,10,11.1,0.176,9,reviewed,us,us
