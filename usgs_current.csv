@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-15T09:52:23.920Z,38.8356667,-122.7903366,1.75,1.01,md,8,84,0.002738,0.01,nc,nc73705881,2022-03-15T09:53:56.584Z,"6km WNW of Cobb, CA",earthquake,0.51,0.81,0.15,2,automatic,nc,nc
+2022-03-15T09:50:29.220Z,33.5683333,-116.5111667,12.02,-0.03,ml,12,168,0.06114,0.15,ci,ci40208184,2022-03-15T09:54:04.675Z,"15km E of Anza, CA",earthquake,0.98,0.78,0.167,3,automatic,ci,ci
 2022-03-15T09:47:46.060Z,38.8268318,-122.7971649,2.95,0.84,md,8,154,0.01065,0.01,nc,nc73705871,2022-03-15T09:49:21.556Z,"6km W of Cobb, CA",earthquake,1.18,2.03,,1,automatic,nc,nc
 2022-03-15T09:29:23.530Z,33.6405,-116.6946667,14.69,0.23,ml,15,96,0.07233,0.1,ci,ci40208176,2022-03-15T09:32:50.579Z,"10km NNW of Anza, CA",earthquake,0.28,0.35,0.096,6,automatic,ci,ci
 2022-03-15T09:28:26.990Z,38.8071671,-122.7923355,0.5,0.83,md,9,111,0.002453,0.02,nc,nc73705861,2022-03-15T09:35:11.960Z,"5km NW of The Geysers, CA",earthquake,0.4,0.65,,1,automatic,nc,nc
