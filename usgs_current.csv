@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-16T08:44:23.310Z,32.6985,-115.527,3.37,1.73,ml,15,75,0.09628,0.24,ci,ci39969207,2022-03-16T08:47:59.385Z,"3km NW of Calexico, CA",earthquake,0.48,0.87,0.195,27,automatic,ci,ci
 2022-03-16T08:42:12.890Z,19.7881660461426,-154.985336303711,16.3199996948242,2.45,ml,43,239,,0.25999999,hv,hv72951907,2022-03-16T08:47:42.830Z,"11 km E of Pāpa‘ikou, Hawaii",earthquake,1.16,20.4200001,4.13,7,automatic,hv,hv
-2022-03-16T08:29:39.630Z,38.8088341,-122.8213348,2.79,0.74,md,8,120,0.006128,0.01,nc,nc73706331,2022-03-16T08:42:10.034Z,"7km WNW of The Geysers, CA",earthquake,0.53,1.1,0.11,2,automatic,nc,nc
+2022-03-16T08:29:39.630Z,38.8088341,-122.8213348,2.79,0.74,md,8,120,0.006128,0.01,nc,nc73706331,2022-03-16T08:56:12.126Z,"7km WNW of The Geysers, CA",earthquake,0.53,1.1,0.11,2,automatic,nc,nc
 2022-03-16T08:28:25.180Z,38.8074989,-122.8201675,2.15,1.2,md,29,56,0.007171,0.03,nc,nc73706326,2022-03-16T08:45:14.052Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.32,0.05,6,automatic,nc,nc
 2022-03-16T08:14:43.906Z,63.1377,-150.1773,81.7,1.5,ml,,,,0.32,ak,ak0223g65lae,2022-03-16T08:21:52.589Z,"67 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-16T07:52:27.286Z,63.365,-150.3816,125.7,1.4,ml,,,,0.32,ak,ak0223g5s9m0,2022-03-16T07:56:32.896Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -189,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T16:07:13.060Z,36.0066667,-120.5878333,3.69,0.43,md,15,143,0.03028,0.08,nc,nc73706001,2022-03-16T00:43:19.114Z,"18km NW of Parkfield, CA",earthquake,0.33,0.76,0.307,4,reviewed,nc,nc
 2022-03-15T16:02:26.747Z,-58.6342,-25.3256,10,4.7,mb,,97,7.562,0.71,us,us6000h4r8,2022-03-15T16:36:55.040Z,"South Sandwich Islands region",earthquake,11.5,1.9,0.12,24,reviewed,us,us
 2022-03-15T15:56:58.350Z,17.9046666666667,-66.8595,12.28,2.6,md,17,198,,0.18,pr,pr71340308,2022-03-15T16:16:29.530Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.43,0.41,0.0714206756669706,8,reviewed,pr,pr
-2022-03-15T15:55:16.018Z,61.3968,-149.8356,31.6,1.1,ml,,,,0.54,ak,ak0223en108h,2022-03-15T16:10:03.526Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-15T15:55:16.018Z,61.3968,-149.8356,31.6,1.1,ml,,,,0.54,ak,ak0223en108h,2022-03-15T16:10:03.526Z,"8 km ENE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T15:51:39.507Z,-58.5703,-24.9683,10,5.3,mww,,83,7.693,0.9,us,us6000h4r3,2022-03-15T16:48:37.040Z,"South Sandwich Islands region",earthquake,10.1,1.9,0.098,10,reviewed,us,us
 2022-03-15T15:48:45.416Z,28.6777,-99.0273,5,2.6,mb_lg,,84,0.478,0.41,us,us6000h4r0,2022-03-15T17:16:32.040Z,"14 km E of Dilley, Texas",earthquake,2.5,2,0.12,18,reviewed,us,us
 2022-03-15T15:42:32.600Z,38.762,-122.8836667,3.17,0.8,md,26,232,0.02983,0.05,nc,nc73705991,2022-03-15T23:06:12.543Z,"11km W of The Geysers, CA",earthquake,0.31,0.43,0.043,4,reviewed,nc,nc
