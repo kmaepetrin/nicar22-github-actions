@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T08:43:40.513Z,-58.5247,-25.1777,10,4.7,mb,,127,7.575,0.57,us,us6000h4zp,2022-03-16T09:14:24.040Z,"South Sandwich Islands region",earthquake,6.5,1.9,0.092,36,reviewed,us,us
 2022-03-16T08:42:12.430Z,19.7465,-154.974,38.01,2.59,ml,53,232,,0.12,hv,hv72951907,2022-03-16T20:34:53.910Z,"12 km E of Hilo, Hawaii",earthquake,0.44,0.6,0.174175591590829,16,reviewed,hv,hv
 2022-03-16T08:29:39.630Z,38.8088341,-122.8213348,2.79,0.74,md,8,120,0.006128,0.01,nc,nc73706331,2022-03-16T08:56:12.126Z,"7km WNW of The Geysers, CA",earthquake,0.53,1.1,0.11,2,automatic,nc,nc
-2022-03-16T08:28:25.190Z,38.8076667,-122.821,2.14,1.21,md,43,56,0.006501,0.04,nc,nc73706326,2022-03-16T20:49:11.466Z,"6km WNW of The Geysers, CA",earthquake,0.13,0.21,0.102,10,reviewed,nc,nc
+2022-03-16T08:28:25.190Z,38.8076667,-122.821,2.14,1.21,md,43,56,0.006501,0.04,nc,nc73706326,2022-03-16T20:54:10.959Z,"6km WNW of The Geysers, CA",earthquake,0.13,0.21,0.102,10,reviewed,nc,nc
 2022-03-16T08:14:43.906Z,63.1377,-150.1773,81.7,1.5,ml,,,,0.32,ak,ak0223g65lae,2022-03-16T08:21:52.589Z,"67 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-16T07:52:27.286Z,63.365,-150.3816,125.7,1.4,ml,,,,0.32,ak,ak0223g5s9m0,2022-03-16T07:56:32.896Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-03-16T07:49:07.150Z,19.246166229248,-155.399673461914,32.6699981689453,2.26,ml,48,133,,0.119999997,hv,hv72951892,2022-03-16T07:54:38.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.47,0.649999976,3.39,7,automatic,hv,hv
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T21:12:06.340Z,44.0703333,-110.5601667,8.76,0.87,md,10,153,0.1015,0.18,uu,uu60485737,2022-03-15T22:38:49.200Z,"49 km N of Kelly, Wyoming",earthquake,0.81,1.56,0.344,6,reviewed,uu,uu
 2022-03-15T21:04:28.470Z,35.8523333,-117.6631667,9.31,0.3,ml,7,119,0.06465,0.07,ci,ci39968767,2022-03-16T00:36:34.240Z,"24km ESE of Little Lake, CA",earthquake,0.45,1.19,0.105,4,reviewed,ci,ci
 2022-03-15T21:00:44.535Z,63.4277,-150.1734,113.4,1.2,ml,,,,0.57,ak,ak0223eq9vta,2022-03-15T22:53:56.309Z,"61 km W of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2022-03-15T20:54:59.132Z,60.1515,-152.8205,98.5,1.8,ml,,,,0.42,ak,ak0223eq051q,2022-03-15T21:18:33.780Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-15T20:54:34.700Z,35.7851667,-117.6095,6.26,1.5,mh,14,74,0.03203,0.08,ci,ci39968759,2022-03-16T00:34:01.216Z,"19km W of Searles Valley, CA",earthquake,0.19,0.35,,0,reviewed,ci,ci
