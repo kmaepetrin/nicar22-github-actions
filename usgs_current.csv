@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-16T13:59:47.386Z,60.4486,-148.9336,15.1,1.9,ml,,,,0.86,ak,ak0223g9eesy,2022-03-16T14:02:00.702Z,"24 km E of Crown Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-16T13:35:24.045Z,35.6666,75.0371,14.11,5.1,mww,,48,2.483,0.53,us,us6000h50x,2022-03-16T13:55:19.914Z,"67 km NW of Skardu, Pakistan",earthquake,8,4.4,0.089,12,reviewed,us,us
 2022-03-16T13:14:14.230Z,38.8361664,-122.8069992,0.11,1.42,md,7,105,0.01298,0.01,nc,nc73706401,2022-03-16T13:24:10.765Z,"7km WNW of Cobb, CA",earthquake,0.35,1.18,,1,automatic,nc,nc
 2022-03-16T13:09:10.966Z,62.3399,-149.5848,53.3,1.6,ml,,,,0.51,ak,ak0223g93m6w,2022-03-16T13:39:16.102Z,"24 km NE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -232,7 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T16:07:13.060Z,36.0066667,-120.5878333,3.69,0.43,md,15,143,0.03028,0.08,nc,nc73706001,2022-03-16T00:43:19.114Z,"18km NW of Parkfield, CA",earthquake,0.33,0.76,0.307,4,reviewed,nc,nc
 2022-03-15T16:02:26.747Z,-58.6342,-25.3256,10,4.7,mb,,97,7.562,0.71,us,us6000h4r8,2022-03-15T16:36:55.040Z,"South Sandwich Islands region",earthquake,11.5,1.9,0.12,24,reviewed,us,us
 2022-03-15T15:56:58.350Z,17.9046666666667,-66.8595,12.28,2.6,md,17,198,,0.18,pr,pr71340308,2022-03-15T16:16:29.530Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.43,0.41,0.0714206756669706,8,reviewed,pr,pr
-2022-03-15T15:55:16.018Z,61.3968,-149.8356,31.6,1.1,ml,,,,0.54,ak,ak0223en108h,2022-03-15T16:10:03.526Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-15T15:55:16.018Z,61.3968,-149.8356,31.6,1.1,ml,,,,0.54,ak,ak0223en108h,2022-03-15T16:10:03.526Z,"8 km ENE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T15:51:39.511Z,-58.57,-24.9695,10,5.3,mww,,83,7.692,0.9,us,us6000h4r3,2022-03-16T13:35:44.040Z,"South Sandwich Islands region",earthquake,10.1,1.9,0.078,16,reviewed,us,us
 2022-03-15T15:48:45.416Z,28.6777,-99.0273,5,2.6,mb_lg,,84,0.478,0.41,us,us6000h4r0,2022-03-15T17:16:32.040Z,"14 km E of Dilley, Texas",earthquake,2.5,2,0.12,18,reviewed,us,us
 2022-03-15T15:42:32.600Z,38.762,-122.8836667,3.17,0.8,md,26,232,0.02983,0.05,nc,nc73705991,2022-03-15T23:06:12.543Z,"11km W of The Geysers, CA",earthquake,0.31,0.43,0.043,4,reviewed,nc,nc
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T14:15:34.830Z,19.1644992828369,-155.47216796875,31.5300006866455,2.14,ml,48,91,,0.159999996,hv,hv72951002,2022-03-15T14:21:06.090Z,"4 km S of Pāhala, Hawaii",earthquake,0.56,0.800000012,4.04,5,automatic,hv,hv
 2022-03-15T14:15:01.730Z,47.1463333,-112.8028333,10.81,1.43,ml,15,174,0.385,0.11,mb,mb80540534,2022-03-15T17:37:28.320Z,"23 km NNW of Lincoln, Montana",earthquake,0.46,0.9,0.237,3,reviewed,mb,mb
 2022-03-15T14:06:14.400Z,17.9125,-66.8628333333333,16.55,2.65,md,9,195,,0.15,pr,pr71340298,2022-03-15T14:30:27.510Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.79,0.85,0.334990302650965,3,reviewed,pr,pr
-2022-03-15T13:58:51.910Z,33.3741667,-116.8778333,6.34,1.02,ml,37,38,0.02412,0.16,ci,ci40208296,2022-03-15T17:29:41.500Z,"2km NNW of Palomar Observatory, CA",earthquake,0.2,0.46,0.1,22,reviewed,ci,ci
