@@ -3319,3 +3319,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T15:32:19.900Z,38.8208351,-122.8000031,2.88,1.15,md,32.0,31.0,0.008272,0.02,nc,nc73706436,2022-03-16T15:35:47.147Z,"6km NW of The Geysers, CA",earthquake,0.19,0.37,0.13,6.0,automatic,nc,nc
 2022-03-16T15:29:40.401Z,36.28326035,-97.50793457,1.238140702,3.04,ml,78.0,26.8321476,0.06872089207,0.7004859547,ok,ok2022fgjx,2022-03-16T15:32:54.868Z,"4 km W of Lucien, Oklahoma",earthquake,1.325601181,1.175530278,,58.0,automatic,ok,ok
 2022-03-16T15:24:03.658Z,61.9601,-150.5588,49.9,2.1,ml,,,,0.57,ak,ak0223gadokt,2022-03-16T15:36:14.016Z,"36 km NW of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-16T11:33:21.020Z,36.0346667,-117.7726667,1.98,0.85,ml,11.0,133.0,0.01118,0.08,ci,ci39969255,2022-03-16T15:48:31.540Z,"16km E of Coso Junction, CA",earthquake,0.21,0.15,0.092,4.0,reviewed,ci,ci
