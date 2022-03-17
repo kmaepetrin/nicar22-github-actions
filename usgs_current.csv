@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T10:50:11.460Z,35.9376667,-117.2205,5.09,1.07,ml,20,92,0.06909,0.14,ci,ci39969239,2022-03-16T15:58:34.170Z,"24km NE of Trona, CA",earthquake,0.21,0.47,0.019,5,reviewed,ci,ci
 2022-03-16T10:48:10.386Z,40.0303,-119.5571,10.7,0.6,ml,3,270.17,0.223,0.0853,nn,nn00835479,2022-03-17T02:38:58.924Z,"9 km NNE of Sutcliffe, Nevada",earthquake,,13.5,0,1,reviewed,nn,nn
 2022-03-16T10:46:14.466Z,-23.4521,-179.8516,523.49,4.7,mb,,66,6.007,0.77,us,us6000h50g,2022-03-16T11:02:07.040Z,"south of the Fiji Islands",earthquake,11.4,8.1,0.035,247,reviewed,us,us
-2022-03-16T10:46:03.608Z,38.8775,-119.6498,0,0.8,ml,4,252.46,0.036,0.1017,nn,nn00835478,2022-03-17T02:38:58.004Z,"1 km NNW of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
