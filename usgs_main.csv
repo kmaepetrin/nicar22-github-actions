@@ -3437,3 +3437,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T00:30:29.210Z,36.0346667,-117.7746667,2.16,0.89,ml,11.0,97.0,0.01213,0.08,ci,ci39969695,2022-03-17T00:58:14.200Z,"16km E of Coso Junction, CA",earthquake,0.2,0.12,0.079,5.0,reviewed,ci,ci
 2022-03-17T00:26:03.653Z,38.9641,97.5248,10.0,5.1,mb,,34.0,10.958,0.61,us,us6000h59i,2022-03-17T00:55:18.082Z,"98 km S of Laojunmiao, China",earthquake,7.7,1.9,0.045,160.0,reviewed,us,us
 2022-03-16T15:21:28.560Z,17.9713333333333,-67.1148333333333,6.02,1.59,md,4.0,276.0,,0.17,pr,pr71340483,2022-03-17T01:07:05.920Z,"7 km W of La Parguera, Puerto Rico",earthquake,0.96,1.05,0.198626205817918,3.0,reviewed,pr,pr
+2022-03-17T02:31:58.210Z,40.7900009,-122.0728302,9.99,1.7,md,9.0,162.0,0.02553,0.09,nc,nc73706606,2022-03-17T02:33:31.619Z,"11km W of Round Mountain, CA",earthquake,0.84,0.95,0.11,5.0,automatic,nc,nc
+2022-03-17T02:20:06.330Z,33.8188333,-117.6661667,6.97,1.44,ml,40.0,56.0,0.05303,0.19,ci,ci39969743,2022-03-17T02:30:53.530Z,"11km WSW of Corona, CA",earthquake,0.25,0.61,0.21,30.0,automatic,ci,ci
+2022-03-17T02:13:24.216Z,60.9175,-150.8672,34.0,1.6,ml,,,,0.51,ak,ak0223hq42x1,2022-03-17T02:15:25.596Z,"9 km W of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-17T02:05:24.412Z,35.95686722,-97.72382355,3.874807358,1.92,ml,48.0,41.67850733,0.1731787622,0.3758849661,ok,ok2022fhew,2022-03-17T02:08:11.917Z,"11 km W of Crescent, Oklahoma",earthquake,1.697733353,1.568751023,,36.0,automatic,ok,ok
+2022-03-17T00:30:26.616Z,37.9722,141.7542,64.77,4.1,mb,,184.0,2.863,0.62,us,us6000h59k,2022-03-17T02:20:24.040Z,"63 km SE of Ishinomaki, Japan",earthquake,10.0,7.1,0.261,4.0,reviewed,us,us
+2022-03-17T00:25:50.010Z,42.8726,139.4069,209.46,4.3,mb,,49.0,2.422,0.5,us,us6000h59s,2022-03-17T02:22:57.040Z,"90 km W of Iwanai, Japan",earthquake,7.9,9.0,0.109,24.0,reviewed,us,us
