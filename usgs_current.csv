@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T05:17:57.420Z,37.5386667,-121.9205,5.27,0.83,md,20,71,0.005623,0.05,nc,nc73706651,2022-03-17T06:20:10.602Z,"6km E of Fremont, CA",earthquake,0.3,0.23,0.159,8,reviewed,nc,nc
 2022-03-17T05:17:46.710Z,33.0523333,-116.2118333,7.73,1.22,ml,45,70,0.1095,0.2,ci,ci39969871,2022-03-17T15:52:01.784Z,"13km SW of Ocotillo Wells, CA",earthquake,0.2,0.6,0.186,24,reviewed,ci,ci
 2022-03-17T05:14:36.540Z,18.0111666666667,-66.9513333333333,8.93,2.12,md,5,170,,0.2,pr,pr71340513,2022-03-17T06:27:59.600Z,"3 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,4.83,4.98,0.0716431493204912,4,reviewed,pr,pr
-2022-03-17T05:06:19.779Z,25.8049,123.9732,183.96,5,mww,,29,1.591,0.62,us,us6000h5az,2022-03-17T11:57:44.735Z,"162 km N of Ishigaki, Japan",earthquake,6.6,6,0.086,13,reviewed,us,us
+2022-03-17T05:06:19.664Z,25.7876,123.9702,182.27,5.1,mww,,30,1.576,0.76,us,us6000h5az,2022-03-17T21:40:39.765Z,"160 km N of Ishigaki, Japan",earthquake,4.4,4.9,0.075,17,reviewed,us,us
 2022-03-17T04:53:50.680Z,32.253,-115.2711667,14.95,2.46,ml,25,85,0.1685,0.21,ci,ci39969815,2022-03-17T15:43:39.860Z,"10km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,0.47,0.79,0.2,34,reviewed,ci,ci
 2022-03-17T04:46:07.098Z,63.4377,-151.2207,7.8,2.6,ml,,,,0.94,ak,ak0223hrhzdg,2022-03-17T04:54:33.759Z,"27 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-17T04:45:22.210Z,19.2224998474121,-155.39616394043,32.2799987792969,1.75,md,34,149,,0.119999997,hv,hv72952982,2022-03-17T04:48:27.720Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.67,0.899999976,1.76999998,4,automatic,hv,hv
