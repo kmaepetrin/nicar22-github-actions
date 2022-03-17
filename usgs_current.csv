@@ -193,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T08:50:20.666Z,-16.4839,-173.7828,92.1,4.8,mb,,52,3.206,1.03,us,us6000h4zq,2022-03-16T09:08:27.040Z,"58 km S of Hihifo, Tonga",earthquake,8.4,7,0.032,308,reviewed,us,us
 2022-03-16T08:44:23.260Z,32.6958333,-115.5308333,5.18,1.8,ml,27,73,0.07776,0.23,ci,ci39969207,2022-03-16T16:42:59.318Z,"4km WNW of Calexico, CA",earthquake,0.34,0.72,0.189,30,reviewed,ci,ci
 2022-03-16T08:43:40.513Z,-58.5247,-25.1777,10,4.7,mb,,127,7.575,0.57,us,us6000h4zp,2022-03-16T09:14:24.040Z,"South Sandwich Islands region",earthquake,6.5,1.9,0.092,36,reviewed,us,us
-2022-03-16T08:42:12.430Z,19.7465,-154.974,38.01,2.59,ml,53,232,,0.12,hv,hv72951907,2022-03-16T20:34:53.910Z,"12 km E of Hilo, Hawaii",earthquake,0.44,0.6,0.174175591590829,16,reviewed,hv,hv
+2022-03-16T08:42:12.430Z,19.7465,-154.974,38.01,2.59,ml,53,232,,0.12,hv,hv72951907,2022-03-17T05:45:50.040Z,"12 km E of Hilo, Hawaii",earthquake,0.44,0.6,0.174175591590829,16,reviewed,hv,hv
 2022-03-16T08:32:34.343Z,39.3264,-119.9142,9.5,0,ml,9,68.5,0.101,0.1347,nn,nn00835474,2022-03-17T02:38:52.943Z,"9 km NNE of Incline Village, Nevada",earthquake,,1.9,0.41,4,reviewed,nn,nn
 2022-03-16T08:29:39.630Z,38.8088341,-122.8213348,2.79,0.74,md,8,120,0.006128,0.01,nc,nc73706331,2022-03-16T08:56:12.126Z,"7km WNW of The Geysers, CA",earthquake,0.53,1.1,0.11,2,automatic,nc,nc
 2022-03-16T08:28:25.190Z,38.8076667,-122.821,2.14,1.21,md,43,56,0.006501,0.04,nc,nc73706326,2022-03-16T23:09:13.807Z,"6km WNW of The Geysers, CA",earthquake,0.13,0.21,0.102,10,reviewed,nc,nc
@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T05:58:03.069Z,35.94916667,-97.72666667,7.16,1.21,ml,79,34,0.1790648614,0.18,ok,ok2022ffrb,2022-03-16T12:57:27.708Z,"11 km W of Crescent, Oklahoma",earthquake,,0.4,0.23,25,reviewed,ok,ok
 2022-03-16T05:57:10.500Z,35.9475,-97.72333333,5,1.38,ml,79,34,0.1772652145,0.2,ok,ok2022ffra,2022-03-16T12:50:18.369Z,"11 km W of Crescent, Oklahoma",earthquake,,0.4,0.24,28,reviewed,ok,ok
 2022-03-16T05:51:35.002Z,62.8297,-152.5986,0,1.4,ml,,,,1.2,ak,ak0223g4l79v,2022-03-16T05:54:55.056Z,"90 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-16T05:50:08.550Z,38.8344994,-122.7600021,0.69,0.67,md,7,165,0.008724,0.02,nc,nc73706301,2022-03-16T06:27:15.206Z,"4km WNW of Cobb, CA",earthquake,0.45,0.78,0.15,2,automatic,nc,nc
-2022-03-16T05:46:40.850Z,35.3556667,-117.7605,6.8,0.97,ml,26,90,0.1123,0.15,ci,ci39969111,2022-03-16T15:33:26.913Z,"12km W of Johannesburg, CA",earthquake,0.24,0.65,0.075,11,reviewed,ci,ci
