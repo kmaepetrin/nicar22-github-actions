@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T19:54:50.610Z,38.7799988,-122.7661667,1.35,0.86,md,8,110,0.00927,0.02,nc,nc73706891,2022-03-17T20:04:10.744Z,"1km WNW of The Geysers, CA",earthquake,0.48,0.96,,1,automatic,nc,nc
 2022-03-17T19:36:31.910Z,38.8358345,-122.8134995,1.48,0.85,md,12,58,0.01271,0.01,nc,nc73706886,2022-03-17T19:52:10.663Z,"8km W of Cobb, CA",earthquake,0.28,0.75,,1,automatic,nc,nc
 2022-03-17T19:36:00.590Z,38.8358333,-122.808,2.24,0.59,md,25,50,0.01253,0.03,nc,nc73706881,2022-03-17T20:11:11.920Z,"8km WNW of Cobb, CA",earthquake,0.17,0.26,0.382,5,reviewed,nc,nc
+2022-03-17T19:27:58.610Z,39.4163333,-110.3025,-2.19,1.58,md,7,199,0.01915,0.08,uu,uu60486077,2022-03-17T20:47:30.640Z,"16 km SSE of Sunnyside, Utah",earthquake,1.04,1.23,0.093,7,reviewed,uu,uu
 2022-03-17T19:24:56.560Z,36.7513333,-121.5921667,-0.33,1.21,md,24,79,0.01507,0.13,nc,nc71127454,2022-03-17T20:19:52.774Z,"7km ESE of Prunedale, CA",quarry blast,0.32,31.61,0.241,17,reviewed,nc,nc
 2022-03-17T19:23:56.710Z,36.9598333,-120.1318333,11.88,1.76,md,6,274,0.2461,0.14,nc,nc73706876,2022-03-17T20:18:10.835Z,"6km W of Madera, CA",earthquake,2.1,1.44,0.212,16,reviewed,nc,nc
 2022-03-17T19:11:02.594Z,-26.91,-175.962,10,5.1,mww,,55,2.912,1.2,us,us6000h5ig,2022-03-17T19:35:58.040Z,"south of Tonga",earthquake,9.6,1.8,0.083,14,reviewed,us,us
@@ -244,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T21:04:04.870Z,38.7608333,-122.7335,1.75,0.1,md,21,62,0.006797,0.02,nc,nc73706526,2022-03-16T21:27:11.167Z,"3km SE of The Geysers, CA",earthquake,0.18,0.33,0.191,5,reviewed,nc,nc
 2022-03-16T20:59:46.160Z,38.8256683,-122.8160019,1.92,1.17,md,13,68,0.005157,0.01,nc,nc73706521,2022-03-17T00:00:13.113Z,"8km NW of The Geysers, CA",earthquake,0.31,0.7,,1,automatic,nc,nc
 2022-03-16T20:55:16.510Z,36.1023333,-91.1755,2.55,2.09,md,6,148,0.03667,0.11,nm,nm60147443,2022-03-17T12:42:45.900Z,"5 km WNW of Powhatan, Arkansas",earthquake,0.69,2.2,0.014,5,reviewed,nm,nm
-2022-03-16T20:50:40.590Z,37.1543333,-121.5405,6.65,0.99,md,23,55,0.06288,0.11,nc,nc73706516,2022-03-16T23:55:13.242Z,"10km NE of San Martin, CA",earthquake,0.26,0.7,0.225,18,reviewed,nc,nc
