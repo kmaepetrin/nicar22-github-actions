@@ -2,10 +2,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T03:38:41.000Z,34.0223351,-117.6036682,13.87,1.37,ml,50,81,0.09875,0.17,ci,ci39969775,2022-03-17T03:49:33.010Z,"4km SSE of Ontario, CA",earthquake,0.3,0.57,0.148,6,automatic,ci,ci
 2022-03-17T03:31:32.058Z,61.275,-150.6851,54.8,1.4,ml,,,,0.39,ak,ak0223hqte0l,2022-03-17T03:39:45.035Z,"26 km NE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-17T03:24:35.195Z,63.9616,-148.9323,0,1.4,ml,,,,0.96,ak,ak0223hqrw8v,2022-03-17T03:39:44.334Z,"10 km SE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-17T03:22:54.560Z,38.8380013,-122.7854996,1.05,0.36,md,9,84,0.003805,0.01,nc,nc73706631,2022-03-17T03:32:11.450Z,"6km WNW of Cobb, CA",earthquake,0.39,0.92,,1,automatic,nc,nc
+2022-03-17T03:22:54.560Z,38.8380013,-122.7854996,1.05,0.36,md,9,84,0.003805,0.01,nc,nc73706631,2022-03-17T03:55:15.597Z,"6km WNW of Cobb, CA",earthquake,0.39,0.92,,1,automatic,nc,nc
 2022-03-17T03:17:41.926Z,61.752,-152.0329,97.1,2.1,ml,,,,0.63,ak,ak0223hqqepj,2022-03-17T03:30:04.870Z,"42 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-17T03:03:29.570Z,39.0698318,-123.0551682,3.11,2.05,md,15,65,0.1678,0.08,nc,nc73706616,2022-03-17T03:10:10.302Z,"12km SE of Talmage, CA",earthquake,0.3,3.57,0.08,13,automatic,nc,nc
-2022-03-17T02:50:57.367Z,60.2851,-152.0911,72.9,1.8,ml,,,,0.62,ak,ak0223hqc2yw,2022-03-17T02:52:44.746Z,"35 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-03-17T02:50:57.367Z,60.2851,-152.0911,72.9,1.8,ml,,,,0.62,ak,ak0223hqc2yw,2022-03-17T02:52:44.746Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-17T02:37:13.900Z,36.0241667,-117.775,1.75,0.97,ml,12,65,0.007964,0.18,ci,ci39969751,2022-03-17T02:40:54.873Z,"15km NE of Little Lake, CA",earthquake,0.33,0.35,0.176,13,automatic,ci,ci
 2022-03-17T02:31:58.210Z,40.7900009,-122.0728302,9.99,1.7,md,9,162,0.02553,0.09,nc,nc73706606,2022-03-17T03:28:10.422Z,"11km W of Round Mountain, CA",earthquake,0.84,0.95,0.11,5,automatic,nc,nc
 2022-03-17T02:20:06.330Z,33.8188333,-117.6661667,6.97,1.44,ml,40,56,0.05303,0.19,ci,ci39969743,2022-03-17T02:30:53.530Z,"11km WSW of Corona, CA",earthquake,0.25,0.61,0.21,30,automatic,ci,ci
