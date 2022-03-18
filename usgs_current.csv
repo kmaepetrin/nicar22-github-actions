@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-18T08:42:43.639Z,60.0155,-152.739,97.6,2.5,ml,,,,0.6,ak,ak0223jheaex,2022-03-18T08:50:29.051Z,"56 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-18T08:39:52.667Z,59.7309,-152.8825,84.5,1.1,ml,,,,0.24,ak,ak0223jhdnuq,2022-03-18T08:50:42.229Z,"59 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-18T08:51:37.580Z,36.5571671,-121.0394974,6.79,2.41,md,34,89,0.02128,0.17,nc,nc73707131,2022-03-18T08:55:55.646Z,"10km ENE of Pinnacles, CA",earthquake,0.32,0.72,0.23,38,automatic,nc,nc
+2022-03-18T08:42:43.674Z,60.0129,-152.7303,97,2.5,ml,,,,0.61,ak,ak0223jheaex,2022-03-18T08:56:33.040Z,"56 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-18T08:39:52.667Z,59.7309,-152.8825,84.5,1.1,ml,,,,0.24,ak,ak0223jhdnuq,2022-03-18T08:57:54.265Z,"59 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-18T08:32:37.610Z,35.8613333,-117.6593333,11.86,0.53,ml,8,100,0.06777,0.09,ci,ci39970943,2022-03-18T08:36:10.115Z,"24km ESE of Little Lake, CA",earthquake,0.39,0.96,0.058,4,automatic,ci,ci
 2022-03-18T08:29:31.110Z,34.0181667,-116.8218333,14.38,0.64,ml,12,68,0.02057,0.11,ci,ci39970935,2022-03-18T08:33:06.597Z,"12km NNE of Banning, CA",earthquake,0.38,0.55,0.138,12,automatic,ci,ci
 2022-03-18T08:22:33.330Z,34.1501667,-117.6983333,7.59,1.26,ml,37,36,0.05798,0.22,ci,ci39970927,2022-03-18T08:26:34.571Z,"6km NNE of Claremont, CA",earthquake,0.32,0.67,0.191,27,automatic,ci,ci
@@ -80,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T02:26:17.938Z,17.2904,120.3279,48.42,4.2,mb,,180,5.544,0.95,us,us6000h5lk,2022-03-18T05:54:09.509Z,"12 km WSW of Tamorong, Philippines",earthquake,15.2,10.9,0.115,21,reviewed,us,us
 2022-03-18T01:54:54.410Z,38.7989998,-122.7505035,1.23,0.59,md,11,101,0.02755,0.02,nc,nc73706986,2022-03-18T02:23:16.951Z,"2km NNE of The Geysers, CA",earthquake,0.26,1.12,0.23,3,automatic,nc,nc
 2022-03-18T01:50:41.800Z,19.1840000152588,-155.475006103516,29.5499992370605,2.4,ml,46,84,,0.140000001,hv,hv72954107,2022-03-18T02:01:26.040Z,"2 km S of Pāhala, Hawaii",earthquake,0.46,0.75,3.51,12,automatic,hv,hv
-2022-03-18T01:48:18.310Z,36.0765,-120.1661667,7.91,1.51,md,34,150,0.12,0.07,nc,nc73706976,2022-03-18T08:27:11.447Z,"9km NNW of Avenal, CA",earthquake,0.48,0.34,0.298,22,reviewed,nc,nc
+2022-03-18T01:48:18.310Z,36.0765,-120.1661667,7.91,1.51,md,34,150,0.12,0.07,nc,nc73706976,2022-03-18T08:51:15.603Z,"9km NNW of Avenal, CA",earthquake,0.48,0.34,0.298,22,reviewed,nc,nc
 2022-03-18T01:45:36.470Z,38.8226662,-122.7669983,2.17,0.87,md,17,112,0.008119,0.03,nc,nc73706971,2022-03-18T02:13:11.884Z,"4km W of Cobb, CA",earthquake,0.29,0.52,0.13,4,automatic,nc,nc
 2022-03-18T01:45:21.900Z,38.7905006,-122.7256699,1.67,0.86,md,12,91,0.01128,0.02,nc,nc73706966,2022-03-18T02:02:12.823Z,"3km ENE of The Geysers, CA",earthquake,0.28,0.88,0.16,4,automatic,nc,nc
 2022-03-18T01:31:18.440Z,38.7529984,-122.6966629,0.92,0.85,md,8,134,0.01529,0.01,nc,nc73706956,2022-03-18T01:47:16.734Z,"2km S of Anderson Springs, CA",earthquake,0.36,0.54,0.03,4,automatic,nc,nc
