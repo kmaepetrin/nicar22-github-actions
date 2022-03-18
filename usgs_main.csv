@@ -3881,3 +3881,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T22:50:31.210Z,44.608,-110.3886667,1.45,0.75,md,7.0,113.0,0.04867,0.14,uu,uu60030094,2022-03-18T15:29:46.040Z,"47 km SSE of Mammoth, Wyoming",earthquake,0.91,0.42,0.044,5.0,reviewed,uu,uu
 2022-03-18T15:45:50.990Z,35.6708333,-117.5131667,1.06,1.67,ml,25.0,100.0,0.09384,0.21,ci,ci39971215,2022-03-18T15:49:32.241Z,"15km SW of Searles Valley, CA",earthquake,0.29,0.52,0.112,28.0,automatic,ci,ci
 2022-03-18T01:30:55.860Z,38.6003333,-112.5468333,2.49,0.55,md,7.0,180.0,0.0786,0.07,uu,uu60486202,2022-03-18T15:42:15.950Z,"24 km SSW of Kanosh, Utah",earthquake,1.1,31.61,0.115,6.0,reviewed,uu,uu
+2022-03-18T15:54:08.759Z,62.1153,-151.0639,79.2,1.6,ml,,,,0.47,ak,ak0223jlmtfv,2022-03-18T15:57:12.579Z,"22 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-18T05:16:06.020Z,39.417,-110.3061667,-2.26,1.44,md,6.0,197.0,0.01629,0.1,uu,uu60486242,2022-03-18T15:55:43.730Z,"16 km SSE of Sunnyside, Utah",earthquake,0.97,2.31,0.254,6.0,reviewed,uu,uu
+2022-03-18T01:45:53.450Z,39.4178333,-110.3011667,-3.45,1.8,md,7.0,199.0,0.01957,0.12,uu,uu60486217,2022-03-18T15:54:38.750Z,"16 km SSE of Sunnyside, Utah",earthquake,0.97,3.63,0.067,6.0,reviewed,uu,uu
+2022-03-18T01:38:51.370Z,39.4221667,-110.3118333,-1.86,1.64,md,8.0,195.0,0.01046,0.14,uu,uu60486212,2022-03-18T15:53:34.620Z,"15 km SSE of Sunnyside, Utah",earthquake,1.25,1.0,0.177,7.0,reviewed,uu,uu
