@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-18T19:37:51.460Z,38.8224983,-122.854332,5.6,0.37,md,9,76,0.02073,0.03,nc,nc73707356,2022-03-18T19:39:27.003Z,"10km WNW of The Geysers, CA",earthquake,0.5,1.46,,1,automatic,nc,nc
-2022-03-18T19:36:54.320Z,33.2249985,-116.2468338,27.25,1.2,ml,14,154,0.1467,0.23,ci,ci39971511,2022-03-18T19:39:12.528Z,"12km ESE of Borrego Springs, CA",earthquake,1.2,1.32,0.304,14,automatic,ci,ci
+2022-03-18T19:36:59.340Z,33.4591667,-116.4616667,12.11,0.52,ml,13,102,0.07076,0.13,ci,ci39971511,2022-03-18T19:46:58.648Z,"22km ESE of Anza, CA",earthquake,0.39,0.89,0.207,9,reviewed,ci,ci
 2022-03-18T19:20:43.980Z,38.8361664,-122.8098297,2.02,0.85,md,7,120,0.01275,0,nc,nc73707351,2022-03-18T19:22:17.331Z,"8km WNW of Cobb, CA",earthquake,0.6,1.65,,1,automatic,nc,nc
 2022-03-18T19:17:06.160Z,36.5006676,-120.9253311,9.06,1.68,md,15,82,0.1071,0.09,nc,nc73707346,2022-03-18T19:26:11.375Z,"20km E of Pinnacles, CA",earthquake,0.34,1.31,0.15,12,automatic,nc,nc
 2022-03-18T19:04:18.846Z,25.6866,123.9927,167.95,5.9,mww,,30,1.505,0.78,us,us6000h5uk,2022-03-18T19:35:38.357Z,"149 km N of Ishigaki, Japan",earthquake,7,4.6,0.043,52,reviewed,us,us
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T18:12:55.560Z,38.7965012,-122.7348328,2.5,0.7,md,9,101,0.01333,0.02,nc,nc73707311,2022-03-18T18:32:18.969Z,"3km NE of The Geysers, CA",earthquake,0.38,1.1,0.17,2,automatic,nc,nc
 2022-03-18T18:01:01.640Z,33.0538333,-115.0086667,-0.18,1.48,ml,13,67,0.08535,0.28,ci,ci39971407,2022-03-18T19:33:18.657Z,"44km NE of Holtville, CA",quarry blast,0.68,31.61,0.135,10,reviewed,ci,ci
 2022-03-18T17:44:42.910Z,35.5708333,-117.5295,6.24,0.06,ml,6,220,0.05704,0.09,ci,ci39971375,2022-03-18T18:27:48.703Z,"14km ESE of Ridgecrest, CA",earthquake,1.17,0.6,0.162,3,reviewed,ci,ci
-2022-03-18T17:42:25.650Z,38.4321667,-122.4946667,8.26,1.24,md,25,97,0.06585,0.07,nc,nc73707306,2022-03-18T19:15:10.347Z,"5km ENE of Kenwood, CA",earthquake,0.2,0.38,0.283,17,reviewed,nc,nc
+2022-03-18T17:42:25.650Z,38.4321667,-122.4946667,8.26,1.24,md,25,97,0.06585,0.07,nc,nc73707306,2022-03-18T19:42:28.333Z,"5km ENE of Kenwood, CA",earthquake,0.2,0.38,0.283,17,reviewed,nc,nc
 2022-03-18T17:33:13.620Z,35.6545,-117.5038333,2.48,1.48,ml,17,96,0.07586,0.1,ci,ci37403804,2022-03-18T18:18:33.613Z,"16km SW of Searles Valley, CA",earthquake,0.21,0.32,0.143,17,reviewed,ci,ci
 2022-03-18T17:33:03.350Z,35.6511667,-117.5035,2.33,1.68,ml,35,80,0.07277,0.15,ci,ci39971359,2022-03-18T18:14:44.588Z,"16km SW of Searles Valley, CA",earthquake,0.18,0.39,0.113,23,reviewed,ci,ci
 2022-03-18T17:31:59.710Z,33.5255,-116.5728333,9.62,0.19,ml,11,108,0.03894,0.07,ci,ci39971351,2022-03-18T18:04:30.522Z,"10km ESE of Anza, CA",earthquake,0.28,0.49,0.198,3,reviewed,ci,ci
