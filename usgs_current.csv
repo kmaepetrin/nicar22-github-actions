@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-18T14:40:30.180Z,38.8251648,-122.802002,2.49,0.71,md,11,77,0.006548,0.01,nc,nc73707231,2022-03-18T14:42:07.021Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.14,2,automatic,nc,nc
-2022-03-18T14:37:31.656Z,59.9393,-152.7235,87.2,1.9,ml,,,,0.67,ak,ak0223jkxsfh,2022-03-18T14:43:39.295Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-18T14:37:31.635Z,59.9408,-152.7302,87.5,1.9,ml,,,,0.66,ak,ak0223jkxsfh,2022-03-18T14:46:28.897Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-18T14:26:38.620Z,35.67,-117.5135,10.45,0.37,ml,8,160,0.09321,0.2,ci,ci39971143,2022-03-18T14:30:08.141Z,"15km SW of Searles Valley, CA",earthquake,0.86,1.48,0.1,6,automatic,ci,ci
 2022-03-18T14:26:07.340Z,38.8343315,-122.8178329,1.49,0.85,md,16,60,0.01249,0.01,nc,nc73707226,2022-03-18T14:41:22.598Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,,1,automatic,nc,nc
+2022-03-18T14:25:19.806Z,40.1528,141.9451,35,5.3,mww,,161,0.925,0.88,us,us6000h5px,2022-03-18T14:44:20.040Z,"54 km SE of Hachinohe, Japan",earthquake,6.4,1.8,0.093,11,reviewed,us,us
 2022-03-18T14:25:08.153Z,58.4762,-153.3802,78.4,1.8,ml,,,,0.21,ak,ak0223jkv605,2022-03-18T14:38:09.666Z,"53 km NNW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-18T13:58:09.859Z,62.3533,-149.1172,9.5,1.4,ml,,,,0.32,ak,ak0223jkgt6j,2022-03-18T14:01:18.248Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-18T13:32:59.400Z,38.7901649,-122.7624969,2.06,0.25,md,15,64,0.01067,0.02,nc,nc73707211,2022-03-18T14:21:16.476Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.6,0.15,4,automatic,nc,nc
