@@ -3729,3 +3729,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T04:03:26.386Z,35.45055008,-97.29218292,5.617345333,2.03,ml,32.0,45.46899414,0.1272808015,0.3149829259,ok,ok2022fjeg,2022-03-18T04:17:56.355Z,"5 km SSE of Nicoma Park, Oklahoma",earthquake,2.316156337,3.027757789,,25.0,automatic,ok,ok
 2022-03-18T03:54:46.343Z,63.4703,-151.3495,0.0,1.4,ml,,,,1.25,ak,ak0223jehp2c,2022-03-18T04:13:29.104Z,"20 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-18T02:26:17.938Z,17.2904,120.3279,48.42,4.2,mb,,180.0,5.544,0.95,us,us6000h5lk,2022-03-18T04:18:34.040Z,"12 km WSW of Tamorong, Philippines",earthquake,15.2,10.9,0.115,21.0,reviewed,us,us
+2022-03-18T04:39:27.312Z,59.4626,-155.5107,7.9,1.6,ml,,,,0.5,ak,ak0223jezvh7,2022-03-18T04:40:59.480Z,"26 km NE of Igiugig, Alaska",earthquake,,0.3,,,automatic,ak,ak
