@@ -3846,3 +3846,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T13:23:04.251Z,65.3144,-149.9754,8.4,2.3,ml,,,,0.9,ak,ak0223jk9aog,2022-03-18T13:32:45.791Z,"23 km SSE of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-18T13:22:13.440Z,38.7886658,-122.7334976,1.94,0.76,md,8.0,108.0,0.005979,0.02,nc,nc73707206,2022-03-18T13:23:50.151Z,"2km ENE of The Geysers, CA",earthquake,0.33,1.28,0.15,2.0,automatic,nc,nc
 2022-03-18T13:19:11.260Z,64.1876,-145.9716,14.1,1.2,ml,,,,0.49,ak,ak0223jk8gd2,2022-03-18T13:30:52.446Z,"5 km NW of Whitestone, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-18T13:32:59.400Z,38.7901649,-122.7624969,2.06,0.25,md,15.0,64.0,0.01067,0.02,nc,nc73707211,2022-03-18T13:34:35.389Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.6,0.15,4.0,automatic,nc,nc
