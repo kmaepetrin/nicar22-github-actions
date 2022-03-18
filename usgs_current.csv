@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-18T18:49:20.820Z,34.0008316,-117.4783325,4.79,1.28,ml,19,130,0.1929,0.41,ci,ci39971463,2022-03-18T18:53:02.905Z,"1km SSE of Glen Avon, CA",earthquake,2.04,5.04,0.231,7,automatic,ci,ci
+2022-03-18T18:44:11.367Z,38.5473,-119.4927,3.4,1.3,ml,10,162.94,0.044,0.1285,nn,nn00835606,2022-03-18T18:48:25.984Z,"2 km SSE of Coleville, California",earthquake,,0.4,0.19,8,automatic,nn,nn
+2022-03-18T18:43:43.590Z,35.86,-117.689,7.91,0.47,ml,10,80,0.08023,0.1,ci,ci39971439,2022-03-18T18:47:17.849Z,"21km ESE of Little Lake, CA",earthquake,0.3,0.76,0.075,4,automatic,ci,ci
 2022-03-18T18:27:23.240Z,36.0079994,-120.5680008,2.97,1.08,md,10,111,0.02549,0.05,nc,nc73707331,2022-03-18T18:28:56.881Z,"17km NW of Parkfield, CA",earthquake,0.47,0.75,0.24,3,automatic,nc,nc
 2022-03-18T18:23:07.703Z,57.5681,-157.6231,34.7,2.2,ml,,,,0.96,ak,ak0223jn8gyx,2022-03-18T18:29:01.086Z,"2 km WNW of Pilot Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-18T18:17:45.520Z,38.7994995,-122.7528305,2.11,0.36,md,9,165,0.005493,0.02,nc,nc73707321,2022-03-18T18:42:19.022Z,"2km N of The Geysers, CA",earthquake,0.47,1.27,,1,automatic,nc,nc
@@ -287,5 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T19:07:03.060Z,36.0065,-117.1385,5.21,1.45,ml,23,57,0.1646,0.13,ci,ci39970367,2022-03-17T23:48:15.330Z,"35km NE of Trona, CA",earthquake,0.22,1.1,0.09,17,reviewed,ci,ci
 2022-03-17T19:03:45.680Z,46.0163333,-112.4601667,-2,1.64,ml,13,113,0.066,0.11,mb,mb80540769,2022-03-18T14:09:21.260Z,"5 km ENE of Butte, Montana",quarry blast,0.59,31.61,0.199,7,reviewed,mb,mb
 2022-03-17T18:54:08.880Z,38.803,-122.778,3.74,0.11,md,19,68,0.01046,0.02,nc,nc73706866,2022-03-17T23:52:14.130Z,"3km NNW of The Geysers, CA",earthquake,0.24,0.38,0.159,4,reviewed,nc,nc
-2022-03-17T18:48:56.910Z,33.6673333,-118.2313333,6.49,2.12,ml,36,94,0.06896,0.29,ci,ci39970343,2022-03-18T14:06:50.962Z,"10km SE of San Pedro, CA",earthquake,0.4,1.15,0.136,71,reviewed,ci,ci
-2022-03-17T18:48:48.090Z,37.9823333,-122.455,0,1.4,md,23,68,0.02503,0.09,nc,nc73706861,2022-03-17T21:22:13.205Z,"6km ESE of Santa Venetia, CA",quarry blast,0.18,31.61,0.284,17,reviewed,nc,nc
