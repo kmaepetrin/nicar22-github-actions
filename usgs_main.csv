@@ -3948,3 +3948,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T18:49:20.820Z,34.0008316,-117.4783325,4.79,1.28,ml,19.0,130.0,0.1929,0.41,ci,ci39971463,2022-03-18T18:53:02.905Z,"1km SSE of Glen Avon, CA",earthquake,2.04,5.04,0.231,7.0,automatic,ci,ci
 2022-03-18T18:44:11.367Z,38.5473,-119.4927,3.4,1.3,ml,10.0,162.94,0.044,0.1285,nn,nn00835606,2022-03-18T18:48:25.984Z,"2 km SSE of Coleville, California",earthquake,,0.4,0.19,8.0,automatic,nn,nn
 2022-03-18T18:43:43.590Z,35.86,-117.689,7.91,0.47,ml,10.0,80.0,0.08023,0.1,ci,ci39971439,2022-03-18T18:47:17.849Z,"21km ESE of Little Lake, CA",earthquake,0.3,0.76,0.075,4.0,automatic,ci,ci
+2022-03-18T18:59:09.300Z,38.8284988,-122.8101654,1.59,0.85,md,13.0,46.0,0.005097,0.01,nc,nc73707336,2022-03-18T19:00:47.707Z,"7km NW of The Geysers, CA",earthquake,0.29,0.93,,1.0,automatic,nc,nc
