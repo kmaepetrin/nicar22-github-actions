@@ -3815,3 +3815,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T10:04:54.279Z,60.9597,-156.3734,11.2,1.7,ml,,,,0.82,ak,ak0223jid13x,2022-03-18T10:12:55.695Z,"67 km SW of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-18T09:09:33.275Z,31.60583496,-104.9864234,4.548583984000001,1.6,ml,9.0,194.0,0.4184489105,0.3,tx,tx2022fjoj,2022-03-18T10:12:24.007Z,"42 km SSE of Dell City, Texas",earthquake,5.608419584,5.362842372,0.2,5.0,reviewed,tx,tx
 2022-03-18T08:53:09.720Z,17.9295,-66.848,14.87,2.36,md,11.0,220.0,,0.12,pr,pr71340673,2022-03-18T10:12:20.900Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,1.01,0.65,0.160192835805537,7.0,reviewed,pr,pr
+2022-03-18T10:45:00.287Z,61.438,-150.1052,30.2,2.5,ml,,,,0.79,ak,ak0223jilpau,2022-03-18T10:46:45.034Z,"11 km NW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
