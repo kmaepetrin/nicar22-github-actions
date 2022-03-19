@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-19T03:54:32.950Z,61.6826,-149.8948,28.9,2,ml,,,,0.72,ak,ak0223l210jz,2022-03-19T03:57:28.457Z,"7 km NW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-19T03:54:24.477Z,39.5586,-120.3224,8.7,1.3,ml,11,172.81,0.121,0.0586,nn,nn00835639,2022-03-19T03:57:24.331Z,"5 km SE of Sierraville, California",earthquake,,0.8,0.16,7,automatic,nn,nn
 2022-03-19T03:39:41.280Z,38.8333321,-122.817337,1.62,0.85,md,8,88,0.01143,0.01,nc,nc73707506,2022-03-19T03:41:18.552Z,"8km NW of The Geysers, CA",earthquake,0.34,0.87,,1,automatic,nc,nc
 2022-03-19T03:31:13.614Z,38.7252,-119.6101,9.2,0.8,ml,10,109.36,0.156,0.0959,nn,nn00835638,2022-03-19T03:34:34.573Z,"6 km WNW of Topaz Lake, Nevada",earthquake,,1.2,0.56,3,automatic,nn,nn
 2022-03-19T03:26:52.673Z,59.6666,-152.9406,97.8,1.9,ml,,,,0.46,ak,ak0223l1v20j,2022-03-19T03:42:08.654Z,"63 km WSW of Anchor Point, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -296,4 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T04:14:07.850Z,19.2115001678467,-155.397994995117,31.9200000762939,2.15,ml,39,161,,0.140000001,hv,hv72954222,2022-03-18T04:19:38.850Z,"8 km E of Pāhala, Hawaii",earthquake,0.62,0.939999998,0.1,3,automatic,hv,hv
 2022-03-18T04:09:08.529Z,38.1843,-117.7827,10.7,1.7,ml,15,119.73,0.123,0.1563,nn,nn00835549,2022-03-18T21:09:08.031Z,"36 km SE of Mina, Nevada",earthquake,,1.6,0.21,7,reviewed,nn,nn
 2022-03-18T04:03:26.600Z,35.4475,-97.29366667,5.87,2.01,ml,93,25,0.1250754559,0.2,ok,ok2022fjeg,2022-03-18T12:33:15.661Z,"5 km SSE of Nicoma Park, Oklahoma",earthquake,,0.3,0.22,34,reviewed,ok,ok
-2022-03-18T03:54:46.343Z,63.4703,-151.3495,0,1.4,ml,,,,1.25,ak,ak0223jehp2c,2022-03-18T04:13:29.104Z,"20 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
