@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-19T14:56:10.638Z,38.1832,-117.7621,11.2,0.9,ml,8,161.61,0.115,0.0598,nn,nn00835676,2022-03-19T15:00:27.408Z,"38 km SE of Mina, Nevada",earthquake,,2.3,0.21,4,automatic,nn,nn
 2022-03-19T14:39:48.836Z,60.7355,-150.8275,14.2,1.6,ml,,,,0.27,ak,ak0223l8hloj,2022-03-19T14:42:46.879Z,"22 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-19T14:39:12.085Z,38.1785,-117.8991,16,0.6,ml,8,172.96,0.062,0.2161,nn,nn00835675,2022-03-19T14:43:17.124Z,"29 km SE of Mina, Nevada",earthquake,,1.4,0.47,5,automatic,nn,nn
 2022-03-19T14:32:26.920Z,33.4021667,-116.3655,5.99,0.77,ml,19,140,0.131,0.18,ci,ci39972335,2022-03-19T14:36:08.464Z,"16km N of Borrego Springs, CA",earthquake,0.42,1.59,0.154,15,automatic,ci,ci
@@ -243,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T15:08:55.280Z,45.325833333333335,-121.6875,5.01,1.6500000000000001,ml,12,120,0.01891,0.13,uw,uw61814382,2022-03-18T16:43:20.630Z,"5 km ENE of Government Camp, Oregon",earthquake,0.33,0.3,0.20544978349574494,7,reviewed,uw,uw
 2022-03-18T15:07:45.609Z,38.1746,-117.8207,8.6,1.4,ml,15,113.26,0.115,0.1372,nn,nn00835599,2022-03-19T02:39:24.197Z,"34 km SE of Mina, Nevada",earthquake,,2.8,0.43,6,reviewed,nn,nn
 2022-03-18T15:04:03.664Z,-8.134,106.7765,39.9,4.8,mb,,78,1.092,0.96,us,us6000h5q7,2022-03-18T18:08:30.058Z,"126 km SW of Banjar, Indonesia",earthquake,5.3,7.2,0.077,52,reviewed,us,us
-2022-03-18T15:03:54.980Z,33.678,-116.7373333,13.86,0.37,ml,17,116,0.03831,0.09,ci,ci39971167,2022-03-18T17:51:54.865Z,"7km SSW of Idyllwild, CA",earthquake,0.39,0.42,0.163,6,reviewed,ci,ci
-2022-03-18T15:00:08.630Z,35.6881667,-117.4906667,7.09,0.84,ml,19,107,0.1041,0.09,ci,ci39971159,2022-03-18T17:49:35.585Z,"12km SW of Searles Valley, CA",earthquake,0.2,0.48,0.1,8,reviewed,ci,ci
-2022-03-18T14:57:38.760Z,47.765,-120.00983333333333,1.69,1.05,ml,10,64,0.04553,0.07,uw,uw61814377,2022-03-18T18:04:53.160Z,"4 km SSW of Chelan Falls, Washington",earthquake,0.24,0.87,0.11307595302598383,5,reviewed,uw,uw
