@@ -4148,3 +4148,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T11:14:49.668Z,59.3008,-151.7916,39.2,2.2,ml,,,,0.57,ak,ak0223l6jy12,2022-03-19T11:17:01.895Z,"6 km SSE of Port Graham, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-19T11:10:13.910Z,35.7245,-117.5601667,10.55,0.76,ml,11.0,151.0,0.09598,0.12,ci,ci39972111,2022-03-19T11:13:44.645Z,"15km WSW of Searles Valley, CA",earthquake,0.4,0.74,0.095,6.0,automatic,ci,ci
 2022-03-19T09:54:12.030Z,17.9626666666667,-66.9601666666667,11.08,2.77,md,26.0,175.0,,0.16,pr,pr71340848,2022-03-19T11:15:10.120Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.47,0.35,0.224136642273366,12.0,reviewed,pr,pr
+2022-03-19T11:21:46.499Z,59.3629,-152.7033,69.3,2.3,ml,,,,0.51,ak,ak0223l6lftr,2022-03-19T11:28:10.655Z,"44 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
