@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T20:30:19.340Z,38.8376656,-122.8001633,1.51,0.85,md,9,90,0.007704,0.01,nc,nc73707896,2022-03-19T20:59:25.442Z,"7km WNW of Cobb, CA",earthquake,0.39,0.84,,1,automatic,nc,nc
 2022-03-19T20:24:32.850Z,38.8180008,-122.7959976,3.34,0.67,md,15,46,0.01003,0.02,nc,nc73707891,2022-03-19T20:48:15.366Z,"6km NW of The Geysers, CA",earthquake,0.31,0.75,0.13,2,automatic,nc,nc
 2022-03-19T20:18:25.819Z,61.3331,-150.6018,54.8,1.7,ml,,,,0.42,ak,ak0223lbxnh7,2022-03-19T20:47:05.945Z,"23 km SSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-03-19T20:17:01.154Z,26.9578,126.4294,10,4.7,mb,,77,1.65,0.91,us,us6000h62p,2022-03-19T21:13:48.040Z,"149 km WNW of Naha, Japan",earthquake,6.9,1.9,0.089,39,reviewed,us,us
 2022-03-19T20:04:39.844Z,65.9807,-148.0449,8.9,1.6,ml,,,,0.94,ak,ak0223lbuoj3,2022-03-19T20:14:24.444Z,"47 km E of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-19T19:47:39.220Z,35.7151667,-117.5018333,7.33,0.62,ml,10,167,0.127,0.1,ci,ci39972503,2022-03-19T19:51:09.206Z,"11km WSW of Searles Valley, CA",earthquake,0.51,1.38,0.107,5,automatic,ci,ci
 2022-03-19T19:37:46.810Z,38.7853317,-122.7553329,1.94,0.7,md,11,75,0.01469,0.02,nc,nc73707876,2022-03-19T20:04:16.114Z,"1km N of The Geysers, CA",earthquake,0.3,0.61,0.16,2,automatic,nc,nc
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T17:24:21.854Z,57.9376,-155.0106,82.7,2.3,ml,,,,0.3,ak,ak0223la6mob,2022-03-19T17:37:00.579Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-03-19T17:22:36.050Z,19.1915,-155.504333333333,35.62,3.5,ml,58,71,,0.11,hv,hv72955787,2022-03-19T20:26:46.205Z,"Hawaii region, Hawaii",earthquake,0.43,0.53,0.189952224556583,39,reviewed,hv,hv
 2022-03-19T17:09:09.090Z,38.8213348,-122.7636642,2.21,0.86,md,13,120,0.01035,0.03,nc,nc73707831,2022-03-19T17:29:30.311Z,"4km W of Cobb, CA",earthquake,0.3,0.61,0.01,2,automatic,nc,nc
-2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-19T21:10:33.223Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
+2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-19T21:20:54.286Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
 2022-03-19T16:32:26.186Z,-6.5101,131.8206,10,4.7,mb,,90,1.551,0.92,us,us6000h61w,2022-03-19T17:31:38.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,6.1,1.8,0.138,18,reviewed,us,us
 2022-03-19T16:21:11.570Z,-4.996,153.3178,61.09,4.9,mb,,99,7.92,1.14,us,us6000h61u,2022-03-19T16:47:52.040Z,"136 km ESE of Kokopo, Papua New Guinea",earthquake,11,5.5,0.066,73,reviewed,us,us
 2022-03-19T16:18:32.090Z,38.8381653,-122.8233337,2.01,1.15,md,19,63,0.009501,0.02,nc,nc73707806,2022-03-19T17:41:16.243Z,"9km WNW of Cobb, CA",earthquake,0.25,0.45,0.03,3,automatic,nc,nc
@@ -88,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T10:47:08.970Z,35.7583333,-117.586,9.78,1.46,ml,21,125,0.05804,0.16,ci,ci39972095,2022-03-19T15:51:29.340Z,"16km W of Searles Valley, CA",earthquake,0.29,0.63,0.212,21,reviewed,ci,ci
 2022-03-19T10:46:34.870Z,17.9178333333333,-66.8948333333333,14.11,2.15,md,4,228,,0.03,pr,pr71340853,2022-03-19T12:58:53.750Z,"6 km SSE of Guánica, Puerto Rico",earthquake,1.51,0.51,0.153816219536715,3,reviewed,pr,pr
 2022-03-19T10:41:33.650Z,36.0631676,-120.1926651,7.53,1.34,md,7,217,0.09475,0.07,nc,nc73707641,2022-03-19T12:07:14.285Z,"9km NW of Avenal, CA",earthquake,1.84,1.05,0.03,3,automatic,nc,nc
-2022-03-19T10:26:39.022Z,38.1629,-117.8724,4.1,1,ml,9,110.91,0.073,0.2906,nn,nn00835652,2022-03-19T10:30:16.678Z,"Nevada",earthquake,,1,1.03,5,automatic,nn,nn
+2022-03-19T10:26:39.022Z,38.1629,-117.8724,4.1,1,ml,9,110.91,0.073,0.2906,nn,nn00835652,2022-03-19T10:30:16.678Z,"32 km SE of Mina, Nevada",earthquake,,1,1.03,5,automatic,nn,nn
 2022-03-19T10:17:04.180Z,35.71,-117.5571667,3.97,0.54,ml,11,148,0.1105,0.16,ci,ci39972087,2022-03-19T15:50:59.272Z,"15km NE of Ridgecrest, CA",earthquake,0.43,1.33,0.08,7,reviewed,ci,ci
 2022-03-19T10:16:06.020Z,33.437,-116.6195,6.04,0.66,ml,34,38,0.06002,0.15,ci,ci39972079,2022-03-19T15:51:01.524Z,"14km SSE of Anza, CA",earthquake,0.22,0.46,0.116,21,reviewed,ci,ci
 2022-03-19T10:06:03.930Z,37.5675,-118.7881667,5.88,1.46,md,15,99,0.03954,0.05,nc,nc73707631,2022-03-19T19:17:25.832Z,"10km W of Toms Place, CA",earthquake,0.36,0.44,0.204,15,reviewed,nc,nc
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T21:42:19.850Z,37.448,-118.8246667,2.02,0.66,md,15,142,0.1418,0.04,nc,nc73707411,2022-03-19T03:26:00.210Z,"18km SW of Toms Place, CA",earthquake,0.45,2.1,0.138,13,reviewed,nc,nc
 2022-03-18T21:30:15.660Z,33.1933333,-116.003,7.93,2.83,ml,106,21,0.02899,0.22,ci,ci39971647,2022-03-19T01:59:39.711Z,"12km SSW of Salton City, CA",earthquake,0.12,0.39,0.186,30,reviewed,ci,ci
 2022-03-18T21:26:17.390Z,37.4076667,-118.5251667,17.55,1.22,md,6,136,0.0623,0.03,nc,nc73707401,2022-03-19T06:00:13.190Z,"6km E of Round Valley, CA",earthquake,1.74,2.28,0.36,6,reviewed,nc,nc
-2022-03-18T21:23:15.990Z,49.345166666666664,-120.48,-0.51,1.3900000000000001,ml,7,212,0.5595,0.33,uw,uw61814482,2022-03-18T23:38:48.410Z,"12 km S of Princeton, Canada",explosion,2.98,31.61,0.04575463499604315,2,reviewed,uw,uw
-2022-03-18T21:13:35.930Z,38.8136673,-122.8258362,2.24,0.38,md,14,62,0.005457,0.02,nc,nc73707396,2022-03-18T21:35:42.966Z,"7km NW of The Geysers, CA",earthquake,0.29,0.64,0.32,2,automatic,nc,nc
