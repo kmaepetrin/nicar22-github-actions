@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-19T13:31:36.220Z,35.3658333,-118.5808333,1.11,1.69,ml,31,41,0.1505,0.23,ci,ci39972271,2022-03-19T13:35:22.638Z,"26km SSW of Bodfish, CA",earthquake,0.29,0.82,0.225,27,automatic,ci,ci
+2022-03-19T13:41:25.780Z,32.6293335,-115.791832,7.81,1.76,ml,34,123,0.05871,0.19,ci,ci39972279,2022-03-19T13:44:53.453Z,"20km WNW of Progreso, B.C., MX",earthquake,0.42,0.67,0.309,11,automatic,ci,ci
+2022-03-19T13:40:54.210Z,36.5928345,-121.1881638,6.45,2.08,md,26,124,0.02121,0.09,nc,nc73707716,2022-03-19T13:44:21.054Z,"8km NNW of Pinnacles, CA",earthquake,0.3,0.61,0.16,23,automatic,nc,nc
+2022-03-19T13:38:58.792Z,59.7503,-152.7908,90.8,1.6,ml,,,,0.4,ak,ak0223l7vz2h,2022-03-19T13:41:21.076Z,"53 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-19T13:31:36.220Z,35.3658333,-118.5808333,1.11,1.69,ml,31,41,0.1505,0.23,ci,ci39972271,2022-03-19T13:42:41.470Z,"26km SSW of Bodfish, CA",earthquake,0.29,0.82,0.225,27,automatic,ci,ci
 2022-03-19T13:16:32.514Z,62.8361,-150.5243,85.7,1.6,ml,,,,0.56,ak,ak0223l7r7cj,2022-03-19T13:20:23.569Z,"Central Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-19T12:58:28.930Z,19.1923332214355,-155.462005615234,34.189998626709,2.0999999,md,49,108,,0.140000001,hv,hv72955622,2022-03-19T13:01:39.280Z,"2 km SE of Pāhala, Hawaii",earthquake,0.46,0.600000024,1.63999999,22,automatic,hv,hv
 2022-03-19T12:58:03.960Z,38.5198326,-119.5338364,1.1,2.63,md,11,79,0.0669,0.1,nc,nc73707696,2022-03-19T13:34:47.919Z,"5km W of Walker, CA",earthquake,0.36,1.64,0.2,13,automatic,nc,nc
@@ -41,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T09:58:26.758Z,58.1593,-151.2738,35,2.9,ml,,195,0.793,0.34,us,us6000h5zt,2022-03-19T10:32:01.040Z,"77 km ENE of Ouzinkie, Alaska",earthquake,5.3,2,0.043,72,reviewed,us,us
 2022-03-19T09:57:22.920Z,32.2468333,-116.3778333,4.01,1.37,ml,12,94,0.2509,0.13,ci,ci39972071,2022-03-19T10:00:55.248Z,"41km SSE of Campo, CA",earthquake,0.48,31.61,0.196,12,automatic,ci,ci
 2022-03-19T09:54:12.030Z,17.9626666666667,-66.9601666666667,11.08,2.77,md,26,175,,0.16,pr,pr71340848,2022-03-19T11:15:10.120Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.47,0.35,0.224136642273366,12,reviewed,pr,pr
-2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-19T13:08:36.414Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
+2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-19T13:41:47.372Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
 2022-03-19T09:48:42.305Z,35.26375961,-97.87870026,5,1.53,ml,10,92.37342834,0.09236814082,0.976279575,ok,ok2022flle,2022-03-19T09:51:26.163Z,"6 km WSW of Tuttle, Oklahoma",earthquake,4.607692445,,,6,automatic,ok,ok
 2022-03-19T09:35:53.700Z,19.1728324890137,-155.500503540039,34.9900016784668,1.87,md,34,238,,0.119999997,hv,hv72955462,2022-03-19T09:39:11.100Z,"4 km SW of Pāhala, Hawaii",earthquake,0.58,0.680000007,1.66999996,6,automatic,hv,hv
 2022-03-19T09:31:17.006Z,-28.0441,-67.0952,199.32,4.2,mb,,68,2.171,0.58,us,us6000h5zp,2022-03-19T09:57:36.040Z,"36 km S of Londres, Argentina",earthquake,8.5,13.3,0.236,5,reviewed,us,us
