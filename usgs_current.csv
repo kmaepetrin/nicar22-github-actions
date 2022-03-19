@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-19T21:51:01.180Z,38.7478333,-122.7229996,0.02,1.29,md,14,191,0.01382,0.07,nc,nc73707921,2022-03-19T21:52:35.978Z,"4km SW of Anderson Springs, CA",earthquake,0.6,0.61,0.07,4,automatic,nc,nc
 2022-03-19T21:38:43.890Z,34.4514999,-117.9058304,11.23,0.8,ml,17,68,0.04105,0.09,ci,ci39972535,2022-03-19T21:42:13.887Z,"6km S of Pearblossom, CA",earthquake,0.37,0.58,0.218,5,automatic,ci,ci
 2022-03-19T21:35:33.590Z,34.7743333,-118.9505,13.29,1.33,ml,14,77,0.01554,0.19,ci,ci39972527,2022-03-19T21:39:09.820Z,"5km S of Frazier Park, CA",earthquake,0.51,0.74,0.235,21,automatic,ci,ci
-2022-03-19T21:26:26.469Z,59.7723,-153.1457,104.7,2,ml,,,,0.91,ak,ak0223lcksvs,2022-03-19T21:38:29.169Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-19T21:24:17.810Z,-25.3507,-175.9047,10,6.3,mww,,31,4.288,1.78,us,us6000h62z,2022-03-19T21:44:37.040Z,"south of Tonga",earthquake,8.6,1.8,0.045,48,reviewed,us,us
+2022-03-19T21:26:26.469Z,59.7723,-153.1457,104.7,2,ml,,,,0.91,ak,ak0223lcksvs,2022-03-19T21:48:59.348Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-19T21:24:17.810Z,-25.3507,-175.9047,10,6.3,mww,,31,4.288,1.78,us,us6000h62z,2022-03-19T21:46:34.672Z,"south of Tonga",earthquake,8.6,1.8,0.045,48,reviewed,us,us
 2022-03-19T21:13:46.930Z,17.944,-67.0246666666667,7.36,2.29,md,6,249,,0.19,pr,pr71340888,2022-03-19T21:39:39.430Z,"4 km SE of La Parguera, Puerto Rico",earthquake,1.33,0.47,0.0084752568862827,2,reviewed,pr,pr
 2022-03-19T20:37:01.400Z,38.8224983,-122.8026657,2.5,0.84,md,9,86,0.005856,0.01,nc,nc73707906,2022-03-19T20:38:36.366Z,"6km NW of The Geysers, CA",earthquake,0.52,0.88,,1,automatic,nc,nc
 2022-03-19T20:35:22.090Z,19.1905002593994,-155.395492553711,31.7199993133545,1.74000001,md,39,172,,0.119999997,hv,hv72955902,2022-03-19T20:38:39.110Z,"8 km E of Pāhala, Hawaii",earthquake,0.71,0.879999995,0.870000005,3,automatic,hv,hv
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T17:24:21.854Z,57.9376,-155.0106,82.7,2.3,ml,,,,0.3,ak,ak0223la6mob,2022-03-19T17:37:00.579Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-03-19T17:22:36.050Z,19.1915,-155.504333333333,35.62,3.5,ml,58,71,,0.11,hv,hv72955787,2022-03-19T20:26:46.205Z,"Hawaii region, Hawaii",earthquake,0.43,0.53,0.189952224556583,39,reviewed,hv,hv
 2022-03-19T17:09:09.090Z,38.8213348,-122.7636642,2.21,0.86,md,13,120,0.01035,0.03,nc,nc73707831,2022-03-19T17:29:30.311Z,"4km W of Cobb, CA",earthquake,0.3,0.61,0.01,2,automatic,nc,nc
-2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-19T21:46:37.973Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
+2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-19T21:51:41.433Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
 2022-03-19T16:32:26.186Z,-6.5101,131.8206,10,4.7,mb,,90,1.551,0.92,us,us6000h61w,2022-03-19T17:31:38.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,6.1,1.8,0.138,18,reviewed,us,us
 2022-03-19T16:21:11.570Z,-4.996,153.3178,61.09,4.9,mb,,99,7.92,1.14,us,us6000h61u,2022-03-19T16:47:52.040Z,"136 km ESE of Kokopo, Papua New Guinea",earthquake,11,5.5,0.066,73,reviewed,us,us
 2022-03-19T16:18:32.090Z,38.8381653,-122.8233337,2.01,1.15,md,19,63,0.009501,0.02,nc,nc73707806,2022-03-19T17:41:16.243Z,"9km WNW of Cobb, CA",earthquake,0.25,0.45,0.03,3,automatic,nc,nc
@@ -218,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T22:07:21.789Z,62.3743,-151.1717,75.1,1.4,ml,,,,0.5,ak,ak0223jpit0y,2022-03-18T22:30:07.809Z,"25 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-18T22:00:36.579Z,63.2442,-150.3894,62.6,1.6,ml,,,,1.3,ak,ak0223jphc2s,2022-03-18T22:14:44.039Z,"73 km WSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-18T21:55:37.120Z,35.8335,-117.6676667,5.67,0.44,ml,12,80,0.05971,0.06,ci,ci39971671,2022-03-18T22:40:07.407Z,"24km N of Ridgecrest, CA",earthquake,0.13,0.41,0.028,4,reviewed,ci,ci
-2022-03-18T21:50:15.760Z,46.715333333333334,-123.48533333333333,-0.25,1.86,ml,19,47,0.05672,0.27,uw,uw61814487,2022-03-19T00:24:09.860Z,"14 km ENE of Willapa, Washington",explosion,0.58,31.61,0.11221571166404132,3,reviewed,uw,uw
-2022-03-18T21:48:28.880Z,36.4891667,-117.929,6.43,2.86,ml,48,34,0.1185,0.19,ci,ci39971663,2022-03-18T23:25:58.478Z,"17km SE of Lone Pine, CA",earthquake,0.16,0.62,0.131,91,reviewed,ci,ci
-2022-03-18T21:47:36.810Z,19.1933326721191,-155.384674072266,30.7199993133545,2.11999989,md,41,163,,0.119999997,hv,hv72954997,2022-03-18T21:50:35.500Z,"9 km E of Pāhala, Hawaii",earthquake,0.62,1.01999998,0.439999998,21,automatic,hv,hv
