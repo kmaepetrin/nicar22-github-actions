@@ -4248,3 +4248,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T22:21:53.350Z,35.8866667,-117.6975,2.52,1.41,ml,19.0,74.0,0.07209,0.15,ci,ci39972559,2022-03-19T22:25:27.500Z,"20km ESE of Little Lake, CA",earthquake,0.23,0.37,0.137,17.0,automatic,ci,ci
 2022-03-19T21:05:08.066Z,-30.3446,-72.2281,9.8,4.7,mwr,,144.0,0.608,0.78,us,us6000h62t,2022-03-19T22:43:10.040Z,"95 km WSW of Coquimbo, Chile",earthquake,3.9,3.8,0.034,83.0,reviewed,us,us
 2022-03-19T22:22:52.287Z,6.8451,-73.0802,146.18,4.5,mb,,47.0,0.946,0.61,us,us6000h63b,2022-03-19T23:05:14.040Z,"12 km N of Jordán, Colombia",earthquake,5.9,6.4,0.125,19.0,reviewed,us,us
+2022-03-19T23:20:47.344Z,60.2072,-140.3721,0.0,1.6,ml,,,,0.95,ak,ak0223ldqffp,2022-03-19T23:23:20.191Z,"81 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
