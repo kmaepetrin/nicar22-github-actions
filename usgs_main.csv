@@ -4295,3 +4295,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T12:56:29.240Z,46.26716666666667,-119.52816666666666,7.7,0.2,ml,7.0,191.0,0.06482,0.04,uw,uw61814582,2022-03-20T04:34:26.210Z,"3 km W of Benton City, Washington",earthquake,0.53,0.32,0.0745288897915924,4.0,reviewed,uw,uw
 2022-03-20T04:51:03.331Z,60.494,-143.032,0.0,1.6,ml,,,,0.88,ak,ak0223mq537h,2022-03-20T04:53:28.214Z,"104 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-20T02:14:49.640Z,37.4361667,-118.5001667,5.67,0.95,md,15.0,92.0,0.05713,0.04,nc,nc73707981,2022-03-20T04:55:33.098Z,"9km ENE of Round Valley, CA",earthquake,0.28,0.73,0.228,11.0,reviewed,nc,nc
+2022-03-20T04:36:33.831Z,34.3705,87.7001,10.0,4.3,mb,,126.0,10.71,0.94,us,us6000h64p,2022-03-20T04:59:53.040Z,western Xizang,earthquake,11.9,2.0,0.154,14.0,reviewed,us,us
