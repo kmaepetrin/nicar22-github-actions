@@ -198,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T10:16:06.020Z,33.437,-116.6195,6.04,0.66,ml,34,38,0.06002,0.15,ci,ci39972079,2022-03-19T15:51:01.524Z,"14km SSE of Anza, CA",earthquake,0.22,0.46,0.116,21,reviewed,ci,ci
 2022-03-19T10:06:03.930Z,37.5675,-118.7881667,5.88,1.46,md,15,99,0.03954,0.05,nc,nc73707631,2022-03-19T19:17:25.832Z,"10km W of Toms Place, CA",earthquake,0.36,0.44,0.204,15,reviewed,nc,nc
 2022-03-19T09:59:30.941Z,36.8562,5.2066,10,5.2,mww,,27,3.527,0.54,us,us6000h5zu,2022-03-19T22:07:39.108Z,"15 km NE of Bejaïa, Algeria",earthquake,6.6,1.8,0.059,28,reviewed,us,us
-2022-03-19T09:58:26.758Z,58.1593,-151.2738,35,2.9,ml,,195,0.793,0.34,us,us6000h5zt,2022-03-19T10:32:01.040Z,"77 km ENE of Ouzinkie, Alaska",earthquake,5.3,2,0.043,72,reviewed,us,us
-2022-03-19T09:57:22.920Z,32.2468333,-116.3778333,4.01,1.37,ml,12,94,0.2509,0.13,ci,ci39972071,2022-03-19T10:00:55.248Z,"41km SSE of Campo, CA",earthquake,0.48,31.61,0.196,12,automatic,ci,ci
-2022-03-19T09:54:12.030Z,17.9626666666667,-66.9601666666667,11.08,2.77,md,26,175,,0.16,pr,pr71340848,2022-03-19T11:15:10.120Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.47,0.35,0.224136642273366,12,reviewed,pr,pr
-2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-20T03:18:50.169Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
