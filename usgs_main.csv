@@ -4407,3 +4407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T17:47:36.465Z,60.0311,-141.1605,4.6,2.3,ml,,,,0.76,ak,ak0223mxuxt8,2022-03-20T17:51:50.327Z,"96 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-20T17:47:05.618Z,60.2677,-152.1088,72.4,1.8,ml,,,,0.74,ak,ak0223mxuvd5,2022-03-20T17:52:02.662Z,"34 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-20T17:44:48.500Z,38.8154984,-122.7949982,2.34,0.89,md,25.0,38.0,0.007523,0.04,nc,nc73708121,2022-03-20T17:46:22.923Z,"5km NW of The Geysers, CA",earthquake,0.21,0.43,0.14,4.0,automatic,nc,nc
+2022-03-20T17:52:38.956Z,38.207,-117.7625,6.2,1.9,ml,18.0,124.44,0.137,0.224,nn,nn00835695,2022-03-20T17:56:30.197Z,Nevada,earthquake,,0.6,0.18,9.0,automatic,nn,nn
