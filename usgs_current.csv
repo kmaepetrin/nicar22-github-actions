@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-20T05:39:42.930Z,38.793335,-122.8068314,2.84,1.75,md,35,78,0.005801,0.04,nc,nc73708026,2022-03-20T05:42:48.180Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.37,0.09,10,automatic,nc,nc
 2022-03-20T05:15:28.290Z,35.98432541,-97.19489288,4.141295433,1.57,ml,24,72.74812317,0.07867216319,0.2176866855,ok,ok2022fmxq,2022-03-20T05:18:22.973Z,"4 km NE of Coyle, Oklahoma",earthquake,2.438050876,2.15023545,,18,automatic,ok,ok
 2022-03-20T05:13:02.856Z,60.2139,-140.381,0,1.7,ml,,,,0.78,ak,ak0223mqidlg,2022-03-20T05:15:38.379Z,"82 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-20T04:51:03.331Z,60.494,-143.032,0,1.6,ml,,,,0.88,ak,ak0223mq537h,2022-03-20T04:53:28.214Z,"104 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T17:24:21.854Z,57.9376,-155.0106,82.7,2.3,ml,,,,0.3,ak,ak0223la6mob,2022-03-19T17:37:00.579Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-03-19T17:22:36.050Z,19.1915,-155.504333333333,35.62,3.5,ml,58,71,,0.11,hv,hv72955787,2022-03-19T22:21:47.669Z,"Hawaii region, Hawaii",earthquake,0.43,0.53,0.189952224556583,39,reviewed,hv,hv
 2022-03-19T17:09:09.090Z,38.8213348,-122.7636642,2.21,0.86,md,13,120,0.01035,0.03,nc,nc73707831,2022-03-19T17:29:30.311Z,"4km W of Cobb, CA",earthquake,0.3,0.61,0.01,2,automatic,nc,nc
-2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-20T05:37:59.849Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
+2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-20T05:43:10.549Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
 2022-03-19T16:52:45.850Z,47.90266666666667,-121.845,16.19,1.18,ml,13,99,0.03071,0.07,uw,uw61814612,2022-03-20T04:09:09.800Z,"3 km NW of North Sultan, Washington",earthquake,0.28,0.67,0.09763322560432663,3,reviewed,uw,uw
 2022-03-19T16:32:26.186Z,-6.5101,131.8206,10,4.7,mb,,90,1.551,0.92,us,us6000h61w,2022-03-19T17:31:38.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,6.1,1.8,0.138,18,reviewed,us,us
 2022-03-19T16:21:11.570Z,-4.996,153.3178,61.09,4.9,mb,,99,7.92,1.14,us,us6000h61u,2022-03-19T16:47:52.040Z,"136 km ESE of Kokopo, Papua New Guinea",earthquake,11,5.5,0.066,73,reviewed,us,us
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T05:58:02.430Z,17.9366666666667,-67.0213333333333,9.71,2.17,md,3,236,,0.02,pr,pr71340828,2022-03-19T06:15:44.940Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,2.61,0.9,0.114856619740067,3,reviewed,pr,pr
 2022-03-19T05:48:47.127Z,64.7704,-148.4221,14.8,1.1,ml,,,,0.42,ak,ak0223l36mjq,2022-03-19T05:51:02.007Z,"21 km WSW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-19T05:46:05.860Z,34.0456667,-117.2401667,13.4,0.92,ml,27,100,0.1238,0.18,ci,ci39971967,2022-03-19T05:49:45.913Z,"2km E of Loma Linda, CA",earthquake,0.33,0.88,0.212,23,automatic,ci,ci
-2022-03-19T05:44:17.351Z,24.9544,-45.4785,10,5,mb,,123,17.655,0.5,us,us6000h5yv,2022-03-19T06:02:54.040Z,"northern Mid-Atlantic Ridge",earthquake,12,1.9,0.042,184,reviewed,us,us
-2022-03-19T05:43:54.340Z,37.5173333,-118.857,6.43,0.35,md,8,318,0.07588,0.03,nc,nc73707541,2022-03-19T11:49:13.174Z,"16km WSW of Toms Place, CA",earthquake,0.99,1.68,0.11,7,reviewed,nc,nc
