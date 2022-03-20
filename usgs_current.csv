@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-20T11:17:40.580Z,38.7734985,-122.7143326,1.81,0.86,md,9,95,0.01291,0.02,nc,nc73708051,2022-03-20T11:19:17.192Z,"2km W of Anderson Springs, CA",earthquake,0.33,0.46,0.31,4,automatic,nc,nc
+2022-03-20T11:29:57.200Z,38.8188324,-122.8249969,1.9,0.85,md,8,90,0.008929,0.01,nc,nc73708061,2022-03-20T11:31:32.319Z,"8km NW of The Geysers, CA",earthquake,0.49,1.02,,1,automatic,nc,nc
+2022-03-20T11:29:17.990Z,38.8339996,-122.8073349,1.91,1.21,md,24,50,0.0108,0.04,nc,nc73708056,2022-03-20T11:31:32.471Z,"7km W of Cobb, CA",earthquake,0.21,0.41,0.05,4,automatic,nc,nc
+2022-03-20T11:17:40.580Z,38.7734985,-122.7143326,1.81,0.86,md,9,95,0.01291,0.02,nc,nc73708051,2022-03-20T11:34:12.705Z,"2km W of Anderson Springs, CA",earthquake,0.33,0.46,0.31,4,automatic,nc,nc
 2022-03-20T11:05:12.800Z,33.3846667,-116.415,8.8,0.75,ml,18,103,0.09096,0.18,ci,ci39972887,2022-03-20T11:08:47.864Z,"15km NNW of Borrego Springs, CA",earthquake,0.62,1.68,0.112,11,automatic,ci,ci
 2022-03-20T10:56:36.890Z,35.6866667,-117.475,3.64,0.88,ml,9,164,0.1005,0.14,ci,ci39972879,2022-03-20T11:00:03.917Z,"11km SW of Searles Valley, CA",earthquake,0.75,1.29,0.163,7,automatic,ci,ci
 2022-03-20T10:54:48.540Z,19.2458324432373,-155.394836425781,32.6199989318848,2.08,ml,47,136,,0.140000001,hv,hv72956597,2022-03-20T11:00:20.820Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.720000029,0.16,3,automatic,hv,hv
@@ -129,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T17:24:21.854Z,57.9376,-155.0106,82.7,2.3,ml,,,,0.3,ak,ak0223la6mob,2022-03-19T17:37:00.579Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-03-19T17:22:36.050Z,19.1915,-155.504333333333,35.62,3.5,ml,58,71,,0.11,hv,hv72955787,2022-03-19T22:21:47.669Z,"Hawaii region, Hawaii",earthquake,0.43,0.53,0.189952224556583,39,reviewed,hv,hv
 2022-03-19T17:09:09.090Z,38.8213348,-122.7636642,2.21,0.86,md,13,120,0.01035,0.03,nc,nc73707831,2022-03-19T17:29:30.311Z,"4km W of Cobb, CA",earthquake,0.3,0.61,0.01,2,automatic,nc,nc
-2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-20T11:13:51.589Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
+2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-20T11:35:45.221Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
 2022-03-19T16:52:45.850Z,47.90266666666667,-121.845,16.19,1.18,ml,13,99,0.03071,0.07,uw,uw61814612,2022-03-20T04:09:09.800Z,"3 km NW of North Sultan, Washington",earthquake,0.28,0.67,0.09763322560432663,3,reviewed,uw,uw
 2022-03-19T16:49:16.300Z,36.7768333,-121.3265,9.15,1.01,md,13,133,0.07108,0.07,nc,nc73707816,2022-03-20T09:27:13.911Z,"2km SSW of Tres Pinos, CA",earthquake,0.35,0.78,0.211,10,reviewed,nc,nc
 2022-03-19T16:32:26.186Z,-6.5101,131.8206,10,4.7,mb,,90,1.551,0.92,us,us6000h61w,2022-03-19T17:31:38.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,6.1,1.8,0.138,18,reviewed,us,us
@@ -187,6 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T11:43:52.300Z,40.6038333,-122.1726667,12.75,1.5,md,11,69,0.0399,0.13,nc,nc73707671,2022-03-19T21:34:15.696Z,"5km N of Millville, CA",earthquake,0.44,0.49,0.181,11,reviewed,nc,nc
 2022-03-19T11:43:46.630Z,33.0361667,-116.3523333,15.6,0.56,ml,13,75,0.09115,0.22,ci,ci39972127,2022-03-19T11:47:24.438Z,"24km ESE of Julian, CA",earthquake,0.65,1.3,0.047,4,automatic,ci,ci
 2022-03-19T11:43:06.480Z,38.8129997,-122.8294983,1.41,0.36,md,8,123,0.004133,0.01,nc,nc73707666,2022-03-19T12:49:14.525Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.73,,1,automatic,nc,nc
-2022-03-19T11:36:30.223Z,39.544,-119.1635,6.7,1.3,ml,8,107.11,0.239,0.2453,nn,nn00835662,2022-03-19T11:40:37.789Z,"10 km SE of Fernley, Nevada",earthquake,,2.2,0.19,4,automatic,nn,nn
-2022-03-19T11:36:26.240Z,37.6373333,-118.9453333,2.88,0.28,md,11,156,0.029,0.05,nc,nc73707661,2022-03-19T23:01:17.241Z,"3km E of Mammoth Lakes, CA",earthquake,0.35,0.59,0.06,10,reviewed,nc,nc
-2022-03-19T11:32:26.820Z,33.9803333,-116.9916667,14.18,0.82,ml,13,134,0.05951,0.09,ci,ci39972119,2022-03-19T11:36:03.922Z,"6km E of Calimesa, CA",earthquake,0.29,0.57,0.114,15,automatic,ci,ci
