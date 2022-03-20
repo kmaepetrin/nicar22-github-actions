@@ -4429,3 +4429,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T20:23:01.820Z,33.9898338,-117.1644974,15.44,1.63,ml,76.0,49.0,0.0429,0.16,ci,ci39973095,2022-03-20T20:25:23.964Z,"8km SSE of Redlands, CA",earthquake,0.22,0.36,0.427,28.0,automatic,ci,ci
 2022-03-20T08:58:05.580Z,45.327666666666666,-121.68733333333331,4.74,0.56,ml,9.0,190.0,0.01813,0.13,uw,uw61814807,2022-03-20T20:15:15.420Z,"5 km ENE of Government Camp, Oregon",earthquake,0.4,0.52,0.1464141126539001,3.0,reviewed,uw,uw
 2022-03-19T21:51:14.240Z,38.7586667,-122.7163333,1.76,0.19,md,21.0,56.0,0.007279,0.04,nc,nc73707926,2022-03-20T20:18:48.920Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.23,0.03,4.0,reviewed,nc,nc
+2022-03-20T20:33:03.799Z,61.0221,-147.3231,24.9,1.7,ml,,,,0.19,ak,ak0223mzk617,2022-03-20T20:34:21.283Z,"39 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-20T20:23:09.730Z,33.8106667,-117.1248333,2.81,1.38,ml,13.0,128.0,0.07889,0.39,ci,ci39973103,2022-03-20T20:26:54.129Z,"2km ENE of Nuevo, CA",earthquake,1.25,31.61,0.218,28.0,automatic,ci,ci
+2022-03-20T10:13:37.510Z,38.786,-122.7775,0.25,0.15,md,12.0,100.0,0.01085,0.03,nc,nc73708041,2022-03-20T20:27:49.815Z,"2km WNW of The Geysers, CA",earthquake,0.31,0.39,0.304,3.0,reviewed,nc,nc
