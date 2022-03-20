@@ -4432,3 +4432,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T20:33:03.799Z,61.0221,-147.3231,24.9,1.7,ml,,,,0.19,ak,ak0223mzk617,2022-03-20T20:34:21.283Z,"39 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-20T20:23:09.730Z,33.8106667,-117.1248333,2.81,1.38,ml,13.0,128.0,0.07889,0.39,ci,ci39973103,2022-03-20T20:26:54.129Z,"2km ENE of Nuevo, CA",earthquake,1.25,31.61,0.218,28.0,automatic,ci,ci
 2022-03-20T10:13:37.510Z,38.786,-122.7775,0.25,0.15,md,12.0,100.0,0.01085,0.03,nc,nc73708041,2022-03-20T20:27:49.815Z,"2km WNW of The Geysers, CA",earthquake,0.31,0.39,0.304,3.0,reviewed,nc,nc
+2022-03-20T20:37:32.640Z,19.1768341064453,-155.475173950195,32.6100006103516,2.48000002,md,47.0,79.0,,0.119999997,hv,hv72957057,2022-03-20T20:40:47.360Z,"2 km S of Pāhala, Hawaii",earthquake,0.54,0.829999983,1.36000001,35.0,automatic,hv,hv
+2022-03-20T11:01:47.200Z,57.0359,-162.5067,25.7,2.8,ml,,,,1.97,ak,ak0223mu0wi7,2022-03-20T20:35:09.922Z,"140 km NW of Nelson Lagoon, Alaska",earthquake,,5.5,,,reviewed,ak,ak
