@@ -4514,3 +4514,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T05:40:08.250Z,17.9898333333333,-66.8613333333333,9.65,2.64,md,15.0,153.0,,0.21,pr,pr71341038,2022-03-21T06:26:50.350Z,"2 km SSE of Palomas, Puerto Rico",earthquake,0.59,0.58,0.0710826665931275,5.0,reviewed,pr,pr
 2022-03-21T05:30:04.840Z,17.9476666666667,-66.9541666666667,7.91,2.08,md,4.0,217.0,,0.05,pr,pr71341033,2022-03-21T06:21:39.850Z,Puerto Rico region,earthquake,2.13,0.39,0.194186979036947,3.0,reviewed,pr,pr
 2022-03-21T06:49:59.792Z,65.5251,-148.3876,0.0,2.2,ml,,,,0.55,ak,ak0223oeuzu3,2022-03-21T06:52:06.878Z,"7 km E of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-21T06:48:52.869Z,38.6623,-118.4571,0.0,1.1,ml,8.0,308.89,0.246,0.2855,nn,nn00835720,2022-03-21T06:53:03.902Z,Nevada,earthquake,,63.1,0.1,4.0,automatic,nn,nn
+2022-03-21T06:22:01.730Z,17.976,-66.9065,11.43,2.03,md,4.0,177.0,,0.08,pr,pr71341043,2022-03-21T06:57:17.120Z,Puerto Rico region,earthquake,3.48,0.86,0.0943817130244164,3.0,reviewed,pr,pr
