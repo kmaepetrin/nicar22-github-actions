@@ -4603,3 +4603,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T15:32:56.610Z,19.0256671905518,-155.400329589844,35.0400009155273,2.0999999,md,43.0,214.0,,0.109999999,hv,hv72958072,2022-03-21T15:38:27.480Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.81,1.41999996,0.75,7.0,automatic,hv,hv
 2022-03-21T14:56:01.119Z,12.2414,144.4745,10.0,4.9,mb,,84.0,1.393,0.38,us,us6000h6ee,2022-03-21T15:33:39.040Z,"115 km S of Merizo Village, Guam",earthquake,6.9,1.7,0.046,154.0,reviewed,us,us
 2022-03-21T15:20:27.666Z,37.4891,72.2195,182.47,4.3,mb,,56.0,1.359,0.59,us,us6000h6ei,2022-03-21T15:49:23.040Z,"58 km E of Khorugh, Tajikistan",earthquake,4.1,8.1,0.122,20.0,reviewed,us,us
+2022-03-21T16:16:17.218Z,61.2857,-149.4498,18.8,2.9,ml,,,,0.8,ak,ak0223okm60n,2022-03-21T16:24:09.629Z,"7 km ESE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-21T16:02:33.397Z,-57.7939,-25.202,35.0,5.0,mb,,83.0,7.233,0.66,us,us6000h6eq,2022-03-21T16:20:53.040Z,South Sandwich Islands region,earthquake,11.6,2.0,0.091,43.0,reviewed,us,us
+2022-03-21T16:02:23.010Z,33.889,-118.7443333,11.53,2.85,ml,59.0,157.0,0.1574,0.25,ci,ci39973479,2022-03-21T16:23:12.073Z,"14km SSE of Malibu, CA",earthquake,0.56,0.93,0.15,26.0,automatic,ci,ci
