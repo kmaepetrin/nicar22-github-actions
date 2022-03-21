@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-21T09:07:02.310Z,19.2098331451416,-155.432159423828,32.5,2.8900001,md,46,133,,0.129999995,hv,hv72957702,2022-03-21T09:10:05.980Z,"4 km E of Pāhala, Hawaii",earthquake,0.54,0.670000017,0.479999989,38,automatic,hv,hv
+2022-03-21T09:06:04.660Z,19.8719997406006,-155.568328857422,20.9200000762939,1.87,md,29,122,,0.159999996,hv,hv72957697,2022-03-21T09:09:29.970Z,"20 km SSE of Waimea, Hawaii",earthquake,0.6,1,0.930000007,3,automatic,hv,hv
+2022-03-21T09:05:54.765Z,63.2023,-149.1673,53.8,1.6,ml,,,,1.06,ak,ak0223ogdyv5,2022-03-21T09:11:03.569Z,"23 km SSW of Cantwell, Alaska",earthquake,,9.8,,,automatic,ak,ak
+2022-03-21T08:58:34.698Z,61.6666,-149.6311,19.9,2.3,ml,,,,0.88,ak,ak0223og3ql1,2022-03-21T09:10:49.938Z,"4 km NNW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-21T08:42:27.205Z,60.9301,-149.2306,19.2,1.9,ml,,,,0.92,ak,ak0223og0aj7,2022-03-21T08:49:10.890Z,"3 km WSW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-21T08:31:58.860Z,40.7088318,-124.0093307,23.91,2.64,md,18,187,0.2676,0.12,nc,nc73708346,2022-03-21T08:53:11.476Z,"12km ESE of Pine Hills, CA",earthquake,0.91,2.9,0.09,9,automatic,nc,nc
+2022-03-21T08:31:58.860Z,40.7088318,-124.0093307,23.91,2.64,md,18,187,0.2676,0.12,nc,nc73708346,2022-03-21T09:09:16.559Z,"12km ESE of Pine Hills, CA",earthquake,0.91,2.9,0.09,9,automatic,nc,nc
+2022-03-21T08:26:01.660Z,18.0398333333333,-66.891,19.7,2.45,md,12,53,,0.21,pr,pr71341058,2022-03-21T09:10:28.258Z,"1 km E of Lluveras, Puerto Rico",earthquake,0.63,0.71,0.0436680238067986,4,reviewed,pr,pr
 2022-03-21T08:21:20.880Z,38.7868347,-122.7816696,1.29,0.57,md,7,109,0.007999,0.02,nc,nc73708341,2022-03-21T08:54:13.481Z,"2km WNW of The Geysers, CA",earthquake,0.39,0.66,0.34,2,automatic,nc,nc
 2022-03-21T07:51:25.420Z,37.5506668,-118.9968338,2.64,1.68,md,19,114,0.06498,0.02,nc,nc73708336,2022-03-21T08:26:14.335Z,"10km S of Mammoth Lakes, CA",earthquake,0.32,1.32,0.11,18,automatic,nc,nc
 2022-03-21T07:31:26.060Z,35.8956667,-117.6908333,3.04,0.64,ml,8,79,0.0616,0.14,ci,ci39973319,2022-03-21T07:35:02.980Z,"20km ESE of Little Lake, CA",earthquake,0.52,0.8,0.108,4,automatic,ci,ci
@@ -10,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T07:05:11.466Z,59.9937,-151.6555,30.8,1.5,ml,,,,0.56,ak,ak0223of6w7i,2022-03-21T07:12:23.171Z,"6 km S of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-21T06:55:11.000Z,17.9488333333333,-66.9373333333333,13.86,2.05,md,3,218,,0.04,pr,pr71341053,2022-03-21T07:44:18.600Z,"4 km SW of Guánica, Puerto Rico",earthquake,2.75,1.03,0.138816509403991,3,reviewed,pr,pr
 2022-03-21T06:49:59.814Z,65.536,-148.3694,4.5,2.1,ml,,,,0.4,ak,ak0223oeuzu3,2022-03-21T07:07:55.680Z,"8 km E of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-21T06:49:27.045Z,-11.8141,41.0051,10,4.6,mb,,60,9.342,0.3,us,us6000h6c9,2022-03-21T08:59:57.040Z,"90 km SE of Mocímboa, Mozambique",earthquake,10,1.9,0.111,24,reviewed,us,us
 2022-03-21T06:48:52.869Z,38.6623,-118.4571,0,1.1,ml,8,308.89,0.246,0.2855,nn,nn00835720,2022-03-21T06:53:03.902Z,"21 km NE of Hawthorne, Nevada",earthquake,,63.1,0.1,4,automatic,nn,nn
 2022-03-21T06:36:04.952Z,38.4402,-119.4644,6.7,1.1,ml,12,92.73,0.067,0.2181,nn,nn00835718,2022-03-21T06:39:35.422Z,"8 km S of Walker, California",earthquake,,0.7,0.4,5,automatic,nn,nn
 2022-03-21T06:35:33.260Z,17.9696666666667,-66.9441666666667,9.33,1.86,md,3,186,,0.02,pr,pr71341048,2022-03-21T07:02:43.580Z,"Puerto Rico region",earthquake,2.28,1.1,0.0976487207676719,3,reviewed,pr,pr
@@ -176,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T09:36:19.660Z,33.3813333,-116.8758333,5.51,0.58,ml,18,76,0.02977,0.14,ci,ci39972847,2022-03-20T09:39:57.954Z,"3km NNW of Palomar Observatory, CA",earthquake,0.33,0.54,0.115,13,automatic,ci,ci
 2022-03-20T09:35:18.982Z,60.3592,-151.6348,69,2,ml,,,,0.72,ak,ak0223mt0uwr,2022-03-20T09:42:02.983Z,"18 km W of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-20T09:12:59.730Z,35.7951667,-117.617,11.12,0.61,ml,8,105,0.02593,0.19,ci,ci39972831,2022-03-20T09:16:33.267Z,"20km W of Searles Valley, CA",earthquake,0.7,1.06,0.184,6,automatic,ci,ci
-2022-03-20T08:58:05.580Z,45.327666666666666,-121.68733333333333,4.74,0.56,ml,9,190,0.01813,0.13,uw,uw61814807,2022-03-20T20:15:15.420Z,"5 km ENE of Government Camp, Oregon",earthquake,0.4,0.52,0.14641411265390017,3,reviewed,uw,uw
