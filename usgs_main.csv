@@ -4499,3 +4499,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T05:27:33.420Z,32.9900017,-115.4820023,5.84,1.75,ml,20.0,195.0,0.1103,0.23,ci,ci39973287,2022-03-21T05:29:56.466Z,"5km ENE of Brawley, CA",earthquake,0.7,0.88,0.36,16.0,automatic,ci,ci
 2022-03-21T05:26:15.800Z,38.8168335,-122.7603302,1.45,0.91,md,11.0,117.0,0.01554,0.02,nc,nc73708316,2022-03-21T05:27:50.088Z,"3km W of Cobb, CA",earthquake,0.32,0.68,0.31,2.0,automatic,nc,nc
 2022-03-21T05:24:56.570Z,35.6093333,-117.3956667,5.7,0.61,ml,8.0,178.0,0.05881,0.14,ci,ci39973279,2022-03-21T05:28:30.538Z,"17km S of Trona, CA",earthquake,1.51,1.69,0.068,4.0,automatic,ci,ci
+2022-03-21T05:17:16.980Z,10.5143,-86.1613,38.06,4.9,mb,,153.0,1.209,0.6,us,us6000h6b9,2022-03-21T05:36:18.040Z,"56 km W of Sardinal, Costa Rica",earthquake,6.4,7.5,0.028,397.0,reviewed,us,us
+2022-03-21T05:15:31.163Z,-58.2603,-23.4501,10.0,5.5,mww,,75.0,8.274,0.69,us,us6000h6ba,2022-03-21T05:33:27.040Z,South Sandwich Islands region,earthquake,4.3,1.8,0.089,12.0,reviewed,us,us
+2022-03-21T05:07:05.600Z,17.8491666666667,-66.8398333333333,9.34,2.49,md,6.0,253.0,,0.05,pr,pr71341028,2022-03-21T05:30:18.050Z,"15 km SSE of Maria Antonia, Puerto Rico",earthquake,1.05,1.38,0.086001274222705,5.0,reviewed,pr,pr
