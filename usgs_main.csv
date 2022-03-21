@@ -4691,3 +4691,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T20:48:46.080Z,19.150333404541,-155.466827392578,33.1199989318848,2.00999999,md,36.0,169.0,,0.159999996,hv,hv72958282,2022-03-21T20:51:48.920Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.79,1.19000006,1.02999997,12.0,automatic,hv,hv
 2022-03-21T20:46:56.190Z,38.7873344,-122.768837,0.86,0.89,md,23.0,81.0,0.01507,0.05,nc,nc73708501,2022-03-21T20:48:34.285Z,"2km NW of The Geysers, CA",earthquake,0.22,0.42,0.06,5.0,automatic,nc,nc
 2022-03-21T20:12:45.690Z,47.7615,-113.7801667,7.89,0.89,ml,13.0,144.0,0.186,0.13,mb,mb80541154,2022-03-21T20:50:41.190Z,"19 km SSE of Swan Lake, Montana",earthquake,0.61,1.83,0.031,2.0,reviewed,mb,mb
+2022-03-21T21:07:23.927Z,60.9928,-147.3256,21.7,1.7,ml,,,,1.08,ak,ak0223onjf2f,2022-03-21T21:10:26.472Z,"37 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-21T20:18:59.442Z,-21.0254,-69.951,30.64,4.4,mb,,141.0,0.297,0.97,us,us6000h6ia,2022-03-21T21:00:27.040Z,"92 km SSE of Iquique, Chile",earthquake,3.1,6.5,0.156,14.0,reviewed,us,us
