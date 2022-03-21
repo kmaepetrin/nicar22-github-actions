@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-21T04:46:01.380Z,38.8218346,-122.7608337,1.85,0.85,md,7,127,0.01117,0.01,nc,nc73708291,2022-03-21T04:47:34.760Z,"3km W of Cobb, CA",earthquake,0.48,0.96,,1,automatic,nc,nc
 2022-03-21T04:39:20.420Z,38.8016663,-122.8154984,3.22,0.35,md,7,161,0.01288,0.01,nc,nc73708286,2022-03-21T04:40:54.616Z,"6km WNW of The Geysers, CA",earthquake,0.59,1.06,,1,automatic,nc,nc
-2022-03-21T04:15:04.950Z,37.5333328,-118.8440018,3.3,1,md,10,186,0.05782,0.04,nc,nc73708281,2022-03-21T04:32:14.035Z,"15km WSW of Toms Place, CA",earthquake,0.76,1.23,0.11,10,automatic,nc,nc
+2022-03-21T04:15:04.950Z,37.5333328,-118.8440018,3.3,1,md,10,186,0.05782,0.04,nc,nc73708281,2022-03-21T04:51:14.152Z,"15km WSW of Toms Place, CA",earthquake,0.76,1.23,0.11,10,automatic,nc,nc
 2022-03-21T03:23:55.730Z,38.7970009,-122.8160019,3.35,0.74,md,11,94,0.01331,0.01,nc,nc73708276,2022-03-21T03:48:13.746Z,"6km WNW of The Geysers, CA",earthquake,0.33,0.83,0.11,2,automatic,nc,nc
 2022-03-21T03:20:49.970Z,17.9436666666667,-66.82,10.09,2.44,md,12,213,,0.24,pr,pr71341013,2022-03-21T04:05:22.510Z,"5 km S of Indios, Puerto Rico",earthquake,0.71,0.65,0.216618756348348,6,reviewed,pr,pr
 2022-03-21T03:13:05.590Z,38.8346672,-122.8021698,1.98,0.98,md,18,58,0.009963,0.02,nc,nc73708271,2022-03-21T04:07:14.982Z,"7km WNW of Cobb, CA",earthquake,0.25,0.63,0.19,3,automatic,nc,nc
@@ -170,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T05:39:42.930Z,38.793335,-122.8068314,2.84,1.75,md,35,78,0.005801,0.04,nc,nc73708026,2022-03-20T06:12:12.786Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.37,0.09,10,automatic,nc,nc
 2022-03-20T05:15:28.290Z,35.98432541,-97.19489288,4.141295433,1.57,ml,24,72.74812317,0.07867216319,0.2176866855,ok,ok2022fmxq,2022-03-20T05:18:22.973Z,"4 km NE of Coyle, Oklahoma",earthquake,2.438050876,2.15023545,,18,automatic,ok,ok
 2022-03-20T05:13:02.856Z,60.2139,-140.381,0,1.7,ml,,,,0.78,ak,ak0223mqidlg,2022-03-20T05:15:38.379Z,"82 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-20T04:51:03.331Z,60.494,-143.032,0,1.6,ml,,,,0.88,ak,ak0223mq537h,2022-03-20T04:53:28.214Z,"104 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-20T04:50:16.130Z,17.8103333333333,-66.878,8.03,2.44,md,6,264,,0.05,pr,pr71340913,2022-03-20T06:01:07.430Z,"18 km S of Guánica, Puerto Rico",earthquake,0.91,1.67,0.18944077934802,3,reviewed,pr,pr
