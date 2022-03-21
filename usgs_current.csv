@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T16:54:04.936Z,63.4853,-150.8985,0,1.2,ml,,,,0.9,ak,ak0223okua7r,2022-03-21T17:06:58.707Z,"41 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-21T16:49:48.133Z,61.457,-146.6291,28.7,1.6,ml,,,,1.06,ak,ak0223oktazc,2022-03-21T17:02:59.487Z,"39 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-21T16:46:59.780Z,19.1801662445068,-155.466339111328,30.6200008392334,2.27,ml,45,100,,0.100000001,hv,hv72958107,2022-03-21T16:59:04.040Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.43,0.610000014,2.87,10,automatic,hv,hv
-2022-03-21T16:42:54.150Z,37.8931656,-122.2506638,5.9,2.08,md,41,45,0.01568,0.07,nc,nc73708431,2022-03-21T20:04:13.959Z,"3km NE of Berkeley, CA",earthquake,0.16,0.27,0.13,33,automatic,nc,nc
+2022-03-21T16:42:54.150Z,37.8931656,-122.2506638,5.9,2.08,md,41,45,0.01568,0.07,nc,nc73708431,2022-03-21T22:41:07.996Z,"3km NE of Berkeley, CA",earthquake,0.16,0.27,0.13,33,automatic,nc,nc
 2022-03-21T16:35:45.161Z,21.8923,143.1812,202.03,4.1,mb,,141,11.571,0.69,us,us6000h6fk,2022-03-21T17:28:48.040Z,"Mariana Islands region",earthquake,13.1,8.6,0.09,37,reviewed,us,us
 2022-03-21T16:29:40.090Z,17.9846666666667,-66.9056666666667,10.37,2.42,md,3,193,,0.06,pr,pr71341093,2022-03-21T16:57:27.100Z,"1 km ESE of Fuig, Puerto Rico",earthquake,5.21,1.18,0.0715350110704085,3,reviewed,pr,pr
 2022-03-21T16:28:47.044Z,-56.6938,-25.4038,10,5,mb,,84,6.745,0.7,us,us6000h6hj,2022-03-21T19:08:00.040Z,"South Sandwich Islands region",earthquake,8.9,1.9,0.111,29,reviewed,us,us
