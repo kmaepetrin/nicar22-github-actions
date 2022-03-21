@@ -4588,3 +4588,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T15:03:50.720Z,44.3781667,-115.2166667,9.93,2.49,ml,14.0,84.0,0.845,0.29,mb,mb80541019,2022-03-21T14:26:36.840Z,"28 km NW of Stanley, Idaho",earthquake,0.74,1.22,0.171,17.0,reviewed,mb,mb
 2022-03-20T14:31:17.890Z,45.5993333,-111.9003333,2.69,1.2,ml,12.0,87.0,0.19,0.1,mb,mb80541014,2022-03-21T14:19:17.800Z,Western Montana,earthquake,0.63,1.61,0.181,6.0,reviewed,mb,mb
 2022-03-21T14:38:05.010Z,35.67,-117.5601667,6.99,1.24,ml,14.0,139.0,0.1154,0.18,ci,ci39973415,2022-03-21T14:41:42.996Z,"12km ENE of Ridgecrest, CA",earthquake,0.4,1.1,0.122,14.0,automatic,ci,ci
+2022-03-21T14:53:20.890Z,38.8271675,-122.8018341,2.4,0.85,md,13.0,69.0,0.007458,0.02,nc,nc73708421,2022-03-21T14:54:58.192Z,"7km NW of The Geysers, CA",earthquake,0.29,0.65,,1.0,automatic,nc,nc
