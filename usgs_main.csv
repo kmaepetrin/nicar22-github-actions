@@ -4686,3 +4686,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T19:26:22.730Z,-8.3129,119.7584,39.77,4.6,mb,,106.0,2.473,0.72,us,us6000h6i0,2022-03-21T20:26:23.040Z,"24 km NW of Labuan Bajo, Indonesia",earthquake,8.1,9.3,0.1,30.0,reviewed,us,us
 2022-03-21T13:31:45.580Z,38.8243333,-122.7661667,2.32,0.4,md,17.0,78.0,0.006791,0.02,nc,nc73708416,2022-03-21T20:25:24.209Z,"4km W of Cobb, CA",earthquake,0.22,0.5,0.173,3.0,reviewed,nc,nc
 2022-03-21T20:33:38.530Z,19.1631660461426,-155.461837768555,32.3800010681152,1.84000003,md,26.0,166.0,,0.140000001,hv,hv72958262,2022-03-21T20:36:49.720Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.85,1.11000001,0.910000026,3.0,automatic,hv,hv
+2022-03-21T20:43:00.990Z,60.1485,-140.9888,1.1,2.7,ml,,,,0.77,ak,ak0223on5nh8,2022-03-21T20:46:46.961Z,"97 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-21T18:18:02.000Z,38.829,-122.8128333,2.2,0.43,md,16.0,163.0,0.005997,0.02,nc,nc73708456,2022-03-21T20:43:25.914Z,"8km NW of The Geysers, CA",earthquake,0.3,0.48,0.134,3.0,reviewed,nc,nc
