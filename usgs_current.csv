@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-21T09:59:00.280Z,19.1831665039062,-155.494995117188,31.3500003814697,2.6500001,md,48,88,,0.150000006,hv,hv72957747,2022-03-21T10:02:38.480Z,"2 km SW of Pāhala, Hawaii",earthquake,0.51,0.670000017,2.25,38,automatic,hv,hv
+2022-03-21T09:59:00.280Z,19.1831665039062,-155.494995117188,31.3500003814697,2.41,ml,48,88,,0.150000006,hv,hv72957747,2022-03-21T10:04:30.200Z,"2 km SW of Pāhala, Hawaii",earthquake,0.51,0.670000017,3.07,16,automatic,hv,hv
 2022-03-21T09:58:28.840Z,19.1798324584961,-155.485336303711,28.0200004577637,2.41,ml,12,207,,0.119999997,hv,hv72957742,2022-03-21T10:03:59.400Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.23,1.16999996,2.9,18,automatic,hv,hv
 2022-03-21T09:49:34.570Z,19.1873340606689,-155.485992431641,32.0099983215332,1.86,ml,42,76,,0.129999995,hv,hv72957732,2022-03-21T09:55:22.957Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.59,0.810000002,4.52,4,automatic,hv,hv
 2022-03-21T09:46:03.074Z,62.8896,-149.5929,78.2,1.5,ml,,,,0.57,ak,ak0223ogmj4a,2022-03-21T09:54:56.427Z,"55 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -185,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T10:31:48.120Z,17.9768333333333,-66.852,18.67,2.55,md,8,193,,0.11,pr,pr71340948,2022-03-20T15:02:51.019Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.54,0.63,0.01757486425723,3,reviewed,pr,pr
 2022-03-20T10:30:03.920Z,33.2308333,-116.735,11.59,0.88,ml,26,44,0.02056,0.16,ci,ci39972871,2022-03-20T13:32:43.894Z,"3km ESE of Lake Henshaw, CA",earthquake,0.27,0.48,0.169,21,reviewed,ci,ci
 2022-03-20T10:27:09.470Z,33.853,-117.1528333,7.34,0.53,ml,7,275,0.1587,0.09,ci,ci39972863,2022-03-20T10:30:46.078Z,"6km N of Nuevo, CA",earthquake,0.92,31.61,0.027,6,automatic,ci,ci
-2022-03-20T10:13:37.510Z,38.786,-122.7775,0.25,0.15,md,12,100,0.01085,0.03,nc,nc73708041,2022-03-20T20:27:49.815Z,"2km WNW of The Geysers, CA",earthquake,0.31,0.39,0.304,3,reviewed,nc,nc
-2022-03-20T10:09:54.121Z,73.0826,5.5777,10,4.4,mb,,100,5.768,0.37,us,us6000h65x,2022-03-20T11:07:33.040Z,"Greenland Sea",earthquake,8.2,1.7,0.112,23,reviewed,us,us
