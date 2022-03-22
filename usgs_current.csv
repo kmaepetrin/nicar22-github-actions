@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T17:05:16.440Z,38.8055,-122.7928314,1.49,0.83,md,8,161,0.003131,0.02,nc,nc73708856,2022-03-22T17:21:18.061Z,"4km NW of The Geysers, CA",earthquake,0.49,0.9,,1,automatic,nc,nc
 2022-03-22T17:03:31.950Z,34.6441667,-117.3218333,-1.22,1.26,ml,14,84,0.08356,0.19,ci,ci39974479,2022-03-22T20:41:15.411Z,"10km NE of Adelanto, CA",quarry blast,0.48,31.61,0.167,27,reviewed,ci,ci
 2022-03-22T16:37:44.120Z,38.7953339,-122.7853317,-0.14,0.83,md,11,77,0.002952,0.04,nc,nc73708846,2022-03-22T16:39:21.784Z,"3km NW of The Geysers, CA",earthquake,0.28,0.6,0.45,2,automatic,nc,nc
-2022-03-22T16:35:40.080Z,38.8035,-122.7916667,1.35,2.68,md,83,26,0.005289,0.05,nc,nc73708841,2022-03-22T20:59:11.314Z,"4km NW of The Geysers, CA",earthquake,0.08,0.11,0.14,56,reviewed,nc,nc
+2022-03-22T16:35:40.080Z,38.8035,-122.7916667,1.35,2.68,md,83,26,0.005289,0.05,nc,nc73708841,2022-03-22T21:42:17.595Z,"4km NW of The Geysers, CA",earthquake,0.08,0.11,0.14,56,reviewed,nc,nc
 2022-03-22T16:35:08.020Z,10.7484,-43.3791,10,6.7,mww,,27,10.749,0.76,us,us6000h6ne,2022-03-22T19:33:14.913Z,"northern Mid-Atlantic Ridge",earthquake,9.5,1.8,0.055,32,reviewed,us,us
 2022-03-22T16:34:21.080Z,17.9826666666667,-66.8435,16.74,1.63,md,5,189,,0.03,pr,pr71341418,2022-03-22T17:35:30.510Z,"2 km WSW of Indios, Puerto Rico",earthquake,1.41,0.49,0.0538985119241073,5,reviewed,pr,pr
 2022-03-22T16:21:17.330Z,38.8110008,-122.7771683,0.08,0.84,md,8,111,0.003554,0.08,nc,nc73708836,2022-03-22T16:44:17.823Z,"4km NNW of The Geysers, CA",earthquake,0.36,0.75,,1,automatic,nc,nc
@@ -272,6 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T22:06:31.180Z,38.8341675,-122.8193359,2.12,0.85,md,9,93,0.01296,0.01,nc,nc73708551,2022-03-21T22:32:12.428Z,"8km NW of The Geysers, CA",earthquake,0.37,1.08,,1,automatic,nc,nc
 2022-03-21T21:56:40.510Z,38.8228333,-122.7876667,1.57,1.19,md,41,31,0.01101,0.03,nc,nc73708546,2022-03-22T00:33:14.006Z,"6km W of Cobb, CA",earthquake,0.12,0.21,0.085,9,reviewed,nc,nc
 2022-03-21T21:50:16.880Z,38.8353348,-122.8106689,2.02,0.85,md,9,61,0.01193,0.01,nc,nc73708536,2022-03-21T21:51:54.181Z,"8km W of Cobb, CA",earthquake,0.46,1.61,,1,automatic,nc,nc
-2022-03-21T21:47:59.720Z,17.8901666666667,-66.8621666666667,17.24,1.56,md,5,240,,0.05,pr,pr71341193,2022-03-22T00:37:58.370Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.89,0.68,0.0205811796607023,5,reviewed,pr,pr
-2022-03-21T21:43:34.630Z,38.831,-122.7551667,1.41,-0.15,md,16,141,0.006952,0.03,nc,nc71127484,2022-03-22T03:13:59.824Z,"3km WNW of Cobb, CA",earthquake,0.23,0.44,0.027,2,reviewed,nc,nc
-2022-03-21T21:42:22.990Z,38.768,-122.7366667,0.1,0.02,md,8,157,0.01123,0.05,nc,nc73708521,2022-03-21T23:47:15.734Z,"2km ESE of The Geysers, CA",earthquake,0.34,0.68,,1,reviewed,nc,nc
