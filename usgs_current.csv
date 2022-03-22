@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T16:16:18.597Z,61.2853,-149.3773,29.3,2.9,ml,,,,0.53,ak,ak0223okm60n,2022-03-22T04:15:04.588Z,"10 km ESE of Eagle River, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-03-21T16:15:04.110Z,47.455,-112.7343333,15.43,0.97,ml,17,132,0.332,0.12,mb,mb80541119,2022-03-21T17:27:12.400Z,"26 km W of Augusta, Montana",earthquake,0.37,0.75,0.22,3,reviewed,mb,mb
 2022-03-21T16:02:33.421Z,-57.803,-25.1862,35,5,mb,,83,7.244,0.71,us,us6000h6eq,2022-03-21T16:50:07.040Z,"South Sandwich Islands region",earthquake,12,1.9,0.09,44,reviewed,us,us
-2022-03-21T16:02:22.860Z,33.8888333,-118.755,14.45,2.88,ml,87,105,0.1563,0.24,ci,ci39973479,2022-03-22T02:33:07.711Z,"14km SSE of Malibu, CA",earthquake,0.28,0.5,0.144,26,reviewed,ci,ci
+2022-03-21T16:02:22.860Z,33.8888333,-118.755,14.45,2.88,ml,87,105,0.1563,0.24,ci,ci39973479,2022-03-22T04:54:10.298Z,"14km SSE of Malibu, CA",earthquake,0.28,0.5,0.144,26,reviewed,ci,ci
 2022-03-21T15:54:59.160Z,44.6651667,-110.6613333,7.89,1.21,ml,14,67,0.04918,0.2,uu,uu60486577,2022-03-21T16:32:42.870Z,"34 km S of Mammoth, Wyoming",earthquake,0.53,0.73,0.625,2,reviewed,uu,uu
 2022-03-21T15:44:24.820Z,39.4118333,-110.2818333,-3.45,1.6,ml,8,206,0.03568,0.23,uu,uu60486572,2022-03-21T16:54:20.610Z,"17 km SSE of Sunnyside, Utah",earthquake,1.94,4.02,0.101,3,reviewed,uu,uu
 2022-03-21T15:32:56.610Z,19.0256671905518,-155.400329589844,35.0400009155273,2.0999999,md,43,214,,0.109999999,hv,hv72958072,2022-03-21T15:38:27.480Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.81,1.41999996,0.75,7,automatic,hv,hv
