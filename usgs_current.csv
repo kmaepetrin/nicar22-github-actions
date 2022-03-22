@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-22T13:53:33.368Z,38.5489,-119.518,6.1,1.3,ml,13,169.9,0.037,0.1288,nn,nn00835762,2022-03-22T13:57:02.502Z,"2 km SSW of Coleville, California",earthquake,,0.5,0.19,8,automatic,nn,nn
 2022-03-22T13:50:03.830Z,19.2264995574951,-155.425994873047,33.6500015258789,2.00999999,md,43,128,,0.119999997,hv,hv72959062,2022-03-22T13:53:17.190Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.62,0.860000014,0.460000008,11,automatic,hv,hv
-2022-03-22T13:49:54.920Z,40.402832,-125.206337,-0.2,3.3,ml,48,287,0.6671,0.33,nc,nc73708781,2022-03-22T13:51:57.625Z,"78km W of Petrolia, CA",earthquake,5.49,15.11,0.312,11,automatic,nc,nc
+2022-03-22T13:49:54.920Z,40.402832,-125.206337,-0.2,3.3,ml,48,287,0.6671,0.33,nc,nc73708781,2022-03-22T14:03:13.040Z,"78km W of Petrolia, CA",earthquake,5.49,15.11,0.312,11,automatic,nc,nc
 2022-03-22T13:48:12.214Z,38.1636,-117.9723,3.7,1.7,ml,16,104.76,0.027,0.2279,nn,nn00835760,2022-03-22T13:53:14.062Z,"27 km SSE of Mina, Nevada",earthquake,,0.3,0.28,8,automatic,nn,nn
 2022-03-22T13:28:14.934Z,38.1355,-118.0001,3,1,ml,9,142.81,0.032,0.0432,nn,nn00835759,2022-03-22T13:32:20.121Z,"29 km SSE of Mina, Nevada",earthquake,,0.8,0.35,5,automatic,nn,nn
 2022-03-22T13:28:02.016Z,63.5753,-151.7521,6.5,1,ml,,,,0.23,ak,ak0223q6fr2h,2022-03-22T13:30:07.873Z,"4 km NNW of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-22T13:25:02.750Z,38.8271675,-122.8125,1.63,1,md,19,40,0.004217,0.02,nc,nc73708771,2022-03-22T13:41:26.787Z,"7km NW of The Geysers, CA",earthquake,0.2,0.57,0.23,2,automatic,nc,nc
+2022-03-22T13:25:02.750Z,38.8271675,-122.8125,1.63,1,md,19,40,0.004217,0.02,nc,nc73708771,2022-03-22T13:57:20.879Z,"7km NW of The Geysers, CA",earthquake,0.2,0.57,0.23,2,automatic,nc,nc
 2022-03-22T13:21:29.840Z,19.1523342132568,-155.491668701172,29.9799995422363,1.86000001,md,33,142,,0.200000003,hv,hv72959052,2022-03-22T13:24:50.640Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.69,1.16999996,1.35000002,6,automatic,hv,hv
 2022-03-22T13:04:29.023Z,38.1407,-117.9911,1.4,1.4,ml,12,138.63,0.025,0.257,nn,nn00835757,2022-03-22T13:08:11.755Z,"29 km SSE of Mina, Nevada",earthquake,,0.5,0.2,8,automatic,nn,nn
 2022-03-22T12:52:08.320Z,33.4776667,-116.5178333,12.88,1.32,ml,39,55,0.07309,0.19,ci,ci39974271,2022-03-22T12:55:44.957Z,"17km ESE of Anza, CA",earthquake,0.23,0.47,0.197,28,automatic,ci,ci
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T11:56:29.380Z,33.4755,-116.5286667,11.76,1.56,ml,55,31,0.06498,0.22,ci,ci39974199,2022-03-22T12:07:00.780Z,"16km ESE of Anza, CA",earthquake,0.23,0.52,0.212,26,automatic,ci,ci
 2022-03-22T11:55:40.830Z,33.4775,-116.52,12.78,1.14,ml,34,55,0.07138,0.2,ci,ci39974191,2022-03-22T11:59:32.719Z,"17km ESE of Anza, CA",earthquake,0.24,0.54,0.17,27,automatic,ci,ci
 2022-03-22T11:53:49.610Z,33.4798333,-116.5126667,14.15,1.07,ml,28,56,0.07682,0.14,ci,ci39974183,2022-03-22T11:57:26.455Z,"17km ESE of Anza, CA",earthquake,0.2,0.4,0.148,26,automatic,ci,ci
+2022-03-22T11:51:33.490Z,45.435,-112.0958333,5.2,1.29,ml,20,57,0.205,0.19,mb,mb80541184,2022-03-22T14:02:48.980Z,"8 km ESE of Sheridan, Montana",earthquake,0.37,1.95,0.065,11,reviewed,mb,mb
 2022-03-22T11:47:27.730Z,18.2125,-67.848,2.15,3.11,md,9,185,,0.15,pr,pr71341338,2022-03-22T12:16:39.550Z,"64 km W of Stella, Puerto Rico",earthquake,0.88,0.58,0.175698384906979,4,reviewed,pr,pr
 2022-03-22T11:45:29.780Z,32.681,-115.7615,7.62,1.58,ml,24,105,0.0433,0.26,ci,ci39974175,2022-03-22T11:56:41.780Z,"20km NW of Progreso, B.C., MX",earthquake,0.53,0.98,0.152,23,automatic,ci,ci
 2022-03-22T11:37:41.750Z,18.0026666666667,-67.02,9.83,2.16,md,7,114,,0.11,pr,pr71341313,2022-03-22T12:27:01.520Z,"4 km NE of La Parguera, Puerto Rico",earthquake,0.45,0.86,0.0724222313606209,3,reviewed,pr,pr
@@ -36,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T10:59:10.070Z,38.7953339,-122.7511673,1.24,0.6,md,8,135,0.008514,0.04,nc,nc73708731,2022-03-22T11:31:12.991Z,"2km NNE of The Geysers, CA",earthquake,0.75,0.76,0.27,2,automatic,nc,nc
 2022-03-22T10:56:10.230Z,34.87366667,-97.744,9.14,1.77,ml,63,37,0.1088786343,0.29,ok,ok2022fqzx,2022-03-22T12:29:45.562Z,"3 km W of Bradley, Oklahoma",earthquake,,1.7,0.24,29,reviewed,ok,ok
 2022-03-22T10:42:25.750Z,33.8991667,-117.852,3.19,1.1,ml,31,55,0.07538,0.28,ci,ci39974159,2022-03-22T10:59:18.315Z,"3km NNE of Placentia, CA",earthquake,0.44,0.79,0.155,27,automatic,ci,ci
-2022-03-22T10:33:38.470Z,34.0514984,-117.5636673,7.33,3.38,ml,102,25,0.04057,0.24,ci,ci39974135,2022-03-22T13:51:53.453Z,"6km E of Ontario, CA",earthquake,0.25,0.6,0.265,15,automatic,ci,ci
+2022-03-22T10:33:38.470Z,34.0514984,-117.5636673,7.33,3.38,ml,102,25,0.04057,0.24,ci,ci39974135,2022-03-22T14:02:16.179Z,"6km E of Ontario, CA",earthquake,0.25,0.6,0.265,15,automatic,ci,ci
 2022-03-22T10:31:41.080Z,35.7988333,-117.6303333,6.57,1.29,ml,18,84,0.03157,0.15,ci,ci39974119,2022-03-22T10:42:18.660Z,"20km NNE of Ridgecrest, CA",earthquake,0.24,0.54,0.145,17,automatic,ci,ci
 2022-03-22T10:11:10.780Z,17.9771666666667,-66.9873333333333,10.94,1.88,md,3,171,,0.02,pr,pr71341303,2022-03-22T10:19:39.920Z,"6 km E of La Parguera, Puerto Rico",earthquake,2.06,0.76,0.0442530271338639,3,reviewed,pr,pr
 2022-03-22T10:11:01.870Z,34.342,-118.4861667,8.51,1.26,ml,16,216,0.03665,0.2,ci,ci39974111,2022-03-22T10:14:31.823Z,"5km NW of Sylmar, CA",earthquake,0.6,0.72,0.168,28,automatic,ci,ci
@@ -126,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T23:54:25.240Z,38.8375015,-122.8108368,1.85,1.18,md,8,97,0.0141,0.01,nc,nc73708581,2022-03-22T01:51:13.463Z,"8km WNW of Cobb, CA",earthquake,0.4,1.36,,1,automatic,nc,nc
 2022-03-21T23:53:13.930Z,17.9791666666667,-66.8648333333333,13.17,1.91,md,6,179,,0.11,pr,pr71341173,2022-03-22T00:15:58.510Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,1.24,0.81,0.18014030808428,5,reviewed,pr,pr
 2022-03-21T23:47:43.220Z,35.8841667,-117.6808333,4.94,0.51,ml,13,84,0.06823,0.04,ci,ci39973871,2022-03-22T00:25:36.927Z,"21km ESE of Little Lake, CA",earthquake,0.11,0.23,0.039,4,reviewed,ci,ci
+2022-03-21T23:43:28.240Z,39.417,-110.3053333,-2.46,1.64,ml,9,198,0.01687,0.13,uu,uu60486622,2022-03-22T14:01:41.480Z,"16 km SSE of Sunnyside, Utah",earthquake,0.38,1.04,0.084,2,reviewed,uu,uu
 2022-03-21T23:42:32.980Z,17.9936666666667,-66.9598333333333,10.05,2.08,md,4,161,,0.02,pr,pr71341168,2022-03-22T00:05:16.320Z,"4 km W of Fuig, Puerto Rico",earthquake,1.89,1.29,0.147959645483276,3,reviewed,pr,pr
 2022-03-21T23:41:44.940Z,33.1163333,-116.0783333,9.9,2.28,ml,86,28,0.08478,0.19,ci,ci39973863,2022-03-22T00:05:17.000Z,"6km ESE of Ocotillo Wells, CA",earthquake,0.13,0.45,0.183,26,reviewed,ci,ci
 2022-03-21T23:32:14.550Z,37.5756667,-118.8003333,6.11,0.89,md,16,215,0.02698,0.05,nc,nc73708571,2022-03-22T04:26:12.398Z,"11km W of Toms Place, CA",earthquake,0.53,0.62,0.251,15,reviewed,nc,nc
@@ -247,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T14:42:25.802Z,31.61476855,-103.973399,7.159887695,2.1,ml,14,72,0.1055355764,0.1,tx,tx2022fplw,2022-03-22T12:32:04.206Z,"36 km WSW of Mentone, Texas",earthquake,0.7313237294,1.294570019,0.1,7,reviewed,tx,tx
 2022-03-21T14:38:04.950Z,35.667,-117.5631667,7.39,1.18,ml,29,72,0.08235,0.15,ci,ci39973415,2022-03-21T19:14:06.157Z,"11km ENE of Ridgecrest, CA",earthquake,0.18,0.74,0.144,13,reviewed,ci,ci
 2022-03-21T14:24:30.625Z,61.5504,-146.3078,19.4,2.3,ml,,,,0.85,ak,ak0223ojh1je,2022-03-21T14:31:06.724Z,"46 km N of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-21T14:00:38.940Z,19.1886672973633,-155.484832763672,33.1300010681152,2.13000011,md,42,143,,0.109999999,hv,hv72957967,2022-03-21T14:03:47.860Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.55,0.879999995,1.84000003,18,automatic,hv,hv
-2022-03-21T13:59:25.478Z,64.8512,-149.0197,18.4,1.1,ml,,,,0.77,ak,ak0223oj33l1,2022-03-21T14:02:09.027Z,"28 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
