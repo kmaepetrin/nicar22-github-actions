@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T19:16:12.370Z,38.7921667,-122.7638333,2.27,-0.04,md,13,94,0.009039,0.02,nc,nc73708941,2022-03-22T19:27:22.746Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.35,0.132,3,reviewed,nc,nc
 2022-03-22T19:05:06.430Z,35.8635,-117.6826667,6.44,0.68,ml,16,82,0.08402,0.09,ci,ci39974615,2022-03-22T19:23:47.444Z,"22km ESE of Little Lake, CA",earthquake,0.14,0.43,0.144,5,reviewed,ci,ci
 2022-03-22T18:50:19.190Z,19.175500869751,-155.490173339844,31.3299999237061,1.84000003,md,19,153,,0.150000006,hv,hv72959282,2022-03-22T18:53:37.540Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.95,1.34000003,1.84000003,4,automatic,hv,hv
-2022-03-22T18:48:12.410Z,40.8148333,-122.1261667,4.3,1.78,md,15,49,0.06923,0.3,nc,nc73708936,2022-03-22T19:24:22.388Z,"16km W of Round Mountain, CA",earthquake,0.63,31.61,0.173,14,reviewed,nc,nc
+2022-03-22T18:48:12.410Z,40.8148333,-122.1261667,4.3,1.78,md,15,49,0.06923,0.3,nc,nc73708936,2022-03-22T19:29:11.779Z,"16km W of Round Mountain, CA",earthquake,0.63,31.61,0.173,14,reviewed,nc,nc
 2022-03-22T18:37:47.342Z,23.309,121.707,10,4.9,mww,,172,0.385,0.77,us,us6000h6rv,2022-03-22T19:24:56.040Z,"74 km S of Hualien City, Taiwan",earthquake,2.4,2,0.098,10,reviewed,us,us
 2022-03-22T18:33:08.610Z,38.8294983,-122.8056641,-0.03,0.85,md,12,81,0.007,0.01,nc,nc73708921,2022-03-22T18:34:41.802Z,"7km W of Cobb, CA",earthquake,0.2,0.69,,1,automatic,nc,nc
 2022-03-22T18:29:44.440Z,38.8513336,-122.8508301,1.4,0.86,md,9,117,0.01748,0.02,nc,nc73708906,2022-03-22T18:31:22.022Z,"12km WNW of Cobb, CA",earthquake,0.34,0.65,0.01,2,automatic,nc,nc
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T17:55:25.623Z,59.1055,-149.1832,4.4,3,ml,,,,0.62,ak,ak0223q8zbno,2022-03-22T17:58:57.840Z,"108 km S of Lowell Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-22T17:46:15.260Z,17.922,-66.8215,13.79,1.84,md,5,227,,0.08,pr,pr71341428,2022-03-22T18:02:10.710Z,"7 km S of Indios, Puerto Rico",earthquake,0.78,0.36,0.118470011583261,5,reviewed,pr,pr
 2022-03-22T17:43:26.057Z,23.4527,121.4245,10,5.8,mb,,77,0.131,0.64,us,us6000h6rn,2022-03-22T19:09:53.563Z,"60 km SSW of Hualien City, Taiwan",earthquake,2.1,1.8,0.161,14,reviewed,us,us
-2022-03-22T17:41:39.172Z,23.4088,121.5593,24,6.7,mww,,35,0.671,0.99,us,us6000h6nr,2022-03-22T19:11:40.520Z,"63 km S of Hualien City, Taiwan",earthquake,3.7,1.8,0.083,14,reviewed,us,us
+2022-03-22T17:41:39.172Z,23.4088,121.5593,24,6.7,mww,,35,0.671,0.99,us,us6000h6nr,2022-03-22T19:32:29.736Z,"63 km S of Hualien City, Taiwan",earthquake,3.7,1.8,0.083,14,reviewed,us,us
 2022-03-22T17:24:30.510Z,36.0901667,-117.8846667,1.67,1.61,ml,22,64,0.03648,0.1,ci,ci39974519,2022-03-22T19:14:20.773Z,"8km NE of Coso Junction, CA",earthquake,0.14,0.17,0.174,19,reviewed,ci,ci
 2022-03-22T17:18:56.140Z,38.8068352,-122.7921677,1.39,1.03,md,19,50,0.002698,0.03,nc,nc73708871,2022-03-22T17:20:32.281Z,"4km NW of The Geysers, CA",earthquake,0.21,0.4,0.37,3,automatic,nc,nc
 2022-03-22T17:11:21.090Z,34.4373333,-119.1078333,14.3,1.53,ml,10,189,0.02452,0.18,ci,ci37404612,2022-03-22T19:04:14.716Z,"10km NNW of Santa Paula, CA",earthquake,0.77,0.94,0.158,2,reviewed,ci,ci
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T17:05:16.440Z,38.8055,-122.7928314,1.49,0.83,md,8,161,0.003131,0.02,nc,nc73708856,2022-03-22T17:21:18.061Z,"4km NW of The Geysers, CA",earthquake,0.49,0.9,,1,automatic,nc,nc
 2022-03-22T16:37:44.120Z,38.7953339,-122.7853317,-0.14,0.83,md,11,77,0.002952,0.04,nc,nc73708846,2022-03-22T16:39:21.784Z,"3km NW of The Geysers, CA",earthquake,0.28,0.6,0.45,2,automatic,nc,nc
 2022-03-22T16:35:40.080Z,38.8035,-122.7916667,1.35,2.68,md,83,26,0.005289,0.05,nc,nc73708841,2022-03-22T19:25:19.750Z,"4km NW of The Geysers, CA",earthquake,0.08,0.11,0.14,56,reviewed,nc,nc
-2022-03-22T16:35:08.020Z,10.7482,-43.3791,10,6.7,mww,,27,10.749,0.76,us,us6000h6ne,2022-03-22T18:39:14.389Z,"northern Mid-Atlantic Ridge",earthquake,9.5,1.8,0.055,32,reviewed,us,us
+2022-03-22T16:35:08.020Z,10.7484,-43.3791,10,6.7,mww,,27,10.749,0.76,us,us6000h6ne,2022-03-22T19:30:47.372Z,"northern Mid-Atlantic Ridge",earthquake,9.5,1.8,0.055,32,reviewed,us,us
 2022-03-22T16:34:21.080Z,17.9826666666667,-66.8435,16.74,1.63,md,5,189,,0.03,pr,pr71341418,2022-03-22T17:35:30.510Z,"2 km WSW of Indios, Puerto Rico",earthquake,1.41,0.49,0.0538985119241073,5,reviewed,pr,pr
 2022-03-22T16:21:17.330Z,38.8110008,-122.7771683,0.08,0.84,md,8,111,0.003554,0.08,nc,nc73708836,2022-03-22T16:44:17.823Z,"4km NNW of The Geysers, CA",earthquake,0.36,0.75,,1,automatic,nc,nc
 2022-03-22T16:20:07.870Z,39.4163333,-110.2976667,-3.47,1.8,md,5,200,0.02262,0.07,uu,uu60486642,2022-03-22T16:27:25.520Z,"16 km SSE of Sunnyside, Utah",earthquake,1.65,4.31,0.097,5,reviewed,uu,uu
