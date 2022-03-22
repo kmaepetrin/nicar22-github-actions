@@ -4986,3 +4986,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T20:14:38.320Z,35.6946667,-117.5155,6.59,0.21,ml,6.0,163.0,0.1163,0.08,ci,ci39974663,2022-03-22T20:43:03.797Z,"13km SW of Searles Valley, CA",earthquake,1.32,0.71,0.091,2.0,reviewed,ci,ci
 2022-03-22T17:03:31.950Z,34.6441667,-117.3218333,-1.22,1.26,ml,14.0,84.0,0.08356,0.19,ci,ci39974479,2022-03-22T20:41:15.411Z,"10km NE of Adelanto, CA",quarry blast,0.48,31.61,0.167,27.0,reviewed,ci,ci
 2022-03-22T15:40:47.810Z,17.952,-66.9535,12.36,1.23,md,5.0,211.0,,0.07,pr,pr71341433,2022-03-22T20:40:33.000Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.96,0.127221728381304,4.0,reviewed,pr,pr
+2022-03-22T17:49:56.249Z,31.60140388,-103.9846357,6.440063477,2.5,ml,18.0,50.0,0.1275636303,0.2,tx,tx2022frno,2022-03-22T20:45:50.193Z,"36 km NNW of Toyah, Texas",earthquake,1.21670852,1.462747445,0.1,10.0,reviewed,tx,tx
+2022-03-22T15:55:04.990Z,17.9646666666667,-67.0085,11.49,1.22,md,3.0,317.0,,0.02,pr,pr71341443,2022-03-22T20:46:08.890Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,1.14,31.61,0.037716628679791,3.0,reviewed,pr,pr
