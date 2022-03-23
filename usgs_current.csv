@@ -253,7 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T16:14:09.201Z,62.9953,-149.4056,73.1,2,ml,,,,0.77,ak,ak0223q852ex,2022-03-22T16:23:12.103Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-22T15:55:04.990Z,17.9646666666667,-67.0085,11.49,1.22,md,3,317,,0.02,pr,pr71341443,2022-03-22T20:46:08.890Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,1.14,31.61,0.037716628679791,3,reviewed,pr,pr
 2022-03-22T15:51:41.490Z,38.840168,-122.8068314,2.29,0.85,md,8,92,0.013,0.01,nc,nc73708826,2022-03-22T15:53:16.277Z,"8km WNW of Cobb, CA",earthquake,0.45,1.1,,1,automatic,nc,nc
-2022-03-22T15:50:41.009Z,36.3516,-116.3203,8.2,1.7,ml,26,80.19,0.106,0.1589,nn,nn00835766,2022-03-23T00:35:38.715Z,"34 km WNW of Pahrump, Nevada",earthquake,,1.9,0.37,14,reviewed,nn,nn
-2022-03-22T15:48:45.140Z,38.8416672,-122.878334,2.13,0.86,md,13,93,0.005273,0.03,nc,nc73708821,2022-03-22T15:50:21.367Z,"13km ENE of Cloverdale, CA",earthquake,0.36,0.45,0.02,2,automatic,nc,nc
-2022-03-22T15:46:53.730Z,38.8411667,-122.8791667,2.76,0.04,md,16,93,0.004455,0.03,nc,nc71127494,2022-03-22T18:48:18.247Z,"13km ENE of Cloverdale, CA",earthquake,0.3,0.27,0.01,2,reviewed,nc,nc
-2022-03-22T15:46:39.880Z,38.8211667,-122.764,2.56,0.47,md,15,115,0.01038,0.03,nc,nc73708816,2022-03-22T21:03:33.332Z,"4km W of Cobb, CA",earthquake,0.42,0.35,0.099,2,reviewed,nc,nc
