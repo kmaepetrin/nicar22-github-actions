@@ -5304,3 +5304,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T21:14:02.040Z,32.6295,-116.4573333,6.43,1.51,ml,9.0,198.0,0.1881,0.19,ci,ci39975831,2022-03-23T21:17:39.201Z,"3km NNE of Campo, CA",earthquake,0.97,2.76,0.156,19.0,automatic,ci,ci
 2022-03-23T21:19:34.585Z,63.2434,-151.0709,16.0,1.0,ml,,,,0.5,ak,ak0223ryoph2,2022-03-23T21:21:57.039Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-23T21:06:09.095Z,-8.5746,-80.2055,10.0,4.3,mb,,153.0,4.738,1.19,us,us7000gwpk,2022-03-23T21:23:37.040Z,"126 km WSW of Santiago de Cao, Peru",earthquake,7.1,2.0,0.16,11.0,reviewed,us,us
+2022-03-23T21:33:11.300Z,33.4348335,-116.6191635,5.93,1.27,ml,46.0,39.0,0.06137,0.15,ci,ci39975895,2022-03-23T21:35:18.858Z,"14km SSE of Anza, CA",earthquake,0.22,0.68,0.302,15.0,automatic,ci,ci
+2022-03-23T21:33:07.470Z,33.2270012,-116.5830002,13.22,1.16,ml,13.0,83.0,0.1256,0.21,ci,ci39975903,2022-03-23T21:35:16.970Z,"8km SE of Warner Springs, CA",earthquake,0.58,1.54,0.542,4.0,automatic,ci,ci
