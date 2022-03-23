@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T21:14:02.040Z,32.6295,-116.4573333,6.43,1.51,ml,9,198,0.1881,0.19,ci,ci39975831,2022-03-23T21:17:39.201Z,"3km NNE of Campo, CA",earthquake,0.97,2.76,0.156,19,automatic,ci,ci
 2022-03-23T20:48:17.960Z,33.3853333,-116.8793333,5.98,1.01,ml,23,92,0.03458,0.35,ci,ci39975799,2022-03-23T20:51:57.938Z,"4km NNW of Palomar Observatory, CA",earthquake,0.83,1.71,0.149,18,automatic,ci,ci
-2022-03-23T20:47:30.901Z,-23.4877,-175.0958,10,5.5,mww,,88,6.283,1.29,us,us7000gwpf,2022-03-23T21:07:31.040Z,"239 km S of ‘Ohonua, Tonga",earthquake,7.6,1.7,0.098,10,reviewed,us,us
+2022-03-23T20:47:30.901Z,-23.4877,-175.0958,10,5.5,mww,,88,6.283,1.29,us,us7000gwpf,2022-03-23T21:10:58.886Z,"239 km S of ‘Ohonua, Tonga",earthquake,7.6,1.7,0.098,10,reviewed,us,us
 2022-03-23T20:40:22.240Z,19.2059993743896,-155.423828125,31.7399997711182,2.48,ml,43,142,,0.150000006,hv,hv72960272,2022-03-23T20:53:53.040Z,"5 km E of Pāhala, Hawaii",earthquake,0.65,0.860000014,4.62,4,automatic,hv,hv
 2022-03-23T20:19:30.160Z,38.7794991,-122.767334,1.23,0.82,md,17,88,0.008853,0.04,nc,nc73709401,2022-03-23T20:37:16.352Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.48,0.09,4,automatic,nc,nc
 2022-03-23T20:15:16.120Z,40.7421667,-111.9423333,6.45,0.72,md,7,97,0.06772,0.11,uu,uu60486807,2022-03-23T20:39:53.770Z,"Utah",earthquake,0.43,1.11,0.268,4,reviewed,uu,uu
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T19:57:33.670Z,19.1801662445068,-155.430160522461,33.5400009155273,1.71000004,md,24,169,,0.129999995,hv,hv72960232,2022-03-23T20:00:32.620Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.87,0.829999983,1.05999994,9,automatic,hv,hv
 2022-03-23T19:57:07.922Z,66.3938,-147.5253,1,1.8,ml,,,,1.05,ak,ak0223rxpxef,2022-03-23T20:39:21.376Z,"6 km WNW of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-23T19:50:46.280Z,44.3488333,-114.7778333,8.34,1.78,ml,8,119,0.531,0.25,mb,mb80541314,2022-03-23T20:42:18.230Z,"19 km NE of Stanley, Idaho",earthquake,0.69,1.7,0.136,7,reviewed,mb,mb
-2022-03-23T19:40:41.684Z,18.8144,-74.1075,10,5.1,mww,,37,1.359,0.47,us,us7000gwly,2022-03-23T20:23:25.040Z,"18 km N of Jérémie, Haiti",earthquake,4,1.9,0.073,18,reviewed,us,us
+2022-03-23T19:40:41.684Z,18.8144,-74.1075,10,5.1,mww,,37,1.359,0.47,us,us7000gwly,2022-03-23T21:10:25.423Z,"18 km N of Jérémie, Haiti",earthquake,4,1.9,0.073,18,reviewed,us,us
 2022-03-23T19:31:43.540Z,35.0456667,-118.3563333,0.27,1.29,ml,18,80,0.05626,0.15,ci,ci39975695,2022-03-23T19:35:25.439Z,"13km SE of Tehachapi, CA",earthquake,0.38,31.61,0.162,29,automatic,ci,ci
 2022-03-23T19:25:02.440Z,32.6021667,-116.9831667,0.35,1.79,ml,20,204,0.176,0.26,ci,ci39975679,2022-03-23T19:28:46.431Z,"7km ESE of Chula Vista, CA",quarry blast,1.05,31.61,0.149,21,automatic,ci,ci
 2022-03-23T19:14:08.800Z,35.6605,-117.5258333,10.88,1.63,ml,27,81,0.09022,0.17,ci,ci39975663,2022-03-23T19:25:16.870Z,"14km ENE of Ridgecrest, CA",earthquake,0.25,0.56,0.136,25,automatic,ci,ci
@@ -18,8 +19,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T19:00:47.150Z,33.8583333,-117.5041667,1.57,1.15,ml,30,55,0.06394,0.27,ci,ci39975647,2022-03-23T19:04:25.273Z,"3km SE of Home Gardens, CA",quarry blast,0.46,0.67,0.263,26,automatic,ci,ci
 2022-03-23T19:00:01.370Z,19.1881675720215,-155.469161987305,32.8699989318848,2.25999999,md,39,95,,0.129999995,hv,hv72960192,2022-03-23T19:03:13.440Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.55,0.819999993,1.63999999,18,automatic,hv,hv
 2022-03-23T18:51:58.810Z,38.8376656,-122.7914963,2.25,0.46,md,9,87,0.001167,0.01,nc,nc73709376,2022-03-23T18:53:32.516Z,"6km WNW of Cobb, CA",earthquake,0.37,0.55,0.39,2,automatic,nc,nc
-2022-03-23T18:45:12.829Z,60.2258,-153.0911,148,4.7,ml,,,,0.51,ak,ak0223rx1xl8,2022-03-23T21:07:15.792Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2022-03-23T18:45:11.996Z,60.2326,-153.1322,149.77,4.7,mb,,33,0.179,0.6,us,us7000gwl2,2022-03-23T20:52:08.409Z,"65 km E of Port Alsworth, Alaska",earthquake,4.7,3.6,0.07,63,reviewed,us,us
+2022-03-23T18:45:12.829Z,60.2258,-153.0911,148,4.7,ml,,,,0.51,ak,ak0223rx1xl8,2022-03-23T21:19:36.417Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-03-23T18:45:11.973Z,60.2289,-153.1231,149.62,4.7,mb,,33,0.174,0.55,us,us7000gwl2,2022-03-23T21:09:18.040Z,"66 km E of Port Alsworth, Alaska",earthquake,3.8,2.8,0.07,63,reviewed,us,us
 2022-03-23T18:37:45.830Z,35.8798333,-117.6695,7.11,0.78,ml,10,93,0.06967,0.07,ci,ci39975623,2022-03-23T18:41:18.068Z,"22km ESE of Little Lake, CA",earthquake,0.36,0.9,0.243,8,automatic,ci,ci
 2022-03-23T18:29:40.610Z,38.7989998,-122.7323303,1.06,0.7,md,9,110,0.01611,0.02,nc,nc73709371,2022-03-23T18:31:15.995Z,"3km SSW of Cobb, CA",earthquake,0.28,0.87,0.17,2,automatic,nc,nc
 2022-03-23T18:25:55.710Z,38.8395004,-122.8101654,1.83,0.98,md,13,53,0.01608,0.02,nc,nc73709366,2022-03-23T18:27:30.746Z,"8km WNW of Cobb, CA",earthquake,0.25,0.65,0.27,2,automatic,nc,nc
@@ -169,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T04:45:34.096Z,38.2324,-118.3322,9.5,0.4,ml,7,243.35,0.137,0.1169,nn,nn00835856,2022-03-23T18:13:26.219Z,"26 km SW of Mina, Nevada",earthquake,,8.5,0,1,reviewed,nn,nn
 2022-03-23T04:44:21.110Z,38.7758331,-122.7216644,1.71,0.9,md,8,96,0.0139,0.01,nc,nc73709121,2022-03-23T04:52:33.637Z,"3km W of Anderson Springs, CA",earthquake,0.61,0.41,0.07,3,automatic,nc,nc
 2022-03-23T04:41:38.620Z,39.3426667,-122.843,3.17,1.8,md,27,55,0.1883,0.12,nc,nc73709116,2022-03-23T09:49:18.436Z,"12km SE of Lake Pillsbury, CA",earthquake,0.2,1.43,0.156,25,reviewed,nc,nc
-2022-03-23T04:37:23.244Z,26.8265,126.6356,10,4.8,mww,,76,1.462,0.75,us,us6000h6vm,2022-03-23T05:18:04.040Z,"124 km WNW of Naha, Japan",earthquake,7.7,1.9,0.098,10,reviewed,us,us
+2022-03-23T04:37:22.576Z,26.8651,126.5052,10,4.8,mww,,75,1.579,0.49,us,us6000h6vm,2022-03-23T21:17:17.040Z,"137 km WNW of Naha, Japan",earthquake,7.7,1.9,0.098,10,reviewed,us,us
 2022-03-23T04:28:30.100Z,47.727666666666664,-120.1665,2.75,0.51,ml,10,65,0.07542,0.06,uw,uw61815337,2022-03-23T17:13:00.270Z,"6 km NNE of Entiat, Washington",earthquake,0.18,1.41,0.16818557577462334,4,reviewed,uw,uw
 2022-03-23T04:24:33.350Z,32.6273333,-115.5815,3.21,1.79,ml,28,130,0.1242,0.23,ci,ci39975031,2022-03-23T16:40:31.089Z,"5km N of Progreso, B.C., MX",earthquake,0.38,0.43,0.149,17,reviewed,ci,ci
 2022-03-23T04:24:10.770Z,32.6165,-115.58,3.29,1.65,ml,26,132,0.1278,0.24,ci,ci39975023,2022-03-23T16:18:38.339Z,"4km N of Progreso, B.C., MX",earthquake,0.36,0.43,0.203,13,reviewed,ci,ci
@@ -269,6 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T21:29:46.929Z,-23.8642,-66.5426,191.76,4.6,mb,,58,1.756,1.03,us,us6000h6t3,2022-03-22T22:09:00.040Z,"45 km NNW of San Antonio de los Cobres, Argentina",earthquake,2.9,6.5,0.045,144,reviewed,us,us
 2022-03-22T21:29:46.670Z,39.4216667,-110.3121667,-1.7,1.61,md,6,195,0.01031,0.04,uu,uu60486687,2022-03-22T22:50:33.180Z,"15 km SSE of Sunnyside, Utah",earthquake,1.59,1.04,0.155,5,reviewed,uu,uu
 2022-03-22T21:25:38.020Z,37.3573333,-121.7108333,8.63,0.89,md,16,64,0.05661,0.06,nc,nc73708986,2022-03-22T22:47:24.012Z,"10km E of Alum Rock, CA",earthquake,0.27,0.39,0.264,16,reviewed,nc,nc
-2022-03-22T21:14:42.340Z,19.167667388916,-155.485000610352,30.9099998474121,2.1099999,md,32,99,,0.100000001,hv,hv72959402,2022-03-22T21:18:12.420Z,"3 km S of Pāhala, Hawaii",earthquake,0.69,1.42999995,1.72000003,14,automatic,hv,hv
-2022-03-22T21:13:22.210Z,33.0491667,-115.0013333,-0.2,1.39,ml,9,145,0.07918,0.27,ci,ci39974711,2022-03-22T22:33:35.663Z,"44km NE of Holtville, CA",quarry blast,1.06,31.61,0.039,4,reviewed,ci,ci
-2022-03-22T21:11:16.580Z,19.1483325958252,-155.47966003418,31.5400009155273,1.78999996,md,18,208,,0.119999997,hv,hv72959397,2022-03-22T21:14:36.370Z,"6 km S of Pāhala, Hawaii",earthquake,1.06,1.36000001,1.88999999,4,automatic,hv,hv
