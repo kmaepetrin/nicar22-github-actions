@@ -5279,3 +5279,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T19:31:43.510Z,35.0494995,-118.3511658,-0.1,1.36,ml,15.0,108.0,0.05929,0.1,ci,ci39975695,2022-03-23T19:35:15.467Z,"13km SE of Tehachapi, CA",earthquake,0.39,0.71,0.124,4.0,automatic,ci,ci
 2022-03-23T19:25:02.440Z,32.6021667,-116.9831667,0.35,1.79,ml,20.0,204.0,0.176,0.26,ci,ci39975679,2022-03-23T19:28:46.431Z,"7km ESE of Chula Vista, CA",quarry blast,1.05,31.61,0.149,21.0,automatic,ci,ci
 2022-03-23T06:53:08.087Z,38.1752,-117.8239,8.2,1.1,ml,9.0,190.69,0.113,0.1417,nn,nn00835861,2022-03-23T19:30:34.211Z,"34 km SE of Mina, Nevada",earthquake,,3.8,0.71,4.0,reviewed,nn,nn
+2022-03-23T18:25:04.483Z,38.0473,72.6454,120.48,4.4,mb,,73.0,1.577,0.26,us,us7000gwkz,2022-03-23T19:35:41.040Z,"114 km ENE of Khorugh, Tajikistan",earthquake,7.3,8.4,0.105,26.0,reviewed,us,us
