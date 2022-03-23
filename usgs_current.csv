@@ -278,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T11:04:29.758Z,63.775,-147.7189,0,1.5,ml,,,,1.11,ak,ak0223q53ssq,2022-03-22T11:27:30.170Z,"59 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-22T10:59:42.240Z,19.1958332061768,-155.481002807617,35.3499984741211,2.18000007,md,44,82,,0.100000001,hv,hv72958967,2022-03-22T11:02:57.410Z,"0 km SSW of Pāhala, Hawaii",earthquake,0.55,0.75999999,1.45000005,22,automatic,hv,hv
 2022-03-22T10:59:10.070Z,38.7953339,-122.7511673,1.24,0.6,md,8,135,0.008514,0.04,nc,nc73708731,2022-03-22T11:31:12.991Z,"2km NNE of The Geysers, CA",earthquake,0.75,0.76,0.27,2,automatic,nc,nc
-2022-03-22T10:56:10.230Z,34.87366667,-97.744,9.14,1.77,ml,63,37,0.1088786343,0.29,ok,ok2022fqzx,2022-03-22T12:29:45.562Z,"3 km W of Bradley, Oklahoma",earthquake,,1.7,0.24,29,reviewed,ok,ok
