@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T11:46:12.530Z,35.7011681,-117.5196686,8.52,0.95,ml,12,157,0.1236,0.12,ci,ci39975143,2022-03-23T11:48:17.672Z,"13km SW of Searles Valley, CA",earthquake,0.61,1.63,0.067,3,automatic,ci,ci
 2022-03-23T11:27:22.855Z,62.9343,-149.495,72.1,2,ml,,,,0.61,ak,ak0223rss29r,2022-03-23T11:30:47.323Z,"57 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-23T11:02:42.570Z,35.6203333,-117.4461667,4.57,0.88,ml,10,165,0.0362,0.16,ci,ci39975135,2022-03-23T11:06:17.843Z,"17km SSW of Searles Valley, CA",earthquake,0.79,0.62,0.185,8,automatic,ci,ci
 2022-03-23T11:01:33.141Z,18.9111,-64.0178,35,3.2,ml,,222,1.238,0.59,us,us6000h6wt,2022-03-23T11:13:14.040Z,"104 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,10.1,2,0.055,44,reviewed,us,us
@@ -272,5 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T11:53:49.560Z,33.4773333,-116.52,14.34,1.05,ml,38,55,0.07142,0.14,ci,ci39974183,2022-03-22T18:11:03.210Z,"17km ESE of Anza, CA",earthquake,0.16,0.35,0.155,22,reviewed,ci,ci
 2022-03-22T11:51:33.490Z,45.435,-112.0958333,5.2,1.29,ml,20,57,0.205,0.19,mb,mb80541184,2022-03-22T14:02:48.980Z,"8 km ESE of Sheridan, Montana",earthquake,0.37,1.95,0.065,11,reviewed,mb,mb
 2022-03-22T11:50:30.829Z,39.4178,-119.9186,8.1,0.4,ml,10,64.92,0.122,0.1415,nn,nn00835815,2022-03-23T02:38:43.930Z,"Nevada",earthquake,,3,0.43,4,reviewed,nn,nn
-2022-03-22T11:47:27.730Z,18.2125,-67.848,2.15,3.11,md,9,185,,0.15,pr,pr71341338,2022-03-22T12:16:39.550Z,"64 km W of Stella, Puerto Rico",earthquake,0.88,0.58,0.175698384906979,4,reviewed,pr,pr
-2022-03-22T11:45:29.720Z,32.687,-115.7661667,7.92,1.58,ml,36,102,0.05037,0.24,ci,ci39974175,2022-03-22T18:05:52.140Z,"21km NW of Progreso, B.C., MX",earthquake,0.31,0.83,0.126,21,reviewed,ci,ci
