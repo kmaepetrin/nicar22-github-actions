@@ -5600,3 +5600,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T20:49:07.250Z,33.3883333,-116.5153333,14.85,0.55,ml,16.0,200.0,0.1286,0.24,ci,ci39977135,2022-03-24T20:52:41.807Z,"16km NE of Warner Springs, CA",earthquake,1.64,1.76,0.137,15.0,automatic,ci,ci
 2022-03-24T20:34:23.932Z,31.5818,-104.5532,5.0,2.7,ml,,102.0,0.565,0.31,us,us7000gwzi,2022-03-24T20:53:10.040Z,"65 km NNE of Van Horn, Texas",earthquake,1.6,1.7,0.056,42.0,reviewed,us,us
 2022-03-24T04:53:45.796Z,36.6057,-116.6581,9.7,0.2,ml,4.0,145.99,0.05,0.2028,nn,nn00835960,2022-03-24T20:54:57.721Z,"24 km NE of Furnace Creek, California",earthquake,,2.8,1.22,3.0,reviewed,nn,nn
+2022-03-24T16:12:00.710Z,46.198,-122.18,6.66,0.26,ml,17.0,141.0,0.007748,0.26,uw,uw61815757,2022-03-24T20:56:36.190Z,"38 km NNE of Amboy, Washington",earthquake,0.6,0.87,0.1516104572158206,7.0,reviewed,uw,uw
