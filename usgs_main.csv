@@ -5566,3 +5566,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T17:51:25.240Z,34.3253333,-118.5611667,13.92,1.3,ml,27.0,43.0,0.1177,0.29,ci,ci39976927,2022-03-24T17:55:04.937Z,"8km NW of Granada Hills, CA",earthquake,0.53,1.19,0.149,29.0,automatic,ci,ci
 2022-03-24T14:53:24.687Z,41.9645,-119.5887,1.6,2.7,ml,5.0,145.95,0.535,0.137,nn,nn00835935,2022-03-24T17:55:16.777Z,"48 km ENE of Fort Bidwell, California",earthquake,,4.0,0.74,4.0,reviewed,nn,nn
 2022-03-24T17:55:48.120Z,33.3253326,-116.3806686,8.44,1.03,ml,30.0,68.0,0.06466,0.15,ci,ci39976935,2022-03-24T17:59:23.006Z,"8km N of Borrego Springs, CA",earthquake,0.37,0.77,0.235,10.0,automatic,ci,ci
+2022-03-24T18:02:03.691Z,63.3469,-151.1934,6.7,1.9,ml,,,,0.96,ak,ak0223tkc1l0,2022-03-24T18:08:49.742Z,"34 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-24T17:42:55.230Z,35.8886667,-117.7041667,9.49,0.38,ml,12.0,66.0,0.07348,0.06,ci,ci39976911,2022-03-24T18:18:27.731Z,"19km ESE of Little Lake, CA",earthquake,0.18,0.43,0.122,4.0,reviewed,ci,ci
+2022-03-24T06:41:19.673Z,31.52942457,-104.0633189,6.131567383,2.0,ml,18.0,63.0,0.009628466821,0.2,tx,tx2022fuim,2022-03-24T18:09:33.455Z,"35 km NW of Toyah, Texas",earthquake,1.012207154,1.106186069,0.1,6.0,reviewed,tx,tx
