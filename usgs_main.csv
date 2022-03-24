@@ -5565,3 +5565,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T23:26:22.380Z,51.8068333333333,-178.824,6.17,0.08,ml,4.0,187.0,,0.11,av,av91520496,2022-03-24T17:29:12.040Z,"151 km W of Adak, Alaska",earthquake,0.69,0.81,0.259730487003234,4.0,reviewed,av,av
 2022-03-24T17:51:25.240Z,34.3253333,-118.5611667,13.92,1.3,ml,27.0,43.0,0.1177,0.29,ci,ci39976927,2022-03-24T17:55:04.937Z,"8km NW of Granada Hills, CA",earthquake,0.53,1.19,0.149,29.0,automatic,ci,ci
 2022-03-24T14:53:24.687Z,41.9645,-119.5887,1.6,2.7,ml,5.0,145.95,0.535,0.137,nn,nn00835935,2022-03-24T17:55:16.777Z,"48 km ENE of Fort Bidwell, California",earthquake,,4.0,0.74,4.0,reviewed,nn,nn
+2022-03-24T17:55:48.120Z,33.3253326,-116.3806686,8.44,1.03,ml,30.0,68.0,0.06466,0.15,ci,ci39976935,2022-03-24T17:59:23.006Z,"8km N of Borrego Springs, CA",earthquake,0.37,0.77,0.235,10.0,automatic,ci,ci
