@@ -5614,3 +5614,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T18:41:34.460Z,44.6645,-110.6671667,5.3,0.38,md,10.0,97.0,0.04897,0.13,uu,uu60486897,2022-03-24T21:33:14.820Z,"34 km E of West Yellowstone, Montana",earthquake,0.37,0.93,0.401,5.0,reviewed,uu,uu
 2022-03-24T13:06:08.940Z,39.5674,-120.3491,13.0,0.2,ml,4.0,276.23,0.299,0.1224,nn,nn00835965,2022-03-24T21:32:16.174Z,"2 km SSE of Sierraville, California",earthquake,,14.3,0.0,1.0,reviewed,nn,nn
 2022-03-23T23:55:17.790Z,48.1245,-122.38733333333332,26.86,1.31,ml,31.0,36.0,0.1347,0.26,uw,uw61815617,2022-03-24T21:32:09.810Z,"5 km SSW of Warm Beach, Washington",earthquake,0.36,0.8,0.0657503710472133,4.0,reviewed,uw,uw
+2022-03-24T20:50:38.858Z,14.1863,119.374,10.0,4.6,mb,,110.0,8.993,0.73,us,us7000gwzn,2022-03-24T21:36:00.040Z,"80 km WNW of Cabra, Philippines",earthquake,9.7,1.9,0.065,75.0,reviewed,us,us
+2022-03-24T19:44:28.830Z,18.7631666666667,-67.3395,11.7,2.59,md,10.0,288.0,,0.36,pr,pr71341863,2022-03-24T21:39:50.350Z,"39 km NW of San Antonio, Puerto Rico",earthquake,1.56,0.89,0.0058304086259659,7.0,reviewed,pr,pr
