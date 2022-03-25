@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T12:51:42.590Z,33.6891667,-116.717,16.81,0.95,ml,40,36,0.02207,0.21,ci,ci39977759,2022-03-25T12:55:22.940Z,"6km S of Idyllwild, CA",earthquake,0.32,0.49,0.18,27,automatic,ci,ci
 2022-03-25T12:49:33.220Z,19.1860008239746,-155.399505615234,32.4500007629395,1.83000004,md,36,164,,0.129999995,hv,hv72961667,2022-03-25T12:52:47.160Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.73,1.14999998,0.839999974,12,automatic,hv,hv
 2022-03-25T12:48:37.820Z,40.5076,-119.6616,15.5,1.9,ml,12,231.58,0.342,0.2845,nn,nn00836011,2022-03-25T12:52:15.750Z,"28 km WSW of Empire, Nevada",earthquake,,0.8,0.19,9,automatic,nn,nn
-2022-03-25T12:41:31.558Z,16.8113,-60.9004,37.78,4.5,mb,,135,0.52,0.39,us,us7000gx73,2022-03-25T13:40:39.874Z,"59 km NNE of Beauséjour, Guadeloupe",earthquake,3.7,9.2,0.052,108,reviewed,us,us
+2022-03-25T12:41:31.558Z,16.8113,-60.9004,37.78,4.5,mb,,135,0.52,0.39,us,us7000gx73,2022-03-25T15:52:16.650Z,"59 km NNE of Beauséjour, Guadeloupe",earthquake,3.7,9.2,0.052,108,reviewed,us,us
 2022-03-25T12:40:28.100Z,38.8209991,-122.7653351,2.19,0.45,md,10,114,0.01011,0.02,nc,nc73710191,2022-03-25T15:11:21.792Z,"4km W of Cobb, CA",earthquake,0.37,0.83,0.4,2,automatic,nc,nc
 2022-03-25T12:38:54.157Z,60.5239,-152.746,123.9,1.7,ml,,,,0.41,ak,ak0223v4im4m,2022-03-25T12:42:00.231Z,"78 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T12:37:09.810Z,38.831665,-122.8188324,1.98,0.85,md,9,99,0.01072,0.01,nc,nc73710186,2022-03-25T14:45:15.636Z,"8km NW of The Geysers, CA",earthquake,0.35,0.94,,1,automatic,nc,nc
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T16:17:13.193Z,57.4701,-154.971,25.5,1.8,ml,,,,0.6,ak,ak0223tj8euv,2022-03-24T16:19:32.319Z,"32 km WSW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-24T16:16:20.160Z,33.6761667,-116.7375,15.19,0.95,ml,29,92,0.03996,0.16,ci,ci39976775,2022-03-24T17:20:53.625Z,"7km SSW of Idyllwild, CA",earthquake,0.28,0.45,0.181,25,reviewed,ci,ci
 2022-03-24T16:12:00.710Z,46.198,-122.18,6.66,0.26,ml,17,141,0.007748,0.26,uw,uw61815757,2022-03-24T20:56:36.190Z,"38 km NNE of Amboy, Washington",earthquake,0.6,0.87,0.15161045721582062,7,reviewed,uw,uw
-2022-03-24T15:54:05.990Z,19.2066669464111,-155.422164916992,32.5,2.00999999,md,32,149,,0.119999997,hv,hv72960917,2022-03-24T15:57:14.950Z,"5 km E of Pāhala, Hawaii",earthquake,0.71,0.939999998,1.71000004,14,automatic,hv,hv
