@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T23:26:01.160Z,33.3556667,-116.3563333,8.15,0.61,ml,16,72,0.03968,0.17,ci,ci39978647,2022-03-25T23:29:39.668Z,"11km N of Borrego Springs, CA",earthquake,0.42,0.96,0.08,11,automatic,ci,ci
 2022-03-25T23:11:02.431Z,64.988,-147.3311,3.5,1.6,ml,,,,0.48,ak,ak0223vawhgj,2022-03-25T23:18:59.259Z,"13 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-25T22:59:45.120Z,33.1965,-115.997,7.12,0.86,ml,11,89,0.02806,0.21,ci,ci39978615,2022-03-25T23:03:28.096Z,"12km SSW of Salton City, CA",earthquake,0.56,0.76,0.09,4,automatic,ci,ci
+2022-03-25T22:55:46.720Z,45.909666666666666,-122.70916666666666,9.19,0.72,ml,9,309,0.2036,0.14,uw,uw61816402,2022-03-25T23:46:23.200Z,"2 km ENE of Woodland, Washington",earthquake,0.9,13.1,0.05012296155007834,4,reviewed,uw,uw
 2022-03-25T22:01:12.062Z,61.0428,-150.2925,34.4,1.8,ml,,,,1.1,ak,ak0223va8xfw,2022-03-25T22:07:09.379Z,"25 km ENE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-25T21:54:30.990Z,33.9193344,-117.268837,28.56,1.26,ml,13,163,0.1154,0.43,ci,ci39978575,2022-03-25T21:58:05.571Z,"3km N of March Air Reserve Base, CA",earthquake,1.6,2.7,0.21,4,automatic,ci,ci
 2022-03-25T21:52:43.720Z,38.5535011,-119.5403366,3.14,2.2,md,6,124,0.09397,0.02,nc,nc73710366,2022-03-25T23:29:11.687Z,"7km NW of Walker, CA",earthquake,0.42,1.54,0.22,3,automatic,nc,nc
@@ -256,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T00:10:18.060Z,35.9281667,-117.6655,3.66,1.53,ml,27,63,0.05232,0.1,ci,ci39977375,2022-03-25T17:39:59.370Z,"22km E of Little Lake, CA",earthquake,0.13,0.29,0.105,12,reviewed,ci,ci
 2022-03-25T00:07:43.830Z,38.8180008,-122.8231659,1.93,0.85,md,8,92,0.01026,0.02,nc,nc73710006,2022-03-25T01:01:12.857Z,"7km NW of The Geysers, CA",earthquake,0.42,1.21,,1,automatic,nc,nc
 2022-03-24T23:53:38.450Z,19.2276668548584,-155.382171630859,31.8500003814697,2.43000007,md,42,151,,0.119999997,hv,hv72961237,2022-03-24T23:56:58.470Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.860000014,0.419999987,25,automatic,hv,hv
-2022-03-24T23:46:57.550Z,38.8370018,-122.8024979,0.92,0.85,md,10,61,0.009595,0.03,nc,nc73710001,2022-03-25T00:49:13.631Z,"7km WNW of Cobb, CA",earthquake,0.31,0.6,,1,automatic,nc,nc
