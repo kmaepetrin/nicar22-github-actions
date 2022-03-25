@@ -292,5 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T07:49:59.720Z,17.819,-66.8766666666667,7.73,2.08,md,26,233,,0.18,pr,pr71341748,2022-03-24T08:53:00.920Z,"17 km S of Guánica, Puerto Rico",earthquake,0.82,1.52,0.198745234644406,11,reviewed,pr,pr
 2022-03-24T07:39:17.780Z,58.5963333333333,-154.938,3.46,-0.28,ml,6,151,,0.22,av,av91052723,2022-03-25T01:55:05.400Z,"94 km S of Kokhanok, Alaska",earthquake,0.99,2.35,0.19264629517566,6,reviewed,av,av
 2022-03-24T07:36:54.630Z,17.9226666666667,-66.9121666666667,12.71,2.4,md,4,224,,0.11,pr,pr71341738,2022-03-24T08:25:35.460Z,"5 km S of Guánica, Puerto Rico",earthquake,2.56,0.88,0.045199778204156,3,reviewed,pr,pr
-2022-03-24T07:34:30.886Z,36.8647,141.2268,44.23,4.3,mb,,138,2.446,0.97,us,us7000gwzz,2022-03-24T21:43:48.821Z,"36 km SE of Iwaki, Japan",earthquake,9.3,8.8,0.177,9,reviewed,us,us
-2022-03-24T07:28:30.967Z,-24.5374,179.1712,534.35,4.5,mb,,102,5.374,1.03,us,us7000gwsr,2022-03-24T07:49:38.040Z,"south of the Fiji Islands",earthquake,12.3,8.6,0.077,49,reviewed,us,us
