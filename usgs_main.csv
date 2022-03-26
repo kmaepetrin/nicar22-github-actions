@@ -6135,3 +6135,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T17:44:31.650Z,38.8125,-122.8131638,2.63,0.84,md,15.0,91.0,0.01114,0.02,nc,nc73710696,2022-03-26T17:46:04.461Z,"6km NW of The Geysers, CA",earthquake,0.31,0.86,,1.0,automatic,nc,nc
 2022-03-26T17:48:32.630Z,59.0105,-153.0135,67.0,1.8,ml,,,,0.3,ak,ak0223wv385b,2022-03-26T17:52:36.574Z,"73 km WSW of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-03-26T17:46:51.240Z,38.5123329,-119.5481644,-1.91,3.39,ml,32.0,69.0,0.08664,0.19,nc,nc73710701,2022-03-26T17:52:26.040Z,"6km W of Walker, CA",earthquake,0.3,2.61,0.368,28.0,automatic,nc,nc
+2022-03-26T18:04:54.162Z,63.1084,-150.4133,65.5,1.6,ml,,,,1.02,ak,ak0223wvf9wo,2022-03-26T18:07:19.287Z,"70 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-03-26T17:51:21.148Z,38.5133,-119.5449,0.0,0.9,ml,8.0,248.29,0.528,0.1806,nn,nn00836101,2022-03-26T17:55:19.334Z,California-Nevada border region,earthquake,,162.1,0.35,4.0,automatic,nn,nn
