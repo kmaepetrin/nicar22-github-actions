@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-26T14:23:15.520Z,38.7915001,-122.7689972,3.04,0.85,md,7,115,0.01165,0.01,nc,nc73710616,2022-03-26T14:24:48.503Z,"2km NW of The Geysers, CA",earthquake,0.84,1.35,,1,automatic,nc,nc
+2022-03-26T14:23:15.520Z,38.7915001,-122.7689972,3.04,0.85,md,7,115,0.01165,0.01,nc,nc73710616,2022-03-26T14:49:14.291Z,"2km NW of The Geysers, CA",earthquake,0.84,1.35,,1,automatic,nc,nc
 2022-03-26T14:21:36.560Z,38.7915001,-122.7633362,2.66,2.02,md,40,66,0.009542,0.06,nc,nc73710611,2022-03-26T14:43:10.241Z,"2km NNW of The Geysers, CA",earthquake,0.21,0.33,0.07,16,automatic,nc,nc
 2022-03-26T14:15:35.760Z,19.2701663970947,-155.414169311523,32.5499992370605,1.87,md,41,116,,0.129999995,hv,hv72962797,2022-03-26T14:18:52.370Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,1.01999998,0.720000029,17,automatic,hv,hv
 2022-03-26T13:53:20.330Z,20.7518,122.1453,10,5.2,mww,,72,2.281,1.07,us,us7000gxhw,2022-03-26T14:10:38.040Z,"38 km NNE of Basco, Philippines",earthquake,8,1.9,0.078,16,reviewed,us,us
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T12:15:41.147Z,54.3543,-159.6874,20.91,3.8,mb,,175,0.481,0.5,us,us7000gxhg,2022-03-26T13:40:32.040Z,"121 km SSE of Sand Point, Alaska",earthquake,6,8.7,0.181,9,reviewed,us,us
 2022-03-26T12:11:33.242Z,37.3186,-115.0491,8.2,1.6,ml,14,205.88,0.776,0.3632,nn,nn00836087,2022-03-26T12:15:08.754Z,"11 km ESE of Alamo, Nevada",earthquake,,1,0.34,11,automatic,nn,nn
 2022-03-26T12:09:40.620Z,19.1911659240723,-155.469833374023,31.3700008392334,2.54,ml,44,97,,0.100000001,hv,hv72962687,2022-03-26T12:37:19.040Z,"1 km SE of Pāhala, Hawaii",earthquake,0.65,0.709999979,3.41,18,automatic,hv,hv
-2022-03-26T12:09:17.179Z,39.9716,-119.6423,1.6,1.2,ml,10,116.62,0.143,0.1388,nn,nn00836085,2022-03-26T12:12:39.252Z,"Nevada",earthquake,,6,0.37,6,automatic,nn,nn
+2022-03-26T12:09:17.179Z,39.9716,-119.6423,1.6,1.2,ml,10,116.62,0.143,0.1388,nn,nn00836085,2022-03-26T12:12:39.252Z,"4 km WNW of Sutcliffe, Nevada",earthquake,,6,0.37,6,automatic,nn,nn
 2022-03-26T11:53:02.040Z,38.5141678,-119.543335,0.58,2.62,md,12,101,0.07398,0.08,nc,nc73710551,2022-03-26T14:35:23.245Z,"6km W of Walker, CA",earthquake,0.35,2.29,0.21,15,automatic,nc,nc
 2022-03-26T11:50:05.540Z,38.8328323,-122.8199997,1.31,0.78,md,17,58,0.0122,0.05,nc,nc73710546,2022-03-26T13:35:15.806Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.4,3,automatic,nc,nc
 2022-03-26T11:41:21.186Z,37.3397,-115.0205,12.7,2.7,ml,27,84.97,0.738,0.3811,nn,nn00836078,2022-03-26T12:04:21.040Z,"13 km ESE of Alamo, Nevada",earthquake,,0.5,0.35,19,automatic,nn,nn
@@ -210,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T14:58:19.223Z,61.61,-150.9329,71.7,1.9,ml,,,,0.74,ak,ak0223v5toyr,2022-03-25T15:05:51.473Z,"23 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T14:53:31.410Z,37.0711667,-117.9396667,6.82,1.99,ml,16,101,0.2329,0.19,ci,ci37405724,2022-03-25T23:00:26.996Z,"33km ESE of Big Pine, CA",earthquake,0.31,2.17,0.113,17,reviewed,ci,ci
 2022-03-25T14:53:05.630Z,37.066,-117.9313333,4.75,1.9,ml,20,78,0.2393,0.17,ci,ci39977855,2022-03-25T22:54:59.234Z,"34km ESE of Big Pine, CA",earthquake,0.24,31.61,0.15,18,reviewed,ci,ci
-2022-03-25T14:53:00.330Z,38.5035,-119.5443333,2.12,2.05,md,14,75,0.05183,0.08,nc,nc73710226,2022-03-25T19:13:15.213Z,"6km WSW of Walker, CA",earthquake,0.23,0.86,0.285,10,reviewed,nc,nc
-2022-03-25T14:51:56.930Z,18.051,-67.0275,8.38,2.04,md,3,237,,0.09,pr,pr71341993,2022-03-25T18:37:23.490Z,"3 km E of Lajas, Puerto Rico",earthquake,4.74,9.53,,1,reviewed,pr,pr
-2022-03-25T14:47:41.070Z,35.6788333,-117.484,6.8,1.81,ml,26,80,0.09383,0.12,ci,ci39977847,2022-03-25T22:30:26.210Z,"12km SW of Searles Valley, CA",earthquake,0.15,0.47,0.093,26,reviewed,ci,ci
