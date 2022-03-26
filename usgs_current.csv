@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-26T23:22:07.846Z,62.8719,-149.5531,78,1.5,ml,,,,0.94,ak,ak0223wyi79p,2022-03-26T23:26:33.054Z,"54 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-26T23:21:35.317Z,38.1502,-117.9826,9.9,0.9,ml,11,133.34,0.021,0.0956,nn,nn00836112,2022-03-26T23:25:33.803Z,"28 km SSE of Mina, Nevada",earthquake,,0.6,0.24,5,automatic,nn,nn
-2022-03-26T23:15:31.952Z,42.3512,143.0013,58.43,5,mww,,102,0.355,0.7,us,us7000gxkc,2022-03-26T23:31:30.040Z,"52 km E of Shizunai-furukawachō, Japan",earthquake,7.5,5.9,0.093,11,reviewed,us,us
+2022-03-26T23:15:31.952Z,42.3512,143.0013,58.43,5,mww,,102,0.355,0.7,us,us7000gxkc,2022-03-26T23:35:23.925Z,"52 km E of Shizunai-furukawachō, Japan",earthquake,7.5,5.9,0.093,11,reviewed,us,us
 2022-03-26T23:13:21.490Z,38.8359985,-122.7914963,1.87,1.05,md,19,51,0.00257,0.02,nc,nc73710821,2022-03-26T23:14:55.577Z,"6km WNW of Cobb, CA",earthquake,0.21,0.48,0.14,4,automatic,nc,nc
 2022-03-26T23:12:27.351Z,62.4036,-151.1483,65.2,1.7,ml,,,,0.66,ak,ak0223wyg3lb,2022-03-26T23:14:44.309Z,"22 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-26T23:11:11.230Z,38.8190002,-122.7663345,1.72,0.85,md,11,160,0.01179,0.03,nc,nc73710816,2022-03-26T23:12:45.492Z,"4km W of Cobb, CA",earthquake,0.42,1.01,,1,automatic,nc,nc
@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T22:11:47.240Z,38.7675018,-122.6956635,5.23,0.4,md,8,202,0.002906,0.03,nc,nc73710791,2022-03-26T22:34:13.207Z,"1km SSW of Anderson Springs, CA",earthquake,1.51,1.87,,1,automatic,nc,nc
 2022-03-26T22:08:54.590Z,35.6743333,-117.458,10.68,1.57,ml,16,115,0.08771,0.16,ci,ci39979351,2022-03-26T22:12:31.318Z,"11km SSW of Searles Valley, CA",earthquake,0.44,0.76,0.175,18,automatic,ci,ci
 2022-03-26T22:03:39.690Z,36.0144997,-120.5770035,3.27,1.91,md,24,78,0.03314,0.05,nc,nc73710786,2022-03-26T22:41:11.119Z,"18km NW of Parkfield, CA",earthquake,0.26,0.44,0.19,12,automatic,nc,nc
+2022-03-26T21:55:05.130Z,37.5628333,-118.993,2.72,0.82,md,9,252,0.07894,0.05,nc,nc73710781,2022-03-26T23:38:25.014Z,"8km S of Mammoth Lakes, CA",earthquake,0.55,2.21,0.099,9,reviewed,nc,nc
 2022-03-26T21:45:10.080Z,33.273,-116.253,3.98,0.69,ml,13,143,0.1009,0.22,ci,ci39979327,2022-03-26T21:48:45.140Z,"12km E of Borrego Springs, CA",earthquake,0.56,1.36,0.206,13,automatic,ci,ci
 2022-03-26T21:32:13.802Z,62.8515,-151.131,106.9,1.9,ml,,,,0.53,ak,ak0223wxdhmz,2022-03-26T21:43:33.666Z,"43 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-26T21:24:49.444Z,51.2187,-178.1783,47.25,4,mb,,143,0.717,0.84,us,us7000gxjv,2022-03-26T21:45:49.040Z,"129 km SW of Adak, Alaska",earthquake,5.8,8.6,0.07,54,reviewed,us,us
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T20:10:41.010Z,19.3658332824707,-155.058166503906,7.92000007629395,3.14,ml,42,166,,0.239999995,hv,hv72963027,2022-03-26T22:32:57.341Z,"13 km SE of Fern Forest, Hawaii",earthquake,0.69,0.419999987,3.18,33,automatic,hv,hv
 2022-03-26T20:06:05.421Z,61.1131,-150.2028,37.1,1.8,ml,,,,0.64,ak,ak0223wwmgr4,2022-03-26T20:17:29.982Z,"20 km SW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-26T19:53:03.220Z,38.8219986,-122.7648315,1.9,0.47,md,10,119,0.009345,0.01,nc,nc73710761,2022-03-26T20:24:12.295Z,"4km W of Cobb, CA",earthquake,0.32,0.55,0.09,2,automatic,nc,nc
-2022-03-26T19:43:00.610Z,37.4654999,-118.8085022,6.95,2.41,md,19,119,0.1254,0.04,nc,nc73710756,2022-03-26T21:33:10.737Z,"16km SW of Toms Place, CA",earthquake,0.32,1.62,0.2,25,automatic,nc,nc
+2022-03-26T19:43:00.690Z,37.4728333,-118.8113333,7.81,2.43,md,24,118,0.1178,0.05,nc,nc73710756,2022-03-26T23:37:10.450Z,"15km SW of Toms Place, CA",earthquake,0.31,1.37,0.242,36,reviewed,nc,nc
 2022-03-26T19:33:01.590Z,38.8361664,-122.8108368,1.94,0.89,md,21,55,0.01277,0.03,nc,nc73710751,2022-03-26T19:51:14.097Z,"8km WNW of Cobb, CA",earthquake,0.2,0.43,0.19,4,automatic,nc,nc
 2022-03-26T19:26:27.490Z,37.5523333,-118.9986667,3.01,0.74,md,6,276,0.06297,0.03,nc,nc73710746,2022-03-26T23:30:13.408Z,"10km S of Mammoth Lakes, CA",earthquake,0.76,1.18,0.115,5,reviewed,nc,nc
 2022-03-26T19:26:17.170Z,34.0351667,-116.9568333,13.78,0.94,ml,18,85,0.01949,0.12,ci,ci39979239,2022-03-26T19:29:56.727Z,"8km E of Yucaipa, CA",earthquake,0.29,0.57,0.237,19,automatic,ci,ci
