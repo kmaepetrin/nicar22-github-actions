@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T10:12:00.023Z,0.4001,123.9301,203,4.4,mb,,61,1.842,0.75,us,us7000gx6m,2022-03-25T10:37:16.040Z,"97 km E of Gorontalo, Indonesia",earthquake,8.2,8.2,0.081,44,reviewed,us,us
 2022-03-25T10:08:51.120Z,38.5833333,-112.571,7.21,0.34,md,7,171,0.1005,0.06,uu,uu60487002,2022-03-25T15:35:10.580Z,"26 km SSW of Kanosh, Utah",earthquake,1.92,2.88,0.128,5,reviewed,uu,uu
 2022-03-25T10:01:12.260Z,17.9938333333333,-66.9811666666667,7.32,2.08,md,4,148,,0.11,pr,pr71341968,2022-03-25T15:20:39.090Z,"6 km SW of Liborio Negron Torres, Puerto Rico",earthquake,1.98,1.68,0.0991908156521116,2,reviewed,pr,pr
-2022-03-25T09:37:53.810Z,45.32516666666667,-121.69466666666666,3.36,0.63,ml,8,136,0.03099,0.07,uw,uw61816117,2022-03-25T20:06:25.060Z,"5 km ENE of Government Camp, Oregon",earthquake,0.4,0.79,0.12602055562802494,4,reviewed,uw,uw
