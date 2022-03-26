@@ -6207,3 +6207,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T22:29:02.204Z,61.4106,-150.3495,49.2,1.8,ml,,,,0.33,ak,ak0223wxy97u,2022-03-26T22:39:59.798Z,"17 km SSE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-26T22:44:54.940Z,35.8598328,-117.661499,6.88,1.1,ml,13.0,98.0,0.06811,0.07,ci,ci39979399,2022-03-26T22:47:00.094Z,"24km ESE of Little Lake, CA",earthquake,0.37,0.84,0.182,3.0,automatic,ci,ci
 2022-03-26T20:53:26.148Z,-6.283,148.6887,53.39,4.6,mb,,75.0,4.036,0.59,us,us7000gxk4,2022-03-26T22:46:32.040Z,"95 km W of Kandrian, Papua New Guinea",earthquake,3.7,8.9,0.103,28.0,reviewed,us,us
+2022-03-26T23:01:00.480Z,38.8294983,-122.8144989,2.03,0.36,md,10.0,61.0,0.007006,0.02,nc,nc73710811,2022-03-26T23:02:36.350Z,"8km NW of The Geysers, CA",earthquake,0.34,1.02,,1.0,automatic,nc,nc
+2022-03-26T22:24:03.629Z,65.8121,-163.507,13.66,2.5,ml,,108.0,0.482,0.7,us,us7000gxk8,2022-03-26T22:55:22.040Z,"46 km SW of Deering, Alaska",earthquake,4.4,6.9,0.06,36.0,reviewed,us,us
