@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-27T07:43:31.252Z,38.1737,-117.9424,8,1,ml,12,150.48,0.037,0.1815,nn,nn00836131,2022-03-27T07:47:32.522Z,"28 km SSE of Mina, Nevada",earthquake,,0.4,0.88,6,automatic,nn,nn
 2022-03-27T07:35:52.368Z,65.4346,-149.9973,15.3,1.7,ml,,,,0.81,ak,ak0223yclht0,2022-03-27T07:38:05.318Z,"11 km SE of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-27T07:31:39.330Z,19.1723327636719,-155.471328735352,31.3199996948242,2.37,ml,42,160,,0.129999995,hv,hv72963487,2022-03-27T07:37:09.380Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.7,0.829999983,4.26,8,automatic,hv,hv
 2022-03-27T07:00:59.230Z,37.0205,-121.4798333,4.43,1.65,md,59,46,0.006145,0.18,nc,nc73711061,2022-03-27T07:40:10.337Z,"8km ENE of Gilroy, CA",earthquake,0.19,0.47,0.19,50,reviewed,nc,nc
@@ -238,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T07:52:22.430Z,32.9058333,-115.5258333,4.68,1.29,ml,15,91,0.02966,0.17,ci,ci39978887,2022-03-26T08:01:20.901Z,"8km NNE of Imperial, CA",earthquake,0.43,0.52,0.243,19,automatic,ci,ci
 2022-03-26T07:51:59.338Z,57.489,-154.7283,30.7,2,ml,,,,0.25,ak,ak0223wp5lb1,2022-03-26T07:54:03.458Z,"18 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-26T07:49:02.810Z,40.5328333,-124.3033333,29.16,2.38,md,22,182,0.06285,0.09,nc,nc73710501,2022-03-26T11:53:17.272Z,"6km SW of Ferndale, CA",earthquake,0.37,0.54,0.322,27,reviewed,nc,nc
-2022-03-26T07:45:59.750Z,46.855666666666664,-121.76316666666666,0.54,0.27,ml,14,97,0.02882,0.11,uw,uw61816487,2022-03-26T21:41:36.270Z,"23 km ENE of Ashford, Washington",earthquake,0.27,1.01,0.1603151929285061,5,reviewed,uw,uw
-2022-03-26T07:43:37.390Z,48.153333333333336,-121.2605,10.46,0.89,ml,8,98,0.08945,0.24,uw,uw61816482,2022-03-26T21:16:19.700Z,"27 km ESE of Darrington, Washington",earthquake,0.59,1.4,0.30876421372804363,4,reviewed,uw,uw
