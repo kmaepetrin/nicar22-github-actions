@@ -6650,3 +6650,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T18:02:05.353Z,31.6447,-104.2138,5.0,3.4,ml,,104.0,0.245,0.26,us,us7000gxwf,2022-03-28T18:11:59.040Z,"54 km NW of Toyah, Texas",earthquake,1.4,2.0,0.077,78.0,reviewed,us,us
 2022-03-28T18:01:26.790Z,37.5183333,-118.7878333,10.03,0.36,md,10.0,263.0,0.07873,0.04,nc,nc73711581,2022-03-28T18:27:20.805Z,"11km WSW of Toms Place, CA",earthquake,0.95,1.85,0.262,10.0,reviewed,nc,nc
 2022-03-28T14:15:47.616Z,51.1518,-174.1025,10.0,3.5,mb,,231.0,1.053,0.69,us,us7000gxw4,2022-03-28T18:13:59.040Z,"116 km S of Atka, Alaska",earthquake,3.0,1.9,0.287,3.0,reviewed,us,us
+2022-03-28T12:54:47.400Z,38.004,-122.2488333,7.03,0.87,md,23.0,86.0,0.01921,0.08,nc,nc73711491,2022-03-28T18:40:52.187Z,"4km SSE of Rodeo, CA",earthquake,0.24,0.5,0.26,16.0,reviewed,nc,nc
