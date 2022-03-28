@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T05:53:03.725Z,0.8396,-79.6443,10.49,5.2,mww,,133,1.334,0.55,us,us7000gxm3,2022-03-27T18:29:36.267Z,"13 km S of Esmeraldas, Ecuador",earthquake,2.7,4.2,0.062,25,reviewed,us,us
 2022-03-27T05:50:40.260Z,36.7131667,-121.3493333,3.19,0.87,md,14,193,0.006131,0.07,nc,nc73711041,2022-03-27T07:05:19.159Z,"9km SSW of Tres Pinos, CA",earthquake,0.68,0.27,0.202,13,reviewed,nc,nc
 2022-03-27T05:50:34.440Z,38.8253326,-122.7986679,1.71,0.35,md,11,65,0.009117,0.02,nc,nc73711031,2022-03-27T06:43:14.158Z,"6km NW of The Geysers, CA",earthquake,0.31,0.95,,1,automatic,nc,nc
-2022-03-27T05:35:34.655Z,51.6827,-178.5105,13.7,1.7,ml,,,,0.57,ak,ak0223ybej8f,2022-03-27T06:15:28.748Z,"131 km W of Adak, Alaska",earthquake,,4.2,,,reviewed,ak,ak
-2022-03-27T05:31:20.779Z,45.1571,-66.7708,10.68,1.4,ml,,165,0.063,0.24,us,us7000gxs4,2022-03-28T01:42:49.040Z,"24 km ENE of Saint Andrews, Canada",earthquake,4.8,2.6,0.148,6,reviewed,us,us
