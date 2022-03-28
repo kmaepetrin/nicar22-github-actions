@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-28T15:06:35.530Z,38.8419991,-122.8785019,2.48,0.88,md,19,93,0.005401,0.02,nc,nc73711546,2022-03-28T15:08:13.306Z,"13km ENE of Cloverdale, CA",earthquake,0.26,0.48,0.27,4,automatic,nc,nc
+2022-03-28T15:01:55.370Z,34.0626667,-116.2388333,2.08,1.38,ml,5,160,0.1785,0.08,ci,ci39980559,2022-03-28T15:05:25.944Z,"10km SE of Joshua Tree, CA",earthquake,0.7,7.09,0.379,13,automatic,ci,ci
+2022-03-28T15:00:39.390Z,35.6505013,-117.4671631,6.57,2.21,ml,32,54,0.06399,0.13,ci,ci39980551,2022-03-28T15:04:29.894Z,"14km SSW of Searles Valley, CA",earthquake,0.23,0.74,0.177,26,automatic,ci,ci
 2022-03-28T14:48:40.450Z,33.195,-116.0075,5.7,1.71,ml,38,45,0.03291,0.28,ci,ci39980543,2022-03-28T14:52:31.826Z,"12km SSW of Salton City, CA",earthquake,0.35,1.06,0.164,28,automatic,ci,ci
 2022-03-28T14:35:41.980Z,35.8891667,-117.6885,9.52,0.84,ml,12,78,0.08439,0.09,ci,ci39980535,2022-03-28T14:39:16.367Z,"20km ESE of Little Lake, CA",earthquake,0.24,0.62,0.136,5,automatic,ci,ci
 2022-03-28T14:32:18.550Z,38.1457,-117.9185,8.8,1.4,ml,12,116.97,0.033,0.1172,nn,nn00836185,2022-03-28T14:36:21.594Z,"31 km SSE of Mina, Nevada",earthquake,,0.4,0.39,6,automatic,nn,nn
@@ -49,7 +52,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T08:46:02.241Z,64.8661,-148.9332,7.6,1.1,ml,,,,0.22,ak,ak022400siww,2022-03-28T08:48:23.553Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-28T08:35:41.290Z,39.3468323,-122.8840027,-0.53,2.75,md,28,75,0.191,0.2,nc,nc73711436,2022-03-28T13:21:38.040Z,"9km SE of Lake Pillsbury, CA",earthquake,0.47,4.88,0.19,29,automatic,nc,nc
 2022-03-28T08:16:14.900Z,33.1873333,-115.6058333,1.16,1.38,ml,15,53,0.01282,0.18,ci,ci39980303,2022-03-28T08:19:48.767Z,"10km SW of Niland, CA",earthquake,0.39,31.61,0.178,24,automatic,ci,ci
+2022-03-28T08:14:18.300Z,33.1851667,-115.6305,2.35,1.1,ml,13,76,0.006953,0.2,ci,ci39980295,2022-03-28T15:11:30.792Z,"12km WSW of Niland, CA",earthquake,0.53,0.26,0.213,6,reviewed,ci,ci
 2022-03-28T08:12:16.200Z,38.2126667,-111.7005,6.01,2.05,ml,13,109,0.4963,0.25,uu,uu60487237,2022-03-28T13:32:47.100Z,"19 km SW of Bicknell, Utah",earthquake,1.15,31.61,0.151,9,reviewed,uu,uu
+2022-03-28T08:09:41.980Z,33.1806667,-115.606,1.8,1.49,ml,22,68,0.00869,0.21,ci,ci39980287,2022-03-28T15:00:50.233Z,"10km SW of Niland, CA",earthquake,0.32,0.24,0.194,10,reviewed,ci,ci
 2022-03-28T08:09:28.037Z,37.305,-104.4634,5.48,2.2,ml,,93,0.171,0.25,us,us7000gxtj,2022-03-28T08:28:44.040Z,"7 km WNW of Hoehne, Colorado",earthquake,3,5.7,0.069,28,reviewed,us,us
 2022-03-28T08:08:55.010Z,19.2346668243408,-155.387832641602,30.8899993896484,1.89999998,md,37,144,,0.129999995,hv,hv72964617,2022-03-28T08:11:59.900Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,0.920000017,0.939999998,3,automatic,hv,hv
 2022-03-28T08:05:38.200Z,32.9845,-80.1708333,2.87,0.93,md,5,122,0.04971,0.24,se,se60148243,2022-03-28T14:52:23.870Z,"1 km S of Centerville, South Carolina",earthquake,0.61,4.51,0.102,3,reviewed,se,se
@@ -153,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T18:32:06.920Z,38.8138333,-122.807,1.45,0.47,md,30,43,0.009845,0.03,nc,nc73711231,2022-03-27T19:09:17.499Z,"6km NW of The Geysers, CA",earthquake,0.16,0.29,0.058,4,reviewed,nc,nc
 2022-03-27T18:31:50.430Z,38.8134995,-122.8065033,1.62,0.95,md,15,52,0.01027,0.03,nc,nc73711226,2022-03-27T18:49:16.387Z,"6km NW of The Geysers, CA",earthquake,0.25,0.53,0.25,2,automatic,nc,nc
 2022-03-27T18:31:23.310Z,19.1879997253418,-155.474670410156,31.2099990844727,2.42,ml,41,154,,0.129999995,hv,hv72963912,2022-03-27T20:00:34.040Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.65,0.75,3.46,13,automatic,hv,hv
-2022-03-27T18:27:51.850Z,34.1725,-80.7098333,1.91,2.06,md,13,63,0.03722,0.39,se,se60148143,2022-03-28T14:44:59.781Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.98,1.57,0.127,10,reviewed,se,se
+2022-03-27T18:27:51.850Z,34.1725,-80.7098333,1.91,2.06,md,13,63,0.03722,0.39,se,se60148143,2022-03-28T14:59:49.084Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.98,1.57,0.127,10,reviewed,se,se
 2022-03-27T18:10:20.980Z,19.1173333333333,-66.4715,22.96,3.38,md,13,276,,0.1,pr,pr71342303,2022-03-27T18:50:29.400Z,"72 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.61,31.61,0.111358477826828,4,reviewed,pr,pr
 2022-03-27T18:03:10.370Z,33.4186667,-116.615,6.73,-0.18,ml,13,112,0.07658,0.08,ci,ci39979951,2022-03-28T14:13:55.155Z,"15km N of Warner Springs, CA",earthquake,0.23,0.44,0.061,5,reviewed,ci,ci
 2022-03-27T18:02:16.570Z,19.0796666666667,-66.4706666666667,38.42,3.26,md,18,250,,0.19,pr,pr71342298,2022-03-27T18:26:37.190Z,"68 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.87,3.55,0.0325918483432179,11,reviewed,pr,pr
@@ -192,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T15:33:36.020Z,17.955,-66.8416666666667,17.11,2.33,md,14,173,,0.07,pr,pr71342273,2022-03-27T16:04:01.860Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.49,0.36,0.171533121249257,9,reviewed,pr,pr
 2022-03-27T15:29:14.430Z,34.0865,-117.3056667,16.2,0.81,ml,36,98,0.1094,0.16,ci,ci39979855,2022-03-27T16:58:09.867Z,"2km NNE of Colton, CA",earthquake,0.26,0.51,0.225,14,reviewed,ci,ci
 2022-03-27T15:24:10.667Z,62.9842,-148.9836,28.5,1.6,ml,,,,0.97,ak,ak0223yhaiiz,2022-03-27T15:36:33.344Z,"45 km S of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-27T15:14:42.797Z,63.8324,-145.8708,18.6,1.1,ml,,,,0.89,ak,ak0223yh8fv2,2022-03-27T15:28:49.959Z,"18 km SW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-27T15:06:14.420Z,17.9543333333333,-66.8405,16.42,2.55,md,22,173,,0.1,pr,pr71342258,2022-03-27T15:37:11.960Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.43,0.29,0.130982528019439,10,reviewed,pr,pr
-2022-03-27T15:03:25.306Z,61.6013,-147.6991,20.6,1.5,ml,,,,0.8,ak,ak0223yh61n0,2022-03-27T15:20:27.673Z,"23 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-27T15:01:16.519Z,35.674,-97.42216667,7.08,3.29,ml,96,38,0,0.15,ok,ok2022galm,2022-03-28T14:39:42.835Z,"5 km ENE of Edmond, Oklahoma",earthquake,,0.2,0.24,40,reviewed,ok,ok
