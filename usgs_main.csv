@@ -6495,3 +6495,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T01:46:08.930Z,38.8250008,-122.8126678,1.88,1.41,md,25.0,45.0,0.002584,0.03,nc,nc73711336,2022-03-28T02:47:27.229Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.03,5.0,automatic,nc,nc
 2022-03-28T01:45:10.460Z,38.8253326,-122.8133316,2.11,0.35,md,9.0,91.0,0.003197,0.01,nc,nc73711331,2022-03-28T02:35:24.158Z,"7km NW of The Geysers, CA",earthquake,0.37,1.27,,1.0,automatic,nc,nc
 2022-03-28T03:03:59.740Z,19.2561664581299,-155.380828857422,31.7999992370605,2.57,ml,46.0,136.0,,0.119999997,hv,hv72964312,2022-03-28T03:12:31.228Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,2.74,28.0,automatic,hv,hv
+2022-03-28T03:26:48.617Z,-30.3376,-71.4476,35.56,4.3,mb,,152.0,0.372,0.73,us,us7000gxsh,2022-03-28T03:43:17.040Z,"37 km NW of Ovalle, Chile",earthquake,4.5,14.3,0.307,3.0,reviewed,us,us
