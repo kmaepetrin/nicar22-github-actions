@@ -7073,3 +7073,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T21:11:10.063Z,56.5263,-156.9808,63.9,2.3,ml,,,,0.2,ak,ak02241vv0t0,2022-03-29T21:18:49.040Z,"91 km ENE of Chignik, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-03-29T21:08:42.580Z,36.5564995,-121.1431656,7.43,1.42,md,11.0,116.0,0.03724,0.09,nc,nc73712036,2022-03-29T21:20:10.446Z,"3km N of Pinnacles, CA",earthquake,0.39,0.83,0.23,6.0,automatic,nc,nc
 2022-03-29T21:04:03.440Z,19.4099998474121,-155.580673217773,37.2200012207031,1.97,ml,31.0,75.0,,0.189999998,hv,hv72966602,2022-03-29T21:09:34.440Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.74,0.949999988,0.23,5.0,automatic,hv,hv
+2022-03-29T21:28:14.689Z,59.4688,-147.0677,22.4,2.3,ml,,,,0.71,ak,ak02241vyocc,2022-03-29T21:32:01.707Z,Gulf of Alaska,earthquake,,4.5,,,automatic,ak,ak
+2022-03-29T21:00:27.610Z,40.4455,-111.9195,8.33,0.93,md,9.0,159.0,0.02757,0.11,uu,uu60487872,2022-03-29T21:32:28.420Z,"5 km SSE of Bluffdale, Utah",earthquake,0.4,0.73,0.375,4.0,reviewed,uu,uu
+2022-03-29T06:00:27.694Z,31.16431321,-103.205535,5.437451172,2.8,ml,12.0,75.0,0.03690043745,0.2,tx,tx2022gdkr,2022-03-29T21:32:41.401Z,"16 km WSW of Coyanosa, Texas",earthquake,1.695266176,1.270329942,0.2,18.0,reviewed,tx,tx
