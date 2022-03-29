@@ -6967,3 +6967,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T09:17:26.950Z,44.7515,-110.9161667,4.35,0.21,md,6.0,133.0,0.05953,0.13,uu,uu60487722,2022-03-29T17:23:39.740Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.36,1.49,0.327,5.0,reviewed,uu,uu
 2022-03-29T09:06:04.360Z,44.7476667,-110.9148333,2.15,-0.31,md,5.0,127.0,0.06126,0.13,uu,uu60487707,2022-03-29T17:29:20.830Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.4,9.76,0.254,4.0,reviewed,uu,uu
 2022-03-29T06:51:01.300Z,44.7433333,-110.909,2.4,-0.38,md,5.0,118.0,0.06133,0.13,uu,uu60030239,2022-03-29T17:15:16.590Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.41,8.26,0.322,3.0,reviewed,uu,uu
+2022-03-29T17:31:28.990Z,35.8573333,-117.6801667,3.77,0.88,ml,8.0,89.0,0.07895,0.2,ci,ci39981231,2022-03-29T17:35:09.971Z,"22km ESE of Little Lake, CA",earthquake,0.54,1.49,0.124,7.0,automatic,ci,ci
+2022-03-29T17:13:07.772Z,15.2266,-104.396,10.0,5.5,mww,,187.0,5.335,0.82,us,us7000gy5q,2022-03-29T17:35:53.542Z,"off the coast of Michoacan, Mexico",earthquake,10.3,1.9,0.046,46.0,reviewed,us,us
+2022-03-29T17:03:13.800Z,36.9718333,-121.6146667,5.32,1.03,md,27.0,60.0,0.0309,0.14,nc,nc73711931,2022-03-29T17:38:14.104Z,"6km SW of Gilroy, CA",earthquake,0.29,0.36,0.183,18.0,reviewed,nc,nc
