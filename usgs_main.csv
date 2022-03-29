@@ -6799,3 +6799,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T06:34:45.330Z,33.6473333,-116.7243333,13.06,2.09,ml,65.0,19.0,0.06296,0.2,ci,ci39980983,2022-03-29T06:38:29.346Z,"10km S of Idyllwild, CA",earthquake,0.18,0.35,0.241,26.0,automatic,ci,ci
 2022-03-29T06:22:09.556Z,39.6424,-119.8315,2.5,1.4,ml,17.0,70.44,0.079,0.322,nn,nn00836232,2022-03-29T06:33:47.590Z,"1 km NE of Lemmon Valley, Nevada",earthquake,,0.7,0.16,9.0,automatic,nn,nn
 2022-03-28T12:47:32.348Z,57.7589,-156.0895,115.38,2.6,ml,,134.0,0.119,0.53,us,us7000gxun,2022-03-29T06:24:46.040Z,"82 km ENE of Ugashik, Alaska",earthquake,7.8,13.0,0.06,37.0,reviewed,us,us
+2022-03-29T06:40:31.940Z,38.8241653,-122.8548355,2.52,0.36,md,15.0,94.0,0.003731,0.02,nc,nc73711806,2022-03-29T06:42:07.485Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.51,0.01,3.0,automatic,nc,nc
+2022-03-29T06:33:41.635Z,31.6384,-104.2152,5.0,2.7,ml,,65.0,0.245,0.37,us,us7000gy1e,2022-03-29T06:51:43.040Z,western Texas,earthquake,1.0,1.8,0.06,36.0,reviewed,us,us
