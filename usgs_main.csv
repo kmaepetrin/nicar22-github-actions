@@ -6959,3 +6959,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T00:37:55.530Z,42.43,-120.37883333333332,1.19,1.53,ml,6.0,196.0,0.2048,0.11,uw,uw61817212,2022-03-29T17:10:30.260Z,"26 km N of Lakeview, Oregon",earthquake,0.9,1.99,0.0593801943672702,5.0,reviewed,uw,uw
 2022-03-28T22:27:45.740Z,35.6473333,-117.4323333,5.4,0.01,ml,4.0,174.0,0.0654,0.04,ci,ci39980863,2022-03-29T17:11:52.672Z,"14km S of Searles Valley, CA",earthquake,2.3,3.06,0.025,1.0,reviewed,ci,ci
 2022-03-28T20:50:16.640Z,33.647,-116.7168333,15.09,0.57,ml,15.0,78.0,0.04202,0.06,ci,ci39980807,2022-03-29T17:08:24.980Z,"10km S of Idyllwild, CA",earthquake,0.23,0.41,0.173,5.0,reviewed,ci,ci
+2022-03-29T17:25:43.190Z,38.8349991,-122.7903366,1.93,0.88,md,19.0,54.0,0.003405,0.02,nc,nc73711936,2022-03-29T17:27:21.156Z,"6km WNW of Cobb, CA",earthquake,0.24,0.41,0.11,4.0,automatic,nc,nc
+2022-03-29T17:22:31.169Z,61.4445,-150.9422,57.9,1.9,ml,,,,0.53,ak,ak02241tjovn,2022-03-29T17:27:19.065Z,"25 km WSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-29T09:52:15.660Z,44.7496667,-110.9168333,6.9,0.69,md,8.0,131.0,0.06105,0.18,uu,uu60487732,2022-03-29T17:16:51.680Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.52,1.49,0.242,6.0,reviewed,uu,uu
+2022-03-29T09:51:55.860Z,44.7166667,-110.9808333,8.73,0.27,md,6.0,120.0,0.04632,0.14,uu,uu60030244,2022-03-29T17:19:28.280Z,"11 km ENE of West Yellowstone, Montana",earthquake,0.65,0.65,0.428,3.0,reviewed,uu,uu
+2022-03-29T09:51:49.570Z,44.7446667,-110.9136667,2.6,-0.44,md,4.0,122.0,0.0627,0.14,uu,uu60030249,2022-03-29T17:21:33.990Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.4,8.02,0.184,3.0,reviewed,uu,uu
+2022-03-29T09:17:26.950Z,44.7515,-110.9161667,4.35,0.21,md,6.0,133.0,0.05953,0.13,uu,uu60487722,2022-03-29T17:23:39.740Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.36,1.49,0.327,5.0,reviewed,uu,uu
+2022-03-29T09:06:04.360Z,44.7476667,-110.9148333,2.15,-0.31,md,5.0,127.0,0.06126,0.13,uu,uu60487707,2022-03-29T17:29:20.830Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.4,9.76,0.254,4.0,reviewed,uu,uu
+2022-03-29T06:51:01.300Z,44.7433333,-110.909,2.4,-0.38,md,5.0,118.0,0.06133,0.13,uu,uu60030239,2022-03-29T17:15:16.590Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.41,8.26,0.322,3.0,reviewed,uu,uu
