@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T06:10:40.540Z,38.8348351,-122.8024979,2.33,0.71,md,12,62,0.01014,0.01,nc,nc73711786,2022-03-29T06:12:14.495Z,"7km WNW of Cobb, CA",earthquake,0.36,0.82,0.14,2,automatic,nc,nc
 2022-03-29T06:00:28.591Z,31.1443,-103.1901,6.44,2.9,ml,,51,0.251,0.72,us,us7000gy18,2022-03-29T06:16:30.040Z,"16 km SW of Coyanosa, Texas",earthquake,1.5,3.7,0.054,45,reviewed,us,us
 2022-03-29T05:58:22.120Z,38.8058319,-122.7911682,0.8,0.94,md,18,66,0.003871,0.03,nc,nc73711781,2022-03-29T05:59:59.458Z,"4km NW of The Geysers, CA",earthquake,0.21,0.36,0.08,4,automatic,nc,nc
-2022-03-29T05:48:50.320Z,38.8086662,-122.7979965,3.64,0.45,md,9,134,0.002217,0.01,nc,nc73711776,2022-03-29T05:50:25.296Z,"5km NW of The Geysers, CA",earthquake,0.47,1.34,0.11,2,automatic,nc,nc
+2022-03-29T05:48:50.320Z,38.8086662,-122.7979965,3.64,0.45,md,9,134,0.002217,0.01,nc,nc73711776,2022-03-29T06:59:16.428Z,"5km NW of The Geysers, CA",earthquake,0.47,1.34,0.11,2,automatic,nc,nc
 2022-03-29T05:42:06.308Z,58.3037,-154.773,24.1,0.5,ml,,,,1.55,ak,ak02241miq6y,2022-03-29T05:45:20.181Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-29T05:41:27.070Z,18.562,-66.4228333333333,78.96,3.4,md,18,226,,0.08,pr,pr71342513,2022-03-29T06:15:41.380Z,"13 km NNE of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.69,0.43,0.00963958899106654,6,reviewed,pr,pr
 2022-03-29T05:28:53.188Z,38.197,-117.8687,7.3,1.4,ml,11,115.26,0.091,0.259,nn,nn00836228,2022-03-29T05:32:23.358Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.51,7,automatic,nn,nn
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T07:18:29.270Z,58.1703333333333,-155.3155,3.12,0.89,ml,6,249,,0.2,av,av91524491,2022-03-29T00:28:31.500Z,"84 km NW of Karluk, Alaska",earthquake,1.08,1.38,0.462600605954043,6,reviewed,av,av
 2022-03-28T07:17:25.660Z,38.8214989,-122.7630005,1.7,0.85,md,7,122,0.01046,0.01,nc,nc73711406,2022-03-28T09:34:15.594Z,"4km W of Cobb, CA",earthquake,0.48,1.02,,1,automatic,nc,nc
 2022-03-28T07:02:47.750Z,19.1811676025391,-155.490829467773,35.2700004577637,2.03999996,md,39,87,,0.159999996,hv,hv72964562,2022-03-28T07:06:05.250Z,"Island of Hawaii, Hawaii",earthquake,0.65,1.00999999,0.629999995,9,automatic,hv,hv
-2022-03-28T06:56:08.010Z,17.9241666666667,-66.8506666666667,12.11,2.52,md,11,221,,0.12,pr,pr71342363,2022-03-28T08:15:58.870Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.61,0.42,0.0729073121222299,4,reviewed,pr,pr
