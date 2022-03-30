@@ -7344,3 +7344,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T18:52:21.790Z,34.992,-118.1931667,-0.84,1.11,ml,19.0,56.0,0.1166,0.27,ci,ci39981975,2022-03-30T20:37:00.820Z,"7km SSW of Mojave, CA",quarry blast,0.57,31.61,0.124,10.0,reviewed,ci,ci
 2022-03-30T18:10:05.800Z,35.5928333,-117.5165,8.82,-0.05,ml,6.0,198.0,0.04471,0.08,ci,ci39981959,2022-03-30T20:33:10.221Z,"15km ESE of Ridgecrest, CA",earthquake,1.26,0.58,0.102,2.0,reviewed,ci,ci
 2022-03-30T16:30:37.280Z,52.1193333333333,-175.656,17.27,0.98,ml,4.0,327.0,,0.14,av,av91525906,2022-03-30T20:45:40.240Z,"72 km ENE of Adak, Alaska",earthquake,2.11,3.51,0.238107995162606,4.0,reviewed,av,av
+2022-03-30T20:51:43.170Z,38.7791672,-122.7444992,0.36,1.11,md,14.0,75.0,0.00731,0.03,nc,nc73712371,2022-03-30T20:53:20.585Z,"1km ENE of The Geysers, CA",earthquake,0.22,0.41,0.07,3.0,automatic,nc,nc
+2022-03-30T20:50:32.565Z,38.1489,-117.982,11.0,1.6,ml,8.0,133.58,0.02,0.1119,nn,nn00836355,2022-03-30T20:54:14.652Z,"29 km SSE of Mina, Nevada",earthquake,,0.4,0.37,5.0,automatic,nn,nn
+2022-03-30T20:49:49.859Z,60.2119,-152.5571,97.4,1.3,ml,,,,0.49,ak,ak02243j15zd,2022-03-30T20:51:52.314Z,"52 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
