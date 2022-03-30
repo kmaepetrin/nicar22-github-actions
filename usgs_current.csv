@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T05:14:15.314Z,63.0936,-151.4893,9.7,1.4,ml,,,,0.69,ak,ak022439w36j,2022-03-30T05:15:55.140Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-30T05:11:53.357Z,38.1517,-117.9857,11.3,0.9,ml,8,147.95,0.024,0.0433,nn,nn00836291,2022-03-30T05:15:36.513Z,"28 km SSE of Mina, Nevada",earthquake,,1,0.24,4,automatic,nn,nn
+2022-03-30T05:09:39.133Z,59.9187,-151.7997,68,1.4,ml,,,,0.29,ak,ak022439v2ft,2022-03-30T05:14:39.973Z,"4 km SW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-03-30T05:07:31.380Z,19.2188339233398,-155.398162841797,33.5400009155273,3.28,ml,51,149,,0.119999997,hv,hv72967067,2022-03-30T05:13:36.783Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.42,0.5,3.89,40,automatic,hv,hv
+2022-03-30T05:07:24.750Z,19.2240009307861,-155.384338378906,44.8199996948242,3.25,ml,28,168,,0.360000014,hv,hv72967062,2022-03-30T05:12:55.390Z,"10 km ENE of Pāhala, Hawaii",earthquake,1.52,2.3900001,3.88,40,automatic,hv,hv
 2022-03-30T04:40:27.140Z,36.1631667,-118.0258333,1.5,1.95,ml,22,54,0.1457,0.11,ci,ci39981655,2022-03-30T04:51:43.070Z,"13km S of Olancha, CA",earthquake,0.23,0.53,0.215,26,automatic,ci,ci
 2022-03-30T04:36:20.531Z,4.0942,127.1179,35,4.6,mb,,186,3.309,0.74,us,us7000gyaj,2022-03-30T04:50:08.040Z,"233 km SE of Sarangani, Philippines",earthquake,8,2,0.173,10,reviewed,us,us
 2022-03-30T04:27:30.600Z,38.8523331,-122.7978363,1.57,0.86,md,12,102,0.002579,0.03,nc,nc73712186,2022-03-30T04:45:17.049Z,"7km WNW of Cobb, CA",earthquake,0.33,0.65,,1,automatic,nc,nc
@@ -20,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T02:54:50.450Z,38.8001671,-122.7714996,0.37,0.95,md,12,76,0.009222,0.04,nc,nc73712156,2022-03-30T03:12:15.519Z,"3km NNW of The Geysers, CA",earthquake,0.24,0.54,0.19,3,automatic,nc,nc
 2022-03-30T02:45:53.074Z,31.67596282,-104.3889932,6.157275391,3.1,ml,8,91,0.0955748402,0.2,tx,tx2022gezt,2022-03-30T03:00:08.559Z,"55 km S of Whites City, New Mexico",earthquake,1.28107514,2.316118559,0.2,7,reviewed,tx,tx
 2022-03-30T02:45:41.532Z,63.339,-145.39,24.2,1.1,ml,,,,0.92,ak,ak022438ahl4,2022-03-30T03:00:00.654Z,"29 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-30T02:28:03.790Z,38.822834,-122.7659988,1.99,0.67,md,15,118,0.008216,0.03,nc,nc73712151,2022-03-30T02:46:15.364Z,"4km W of Cobb, CA",earthquake,0.31,0.53,0.14,2,automatic,nc,nc
+2022-03-30T02:28:03.790Z,38.822834,-122.7659988,1.99,0.67,md,15,118,0.008216,0.03,nc,nc73712151,2022-03-30T05:01:14.151Z,"4km W of Cobb, CA",earthquake,0.31,0.53,0.14,2,automatic,nc,nc
 2022-03-30T02:08:10.800Z,64.1763,-145.8054,0,1.5,ml,,,,0.8,ak,ak0224382hps,2022-03-30T02:24:51.462Z,"3 km NE of Big Delta, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T02:04:49.485Z,31.6663,-104.3938,11.38,2.8,ml,,61,0.091,0.42,us,us7000gy9u,2022-03-30T02:18:10.040Z,"56 km S of Whites City, New Mexico",earthquake,1.7,1.2,0.055,68,reviewed,us,us
 2022-03-30T01:58:37.117Z,61.3467,-150.3531,50,1.5,ml,,,,0.43,ak,ak022437rty7,2022-03-30T02:12:04.079Z,"20 km W of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -69,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T21:19:17.580Z,36.0385,-117.7726667,2.03,0.54,ml,7,135,0.01456,0.04,ci,ci39981479,2022-03-29T22:05:18.740Z,"16km E of Coso Junction, CA",earthquake,0.18,0.18,0.111,3,reviewed,ci,ci
 2022-03-29T21:18:04.910Z,38.8413315,-122.824501,1.64,0.86,md,11,96,0.009006,0.01,nc,nc73712046,2022-03-29T21:35:18.523Z,"9km WNW of Cobb, CA",earthquake,0.34,0.75,,1,automatic,nc,nc
 2022-03-29T21:11:10.063Z,56.5263,-156.9808,63.9,2.3,ml,,,,0.2,ak,ak02241vv0t0,2022-03-29T21:18:49.040Z,"91 km ENE of Chignik, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-03-29T21:10:17.160Z,52.3333333333333,-174.162166666667,3.05,0.16,ml,6,166,,0.15,av,av91525466,2022-03-30T05:05:18.060Z,"15 km N of Atka, Alaska",earthquake,0.54,0.89,0.34483915473916,6,reviewed,av,av
 2022-03-29T21:08:42.620Z,36.5573333,-121.1443333,6.8,1.36,md,21,116,0.02601,0.09,nc,nc73712036,2022-03-30T03:01:14.460Z,"3km N of Pinnacles, CA",earthquake,0.35,0.45,0.225,15,reviewed,nc,nc
 2022-03-29T21:06:44.180Z,63.0099,-150.9452,118.4,1.4,ml,,,,0.46,ak,ak02241vu0rd,2022-03-29T22:58:57.670Z,"Central Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-03-29T21:04:03.440Z,19.4099998474121,-155.580673217773,37.2200012207031,1.97,ml,31,75,,0.189999998,hv,hv72966602,2022-03-29T21:25:47.040Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.74,0.949999988,0.23,5,automatic,hv,hv
@@ -185,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T13:31:08.682Z,60.2902,-140.7046,1.9,2.1,ml,,,,0.61,ak,ak02241r7u6r,2022-03-29T13:36:58.058Z,"99 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-29T13:24:07.600Z,33.5815,-116.8103333,7.9,1.93,ml,83,19,0.04046,0.18,ci,ci39981127,2022-03-29T16:03:14.450Z,"13km WNW of Anza, CA",earthquake,0.12,0.36,0.157,64,reviewed,ci,ci
 2022-03-29T13:23:15.980Z,44.7593333,-110.9141667,8.32,0.3,md,7,146,0.05382,0.09,uu,uu60487787,2022-03-29T15:02:29.610Z,"18 km NE of West Yellowstone, Montana",earthquake,0.75,1.67,0.196,5,reviewed,uu,uu
-2022-03-29T13:19:05.210Z,19.42,-155.616166666667,-0.79,3.51,ml,47,79,,0.16,hv,hv72966117,2022-03-30T01:48:33.276Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.53,0.176907238692459,30,reviewed,hv,hv
+2022-03-29T13:19:05.210Z,19.42,-155.616166666667,-0.79,3.51,ml,47,79,,0.16,hv,hv72966117,2022-03-30T05:16:47.790Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.53,0.176907238692459,30,reviewed,hv,hv
 2022-03-29T13:17:10.520Z,19.5105,-155.675333333333,3.66,1.01,md,13,147,,0.1,hv,hv72966112,2022-03-29T13:50:44.850Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.87,0.247041350837834,7,reviewed,hv,hv
 2022-03-29T13:12:49.190Z,19.1786670684814,-155.487838745117,38.2299995422363,2.06999993,md,42,88,,0.0900000036,hv,hv72966107,2022-03-29T13:16:19.660Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.68,1.07000005,0.75999999,23,automatic,hv,hv
 2022-03-29T13:07:21.590Z,44.7646667,-110.919,8.23,0.3,md,11,129,0.05422,0.09,uu,uu60487782,2022-03-29T15:00:18.220Z,"Wyoming",earthquake,0.36,0.75,0.317,6,reviewed,uu,uu
@@ -362,9 +368,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T05:19:18.780Z,38.7876663,-122.769165,1.64,0.95,md,17,80,0.0149,0.03,nc,nc73711766,2022-03-29T06:28:13.265Z,"2km NW of The Geysers, CA",earthquake,0.28,0.49,0.23,3,automatic,nc,nc
 2022-03-29T05:19:03.650Z,38.788166,-122.7695007,1.47,0.64,md,17,81,0.0146,0.03,nc,nc73711761,2022-03-29T06:15:16.197Z,"2km NW of The Geysers, CA",earthquake,0.26,0.43,0.3,4,automatic,nc,nc
 2022-03-29T05:18:42.700Z,52.3458333333333,-174.135333333333,11.26,0.88,ml,4,230,,0.19,av,av91053088,2022-03-30T02:36:06.980Z,"17 km NNE of Atka, Alaska",earthquake,1.64,1.21,0.0646534356997777,3,reviewed,av,av
-2022-03-29T05:14:57.790Z,44.7705,-110.9253333,9.92,0.49,md,8,171,0.0562,0.07,uu,uu60487447,2022-03-29T15:23:56.910Z,"18 km NE of West Yellowstone, Montana",earthquake,0.75,1.28,0.289,6,reviewed,uu,uu
-2022-03-29T05:14:28.730Z,44.7605,-110.927,7.32,-0.01,md,7,153,0.05641,0.06,uu,uu60030154,2022-03-29T15:26:35.290Z,"17 km NE of West Yellowstone, Montana",earthquake,0.69,2.05,0.229,4,reviewed,uu,uu
-2022-03-29T05:11:02.810Z,19.8993333333333,-156.091333333333,46.54,3.36,ml,48,300,,0.12,hv,hv72965652,2022-03-30T04:53:42.956Z,"22 km NNW of Kalaoa, Hawaii",earthquake,0.85,1.14,0.14072099212551,19,reviewed,hv,hv
-2022-03-29T05:10:06.350Z,38.7876663,-122.7696686,1.04,1.14,md,22,81,0.0151,0.03,nc,nc73711751,2022-03-29T05:52:14.029Z,"2km NW of The Geysers, CA",earthquake,0.21,0.43,0.24,6,automatic,nc,nc
-2022-03-29T05:01:28.590Z,17.956,-67.1143333333333,10.71,3.17,md,26,236,,0.11,pr,pr71342508,2022-03-29T05:46:30.210Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.37,0.25,0.234830467107781,8,reviewed,pr,pr
-2022-03-29T05:00:32.042Z,64.9566,-150.7113,12.7,1.8,ml,,,,0.88,ak,ak02241m9ryc,2022-03-29T05:05:09.058Z,"6 km SW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
