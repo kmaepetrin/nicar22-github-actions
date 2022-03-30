@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T23:45:42.763Z,62.1881,-149.5747,43.8,1.5,ml,,,,0.42,ak,ak02243ksldw,2022-03-30T23:47:52.080Z,"14 km ENE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-03-30T23:40:45.084Z,62.6214,-150.1795,67.1,1.4,ml,,,,0.74,ak,ak02243kriyw,2022-03-30T23:45:35.852Z,"19 km NNW of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-30T23:34:32.680Z,38.7890015,-122.7661667,2.52,0.36,md,7,91,0.01266,0.02,nc,nc73712441,2022-03-30T23:36:06.505Z,"2km NNW of The Geysers, CA",earthquake,0.52,1.82,,1,automatic,nc,nc
 2022-03-30T23:34:24.080Z,34.023,-117.21,14.63,1.14,ml,29,102,0.1359,0.27,ci,ci39982183,2022-03-30T23:38:01.771Z,"4km SW of Redlands, CA",earthquake,0.42,0.99,0.129,27,automatic,ci,ci
 2022-03-30T23:24:47.773Z,37.9765,-117.9202,0.4,1.1,ml,9,152.28,0.044,0.3344,nn,nn00836387,2022-03-30T23:28:26.874Z,"35 km NW of Silver Peak, Nevada",earthquake,,0.4,1.03,4,automatic,nn,nn
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T22:28:10.192Z,-22.6825,170.1236,10,4.5,mb,,103,2.474,0.51,us,us7000gyjp,2022-03-30T22:41:49.040Z,"263 km ESE of Tadine, New Caledonia",earthquake,8.7,2,0.156,12,reviewed,us,us
 2022-03-30T22:27:38.864Z,63.2607,-149.3592,7.7,1.9,ml,,,,0.64,ak,ak02243k3ala,2022-03-30T22:29:42.113Z,"25 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T22:23:11.930Z,38.8246651,-122.8584976,2.17,0.8,md,17,85,0.003143,0.02,nc,nc73712411,2022-03-30T22:52:14.788Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.41,0.11,4,automatic,nc,nc
-2022-03-30T22:06:11.502Z,35.40545273,-97.85227966,3.296821833,2.18,ml,11,80.61961365,0.05408114195,0.9542572699,ok,ok2022ggma,2022-03-30T22:08:05.039Z,"8 km E of Union City, Oklahoma",earthquake,4.692115782,3.348927182,,8,automatic,ok,ok
+2022-03-30T22:06:10.990Z,35.4135,-97.88833333,9.64,1.8,ml,57,45,0.03239364326,0.51,ok,ok2022ggma,2022-03-30T23:44:41.738Z,"5 km ENE of Union City, Oklahoma",earthquake,,1.5,0.18,30,reviewed,ok,ok
 2022-03-30T21:54:04.873Z,57.4553,-154.7906,0,2.3,ml,,,,0.78,ak,ak02243jnkp3,2022-03-30T21:56:39.623Z,"23 km WSW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-30T21:40:33.030Z,17.824,-66.8683333333333,8.02,2.1,md,6,262,,0.14,pr,pr71342758,2022-03-30T22:13:51.080Z,"16 km SSE of Guánica, Puerto Rico",earthquake,0.86,13.22,0.0903932530888942,6,reviewed,pr,pr
 2022-03-30T21:33:55.208Z,61.0912,-148.0254,21.4,1.7,ml,,,,0.59,ak,ak02243jj51x,2022-03-30T21:53:04.284Z,"50 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -245,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T23:56:50.330Z,18.086,-66.8536666666667,4.65,1.74,md,4,199,,0.1,pr,pr71342628,2022-03-30T00:18:06.730Z,"5 km N of Yauco, Puerto Rico",earthquake,1.75,8.28,0.0296819999618314,3,reviewed,pr,pr
 2022-03-29T23:52:12.527Z,-17.5252,-172.987,10,4.9,mb,,124,3.778,0.8,us,us7000gy93,2022-03-30T00:13:40.040Z,"163 km NE of Neiafu, Tonga",earthquake,12.5,1.9,0.085,44,reviewed,us,us
 2022-03-29T23:50:42.510Z,19.4266662597656,-155.615173339844,-0.400000005960464,1.73000002,md,12,103,,0.209999993,hv,hv72966747,2022-03-29T23:53:46.920Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.74,1.02999997,0.189999998,7,automatic,hv,hv
-2022-03-29T23:42:28.620Z,31.62579524,-104.5311309,7.648339844,2.7,ml,8,90,0.05008856861,0.2,tx,tx2022gets,2022-03-30T01:58:39.285Z,"62 km SSW of Whites City, New Mexico",earthquake,2.806619041,1.431587139,0.2,6,reviewed,tx,tx
