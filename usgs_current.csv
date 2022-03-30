@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T11:18:26.250Z,36.6481667,-121.265831,8.57,1.45,md,11,134,0.05412,0.06,nc,nc73712261,2022-03-30T11:20:04.236Z,"16km SSE of Tres Pinos, CA",earthquake,0.53,0.82,0.3,8,automatic,nc,nc
 2022-03-30T11:01:18.280Z,19.2231674194336,-155.406494140625,32.4099998474121,2.16,ml,46,142,,0.109999999,hv,hv72967432,2022-03-30T11:06:48.530Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.53,0.829999983,3.06,6,automatic,hv,hv
-2022-03-30T10:52:09.359Z,64.6995,-148.4182,0,1.2,ml,,,,1.08,ak,ak02243d3dyg,2022-03-30T11:01:04.098Z,"25 km SW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-30T10:52:09.359Z,64.6995,-148.4182,0,1.2,ml,,,,1.08,ak,ak02243d3dyg,2022-03-30T11:12:28.199Z,"25 km SW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-30T10:49:11.780Z,35.6846667,-117.4538333,4.93,0.75,ml,10,117,0.09819,0.16,ci,ci39981735,2022-03-30T10:52:47.066Z,"10km SSW of Searles Valley, CA",earthquake,0.6,1.19,0.197,8,automatic,ci,ci
 2022-03-30T10:43:12.510Z,35.6806667,-117.5125,7.18,0.57,ml,10,157,0.1025,0.16,ci,ci39981727,2022-03-30T10:46:40.447Z,"14km SW of Searles Valley, CA",earthquake,0.61,1.34,0.111,7,automatic,ci,ci
 2022-03-30T10:36:23.774Z,51.6642,178.9908,78.41,4.4,mb,,129,0.391,0.75,us,us7000gydm,2022-03-30T10:53:40.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.4,7.8,0.062,76,reviewed,us,us
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T08:06:20.733Z,-4.8571,133.7139,10,4.8,mb,,84,2.417,0.7,us,us7000gycq,2022-03-30T08:21:34.040Z,"136 km NE of Tual, Indonesia",earthquake,6.8,1.6,0.131,18,reviewed,us,us
 2022-03-30T07:52:39.097Z,38.0363,-117.8916,6.3,1,ml,11,159.94,0.116,0.3337,nn,nn00836306,2022-03-30T07:56:17.631Z,"38 km NW of Silver Peak, Nevada",earthquake,,0.9,0.54,5,automatic,nn,nn
 2022-03-30T07:50:39.772Z,61.1583,-150.0258,21.4,1.4,ml,,,,0.53,ak,ak02243baq21,2022-03-30T07:52:53.924Z,"9 km SW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-30T07:44:39.662Z,-6.1366,104.3106,63.85,5,mb,,42,2.221,1.3,us,us7000gyc2,2022-03-30T08:10:39.040Z,"Sunda Strait, Indonesia",earthquake,7.8,6.7,0.072,122,reviewed,us,us
+2022-03-30T07:44:39.662Z,-6.1366,104.3106,63.85,5,mb,,42,2.221,1.3,us,us7000gyc2,2022-03-30T08:10:39.040Z,"131 km SW of Bandar Lampung, Indonesia",earthquake,7.8,6.7,0.072,122,reviewed,us,us
 2022-03-30T07:36:58.330Z,19.1493339538574,-155.498168945312,32.1699981689453,2.21000004,md,41,144,,0.129999995,hv,hv72967277,2022-03-30T07:40:20.000Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.62,0.75,0.839999974,23,automatic,hv,hv
 2022-03-30T07:32:48.510Z,38.8233337,-122.7693329,2.26,0.85,md,14,100,0.007141,0.02,nc,nc73712241,2022-03-30T07:51:14.169Z,"4km W of Cobb, CA",earthquake,0.36,0.55,0.04,3,automatic,nc,nc
 2022-03-30T07:17:46.320Z,19.1639995574951,-155.484832763672,35.1399993896484,2.01999998,md,34,112,,0.140000001,hv,hv72967252,2022-03-30T07:21:07.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,1.57000005,0.109999999,5,automatic,hv,hv
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T11:29:34.881Z,64.7308,-148.9665,5.4,1.4,ml,,,,0.87,ak,ak02241q0lji,2022-03-29T11:34:58.615Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-29T11:29:06.470Z,58.2848333333333,-154.973,2.16,-0.31,ml,6,135,,0.12,av,av91053103,2022-03-30T03:17:27.460Z,"85 km NNW of Karluk, Alaska",earthquake,0.44,0.91,0.177861574715964,6,reviewed,av,av
 2022-03-29T11:26:29.152Z,36.7393,-116.2744,2.7,-0.2,ml,6,232.16,0.051,0.1424,nn,nn00836272,2022-03-30T02:38:33.998Z,"47 km ESE of Beatty, Nevada",earthquake,,5,0.09,3,reviewed,nn,nn
-2022-03-29T11:19:05.137Z,36.7458,-116.2819,9.1,-0.1,ml,12,94.21,0.056,0.0661,nn,nn00836261,2022-03-30T02:38:09.989Z,"46 km ESE of Beatty, Nevada",earthquake,,1.2,0.71,6,reviewed,nn,nn
-2022-03-29T11:17:29.530Z,34.0463333,-117.5125,8.23,0.93,ml,19,122,0.03798,0.12,ci,ci39981039,2022-03-29T15:22:00.233Z,"5km NNW of Glen Avon, CA",earthquake,0.21,0.43,0.125,3,reviewed,ci,ci
