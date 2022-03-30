@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T23:34:32.680Z,38.7890015,-122.7661667,2.52,0.36,md,7,91,0.01266,0.02,nc,nc73712441,2022-03-30T23:36:06.505Z,"2km NNW of The Geysers, CA",earthquake,0.52,1.82,,1,automatic,nc,nc
+2022-03-30T23:34:24.080Z,34.023,-117.21,14.63,1.14,ml,29,102,0.1359,0.27,ci,ci39982183,2022-03-30T23:38:01.771Z,"4km SW of Redlands, CA",earthquake,0.42,0.99,0.129,27,automatic,ci,ci
 2022-03-30T23:24:47.773Z,37.9765,-117.9202,0.4,1.1,ml,9,152.28,0.044,0.3344,nn,nn00836387,2022-03-30T23:28:26.874Z,"35 km NW of Silver Peak, Nevada",earthquake,,0.4,1.03,4,automatic,nn,nn
+2022-03-30T23:17:08.918Z,-28.698,-71.4946,23.45,5,mwr,,97,0.615,1.46,us,us7000gyjz,2022-03-30T23:39:44.259Z,"73 km W of Vallenar, Chile",earthquake,3.9,4,0.033,90,reviewed,us,us
 2022-03-30T22:58:55.750Z,19.1871662139893,-155.376327514648,30.3400001525879,1.97000003,md,32,178,,0.119999997,hv,hv72968007,2022-03-30T23:01:58.120Z,"10 km E of Pāhala, Hawaii",earthquake,0.66,1.01999998,1.97000003,4,automatic,hv,hv
 2022-03-30T22:57:13.664Z,37.9752,-117.9201,0.4,1.4,ml,9,152.41,0.045,0.3484,nn,nn00836382,2022-03-30T23:01:15.753Z,"35 km NW of Silver Peak, Nevada",earthquake,,0.4,0.47,4,automatic,nn,nn
 2022-03-30T22:51:36.960Z,38.8036652,-122.7754974,2.74,0.35,md,8,103,0.0104,0.07,nc,nc73712421,2022-03-30T23:16:14.925Z,"3km NNW of The Geysers, CA",earthquake,0.63,1.62,,1,automatic,nc,nc
@@ -64,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T16:30:37.280Z,52.1193333333333,-175.656,17.27,0.98,ml,4,327,,0.14,av,av91525906,2022-03-30T20:45:40.240Z,"72 km ENE of Adak, Alaska",earthquake,2.11,3.51,0.238107995162606,4,reviewed,av,av
 2022-03-30T16:30:07.243Z,-25.6655,-70.0004,71.59,4.9,mb,,94,0.721,0.68,us,us7000gyfe,2022-03-30T20:01:44.349Z,"56 km ESE of Taltal, Chile",earthquake,3.8,6,0.132,20,reviewed,us,us
 2022-03-30T16:26:30.580Z,38.8078333,-122.822,2.44,0.42,md,23,55,0.005703,0.03,nc,nc73712316,2022-03-30T19:32:15.579Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.36,0.121,3,reviewed,nc,nc
-2022-03-30T16:01:02.613Z,14.0205,-91.6962,55.93,5.4,mww,,159,1.864,0.47,us,us7000gyfc,2022-03-30T21:21:01.093Z,"38 km SE of Champerico, Guatemala",earthquake,9.5,6.4,0.093,11,reviewed,us,us
+2022-03-30T16:01:02.613Z,14.0205,-91.6962,55.93,5.4,mww,,159,1.864,0.47,us,us7000gyfc,2022-03-30T23:34:45.847Z,"38 km SE of Champerico, Guatemala",earthquake,9.5,6.4,0.093,11,reviewed,us,us
 2022-03-30T15:38:39.749Z,62.9634,-150.6151,109.3,1.1,ml,,,,0.39,ak,ak02243fzmag,2022-03-30T15:41:22.431Z,"52 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-30T15:31:17.783Z,63.1405,-151.4746,15.5,1.4,ml,,,,0.83,ak,ak02243fy2lh,2022-03-30T15:41:33.403Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-30T15:18:35.570Z,61.0418,-151.3832,64.9,1.1,ml,,,,0.76,ak,ak02243fvbnl,2022-03-30T15:21:40.111Z,"13 km WSW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
