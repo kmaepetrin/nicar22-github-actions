@@ -7176,3 +7176,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T04:40:27.140Z,36.1631667,-118.0258333,1.5,1.95,ml,22.0,54.0,0.1457,0.11,ci,ci39981655,2022-03-30T04:51:43.070Z,"13km S of Olancha, CA",earthquake,0.23,0.53,0.215,26.0,automatic,ci,ci
 2022-03-30T04:36:20.531Z,4.0942,127.1179,35.0,4.6,mb,,186.0,3.309,0.74,us,us7000gyaj,2022-03-30T04:50:08.040Z,"233 km SE of Sarangani, Philippines",earthquake,8.0,2.0,0.173,10.0,reviewed,us,us
 2022-03-29T18:19:11.720Z,52.3355,-174.154833333333,3.16,0.45,ml,4.0,227.0,,0.05,av,av91525396,2022-03-30T04:40:25.630Z,"15 km NNE of Atka, Alaska",earthquake,0.48,0.63,0.0873867863480816,4.0,reviewed,av,av
+2022-03-30T02:59:11.000Z,19.9588333333333,-155.497,31.79,2.05,md,38.0,151.0,,0.16,hv,hv72966917,2022-03-30T04:55:04.010Z,"13 km SSW of Honoka‘a, Hawaii",earthquake,0.47,0.76,0.1391379725019,19.0,reviewed,hv,hv
