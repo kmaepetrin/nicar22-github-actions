@@ -7267,3 +7267,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T11:45:37.500Z,44.755,-110.9255,6.56,0.33,md,7.0,143.0,0.05763,0.1,uu,uu60487957,2022-03-30T13:22:57.710Z,"17 km NE of West Yellowstone, Montana",earthquake,0.57,1.44,0.307,5.0,reviewed,uu,uu
 2022-03-30T06:12:47.200Z,44.663,-110.0203333,11.34,0.53,md,5.0,185.0,0.09827,0.14,uu,uu60487942,2022-03-30T13:08:33.580Z,"38 km S of Silver Gate, Montana",earthquake,1.05,1.78,0.232,4.0,reviewed,uu,uu
 2022-03-29T16:02:14.490Z,36.34033333,-97.4145,6.04,1.81,ml,33.0,56.0,0.02789452614,0.22,ok,ok2022geen,2022-03-30T13:33:30.826Z,"8 km NNE of Lucien, Oklahoma",earthquake,,0.5,0.12,4.0,reviewed,ok,ok
+2022-03-30T13:47:09.510Z,38.8223343,-122.7655029,2.17,0.45,md,10.0,118.0,0.008825,0.01,nc,nc73712291,2022-03-30T13:48:43.588Z,"4km W of Cobb, CA",earthquake,0.37,0.73,0.4,2.0,automatic,nc,nc
