@@ -7372,3 +7372,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T22:30:03.310Z,34.3948333,-117.0691667,4.79,1.78,ml,6.0,326.0,0.315,0.37,ci,ci39982135,2022-03-30T22:33:38.970Z,"11km WSW of Lucerne Valley, CA",earthquake,23.82,19.38,0.398,13.0,automatic,ci,ci
 2022-03-30T22:27:38.864Z,63.2607,-149.3592,7.7,1.9,ml,,,,0.64,ak,ak02243k3ala,2022-03-30T22:29:42.113Z,"25 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T04:01:01.037Z,37.1362,-116.2329,4.9,0.4,ml,11.0,212.08,0.111,0.136,nn,nn00836379,2022-03-30T22:34:54.928Z,Nevada,earthquake,,4.1,0.3,6.0,reviewed,nn,nn
+2022-03-30T22:28:10.192Z,-22.6825,170.1236,10.0,4.5,mb,,103.0,2.474,0.51,us,us7000gyjp,2022-03-30T22:41:49.040Z,"263 km ESE of Tadine, New Caledonia",earthquake,8.7,2.0,0.156,12.0,reviewed,us,us
+2022-03-30T04:35:58.657Z,41.9515,-119.5185,0.0,1.9,ml,5.0,156.96,0.586,0.1577,nn,nn00836380,2022-03-30T22:44:23.039Z,"53 km E of Fort Bidwell, California",earthquake,,2.5,0.63,4.0,reviewed,nn,nn
