@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T19:32:15.765Z,62.6907,-151.8135,0,1.5,ml,,,,0.97,ak,ak02243ic0j7,2022-03-30T19:34:54.307Z,"58 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-30T19:04:18.699Z,57.8349,-138.2506,0,3,ml,,,,0.89,ak,ak02243i60r0,2022-03-30T19:10:53.856Z,"119 km WSW of Elfin Cove, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-30T18:18:39.510Z,34.2033333,-116.831,7.76,1.04,ml,33,52,0.09481,0.13,ci,ci39981967,2022-03-30T18:55:41.482Z,"7km SSE of Big Bear City, CA",earthquake,0.17,0.45,0.086,16,reviewed,ci,ci
 2022-03-30T18:00:23.180Z,38.8230019,-122.8538361,2.33,0.36,md,12,64,0.005119,0.02,nc,nc73712351,2022-03-30T19:25:15.544Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.64,0.21,3,automatic,nc,nc
@@ -15,8 +16,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T17:00:28.208Z,62.3939,-150.9001,30.4,1.6,ml,,,,0.9,ak,ak02243gybes,2022-03-30T17:02:17.799Z,"13 km SSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-30T16:53:28.070Z,38.8051667,-122.781,3.16,0.26,md,23,65,0.008084,0.03,nc,nc73712321,2022-03-30T19:11:22.460Z,"4km NW of The Geysers, CA",earthquake,0.23,0.26,0.278,3,reviewed,nc,nc
 2022-03-30T16:32:44.940Z,39.4175,-110.3038333,-2.67,1.43,ml,6,198,0.01774,0.07,uu,uu60487967,2022-03-30T16:47:50.260Z,"16 km SSE of Sunnyside, Utah",earthquake,1.19,2.54,0.075,2,reviewed,uu,uu
-2022-03-30T16:30:07.243Z,-25.6655,-70.0004,71.59,4.9,mb,,94,0.721,0.68,us,us7000gyfe,2022-03-30T17:03:43.040Z,"56 km ESE of Taltal, Chile",earthquake,3.8,6,0.132,20,reviewed,us,us
-2022-03-30T16:26:30.580Z,38.8078333,-122.822,2.44,0.42,md,23,55,0.005703,0.03,nc,nc73712316,2022-03-30T18:40:50.602Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.36,0.121,3,reviewed,nc,nc
+2022-03-30T16:30:07.243Z,-25.6655,-70.0004,71.59,4.9,mb,,94,0.721,0.68,us,us7000gyfe,2022-03-30T19:32:37.241Z,"56 km ESE of Taltal, Chile",earthquake,3.8,6,0.132,20,reviewed,us,us
+2022-03-30T16:26:30.580Z,38.8078333,-122.822,2.44,0.42,md,23,55,0.005703,0.03,nc,nc73712316,2022-03-30T19:32:15.579Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.36,0.121,3,reviewed,nc,nc
 2022-03-30T16:01:02.613Z,14.0205,-91.6962,55.93,5.4,mww,,159,1.864,0.47,us,us7000gyfc,2022-03-30T18:05:00.171Z,"38 km SE of Champerico, Guatemala",earthquake,9.5,6.4,0.093,11,reviewed,us,us
 2022-03-30T15:38:39.749Z,62.9634,-150.6151,109.3,1.1,ml,,,,0.39,ak,ak02243fzmag,2022-03-30T15:41:22.431Z,"52 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-30T15:31:17.783Z,63.1405,-151.4746,15.5,1.4,ml,,,,0.83,ak,ak02243fy2lh,2022-03-30T15:41:33.403Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -224,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T20:03:56.320Z,38.8353348,-122.81633,1.16,0.36,md,10,76,0.01288,0.02,nc,nc73712026,2022-03-29T20:05:30.030Z,"8km W of Cobb, CA",earthquake,0.29,0.72,,1,automatic,nc,nc
 2022-03-29T19:47:45.720Z,35.8646667,-117.668,6.26,2.14,ml,38,48,0.07526,0.13,ci,ci39981407,2022-03-29T21:42:47.240Z,"23km ESE of Little Lake, CA",earthquake,0.13,0.39,0.18,25,reviewed,ci,ci
 2022-03-29T19:42:49.833Z,62.1592,-145.6635,20,1.4,ml,,,,1.18,ak,ak02241uuvvb,2022-03-29T19:45:15.351Z,"8 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-29T19:36:20.217Z,-18.8804,168.8927,112.25,4.6,mb,,144,3.777,0.8,us,us7000gy79,2022-03-29T21:52:07.040Z,"83 km NNW of Isangel, Vanuatu",earthquake,8.2,8.5,0.091,38,reviewed,us,us
-2022-03-29T19:31:42.900Z,18.0575,-66.9085,15.58,2.53,md,27,75,,0.17,pr,pr71342598,2022-03-29T20:34:45.712Z,"2 km N of Lluveras, Puerto Rico",earthquake,0.3,0.48,0.111208564387981,12,reviewed,pr,pr
