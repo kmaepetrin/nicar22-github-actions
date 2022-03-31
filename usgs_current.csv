@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T10:53:20.580Z,51.5406666666667,-177.1485,-3.2,1.16,ml,7,293,,0.17,av,av91053223,2022-03-31T01:58:33.540Z,"51 km SW of Adak, Alaska",earthquake,0.87,1.05,0.416603037073868,8,reviewed,av,av
 2022-03-30T10:52:09.359Z,64.6995,-148.4182,0,1.2,ml,,,,1.08,ak,ak02243d3dyg,2022-03-30T11:12:28.199Z,"25 km SW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-30T10:51:58.390Z,37.1344,-116.2337,2.7,0.2,ml,13,211.4,0.1,0.163,nn,nn00836385,2022-03-31T02:40:08.491Z,"53 km ENE of Beatty, Nevada",earthquake,,6.2,0.25,9,reviewed,nn,nn
-2022-03-30T10:49:11.680Z,35.676,-117.471,8.61,0.89,ml,19,88,0.08959,0.12,ci,ci39981735,2022-03-30T14:57:12.758Z,"12km SSW of Searles Valley, CA",earthquake,0.24,0.64,0.27,6,reviewed,ci,ci
-2022-03-30T10:48:29.050Z,40.4558333,-111.9335,9.56,1.43,ml,27,57,0.01529,0.2,uu,uu60487952,2022-03-30T12:53:34.320Z,"3 km S of Bluffdale, Utah",earthquake,0.42,0.76,0.145,5,reviewed,uu,uu
