@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-31T18:55:35.720Z,38.8125,-122.807663,1.5,0.57,md,16,86,0.01066,0.02,nc,nc73712751,2022-03-31T18:57:09.363Z,"6km NW of The Geysers, CA",earthquake,0.23,0.56,0.42,3,automatic,nc,nc
 2022-03-31T18:46:09.970Z,38.8120003,-122.8171692,2.13,0.77,md,18,54,0.00989,0.02,nc,nc73712746,2022-03-31T18:47:44.133Z,"6km NW of The Geysers, CA",earthquake,0.23,0.62,0.4,3,automatic,nc,nc
 2022-03-31T18:44:20.102Z,64.9119,-147.9855,0,1.8,ml,,,,1.07,ak,ak022455cie8,2022-03-31T18:54:00.524Z,"7 km N of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-31T18:32:48.590Z,38.8136673,-122.777832,7.12,0.84,md,11,112,0.002266,0.08,nc,nc73712741,2022-03-31T18:53:22.799Z,"4km NNW of The Geysers, CA",earthquake,1.06,0.88,,1,automatic,nc,nc
@@ -33,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T14:54:23.220Z,34.6376667,-118.5741667,10.65,1.5,ml,41,49,0.1253,0.15,ci,ci39982647,2022-03-31T17:24:40.130Z,"13km WSW of Lake Hughes, CA",earthquake,0.19,0.33,0.123,22,reviewed,ci,ci
 2022-03-31T14:46:39.940Z,34.4015,-116.4638333,2.62,1.62,ml,38,54,0.128,0.12,ci,ci39982631,2022-03-31T17:14:11.111Z,"32km N of Yucca Valley, CA",earthquake,0.13,0.53,0.124,41,reviewed,ci,ci
 2022-03-31T14:41:34.460Z,34.0945,-117.288,12.72,1.14,ml,53,53,0.01167,0.17,ci,ci39982623,2022-03-31T16:54:51.318Z,"3km NE of Colton, CA",earthquake,0.23,0.51,0.165,20,reviewed,ci,ci
-2022-03-31T14:34:12.534Z,35.0658,135.522,26.6,4.4,mb,,86,1.266,1.04,us,us7000gypw,2022-03-31T18:50:45.183Z,"9 km NW of Kameoka, Japan",earthquake,5.9,3.9,0.13,17,reviewed,us,us
+2022-03-31T14:34:12.534Z,35.0658,135.522,26.6,4.4,mb,,86,1.266,1.04,us,us7000gypw,2022-03-31T18:56:01.202Z,"9 km NW of Kameoka, Japan",earthquake,5.9,3.9,0.13,17,reviewed,us,us
 2022-03-31T14:23:13.780Z,19.1841659545898,-155.479995727539,33.2400016784668,2.19000006,md,42,77,,0.129999995,hv,hv72968877,2022-03-31T14:26:32.920Z,"2 km S of Pāhala, Hawaii",earthquake,0.53,0.810000002,0.810000002,16,automatic,hv,hv
 2022-03-31T14:17:29.700Z,38.8209991,-122.762001,2.12,0.74,md,12,123,0.0113,0.02,nc,nc73712696,2022-03-31T15:42:15.614Z,"3km W of Cobb, CA",earthquake,0.35,0.64,0.24,2,automatic,nc,nc
 2022-03-31T13:59:44.300Z,35.6045,-117.6373333,3.63,0.38,ml,4,171,0.1299,0.18,ci,ci39982567,2022-03-31T14:32:40.456Z,"4km ESE of Ridgecrest, CA",earthquake,0.59,2.31,0.092,2,reviewed,ci,ci
