@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-31T19:47:50.690Z,34.4066667,-116.4621667,2.53,1.46,ml,20,72,0.1308,0.16,ci,ci39982967,2022-03-31T19:51:31.521Z,"33km N of Yucca Valley, CA",earthquake,0.31,0.8,0.17,28,automatic,ci,ci
+2022-03-31T19:46:43.410Z,35.6725,-117.4696667,4.33,1.1,ml,15,156,0.08603,0.19,ci,ci39982959,2022-03-31T19:50:47.105Z,"12km SSW of Searles Valley, CA",earthquake,0.51,1.11,0.136,9,automatic,ci,ci
+2022-03-31T19:43:08.877Z,35.42299652,-97.8493576,1.033906341,2.3,ml,22,56.01675415,0.06334371865,1.152427383,ok,ok2022gicu,2022-03-31T19:48:21.934Z,"9 km ENE of Union City, Oklahoma",earthquake,2.372074226,2.261185603,,18,automatic,ok,ok
 2022-03-31T19:40:19.880Z,40.4718,-118.6385,16,1.8,ml,8,201.23,0.793,0.3162,nn,nn00836429,2022-03-31T19:44:00.585Z,"35 km NNW of Lovelock, Nevada",earthquake,,1.1,0.27,4,automatic,nn,nn
 2022-03-31T19:35:48.780Z,19.2076663970947,-155.37483215332,34.939998626709,2.01999998,md,37,160,,0.119999997,hv,hv72969117,2022-03-31T19:38:50.950Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.699999988,0.400000006,13,automatic,hv,hv
 2022-03-31T19:16:15.259Z,64.5755,-150.7498,4.6,1.6,ml,,,,0.91,ak,ak022455rxkn,2022-03-31T19:26:25.304Z,"47 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -13,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T18:21:04.570Z,44.6195,-110.3896667,4.37,0.69,md,8,119,0.05989,0.09,uu,uu60488102,2022-03-31T19:24:06.000Z,"46 km SSE of Mammoth, Wyoming",earthquake,0.32,0.8,0.649,5,reviewed,uu,uu
 2022-03-31T18:19:30.769Z,46.1661,150.9515,111.65,5.3,mb,,118,5.704,0.82,us,us7000gysf,2022-03-31T18:35:44.040Z,"261 km ENE of Kuril’sk, Russia",earthquake,8.8,6.1,0.023,641,reviewed,us,us
 2022-03-31T18:14:23.579Z,64.8773,-147.8948,6.5,0.8,ml,,,,0.93,ak,ak0224556366,2022-03-31T18:21:26.722Z,"4 km WNW of College, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-31T18:14:14.440Z,36.988,-119.8281667,8.61,1.63,md,8,197,0.09705,0.16,nc,nc73712731,2022-03-31T19:34:16.042Z,"4km E of Bonadelle Ranchos-Madera Ranchos, CA",earthquake,1.1,1.23,0.099,8,reviewed,nc,nc
+2022-03-31T18:14:14.440Z,36.988,-119.8281667,8.61,1.63,md,8,197,0.09705,0.16,nc,nc73712731,2022-03-31T19:48:10.124Z,"4km E of Bonadelle Ranchos-Madera Ranchos, CA",earthquake,1.1,1.23,0.099,8,reviewed,nc,nc
 2022-03-31T18:09:10.600Z,38.8348351,-122.8013306,2.46,0.36,md,14,58,0.009293,0.02,nc,nc73712726,2022-03-31T18:25:15.626Z,"7km WNW of Cobb, CA",earthquake,0.31,1.08,,1,automatic,nc,nc
 2022-03-31T18:02:18.259Z,-37.4779,-95.7516,10,4.9,mb,,207,18.688,1.09,us,us7000gysc,2022-03-31T18:48:02.040Z,"southeast of Easter Island",earthquake,9.1,2,0.097,33,reviewed,us,us
 2022-03-31T17:53:54.400Z,33.9983333,-116.7885,7.66,1.07,ml,27,92,0.04006,0.26,ci,ci39982863,2022-03-31T18:01:56.356Z,"9km N of Cabazon, CA",earthquake,0.44,1,0.212,27,automatic,ci,ci
@@ -260,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T20:01:44.800Z,36.8938333,-121.619,-0.12,1.48,md,25,74,0.02361,0.09,nc,nc73712356,2022-03-30T22:28:14.653Z,"2km ENE of Aromas, CA",quarry blast,0.19,31.61,0.234,24,reviewed,nc,nc
 2022-03-30T19:59:17.795Z,68.0436,-155.1789,0.1,1.4,ml,,,,1.36,ak,ak02243iht19,2022-03-30T20:08:46.572Z,"143 km W of Anaktuvuk Pass, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-30T19:58:19.390Z,17.9126666666667,-66.8108333333333,13.69,2,md,7,232,,0.13,pr,pr71342748,2022-03-30T20:17:04.950Z,"9 km S of Indios, Puerto Rico",earthquake,0.85,0.38,0.0903633382415224,4,reviewed,pr,pr
-2022-03-30T19:50:10.752Z,61.3161,-147.0173,16.8,1.5,ml,,,,0.87,ak,ak02243ifv2u,2022-03-30T20:00:57.944Z,"41 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-30T19:49:14.440Z,18.0335,-66.826,16.98,1.85,md,10,111,,0.12,pr,pr71342733,2022-03-30T20:03:26.420Z,"2 km E of Yauco, Puerto Rico",earthquake,0.4,0.66,0.0645561767612441,7,reviewed,pr,pr
-2022-03-30T19:47:55.931Z,63.394,-150.1674,117.7,1.4,ml,,,,0.69,ak,ak02243ifapy,2022-03-30T20:00:58.736Z,"60 km W of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
