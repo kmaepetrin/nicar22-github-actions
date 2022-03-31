@@ -7443,3 +7443,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T03:11:44.384Z,61.7673,-148.1192,33.0,1.4,ml,,,,0.55,ak,ak02244w7zk6,2022-03-31T03:14:01.390Z,"18 km E of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-31T03:06:47.708Z,-22.3941,170.1236,10.0,5.7,mww,,80.0,2.485,0.66,us,us7000gyln,2022-03-31T03:25:38.371Z,"249 km ESE of Tadine, New Caledonia",earthquake,7.0,1.8,0.098,10.0,reviewed,us,us
 2022-03-31T03:33:12.616Z,38.2209,-117.8503,9.7,2.5,ml,31.0,68.48,0.108,0.2457,nn,nn00836401,2022-03-31T03:36:56.737Z,"29 km SE of Mina, Nevada",earthquake,,0.3,0.3,17.0,automatic,nn,nn
+2022-03-31T03:57:12.770Z,38.8370018,-122.8218307,2.14,1.2,md,24.0,59.0,0.01078,0.04,nc,nc73712531,2022-03-31T03:58:47.476Z,"9km W of Cobb, CA",earthquake,0.22,0.44,0.05,5.0,automatic,nc,nc
+2022-03-31T03:50:19.447Z,61.7666,-150.0572,46.1,1.2,ml,,,,0.43,ak,ak02244wgak8,2022-03-31T03:51:48.654Z,"2 km NNW of Willow, Alaska",earthquake,,2.4,,,automatic,ak,ak
