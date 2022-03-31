@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-31T11:39:50.980Z,38.7901649,-122.7336655,1.72,0.67,md,8,120,0.007319,0.02,nc,nc73712686,2022-03-31T11:41:26.948Z,"2km NE of The Geysers, CA",earthquake,0.38,0.75,0.16,2,automatic,nc,nc
+2022-03-31T11:36:57.210Z,38.8248329,-122.7645035,1.86,1.04,md,22,126,0.007039,0.02,nc,nc73712681,2022-03-31T11:38:31.897Z,"4km W of Cobb, CA",earthquake,0.23,0.41,0.18,5,automatic,nc,nc
 2022-03-31T11:27:38.690Z,33.9941667,-117.1495,12.08,1.23,ml,39,108,0.05052,0.19,ci,ci39982447,2022-03-31T11:31:20.143Z,"8km SSE of Redlands, CA",earthquake,0.29,0.79,0.144,28,automatic,ci,ci
 2022-03-31T11:26:26.690Z,37.3908348,-118.6121674,3.06,1.57,md,10,116,0.2945,0.22,nc,nc73712671,2022-03-31T11:34:11.208Z,"3km SSW of Round Valley, CA",earthquake,0.94,16.51,0.1,6,automatic,nc,nc
 2022-03-31T11:21:37.110Z,37.543499,-118.8186646,1.95,1.26,md,9,232,0.04718,0.04,nc,nc73712666,2022-03-31T11:29:12.373Z,"12km W of Toms Place, CA",earthquake,1.97,1.35,0.02,5,automatic,nc,nc
