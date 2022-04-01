@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-01T23:35:16.310Z,19.113166809082,-155.845001220703,41.3499984741211,2.21000004,md,21,224,,0.129999995,hv,hv72970532,2022-04-01T23:38:32.850Z,"9 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.79,1.00999999,1.10000002,3,automatic,hv,hv
+2022-04-01T23:42:03.179Z,64.8159,-147.27,16,1.2,ml,,,,1.01,ak,ak02246vuk65,2022-04-01T23:44:40.941Z,"8 km NNE of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-01T23:35:16.290Z,19.115,-155.846333333333,41.42,2.26,md,34,224,,0.11,hv,hv72970532,2022-04-01T23:46:59.780Z,"9 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.5,0.62,0.104847912321113,13,reviewed,hv,hv
 2022-04-01T23:21:59.250Z,38.8264999,-122.8519974,1.8,0.86,md,6,139,0.003949,0.01,nc,nc73713196,2022-04-01T23:39:13.185Z,"10km WNW of The Geysers, CA",earthquake,0.82,1.13,,1,automatic,nc,nc
 2022-04-01T23:19:51.816Z,36.4585,-115.1162,0,1.3,ml,8,315.83,0.057,0.2599,nn,nn00836531,2022-04-01T23:24:26.793Z,"24 km NNW of Nellis Air Force Base, Nevada",earthquake,,3.1,0.47,4,automatic,nn,nn
 2022-04-01T23:14:33.826Z,60.5149,-143.3096,7.2,1.7,ml,,,,0.54,ak,ak02246vomhi,2022-04-01T23:16:53.745Z,"104 km SSW of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -98,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T13:14:37.370Z,36.0003333,-117.325,2.32,2.62,ml,34,78,0.1143,0.16,ci,ci39983615,2022-04-01T21:04:17.400Z,"27km N of Trona, CA",earthquake,0.18,0.54,0.167,25,reviewed,ci,ci
 2022-04-01T13:05:18.024Z,-22.5837,170.2656,10,5.5,mww,,32,2.605,0.85,us,us7000gyza,2022-04-01T15:08:40.112Z,"southeast of the Loyalty Islands",earthquake,5.6,1.7,0.089,12,reviewed,us,us
 2022-04-01T13:04:12.222Z,38.146,-117.985,10.4,1.1,ml,17,121.09,0.021,0.1034,nn,nn00836489,2022-04-01T18:20:42.281Z,"29 km SSE of Mina, Nevada",earthquake,,1.1,0.45,5,reviewed,nn,nn
+2022-04-01T13:03:37.910Z,33.549,-116.677,7.34,0.49,ml,17,116,0.0426,0.09,ci,ci39983599,2022-04-01T23:48:38.129Z,"1km SSW of Anza, CA",earthquake,0.19,0.4,0.161,8,reviewed,ci,ci
 2022-04-01T12:59:12.836Z,38.1416,-117.9813,10.2,1.7,ml,19,98.95,0.018,0.1399,nn,nn00836486,2022-04-01T16:22:43.212Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.17,7,reviewed,nn,nn
 2022-04-01T12:58:00.800Z,61.1699,-149.7323,29.7,1.7,ml,,,,0.91,ak,ak02246pe7sg,2022-04-01T13:01:37.089Z,"10 km ESE of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-01T12:54:59.680Z,63.265,-145.1753,8.8,1.3,ml,,,,0.52,ak,ak02246pdhgw,2022-04-01T12:56:44.821Z,"29 km NE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -257,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T00:22:06.640Z,53.3768333333333,-168.096833333333,0.48,-0.81,ml,5,228,,0.12,av,av91053423,2022-04-01T19:35:25.990Z,"70 km NE of Nikolski, Alaska",earthquake,0.46,0.34,0.0644608220386498,5,reviewed,av,av
 2022-03-31T23:54:57.359Z,35.1,-95.5305,7.25,1.04,ml,39,87,0.1133777514,0.24,ok,ok2022gilc,2022-04-01T18:38:21.954Z,"12 km ESE of Crowder, Oklahoma",earthquake,,0.7,0.35,6,reviewed,ok,ok
 2022-03-31T23:53:13.307Z,61.4868,-150.6216,42.4,1.6,ml,,,,0.42,ak,ak022458dlc2,2022-03-31T23:57:03.497Z,"8 km SW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-31T23:49:36.360Z,38.8008347,-122.7721634,1.46,0.96,md,13,76,0.009732,0.02,nc,nc73712846,2022-04-01T00:34:15.848Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.6,0.28,2,automatic,nc,nc
-2022-03-31T23:47:44.170Z,17.9433333333333,-66.9965,5.77,2.5,md,5,226,,0.06,pr,pr71342883,2022-04-01T00:20:47.640Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.5,0.85,0.0201163297098734,4,reviewed,pr,pr
-2022-03-31T23:45:29.300Z,36.4076667,-120.9668333,0.72,1.58,md,33,108,0.04546,0.21,nc,nc73712841,2022-04-01T07:09:18.272Z,"21km SE of Pinnacles, CA",earthquake,0.48,0.96,0.142,21,reviewed,nc,nc
