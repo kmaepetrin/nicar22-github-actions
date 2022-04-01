@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-01T17:41:08.340Z,33.3216667,-116.3596667,6.59,1.12,ml,34,66,0.05835,0.22,ci,ci39983839,2022-04-01T17:44:46.638Z,"8km N of Borrego Springs, CA",earthquake,0.3,0.72,0.227,33,automatic,ci,ci
+2022-04-01T17:41:08.340Z,33.3216667,-116.3596667,6.59,1.12,ml,34,66,0.05835,0.22,ci,ci39983839,2022-04-01T17:52:07.790Z,"8km N of Borrego Springs, CA",earthquake,0.3,0.72,0.227,33,automatic,ci,ci
 2022-04-01T17:31:30.050Z,33.8176667,-118.8153333,5.57,1.85,ml,7,216,0.4023,0.16,ci,ci39983823,2022-04-01T17:35:41.775Z,"21km S of Malibu, CA",earthquake,1.8,11.44,0.272,29,automatic,ci,ci
 2022-04-01T17:28:57.900Z,38.8330002,-122.8180008,1.76,0.85,md,9,103,0.01142,0.01,nc,nc73713131,2022-04-01T17:30:34.376Z,"8km NW of The Geysers, CA",earthquake,0.4,1.11,,1,automatic,nc,nc
 2022-04-01T17:09:11.590Z,17.9578333333333,-66.7341666666667,16.34,2.32,md,12,164,,0.12,pr,pr71342963,2022-04-01T17:33:22.890Z,"4 km SSW of Tallaboa, Puerto Rico",earthquake,0.42,0.6,0.12297695558438,8,reviewed,pr,pr
+2022-04-01T17:03:45.170Z,45.2966667,-112.0483333,-2,0.69,ml,6,131,0.064,0.1,mb,mb80541934,2022-04-01T17:56:44.320Z,"5 km ESE of Alder, Montana",quarry blast,1.17,31.61,0.194,3,reviewed,mb,mb
 2022-04-01T17:00:55.040Z,33.8580017,-117.4761658,12.01,1.42,ml,15,102,0.04806,0.23,ci,ci39983815,2022-04-01T17:04:40.682Z,"5km ESE of Home Gardens, CA",earthquake,0.76,1.26,0.287,12,automatic,ci,ci
-2022-04-01T16:50:26.460Z,40.3338333,-122.2625,13.06,1.91,md,16,72,0.1632,0.15,nc,nc73713121,2022-04-01T17:45:10.136Z,"13km SSE of Anderson, CA",earthquake,0.61,1.45,0.211,17,reviewed,nc,nc
+2022-04-01T16:50:26.460Z,40.3338333,-122.2625,13.06,1.91,md,16,72,0.1632,0.15,nc,nc73713121,2022-04-01T17:52:16.170Z,"13km SSE of Anderson, CA",earthquake,0.61,1.45,0.211,17,reviewed,nc,nc
 2022-04-01T16:45:42.870Z,33.259,-116.0753333,8.86,1.58,ml,54,47,0.1182,0.22,ci,ci39983799,2022-04-01T16:56:10.070Z,"12km WSW of Salton City, CA",earthquake,0.25,1.12,0.164,28,automatic,ci,ci
 2022-04-01T16:35:22.074Z,58.1848,-152.0297,11.5,2.5,ml,,,,0.73,ak,ak02246rn2dr,2022-04-01T16:37:29.714Z,"40 km NE of Ouzinkie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T16:32:19.250Z,38.8341675,-122.8050003,2.07,0.89,md,23,53,0.01146,0.02,nc,nc73713116,2022-04-01T17:01:15.848Z,"7km W of Cobb, CA",earthquake,0.21,0.49,0.15,4,automatic,nc,nc
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T11:57:12.846Z,61.5141,-149.8949,33,2.1,ml,,,,0.58,ak,ak02246osle8,2022-04-01T12:00:48.243Z,"3 km ESE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-04-01T11:54:34.430Z,32.817,-115.4685,8.76,1.36,ml,14,133,0.05248,0.13,ci,ci39983559,2022-04-01T11:58:10.186Z,"8km W of Holtville, CA",earthquake,0.52,0.9,0.159,16,automatic,ci,ci
 2022-04-01T11:54:34.084Z,1.9463,99.1209,140.57,4.8,mb,,90,0.768,0.52,us,us7000gyyr,2022-04-01T12:13:04.040Z,"44 km ENE of Sibolga, Indonesia",earthquake,6.2,5.7,0.062,81,reviewed,us,us
-2022-04-01T11:41:20.773Z,38.5043,-119.5298,6.8,1.2,ml,8,130.1,0.072,0.0666,nn,nn00836478,2022-04-01T11:46:00.494Z,"4 km WSW of Walker, California",earthquake,,0.7,0.01,2,automatic,nn,nn
+2022-04-01T11:41:21.415Z,38.5108,-119.5295,6.4,1.2,ml,7,78.44,0.072,0.1368,nn,nn00836478,2022-04-01T17:52:41.814Z,"4 km W of Walker, California",earthquake,,1.7,0.02,3,reviewed,nn,nn
 2022-04-01T11:40:59.310Z,19.1826667785645,-155.498336791992,35.7400016784668,1.85000002,md,36,80,,0.129999995,hv,hv72969987,2022-04-01T11:44:13.510Z,"3 km SW of Pāhala, Hawaii",earthquake,0.58,0.819999993,0.920000017,11,automatic,hv,hv
 2022-04-01T11:38:32.156Z,38.1547,-117.9102,12.5,0.6,ml,8,161.7,0.042,0.0639,nn,nn00836477,2022-04-01T11:42:59.536Z,"Nevada",earthquake,,0.6,0.41,3,automatic,nn,nn
 2022-04-01T11:38:25.630Z,33.1601667,-116.4586667,7.39,2.22,ml,66,37,0.1132,0.2,ci,ci39983543,2022-04-01T15:18:30.880Z,"13km SW of Borrego Springs, CA",earthquake,0.2,1.26,0.222,26,reviewed,ci,ci
@@ -254,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T18:09:10.600Z,38.8348351,-122.8013306,2.46,0.36,md,14,58,0.009293,0.02,nc,nc73712726,2022-03-31T20:16:17.506Z,"7km WNW of Cobb, CA",earthquake,0.31,1.08,,1,automatic,nc,nc
 2022-03-31T18:02:18.259Z,-37.4779,-95.7516,10,4.9,mb,,207,18.688,1.09,us,us7000gysc,2022-03-31T18:48:02.040Z,"southeast of Easter Island",earthquake,9.1,2,0.097,33,reviewed,us,us
 2022-03-31T18:02:08.040Z,53.8763333333333,-166.924166666667,9.02,-0.3,ml,5,212,,0.07,av,av91053403,2022-04-01T01:37:18.910Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.49,0.79,0.209665250582762,5,reviewed,av,av
-2022-03-31T17:53:54.270Z,33.9985,-116.7961667,8.75,0.99,ml,36,85,0.03781,0.16,ci,ci39982863,2022-03-31T20:13:19.841Z,"9km N of Cabazon, CA",earthquake,0.2,0.56,0.163,18,reviewed,ci,ci
