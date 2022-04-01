@@ -7862,3 +7862,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T02:51:19.450Z,44.2735,-114.7688333,3.39,2.0,ml,10.0,90.0,0.756,0.2,mb,mb80541899,2022-04-01T14:04:25.970Z,"14 km ENE of Stanley, Idaho",earthquake,0.54,3.39,0.248,14.0,reviewed,mb,mb
 2022-04-01T14:17:40.110Z,61.2001,-150.8894,60.0,1.8,ml,,,,0.48,ak,ak02246qcdob,2022-04-01T14:20:35.839Z,"12 km ENE of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-01T14:04:22.256Z,31.65364175,-104.4286223,7.185595703,3.1,ml,8.0,163.0,0.06331150967,0.1,tx,tx2022gjnd,2022-04-01T14:24:18.260Z,"58 km S of Whites City, New Mexico",earthquake,1.616916299,1.843967701,0.1,7.0,reviewed,tx,tx
+2022-04-01T14:36:29.000Z,36.0223333,-117.7695,-0.03,0.68,ml,6.0,148.0,0.004478,0.04,ci,ci39983671,2022-04-01T14:40:12.011Z,"16km NE of Little Lake, CA",earthquake,0.31,31.61,0.108,5.0,automatic,ci,ci
+2022-04-01T14:36:21.420Z,35.0078333,-118.885,16.65,1.54,ml,25.0,69.0,0.09634,0.29,ci,ci39983663,2022-04-01T14:39:53.644Z,"8km NNE of Grapevine, CA",earthquake,0.53,1.22,0.213,30.0,automatic,ci,ci
