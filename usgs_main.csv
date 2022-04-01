@@ -7794,3 +7794,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T08:53:49.340Z,32.7885,-115.4548333,7.78,1.61,ml,16.0,113.0,0.01809,0.18,ci,ci39983455,2022-04-01T08:57:24.712Z,"7km WSW of Holtville, CA",earthquake,0.47,0.69,0.157,24.0,automatic,ci,ci
 2022-04-01T08:50:28.568Z,61.3079,-147.0163,15.2,2.5,ml,,,,0.91,ak,ak02246mytqo,2022-04-01T08:56:25.708Z,"40 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T08:45:19.670Z,32.7996667,-115.4511667,7.85,1.69,ml,15.0,111.0,0.006736,0.18,ci,ci39983447,2022-04-01T08:49:09.114Z,"7km W of Holtville, CA",earthquake,0.52,0.64,0.113,10.0,automatic,ci,ci
+2022-04-01T08:59:27.270Z,33.1753333,-116.009,3.77,1.18,ml,29.0,63.0,0.02628,0.2,ci,ci39983471,2022-04-01T09:03:03.235Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.29,0.52,0.092,24.0,automatic,ci,ci
+2022-04-01T08:59:21.480Z,19.1555004119873,-155.481338500977,34.8800010681152,2.02999997,md,33.0,216.0,,0.129999995,hv,hv72969857,2022-04-01T09:02:29.840Z,"5 km S of Pāhala, Hawaii",earthquake,0.72,0.75,0.660000026,7.0,automatic,hv,hv
