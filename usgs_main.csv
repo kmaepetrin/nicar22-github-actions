@@ -8200,3 +8200,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:45:15.626Z,51.6072,-173.7321,9.6,2.0,ml,,,,0.33,ak,ak02248h0ut4,2022-04-02T20:38:23.989Z,"73 km SSE of Atka, Alaska",earthquake,,3.8,,,reviewed,ak,ak
 2022-04-02T19:10:33.609Z,57.4951,-155.1321,75.3,1.4,ml,,,,0.3,ak,ak02248gte75,2022-04-02T20:36:02.965Z,"41 km WSW of Karluk, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-04-02T15:52:13.308Z,52.2194,-173.331,78.7,2.5,ml,,,,0.59,ak,ak02248eomel,2022-04-02T20:32:03.788Z,"59 km E of Atka, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2022-04-02T20:43:16.680Z,38.8096657,-122.7926636,3.09,0.56,md,15.0,59.0,0.002669,0.02,nc,nc73713516,2022-04-02T20:44:52.499Z,"5km NW of The Geysers, CA",earthquake,0.33,0.68,0.33,2.0,automatic,nc,nc
+2022-04-02T19:58:01.887Z,51.0658,176.3193,28.7,2.8,ml,,,,0.43,ak,ak02248h3myf,2022-04-02T20:42:39.657Z,"292 km SE of Attu Station, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2022-04-02T17:53:13.960Z,18.0345,-67.079,14.01,2.05,md,6.0,177.0,,0.1,pr,pr71343093,2022-04-02T20:41:46.180Z,"0 km SSW of Palmarejo, Puerto Rico",earthquake,0.59,0.7,,1.0,reviewed,pr,pr
