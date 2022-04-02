@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-02T10:31:04.900Z,41.0426674,-123.5175018,28.95,3.8,ml,51,46,,0.28,nc,nc73713331,2022-04-02T10:36:57.811Z,"15km NE of Willow Creek, CA",earthquake,0.53,2.08,0.28,23,reviewed,nc,nc
+2022-04-02T10:39:47.201Z,57.6521,-154.7758,31.9,1.9,ml,,,,0.42,ak,ak02248bmq1s,2022-04-02T10:41:19.452Z,"21 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-02T10:31:04.900Z,41.0426674,-123.5175018,28.95,3.8,ml,51,46,,0.28,nc,nc73713331,2022-04-02T10:41:32.403Z,"15km NE of Willow Creek, CA",earthquake,0.53,2.08,0.28,23,reviewed,nc,nc
 2022-04-02T10:26:03.662Z,38.6333,-119.8278,12.1,0.7,ml,8,135.2,0.245,0.1209,nn,nn00836564,2022-04-02T10:30:06.132Z,"7 km SSW of Markleeville, California",earthquake,,1.3,0.25,3,automatic,nn,nn
 2022-04-02T10:20:34.695Z,60.3791,-152.116,82.6,1.5,ml,,,,0.54,ak,ak02248bimh8,2022-04-02T10:23:14.317Z,"43 km WNW of Clam Gulch, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-02T10:18:38.318Z,57.9375,-152.2154,28.6,1.9,ml,,,,0.36,ak,ak02248bi7br,2022-04-02T10:21:34.962Z,"17 km E of Ouzinkie, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -92,9 +93,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T00:33:34.050Z,38.8100014,-122.7371674,2.93,0.45,md,9,127,0.01995,0.02,nc,nc73713216,2022-04-02T03:12:16.416Z,"2km SW of Cobb, CA",earthquake,0.44,1.33,0.08,2,automatic,nc,nc
 2022-04-02T00:32:21.830Z,19.1879997253418,-155.388168334961,31.7399997711182,2.11999989,md,27,173,,0.119999997,hv,hv72970612,2022-04-02T00:35:34.400Z,"9 km E of Pāhala, Hawaii",earthquake,0.88,1.01999998,0.0199999996,5,automatic,hv,hv
 2022-04-02T00:11:20.355Z,38.1206,-118.0005,14.6,0.9,ml,9,148.38,0.037,0.2446,nn,nn00836534,2022-04-02T00:15:31.826Z,"31 km SSE of Mina, Nevada",earthquake,,0.9,0.46,5,automatic,nn,nn
-2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"8 km NNE of Willow, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-02T00:07:42.969Z,36.6454,-115.8808,1.2,1.1,ml,17,113.22,0.118,0.2698,nn,nn00836532,2022-04-02T00:10:52.445Z,"20 km WNW of Indian Springs, Nevada",earthquake,,4,0.78,13,automatic,nn,nn
-2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
+2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"Puerto Rico region",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
 2022-04-01T23:42:03.159Z,64.8163,-147.2684,16.2,1.2,ml,,,,0.96,ak,ak02246vuk65,2022-04-01T23:54:28.186Z,"8 km NNE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T23:35:16.290Z,19.115,-155.846333333333,41.42,2.26,md,34,224,,0.11,hv,hv72970532,2022-04-01T23:46:59.780Z,"9 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.5,0.62,0.104847912321113,13,reviewed,hv,hv
 2022-04-01T23:21:59.250Z,38.8264999,-122.8519974,1.8,0.86,md,6,139,0.003949,0.01,nc,nc73713196,2022-04-01T23:39:13.185Z,"10km WNW of The Geysers, CA",earthquake,0.82,1.13,,1,automatic,nc,nc
@@ -251,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T11:03:34.350Z,19.2621669769287,-155.388336181641,31.7299995422363,2.26,ml,46,130,,0.119999997,hv,hv72969957,2022-04-01T11:09:05.950Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.660000026,0.19,3,automatic,hv,hv
 2022-04-01T10:55:38.456Z,61.542,-149.8702,37.6,3.4,ml,,,,0.51,ak,ak02246o6xjr,2022-04-02T09:17:49.285Z,"5 km ENE of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-04-01T10:55:38.444Z,61.5197,-149.8907,37.1,3.4,ml,,,,0.62,ak,ak02246o6s9l,2022-04-01T23:07:35.112Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2022-04-01T10:40:16.030Z,44.6323333,-111.07,9.87,0.73,md,16,120,0.03445,0.2,uu,uu60488187,2022-04-01T15:27:59.480Z,"4 km SE of West Yellowstone, Montana",earthquake,0.68,0.85,0.26,10,reviewed,uu,uu
-2022-04-01T10:38:20.280Z,44.6281667,-111.0633333,10.63,2.21,ml,31,53,0.03487,0.21,uu,uu60488182,2022-04-01T15:24:21.350Z,"4 km SE of West Yellowstone, Montana",earthquake,0.37,0.53,0.429,5,reviewed,uu,uu
