@@ -8036,3 +8036,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T03:55:58.422Z,38.3623,-119.3187,0.0,1.4,ml,13.0,159.91,0.096,0.1243,nn,nn00836544,2022-04-02T04:00:04.340Z,"14 km NNW of Bridgeport, California",earthquake,,11.6,0.19,8.0,automatic,nn,nn
 2022-04-02T03:51:31.495Z,38.3597,-119.3216,0.0,1.0,ml,11.0,161.42,0.093,0.1475,nn,nn00836542,2022-04-02T03:55:42.953Z,"13 km NW of Bridgeport, California",earthquake,,14.9,0.55,6.0,automatic,nn,nn
 2022-04-02T03:50:26.822Z,38.3449,-119.3414,6.2,1.1,ml,8.0,247.08,0.645,0.1203,nn,nn00836541,2022-04-02T03:54:42.993Z,"13 km NW of Bridgeport, California",earthquake,,0.0,0.32,4.0,automatic,nn,nn
+2022-04-02T04:24:55.220Z,19.234167098999,-155.392166137695,31.2900009155273,1.99000001,md,31.0,143.0,,0.140000001,hv,hv72970827,2022-04-02T04:28:03.690Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.69,0.860000014,0.930000007,7.0,automatic,hv,hv
+2022-04-02T04:22:20.020Z,61.6041,-151.6205,80.2,1.9,ml,,,,0.64,ak,ak022487yf5e,2022-04-02T04:27:22.410Z,"44 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
