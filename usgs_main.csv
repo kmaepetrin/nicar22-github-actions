@@ -8077,3 +8077,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T07:39:06.350Z,38.8128319,-122.8201675,2.63,1.61,md,29.0,52.0,0.01317,0.02,nc,nc73713281,2022-04-02T07:40:42.958Z,"7km NW of The Geysers, CA",earthquake,0.2,0.42,0.02,7.0,automatic,nc,nc
 2022-04-02T07:34:43.410Z,35.5356667,-117.0416667,0.15,1.57,ml,18.0,87.0,0.2198,0.17,ci,ci39984351,2022-04-02T07:38:22.358Z,"40km SE of Trona, CA",earthquake,0.42,31.61,0.106,20.0,automatic,ci,ci
 2022-04-02T07:40:13.481Z,61.2817,-146.7676,17.3,1.8,ml,,,,0.75,ak,ak022489ukce,2022-04-02T07:43:29.331Z,"28 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-02T07:52:11.170Z,38.840332,-122.8218307,1.69,0.37,md,10.0,94.0,0.01081,0.01,nc,nc73713286,2022-04-02T07:53:48.020Z,"9km WNW of Cobb, CA",earthquake,0.35,1.09,,1.0,automatic,nc,nc
