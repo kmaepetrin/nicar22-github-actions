@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-03T05:26:11.470Z,38.8428345,-122.8756638,2.35,0.66,md,9,87,0.006187,0.02,nc,nc73713611,2022-04-03T05:27:44.078Z,"13km NW of The Geysers, CA",earthquake,0.47,0.69,0.22,2,automatic,nc,nc
-2022-04-03T05:24:55.730Z,63.2521,-151.1151,2.1,1.5,ml,,,,0.51,ak,ak02249w3pfo,2022-04-03T05:27:39.032Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-03T05:24:56.181Z,63.2444,-151.0735,0.6,1.5,ml,,,,0.73,ak,ak02249w3pfo,2022-04-03T05:34:11.730Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-03T05:16:36.954Z,-31.458,-67.0636,114.7,5.1,mww,,35,1.387,0.84,us,us7000gzay,2022-04-03T05:37:42.040Z,"99 km SSE of San Agustín de Valle Fértil, Argentina",earthquake,5.9,3.8,0.043,53,reviewed,us,us
 2022-04-03T04:54:42.670Z,36.0381667,-117.7781667,2.31,0.63,ml,9,147,0.01663,0.17,ci,ci39984983,2022-04-03T04:58:16.765Z,"15km E of Coso Junction, CA",earthquake,0.53,0.34,0.143,6,automatic,ci,ci
 2022-04-03T04:20:19.830Z,35.944,-117.6898333,3,0.97,ml,13,120,0.03225,0.06,ci,ci39984975,2022-04-03T04:23:53.501Z,"20km E of Little Lake, CA",earthquake,0.17,0.58,0.2,12,automatic,ci,ci
 2022-04-03T04:18:36.056Z,64.874,-148.9862,5.4,1,ml,,,,0.58,ak,ak02249vgxzh,2022-04-03T04:22:13.967Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:57:54.522Z,51.0909,175.5861,10,3,ml,,250,1.881,0.64,us,us7000gz9c,2022-04-02T21:05:58.040Z,"255 km SE of Attu Station, Alaska",earthquake,5.2,2,0.097,14,reviewed,us,us
 2022-04-02T19:54:20.850Z,38.789,-122.7785,1.34,-0.16,md,13,82,0.008461,0.02,nc,nc73713496,2022-04-02T23:18:28.866Z,"2km NW of The Geysers, CA",earthquake,0.27,0.45,0.108,3,reviewed,nc,nc
 2022-04-02T19:45:15.098Z,51.61,-173.4552,33.39,2.5,ml,,215,0.75,0.41,us,us7000gz99,2022-04-02T20:54:22.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.1,17.8,0.115,10,reviewed,us,us
-2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"western Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
+2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"16 km SE of Ackerly, Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
 2022-04-02T19:28:31.200Z,33.374,-116.8405,9.59,0.67,ml,25,61,0.1537,0.22,ci,ci39984767,2022-04-02T19:32:04.628Z,"3km NE of Palomar Observatory, CA",earthquake,0.34,1.59,0.182,18,automatic,ci,ci
 2022-04-02T19:21:23.487Z,38.1901,-117.7585,3.5,1.6,ml,11,215.93,0.12,0.1088,nn,nn00836589,2022-04-02T19:25:11.038Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.21,7,automatic,nn,nn
 2022-04-02T19:11:06.430Z,36.0666667,-117.8551667,3.46,0.9,ml,10,139,0.05081,0.1,ci,ci39984743,2022-04-02T19:14:40.050Z,"9km ENE of Coso Junction, CA",earthquake,0.3,0.53,0.24,8,automatic,ci,ci
@@ -209,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T06:02:08.960Z,46.8738333,-112.5128333,13.64,1.04,ml,17,61,0.041,0.18,mb,mb80541989,2022-04-02T13:43:28.010Z,"15 km SE of Lincoln, Montana",earthquake,0.47,0.48,0.177,4,reviewed,mb,mb
 2022-04-02T05:59:21.199Z,61.8358,-150.2144,32.7,2.1,ml,,,,0.55,ak,ak022488rsai,2022-04-02T06:10:12.645Z,"13 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-02T05:49:42.490Z,19.3466663360596,-155.141662597656,4.6100001335144,1.97,ml,31,111,,0.170000002,hv,hv72970912,2022-04-02T05:55:12.370Z,"13 km S of Fern Forest, Hawaii",earthquake,0.46,0.949999988,0.2,4,automatic,hv,hv
-2022-04-02T05:33:05.550Z,38.8236656,-122.8030014,2.78,1.17,md,12,80,0.005531,0.01,nc,nc73713251,2022-04-02T08:50:13.322Z,"6km NW of The Geysers, CA",earthquake,0.34,0.79,,1,automatic,nc,nc
