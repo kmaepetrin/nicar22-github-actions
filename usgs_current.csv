@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-03T22:00:03.906Z,35.40652466,-97.87510681,2.053191423,2.31,ml,40,43.54780579,0.0369987376,0.8951515051,ok,ok2022gntv,2022-04-03T22:12:42.483Z,"6 km ENE of Union City, Oklahoma",earthquake,1.752164661,1.468187888,,28,automatic,ok,ok
+2022-04-03T22:22:55.550Z,32.3988333,-115.2618333,11.46,1.91,ml,17,169,0.04193,0.31,ci,ci39985447,2022-04-03T22:26:39.205Z,"8km NW of Delta, B.C., MX",earthquake,0.96,1.15,0.36,18,automatic,ci,ci
+2022-04-03T22:20:40.720Z,38.8414993,-122.8251648,1.85,0.37,md,11,115,0.008569,0.01,nc,nc73713871,2022-04-03T22:22:13.183Z,"9km WNW of Cobb, CA",earthquake,0.33,0.7,,1,automatic,nc,nc
+2022-04-03T22:19:56.589Z,62.9998,-151.0452,111.1,1.8,ml,,,,0.32,ak,ak0224a6707e,2022-04-03T22:22:02.425Z,"57 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-03T22:00:03.906Z,35.40652466,-97.87510681,2.053191423,2.31,ml,40,43.54780579,0.0369987376,0.8951515051,ok,ok2022gntv,2022-04-03T22:29:46.416Z,"6 km ENE of Union City, Oklahoma",earthquake,1.752164661,1.468187888,,28,automatic,ok,ok
 2022-04-03T21:46:48.490Z,19.2148342132568,-155.471664428711,31.8099994659424,2.11999989,md,26,210,,0.159999996,hv,hv72972442,2022-04-03T21:52:09.250Z,"1 km NNE of Pāhala, Hawaii",earthquake,0.8,1.13999999,1.07000005,7,automatic,hv,hv
 2022-04-03T21:42:27.780Z,38.8256683,-122.7994995,2.18,0.35,md,7,86,0.008566,0.02,nc,nc73713856,2022-04-03T21:44:03.389Z,"6km NW of The Geysers, CA",earthquake,0.52,1.57,,1,automatic,nc,nc
+2022-04-03T21:38:45.503Z,34.4295,-106.8323,11.81,3,ml,,137,0.288,0.43,us,us7000gzg2,2022-04-03T22:19:28.040Z,"4 km SSW of Abeytas, New Mexico",earthquake,3.5,8.5,0.042,74,reviewed,us,us
 2022-04-03T21:35:57.060Z,18.7806663513184,-155.249328613281,9.25,2.75,ml,26,275,,0.200000003,hv,hv72972422,2022-04-03T21:43:23.040Z,"47 km SE of Naalehu, Hawaii",earthquake,1.33,1.71000004,0.08,5,automatic,hv,hv
 2022-04-03T21:21:56.540Z,38.8388329,-122.8115005,1.62,0.36,md,9,65,0.01546,0.01,nc,nc73713841,2022-04-03T21:57:17.537Z,"8km WNW of Cobb, CA",earthquake,0.32,1.35,,1,automatic,nc,nc
 2022-04-03T21:17:05.920Z,33.4015,-116.4258333,15.04,0.73,ml,17,78,0.1048,0.22,ci,ci39985415,2022-04-03T21:20:37.523Z,"17km NNW of Borrego Springs, CA",earthquake,0.53,1.1,0.155,14,automatic,ci,ci
@@ -213,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T22:48:45.481Z,60.2457,-152.0978,71.6,1.2,ml,,,,0.42,ak,ak02248ittmr,2022-04-02T23:11:37.081Z,"32 km NW of Ninilchik, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-04-02T22:45:29.541Z,36.6616,-116.2692,8.1,1.1,ml,15,108.43,0.058,0.1476,nn,nn00836592,2022-04-02T22:48:14.506Z,"California-Nevada border region",earthquake,,0.7,0.91,12,automatic,nn,nn
 2022-04-02T22:41:57.710Z,35.9051667,-117.7425,8.73,0.86,ml,12,68,0.07531,0.06,ci,ci39984871,2022-04-03T13:00:32.253Z,"15km ESE of Little Lake, CA",earthquake,0.19,0.68,0.221,8,reviewed,ci,ci
-2022-04-02T22:18:20.461Z,62.8409,-148.283,55.3,2.1,ml,,,,0.55,ak,ak02248ind7o,2022-04-02T22:26:16.532Z,"70 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
