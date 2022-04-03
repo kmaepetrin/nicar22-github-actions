@@ -8313,3 +8313,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T08:23:47.792Z,61.815,-149.9064,24.5,1.9,ml,,,,0.56,ak,ak02249xvrxg,2022-04-03T08:29:53.152Z,"10 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-03T08:16:19.804Z,59.41,-153.2027,103.6,1.7,ml,,,,0.34,ak,ak02249xu7r9,2022-04-03T08:20:44.354Z,"66 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-03T07:48:16.956Z,37.799,69.4435,10.0,4.1,mb,,146.0,1.124,0.41,us,us7000gzbg,2022-04-03T08:20:23.040Z,"17 km W of Hulbuk, Tajikistan",earthquake,4.3,1.9,0.198,7.0,reviewed,us,us
+2022-04-03T08:40:11.120Z,34.018,-117.1735,4.9,0.96,ml,29.0,88.0,0.05365,0.19,ci,ci39985071,2022-04-03T08:43:53.224Z,"4km S of Redlands, CA",earthquake,0.31,0.62,0.187,29.0,automatic,ci,ci
