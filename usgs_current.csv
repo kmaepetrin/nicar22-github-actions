@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-03T08:49:06.880Z,36.1043333,-117.8861667,3.76,1.44,ml,16,63,0.02859,0.11,ci,ci39985079,2022-04-03T08:52:44.018Z,"9km NE of Coso Junction, CA",earthquake,0.2,0.35,0.264,16,automatic,ci,ci
+2022-04-03T09:10:38.850Z,36.1055,-117.8855,3.72,1.43,ml,15,62,0.02758,0.11,ci,ci39985111,2022-04-03T09:14:17.410Z,"9km NE of Coso Junction, CA",earthquake,0.21,0.34,0.311,17,automatic,ci,ci
+2022-04-03T09:08:02.260Z,33.384,-116.9645,6.57,0.73,ml,19,48,0.05655,0.21,ci,ci39985103,2022-04-03T09:11:40.871Z,"10km WNW of Palomar Observatory, CA",earthquake,0.37,0.98,0.069,20,automatic,ci,ci
+2022-04-03T09:01:56.050Z,36.1031667,-117.8826667,3.34,0.86,ml,8,230,0.02672,0.15,ci,ci39985095,2022-04-03T09:05:24.366Z,"9km NE of Coso Junction, CA",earthquake,0.71,0.53,0.08,5,automatic,ci,ci
+2022-04-03T09:00:11.120Z,35.2976667,-118.5718333,4.22,1.6,ml,35,34,0.1165,0.18,ci,ci39985087,2022-04-03T09:10:39.770Z,"22km NNW of Tehachapi, CA",earthquake,0.23,1.03,0.127,28,automatic,ci,ci
+2022-04-03T08:58:30.403Z,61.4567,-150.8127,57.7,1.7,ml,,,,0.47,ak,ak02249y38k1,2022-04-03T09:07:13.611Z,"18 km WSW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-03T08:49:06.880Z,36.1043333,-117.8861667,3.76,1.44,ml,16,63,0.02859,0.11,ci,ci39985079,2022-04-03T09:00:07.670Z,"9km NE of Coso Junction, CA",earthquake,0.2,0.35,0.264,16,automatic,ci,ci
 2022-04-03T08:46:07.004Z,35.65401077,-97.91881561,1.408266187,1.93,ml,21,60.6503129,0.1247340664,1.270608865,ok,ok2022gmtq,2022-04-03T08:48:13.072Z,"9 km SSE of Okarche, Oklahoma",earthquake,2.335737059,2.308918346,,16,automatic,ok,ok
 2022-04-03T08:40:11.120Z,34.018,-117.1735,4.9,0.96,ml,29,88,0.05365,0.19,ci,ci39985071,2022-04-03T08:43:53.224Z,"4km S of Redlands, CA",earthquake,0.31,0.62,0.187,29,automatic,ci,ci
 2022-04-03T08:24:31.394Z,38.2105,-117.8612,8.7,1.1,ml,10,191.92,0.105,0.0718,nn,nn00836611,2022-04-03T08:28:42.464Z,"29 km SE of Mina, Nevada",earthquake,,0.7,0.66,6,automatic,nn,nn
@@ -201,7 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T09:50:38.320Z,38.6258333,-119.824,1.63,2.05,md,30,47,0.04546,0.12,nc,nc73713316,2022-04-02T23:33:13.620Z,"7km SSW of Markleeville, CA",earthquake,0.22,1,0.257,31,reviewed,nc,nc
 2022-04-02T09:21:35.000Z,18.0268333333333,-66.796,16.72,2.11,md,13,119,,0.14,pr,pr71343063,2022-04-02T10:17:21.660Z,"0 km NNW of Guayanilla, Puerto Rico",earthquake,0.38,0.6,0.100594857562365,7,reviewed,pr,pr
 2022-04-02T09:19:55.350Z,19.2076663970947,-155.392166137695,32.3199996948242,1.92999995,md,24,167,,0.140000001,hv,hv72971072,2022-04-02T09:23:01.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.89,1.14999998,0.959999979,3,automatic,hv,hv
-2022-04-02T09:15:35.870Z,17.9945,-67.0075,9.95,2.01,md,5,137,,0.06,pr,pr71343058,2022-04-02T09:51:36.750Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.54,0.77,0.115696071467529,4,reviewed,pr,pr
-2022-04-02T09:15:32.160Z,38.6285,-119.8238333,1.68,2.07,md,34,47,0.04798,0.13,nc,nc73713311,2022-04-02T23:16:16.515Z,"7km SSW of Markleeville, CA",earthquake,0.19,0.89,0.238,33,reviewed,nc,nc
-2022-04-02T09:07:31.527Z,60.4398,-152.2982,81.6,0.6,ml,,,,0.62,ak,ak02248auebm,2022-04-02T09:15:06.249Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-02T09:05:37.580Z,19.2061672210693,-155.392669677734,32.689998626709,2.66,ml,43,158,,0.180000007,hv,hv72971062,2022-04-02T11:07:27.248Z,"9 km E of Pāhala, Hawaii",earthquake,0.5,0.720000029,3.46,23,automatic,hv,hv
