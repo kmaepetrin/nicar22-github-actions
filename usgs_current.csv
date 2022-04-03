@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T18:30:47.780Z,33.9591667,-118.0525,14.52,1.17,ml,12,95,0.08612,0.26,ci,ci39985367,2022-04-03T18:34:31.969Z,"1km W of South Whittier, CA",earthquake,0.83,1.72,0.259,4,automatic,ci,ci
 2022-04-03T18:28:56.038Z,39.571,-119.0627,0.1,1.4,ml,9,113.04,0.285,0.4366,nn,nn00836637,2022-04-03T18:32:18.922Z,"16 km ESE of Fernley, Nevada",earthquake,,43.3,0.24,3,automatic,nn,nn
 2022-04-03T18:27:31.390Z,38.8306656,-122.8188324,1.31,0.85,md,6,101,0.009975,0.01,nc,nc73713776,2022-04-03T18:56:16.489Z,"8km NW of The Geysers, CA",earthquake,0.41,1.69,,1,automatic,nc,nc
-2022-04-03T18:27:11.510Z,38.831665,-122.8151703,1.74,1.22,md,24,67,0.009167,0.02,nc,nc73713771,2022-04-03T18:44:16.417Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.13,5,automatic,nc,nc
+2022-04-03T18:27:11.510Z,38.831665,-122.8151703,1.74,1.22,md,24,67,0.009167,0.02,nc,nc73713771,2022-04-03T19:35:10.721Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.13,5,automatic,nc,nc
 2022-04-03T18:15:21.100Z,38.1459999,-122.4605026,5.92,1.41,md,12,107,0.008852,0.05,nc,nc73713766,2022-04-03T19:09:10.575Z,"6km NE of Black Point-Green Point, CA",earthquake,0.31,0.58,0.22,10,automatic,nc,nc
 2022-04-03T18:14:21.702Z,38.1516,-117.8819,10,0.6,ml,8,166.07,0.062,0.0795,nn,nn00836636,2022-04-03T18:18:15.105Z,"33 km SE of Mina, Nevada",earthquake,,1,0.46,4,automatic,nn,nn
 2022-04-03T18:06:10.846Z,60.0022,-152.0841,81.1,1.6,ml,,,,0.42,ak,ak0224a3qdxp,2022-04-03T18:08:58.064Z,"20 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:54:20.850Z,38.789,-122.7785,1.34,-0.16,md,13,82,0.008461,0.02,nc,nc73713496,2022-04-02T23:18:28.866Z,"2km NW of The Geysers, CA",earthquake,0.27,0.45,0.108,3,reviewed,nc,nc
 2022-04-02T19:47:56.530Z,35.8843333,-117.709,3.6,0.09,ml,8,110,0.0793,0.09,ci,ci39984775,2022-04-03T15:48:01.506Z,"19km ESE of Little Lake, CA",earthquake,0.24,0.75,0.019,3,reviewed,ci,ci
 2022-04-02T19:45:15.098Z,51.61,-173.4552,33.39,2.5,ml,,215,0.75,0.41,us,us7000gz99,2022-04-02T20:54:22.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.1,17.8,0.115,10,reviewed,us,us
-2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"16 km SE of Ackerly, Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
