@@ -8450,3 +8450,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T21:21:56.540Z,38.8388329,-122.8115005,1.62,0.36,md,9.0,65.0,0.01546,0.01,nc,nc73713841,2022-04-03T21:23:33.181Z,"8km WNW of Cobb, CA",earthquake,0.32,1.35,,1.0,automatic,nc,nc
 2022-04-03T21:17:05.920Z,33.4015,-116.4258333,15.04,0.73,ml,17.0,78.0,0.1048,0.22,ci,ci39985415,2022-04-03T21:20:37.523Z,"17km NNW of Borrego Springs, CA",earthquake,0.53,1.1,0.155,14.0,automatic,ci,ci
 2022-04-03T04:06:56.144Z,-33.7737,-70.6934,86.49,3.5,mb,,77.0,0.225,0.39,us,us7000gzar,2022-04-03T21:27:54.738Z,"Region Metropolitana, Chile",earthquake,3.2,4.7,0.35,2.0,reviewed,us,us
+2022-04-03T21:35:57.060Z,18.7806663513184,-155.249328613281,9.25,2.75,ml,26.0,275.0,,0.200000003,hv,hv72972422,2022-04-03T21:43:23.040Z,"47 km SE of Naalehu, Hawaii",earthquake,1.33,1.71000004,0.08,5.0,automatic,hv,hv
+2022-04-03T06:56:11.330Z,38.0496667,-122.9035,8.51,1.22,md,17.0,99.0,0.05802,0.11,nc,nc73713636,2022-04-03T21:42:15.711Z,"7km SW of Inverness, CA",earthquake,0.32,0.64,0.323,15.0,reviewed,nc,nc
