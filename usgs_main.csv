@@ -8267,3 +8267,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T01:33:11.744Z,61.4341,-147.4598,15.4,2.3,ml,,,,0.68,ak,ak02249trt24,2022-04-03T01:43:14.040Z,"42 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-03T01:24:32.950Z,19.4336666666667,-155.626,-0.92,2.62,ml,31.0,118.0,,0.12,hv,hv72971757,2022-04-03T01:45:47.735Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.36,0.131413565083611,20.0,reviewed,hv,hv
 2022-04-03T00:45:28.230Z,17.993,-66.8273333333333,20.51,2.44,md,10.0,175.0,,0.17,pr,pr71343143,2022-04-03T01:34:26.920Z,"0 km W of Indios, Puerto Rico",earthquake,0.81,0.62,0.189247132171472,8.0,reviewed,pr,pr
+2022-04-03T02:54:42.789Z,17.9563,-66.9655,10.0,2.5,ml,,194.0,0.076,0.27,us,us7000gzak,2022-04-03T03:05:44.040Z,Puerto Rico region,earthquake,1.9,1.5,0.059,38.0,reviewed,us,us
+2022-04-03T02:52:07.819Z,36.4353,-117.1046,4.2,0.5,ml,9.0,308.02,0.307,0.104,nn,nn00836607,2022-04-03T02:55:21.294Z,"22 km W of Furnace Creek, California",earthquake,,3.0,1.2,3.0,automatic,nn,nn
+2022-04-03T02:02:22.160Z,18.5973333333333,-66.7446666666667,13.59,2.9,md,12.0,224.0,,0.25,pr,pr71343148,2022-04-03T03:08:50.060Z,"13 km NNE of Carrizales, Puerto Rico",earthquake,0.75,0.65,0.102100947606584,10.0,reviewed,pr,pr
