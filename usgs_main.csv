@@ -8419,3 +8419,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T18:30:52.840Z,33.9833333,-117.8606667,1.74,1.07,ml,14.0,111.0,0.06464,0.24,ci,ci39985375,2022-04-03T18:34:37.942Z,"4km S of Walnut, CA",earthquake,0.54,0.83,0.296,33.0,automatic,ci,ci
 2022-04-03T18:30:47.780Z,33.9591667,-118.0525,14.52,1.17,ml,12.0,95.0,0.08612,0.26,ci,ci39985367,2022-04-03T18:34:31.969Z,"1km W of South Whittier, CA",earthquake,0.83,1.72,0.259,4.0,automatic,ci,ci
 2022-04-03T18:28:56.038Z,39.571,-119.0627,0.1,1.4,ml,9.0,113.04,0.285,0.4366,nn,nn00836637,2022-04-03T18:32:18.922Z,"16 km ESE of Fernley, Nevada",earthquake,,43.3,0.24,3.0,automatic,nn,nn
+2022-04-03T14:08:12.960Z,17.9766666666667,-67.0445,4.89,1.94,md,4.0,128.0,,0.03,pr,pr71343248,2022-04-03T18:52:37.940Z,Puerto Rico region,earthquake,0.37,0.54,0.0014108680122677,2.0,reviewed,pr,pr
