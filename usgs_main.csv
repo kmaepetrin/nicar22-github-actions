@@ -8718,3 +8718,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T19:01:32.460Z,34.3781667,-120.0018333,0.82,1.03,ml,5.0,275.0,0.1505,0.12,ci,ci39986223,2022-04-04T20:37:17.537Z,"14km WSW of Isla Vista, CA",earthquake,0.79,0.6,0.035,3.0,reviewed,ci,ci
 2022-04-04T18:07:59.230Z,34.0625,-118.126,9.42,0.82,ml,10.0,171.0,0.0137,0.09,ci,ci39986151,2022-04-04T20:30:39.012Z,"0km W of Monterey Park, CA",earthquake,0.39,0.6,0.057,3.0,reviewed,ci,ci
 2022-04-04T18:02:25.830Z,34.0656667,-116.8043333,12.04,0.65,ml,8.0,176.0,0.03057,0.06,ci,ci37409572,2022-04-04T20:30:37.012Z,"17km N of Cabazon, CA",earthquake,0.36,0.38,0.098,5.0,reviewed,ci,ci
+2022-04-04T20:40:21.491Z,60.0744,-152.593,91.5,2.1,ml,,,,0.37,ak,ak0224bsnwt8,2022-04-04T20:45:47.550Z,"50 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
