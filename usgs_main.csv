@@ -8591,3 +8591,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T11:47:46.474Z,64.4197,-146.679,0.0,1.5,ml,,,,0.64,ak,ak0224bnckba,2022-04-04T11:54:53.102Z,"6 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T11:47:45.360Z,38.0739,-118.0063,15.4,0.8,ml,9.0,170.99,0.075,0.3689,nn,nn00836666,2022-04-04T11:51:38.470Z,"36 km SSE of Mina, Nevada",earthquake,,1.1,0.29,5.0,automatic,nn,nn
 2022-04-04T11:47:43.448Z,57.9458,-157.5,11.6,1.7,ml,,,,0.57,ak,ak0224bnck2z,2022-04-04T11:54:51.480Z,"30 km SSW of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-04T12:15:09.430Z,34.5084991,-118.1660004,12.76,1.17,ml,16.0,70.0,0.02767,0.15,ci,ci39985783,2022-04-04T12:17:20.195Z,"5km W of Vincent, CA",earthquake,0.46,0.79,0.13,8.0,automatic,ci,ci
+2022-04-04T12:09:40.500Z,19.1286659240723,-155.47917175293,32.3300018310547,2.1099999,md,28.0,222.0,,0.109999999,hv,hv72973047,2022-04-04T12:12:48.120Z,"8 km S of Pāhala, Hawaii",earthquake,0.83,0.839999974,1.04999995,3.0,automatic,hv,hv
+2022-04-04T12:07:44.680Z,33.9835,-119.1136667,6.49,2.05,ml,26.0,179.0,0.1448,0.22,ci,ci39985775,2022-04-04T12:11:35.148Z,"20km SSE of Port Hueneme, CA",earthquake,1.11,2.26,0.191,28.0,automatic,ci,ci
+2022-04-04T11:57:22.130Z,35.9213333,-117.6616667,3.2,0.38,ml,10.0,80.0,0.02805,0.13,ci,ci39985767,2022-04-04T12:00:57.968Z,"22km E of Little Lake, CA",earthquake,0.32,0.79,0.075,5.0,automatic,ci,ci
+2022-04-03T23:24:19.220Z,36.999,-90.2635,25.59,2.22,md,16.0,194.0,0.2573,0.25,nm,nm60380717,2022-04-04T12:13:39.340Z,"10 km WNW of Puxico, Missouri",earthquake,0.91,2.11,0.064,9.0,reviewed,nm,nm
