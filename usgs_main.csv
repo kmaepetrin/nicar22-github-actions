@@ -8917,3 +8917,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T03:41:56.170Z,38.8181667,-122.7631667,1.65,0.51,md,31.0,79.0,0.01337,0.04,nc,nc73714511,2022-04-05T17:46:53.628Z,"4km W of Cobb, CA",earthquake,0.16,0.31,0.195,5.0,reviewed,nc,nc
 2022-04-05T17:53:42.092Z,65.2207,-149.853,12.9,0.8,ml,,,,0.68,ak,ak0224dehse9,2022-04-05T17:55:42.123Z,"24 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-05T17:49:11.234Z,62.4437,-150.4182,60.7,1.8,ml,,,,0.56,ak,ak0224degv5i,2022-04-05T17:55:00.546Z,"16 km W of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-05T05:49:10.700Z,38.8256667,-122.7858333,1.93,0.39,md,23.0,71.0,0.01303,0.02,nc,nc73714556,2022-04-05T18:00:54.956Z,"5km W of Cobb, CA",earthquake,0.21,0.44,0.13,3.0,reviewed,nc,nc
