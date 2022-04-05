@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T17:34:36.108Z,58.7303,-152.8412,111.6,1.7,ml,,,,1.17,ak,ak0224dedpbu,2022-04-05T17:37:00.210Z,"74 km N of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-04-05T17:27:17.166Z,61.4753,-140.5174,11.3,1.1,ml,,,,0.59,ak,ak0224dec52i,2022-04-05T18:54:40.124Z,"128 km E of McCarthy, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-04-05T17:25:32.390Z,19.1979999542236,-155.45783996582,30.1299991607666,2.24000001,md,40,112,,0.109999999,hv,hv72974392,2022-04-05T17:28:59.970Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.51,0.680000007,1.15999997,12,automatic,hv,hv
-2022-04-05T17:24:08.325Z,62.5731,-151.2442,76.6,2.2,ml,,,,0.6,ak,ak0224debi01,2022-04-05T17:35:21.440Z,"26 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-05T17:24:08.325Z,62.5731,-151.2442,76.6,2.2,ml,,,,0.6,ak,ak0224debi01,2022-04-05T19:58:09.040Z,"26 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-05T17:03:29.200Z,38.4783333,-112.8045,4.14,0.09,md,7,198,0.0176,0.07,uu,uu60030369,2022-04-05T17:23:38.880Z,"20 km ENE of Milford, Utah",earthquake,0.5,0.89,0.154,2,reviewed,uu,uu
 2022-04-05T17:03:22.850Z,38.4763333,-112.804,4.53,0.73,md,8,206,0.01869,0.06,uu,uu60488812,2022-04-05T17:24:03.540Z,"20 km ENE of Milford, Utah",earthquake,0.52,0.67,0.275,2,reviewed,uu,uu
 2022-04-05T17:01:29.034Z,11.3835,125.8821,56.26,4.6,mb,,97,4.296,0.75,us,us7000gzx4,2022-04-05T19:31:10.040Z,"29 km ENE of Hernani, Philippines",earthquake,9.4,7.6,0.059,91,reviewed,us,us
@@ -199,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T20:08:57.043Z,62.8175,-151.0107,84.8,1.7,ml,,,,0.39,ak,ak0224bsh4nc,2022-04-04T20:12:16.671Z,"37 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-04T20:03:05.400Z,38.8123333,-122.816,3.04,1.16,md,36,52,0.01086,0.02,nc,nc73714261,2022-04-05T03:28:13.464Z,"6km NW of The Geysers, CA",earthquake,0.16,0.37,0.055,7,reviewed,nc,nc
 2022-04-04T20:02:34.880Z,36.21783333,-95.85716667,0,1.42,ml,36,117,0.3113389047,0.43,ok,ok2022gpll,2022-04-05T14:10:10.517Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.6,0.18,12,reviewed,ok,ok
-2022-04-04T19:54:58.865Z,61.3995,-150.9596,71.1,1.5,ml,,,,0.71,ak,ak0224bs5k3v,2022-04-04T20:03:07.958Z,"28 km SW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-04T19:54:05.340Z,35.5908333,-117.3525,5.18,-0.13,ml,4,187,0.06647,0.06,ci,ci39986279,2022-04-04T20:38:19.253Z,"19km S of Trona, CA",earthquake,0.78,1.02,0.072,1,reviewed,ci,ci
-2022-04-04T19:52:58.730Z,35.01,-119.1926667,9.84,1.47,ml,25,45,0.1528,0.18,ci,ci39986271,2022-04-04T21:17:25.838Z,"19km NNW of Pine Mountain Club, CA",earthquake,0.32,0.91,0.179,16,reviewed,ci,ci
