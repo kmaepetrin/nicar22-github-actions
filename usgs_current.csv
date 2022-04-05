@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-05T03:47:21.397Z,63.0252,-150.3574,81.3,1.3,ml,,,,0.59,ak,ak0224d64dxd,2022-04-05T03:49:41.634Z,"62 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-05T03:41:25.851Z,61.2891,-150.6802,43.2,1.5,ml,,,,0.61,ak,ak0224d6342p,2022-04-05T03:43:55.706Z,"27 km NE of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-05T03:24:25.396Z,63.3462,-145.176,0,1.8,ml,,,,0.68,ak,ak0224d5zgw9,2022-04-05T03:34:25.487Z,"36 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-05T02:41:52.688Z,60.0415,-152.2942,20.8,0.9,ml,,,,0.6,ak,ak0224d5hqjo,2022-04-05T02:44:07.951Z,"33 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-05T02:39:05.180Z,19.1536674499512,-155.504837036133,33.2700004577637,2.00999999,md,27,209,,0.180000007,hv,hv72973702,2022-04-05T02:42:13.410Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.82,0.949999988,1.41999996,10,automatic,hv,hv
@@ -6,11 +8,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T02:19:07.740Z,18.7803333333333,-155.172333333333,6.49,2.35,md,39,274,,0.14,hv,hv72973687,2022-04-05T03:17:44.850Z,"53 km SE of Naalehu, Hawaii",earthquake,0.62,0.46,0.139815536868188,18,reviewed,hv,hv
 2022-04-05T02:14:38.770Z,34.1186667,-117.4391667,10.35,0.85,ml,13,138,0.07914,0.12,ci,ci39986503,2022-04-05T02:18:25.840Z,"3km NE of Fontana, CA",earthquake,0.41,0.55,0.168,16,automatic,ci,ci
 2022-04-05T02:08:44.810Z,19.242000579834,-155.384994506836,31.9599990844727,2.58,ml,46,142,,0.129999995,hv,hv72973662,2022-04-05T02:14:14.460Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.689999998,3.14,15,automatic,hv,hv
+2022-04-05T02:02:31.390Z,37.2096667,-118.5708333,13.93,1.71,md,12,178,0.1434,0.05,nc,nc73714466,2022-04-05T03:52:10.623Z,"18km WSW of Wilkerson, CA",earthquake,0.39,0.99,0.206,15,reviewed,nc,nc
 2022-04-05T02:02:11.380Z,63.4759,-148.4455,10.1,1.3,ml,,,,0.43,ak,ak0224d59afe,2022-04-05T02:53:03.923Z,"26 km ENE of Cantwell, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-04-05T02:01:58.179Z,60.708,-150.7174,32,1.5,ml,,,,0.42,ak,ak0224d596bt,2022-04-05T02:04:19.810Z,"19 km N of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-05T01:44:04.064Z,1.9322,126.9087,5.72,5.9,mb,,66,1.24,0.68,us,us7000gzq8,2022-04-05T02:22:38.012Z,"124 km W of Tobelo, Indonesia",earthquake,8.4,3.3,0.037,265,reviewed,us,us
+2022-04-05T01:44:04.064Z,1.9322,126.9087,5.72,5.9,mb,,66,1.24,0.68,us,us7000gzq8,2022-04-05T03:47:39.372Z,"124 km W of Tobelo, Indonesia",earthquake,8.4,3.3,0.037,265,reviewed,us,us
 2022-04-05T01:40:22.386Z,62.696,-149.3202,13.5,1.4,ml,,,,0.46,ak,ak0224d4w0vy,2022-04-05T01:42:39.159Z,"48 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-05T01:37:44.320Z,37.1728333,-122.3496667,11.41,1.18,md,11,268,0.02578,0.09,nc,nc73714461,2022-04-05T03:37:40.574Z,"21km WNW of Boulder Creek, CA",earthquake,0.74,0.84,0.069,10,reviewed,nc,nc
+2022-04-05T01:37:44.320Z,37.1728333,-122.3496667,11.41,1.18,md,11,268,0.02578,0.09,nc,nc73714461,2022-04-05T03:45:10.576Z,"21km WNW of Boulder Creek, CA",earthquake,0.74,0.84,0.069,10,reviewed,nc,nc
 2022-04-05T01:35:33.101Z,-19.4186,-67.4778,223.98,4.5,mb,,60,1.637,0.69,us,us7000gzq6,2022-04-05T01:51:29.040Z,"93 km SW of Challapata, Bolivia",earthquake,7.6,7.9,0.102,28,reviewed,us,us
 2022-04-05T01:29:53.790Z,37.0883333,-121.8215,12.45,1.09,md,15,103,0.1185,0.12,nc,nc73714451,2022-04-05T03:31:39.788Z,"7km NNE of Day Valley, CA",earthquake,0.38,0.9,0.182,13,reviewed,nc,nc
 2022-04-05T01:21:29.123Z,63.1041,-150.3284,76.6,1.5,ml,,,,0.5,ak,ak0224d4rysw,2022-04-05T01:23:59.644Z,"71 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -23,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T23:42:13.150Z,33.4846667,-116.5525,7.8,0.38,ml,14,155,0.04272,0.12,ci,ci39986471,2022-04-05T00:10:36.049Z,"14km SE of Anza, CA",earthquake,0.48,0.7,0.276,10,reviewed,ci,ci
 2022-04-04T23:38:19.440Z,-28.3179,-175.6183,10,4.9,mb,,184,2.228,0.95,us,us7000gzpw,2022-04-05T00:40:27.040Z,"Kermadec Islands region",earthquake,10.4,2,0.102,30,reviewed,us,us
 2022-04-04T23:18:48.277Z,62.9257,-150.3895,84.9,2.1,ml,,,,0.53,ak,ak0224bubjy5,2022-04-04T23:30:53.729Z,"51 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-04T23:13:19.910Z,60.0595,-153.1115,1.64,-0.85,ml,4,262,,0.12,av,av91529961,2022-04-05T03:40:39.400Z,"63 km ENE of Pedro Bay, Alaska",earthquake,1.05,1.32,0.217837515713607,4,reviewed,av,av
 2022-04-04T23:13:19.743Z,65.4579,-148.4752,4.6,1.8,ml,,,,0.24,ak,ak0224buaf6o,2022-04-04T23:27:00.690Z,"8 km SSE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-04T23:03:09.188Z,64.9809,-147.3415,0.5,1.3,ml,,,,0.97,ak,ak0224bu897m,2022-04-04T23:05:43.825Z,"13 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-04T22:44:51.010Z,18.9526672363281,-155.029159545898,62.6100006103516,2.98000002,md,21,296,,0.349999994,hv,hv72973537,2022-04-04T22:48:11.960Z,"54 km ESE of Pāhala, Hawaii",earthquake,17.2,10.2200003,1.48000002,7,automatic,hv,hv
@@ -55,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T19:50:54.320Z,32.9065,-116.9553333,-0.17,1.7,ml,48,90,0.06827,0.32,ci,ci39986263,2022-04-04T21:06:02.220Z,"6km NNW of Lakeside, CA",quarry blast,0.55,31.61,0.17,31,reviewed,ci,ci
 2022-04-04T19:45:11.570Z,41.9083333,-111.8835,5.11,1.04,md,8,195,0.1365,0.05,uu,uu60488432,2022-04-04T20:04:25.960Z,"5 km ESE of Trenton, Utah",earthquake,0.54,2.46,0.187,7,reviewed,uu,uu
 2022-04-04T19:41:06.800Z,35.6706667,-117.5205,6.64,0.88,ml,17,91,0.09648,0.11,ci,ci39986247,2022-04-04T20:57:12.600Z,"15km SW of Searles Valley, CA",earthquake,0.23,0.8,0.148,10,reviewed,ci,ci
-2022-04-04T19:32:49.420Z,35.8671667,-121.4498333,5.3,2.13,md,59,188,0.2322,0.1,nc,nc73714251,2022-04-05T01:10:15.573Z,"20km SSE of Lopez Point, CA",earthquake,0.23,1.03,0.16,49,reviewed,nc,nc
+2022-04-04T19:32:49.420Z,35.8671667,-121.4498333,5.3,2.13,md,59,188,0.2322,0.1,nc,nc73714251,2022-04-05T03:43:14.565Z,"20km SSE of Lopez Point, CA",earthquake,0.23,1.03,0.16,49,reviewed,nc,nc
 2022-04-04T19:22:28.324Z,61.8638,-149.2604,17.5,1.4,ml,,,,0.45,ak,ak0224brymuo,2022-04-04T19:25:39.845Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T19:20:57.492Z,60.5358,-153.8465,0,1.8,ml,,,,1.17,ak,ak0224bry9t3,2022-04-04T19:31:47.627Z,"45 km NE of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T19:11:33.670Z,19.1991672515869,-155.447998046875,35.6599998474121,1.96000004,md,36,148,,0.119999997,hv,hv72973367,2022-04-04T19:15:53.530Z,"3 km E of Pāhala, Hawaii",earthquake,0.51,0.839999974,1.42999995,14,automatic,hv,hv
@@ -95,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T16:12:50.763Z,62.4302,-148.2506,35.5,2.1,ml,,,,0.63,ak,ak0224bq48k7,2022-04-04T16:16:02.917Z,"71 km N of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-04-04T16:10:47.867Z,61.7376,-149.7415,29.8,1.9,ml,,,,0.43,ak,ak0224bq3sy9,2022-04-04T16:13:18.578Z,"12 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T16:09:03.940Z,61.5256,-149.9014,36.1,1.3,ml,,,,0.61,ak,ak0224bq3hui,2022-04-04T16:11:16.301Z,"2 km E of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-04-04T16:06:56.658Z,-17.4861,167.8682,23.6,6,mww,,32,2.125,0.91,us,usd000h551,2022-04-05T03:06:38.376Z,"54 km WNW of Port-Vila, Vanuatu",earthquake,7,3.4,0.046,45,reviewed,us,us
+2022-04-04T16:06:56.658Z,-17.4861,167.8682,23.6,6,mww,,32,2.125,0.91,us,usd000h551,2022-04-05T03:40:34.796Z,"54 km WNW of Port-Vila, Vanuatu",earthquake,7,3.4,0.046,45,reviewed,us,us
 2022-04-04T15:52:06.640Z,33.5225,-116.5326667,12.16,0.9,ml,42,41,0.03494,0.17,ci,ci39985911,2022-04-04T19:03:31.800Z,"14km ESE of Anza, CA",earthquake,0.17,0.31,0.155,25,reviewed,ci,ci
 2022-04-04T15:52:02.540Z,38.8320007,-122.81633,1.17,0.36,md,10,119,0.009885,0.02,nc,nc73714191,2022-04-04T16:20:13.307Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,,1,automatic,nc,nc
 2022-04-04T15:46:06.290Z,19.2091674804688,-155.417831420898,33.6800003051758,1.89999998,md,40,157,,0.119999997,hv,hv72973207,2022-04-04T15:49:27.390Z,"6 km E of Pāhala, Hawaii",earthquake,0.61,0.850000024,1.67999995,14,automatic,hv,hv
