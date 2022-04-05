@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T09:59:57.520Z,33.9071667,-117.7961667,3.43,1.13,ml,29,52,0.02159,0.16,ci,ci39985727,2022-04-04T18:57:26.560Z,"3km NE of Yorba Linda, CA",earthquake,0.25,0.17,0.199,22,reviewed,ci,ci
 2022-04-04T09:54:50.560Z,58.2714,-155.0041,0,0.5,ml,,,,0.43,ak,ak0224bm77fk,2022-04-05T02:18:06.000Z,"84 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-04T09:44:07.740Z,-19.815,-69.2561,111.33,4.2,mb,,120,0.157,0.87,us,us7000gzj4,2022-04-04T11:03:31.040Z,"103 km ENE of Iquique, Chile",earthquake,6.9,5.1,0.215,7,reviewed,us,us
-2022-04-04T09:40:58.591Z,37.9869,-117.8916,4.2,1.5,ml,17,133.46,0.023,0.1447,nn,nn00836657,2022-04-05T02:40:16.008Z,"34 km NW of Silver Peak, Nevada",earthquake,,1.2,0.41,7,reviewed,nn,nn
