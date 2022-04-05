@@ -8852,3 +8852,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T12:29:14.841Z,59.5902,-153.6303,119.7,2.1,ml,,,,0.66,ak,ak0224dbdf2c,2022-04-05T12:37:41.766Z,"34 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-05T12:27:33.710Z,19.154167175293,-155.429504394531,33.75,1.86000001,md,38.0,168.0,,0.119999997,hv,hv72974207,2022-04-05T12:30:31.000Z,"7 km SE of Pāhala, Hawaii",earthquake,0.7,0.910000026,0.930000007,8.0,automatic,hv,hv
 2022-04-05T12:18:11.002Z,38.1891,-117.883,8.4,1.5,ml,10.0,113.34,0.078,0.1754,nn,nn00836699,2022-04-05T12:21:46.091Z,"29 km SE of Mina, Nevada",earthquake,,0.4,0.48,7.0,automatic,nn,nn
+2022-04-05T13:02:53.740Z,33.8768333,-116.8565,14.25,1.05,ml,32.0,70.0,0.06543,0.17,ci,ci39986775,2022-04-05T13:06:38.055Z,"6km SSE of Banning, CA",earthquake,0.23,0.57,0.246,30.0,automatic,ci,ci
+2022-04-05T12:59:50.620Z,33.9476667,-116.6945,13.42,0.75,ml,21.0,70.0,0.09853,0.17,ci,ci39986767,2022-04-05T13:03:27.011Z,"9km ENE of Cabazon, CA",earthquake,0.38,0.99,0.1,20.0,automatic,ci,ci
