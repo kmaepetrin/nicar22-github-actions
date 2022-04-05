@@ -8929,3 +8929,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T12:22:24.570Z,36.803,-121.3838333,5.95,1.83,md,45.0,59.0,0.05051,0.11,nc,nc73714676,2022-04-05T18:23:10.887Z,"2km WSW of Ridgemark, CA",earthquake,0.19,0.46,0.236,35.0,reviewed,nc,nc
 2022-04-05T00:19:05.448Z,36.8444,-115.9811,9.3,-0.1,ml,7.0,228.63,0.06,0.1201,nn,nn00836716,2022-04-05T18:30:48.449Z,"41 km NW of Indian Springs, Nevada",earthquake,,1.9,0.24,5.0,reviewed,nn,nn
 2022-04-04T19:50:13.970Z,46.62083333333333,-120.49883333333334,-0.73,1.65,ml,7.0,103.0,0.09695,0.32,uw,uw61828021,2022-04-05T18:26:37.180Z,"2 km NNE of Yakima, Washington",explosion,0.76,31.61,0.2116953429156116,4.0,reviewed,uw,uw
+2022-04-05T18:08:41.470Z,36.0695,-117.8586667,1.8,1.15,ml,19.0,71.0,0.04808,0.14,ci,ci39986975,2022-04-05T18:45:17.336Z,"8km ENE of Coso Junction, CA",earthquake,0.19,0.22,0.156,12.0,reviewed,ci,ci
+2022-04-05T16:18:42.513Z,34.8644,26.7051,10.0,4.4,mb,,179.0,1.547,0.65,us,us7000gzup,2022-04-05T18:37:40.040Z,"55 km SE of Palekastro, Greece",earthquake,4.2,1.9,0.091,37.0,reviewed,us,us
