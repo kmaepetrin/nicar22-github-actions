@@ -193,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T21:14:32.240Z,40.338,-123.7541667,20.69,1.79,md,23,67,0.1019,0.11,nc,nc73714281,2022-04-05T10:22:15.961Z,"25km NNE of Redway, CA",earthquake,0.25,0.3,0.082,14,reviewed,nc,nc
 2022-04-04T21:08:47.560Z,60.1689,-151.6833,58.4,1.5,ml,,,,0.43,ak,ak0224bt2jig,2022-04-04T21:15:41.897Z,"13 km N of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-04T21:03:44.410Z,37.2993333,-122.0656667,5.74,1.02,md,14,113,0.01534,0.1,nc,nc73714276,2022-04-05T18:02:15.759Z,"4km SW of Cupertino, CA",earthquake,0.44,0.38,0.211,15,reviewed,nc,nc
-2022-04-04T20:56:15.340Z,62.162,-150.5067,13.6,1.6,ml,,,,0.72,ak,ak0224bsrbsi,2022-04-04T21:02:42.136Z,"22 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-04T20:54:21.120Z,34.74416667,-98.45733333,0,1.59,ml,21,120,0.2663477335,0.31,ok,ok2022gpne,2022-04-05T13:44:10.358Z,"4 km ENE of Medicine Park, Oklahoma",quarry blast,,0.6,0.31,3,reviewed,ok,ok
-2022-04-04T20:54:05.860Z,38.7976685,-122.7513351,2.19,0.86,md,17,95,0.007181,0.03,nc,nc73714271,2022-04-04T21:10:12.232Z,"2km N of The Geysers, CA",earthquake,0.28,0.56,0.11,4,automatic,nc,nc
