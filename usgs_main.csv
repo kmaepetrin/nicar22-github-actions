@@ -9026,3 +9026,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T05:24:41.360Z,38.7579994,-122.7178345,1.73,2.23,md,31.0,71.0,0.006562,0.05,nc,nc73714916,2022-04-06T05:26:18.834Z,"3km SW of Anderson Springs, CA",earthquake,0.23,0.31,0.06,10.0,automatic,nc,nc
 2022-04-06T05:20:39.114Z,62.8953,-148.3327,9.7,1.4,ml,,,,0.92,ak,ak0224euourr,2022-04-06T05:24:31.623Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-05T15:15:51.740Z,51.8918333333333,179.537833333333,12.45,1.48,ml,6.0,258.0,,0.22,av,av91053823,2022-04-06T05:29:11.490Z,"263 km W of Adak, Alaska",earthquake,1.61,1.19,0.249860740129883,6.0,reviewed,av,av
+2022-04-06T05:31:54.580Z,32.9566667,-116.3751667,7.11,0.94,ml,8.0,193.0,0.4968,0.2,ci,ci39987167,2022-04-06T05:35:27.246Z,"21km NE of Pine Valley, CA",earthquake,2.22,31.61,0.259,7.0,automatic,ci,ci
