@@ -9129,3 +9129,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T16:16:30.608Z,58.1121,-155.1926,88.0,1.0,ml,,,,0.59,ak,ak0224f17qp8,2022-04-06T16:34:45.495Z,"74 km NW of Karluk, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2022-04-06T16:10:38.750Z,35.892,-117.7301667,3.88,1.28,ml,24.0,35.0,0.08547,0.09,ci,ci39987359,2022-04-06T16:27:36.638Z,"17km ESE of Little Lake, CA",earthquake,0.11,0.31,0.196,11.0,reviewed,ci,ci
 2022-04-06T15:02:54.700Z,33.5701667,-116.5693333,18.02,0.5,mh,9.0,156.0,0.03573,0.07,ci,ci39987319,2022-04-06T16:21:59.925Z,"10km E of Anza, CA",earthquake,0.38,0.44,,0.0,reviewed,ci,ci
+2022-04-06T15:43:34.520Z,18.0096666666667,-66.8106666666667,17.11,2.34,md,14.0,140.0,,0.15,pr,pr71343578,2022-04-06T16:46:21.100Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.36,0.54,0.121019667782742,10.0,reviewed,pr,pr
+2022-04-06T08:01:48.240Z,52.0065,178.2605,4.63,1.9,ml,5.0,330.0,,0.17,av,av91530706,2022-04-06T16:59:20.340Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.55,3.15,0.290946676507205,5.0,reviewed,av,av
