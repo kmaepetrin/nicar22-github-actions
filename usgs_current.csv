@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-06T18:52:38.740Z,35.991333,-120.5528336,3.17,1.23,md,13,117,0.02233,0.06,nc,nc73715141,2022-04-06T19:03:10.784Z,"15km NW of Parkfield, CA",earthquake,0.46,1.09,0.34,4,automatic,nc,nc
+2022-04-06T18:52:38.740Z,35.991333,-120.5528336,3.17,1.23,md,13,117,0.02233,0.06,nc,nc73715141,2022-04-06T19:11:23.830Z,"15km NW of Parkfield, CA",earthquake,0.46,1.09,0.34,4,automatic,nc,nc
 2022-04-06T18:47:30.013Z,63.3485,-145.4363,0,1.4,ml,,,,0.77,ak,ak0224f2l98k,2022-04-06T18:56:12.547Z,"30 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-06T18:43:52.610Z,38.2824,-118.5546,0,0.6,ml,8,279.52,0.05,0.4712,nn,nn00836777,2022-04-06T18:48:09.136Z,"27 km SSE of Hawthorne, Nevada",earthquake,,0.9,0.99,5,automatic,nn,nn
 2022-04-06T18:42:49.881Z,13.2868,-89.6756,59.09,4.6,mb,,167,0.426,1.35,us,us7000h07k,2022-04-06T19:01:42.763Z,"37 km SSE of Acajutla, El Salvador",earthquake,7.5,6.9,0.053,105,reviewed,us,us
@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T18:34:38.976Z,66.7397,-146.7222,3,2.3,ml,,,,0.97,ak,ak0224f2ihmx,2022-04-06T18:46:29.349Z,"33 km SSW of Venetie, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-06T18:31:01.150Z,19.2181663513184,-155.39533996582,31.2000007629395,1.98000002,md,31,158,,0.119999997,hv,hv72975467,2022-04-06T18:34:09.710Z,"8 km E of Pāhala, Hawaii",earthquake,0.54,0.920000017,1.03999996,7,automatic,hv,hv
 2022-04-06T18:27:10.470Z,19.4535007476807,-155.889007568359,6.51999998092651,2.26,ml,36,216,,0.25,hv,hv72975462,2022-04-06T18:32:41.030Z,"2 km W of Honaunau-Napoopoo, Hawaii",earthquake,1.05,0.680000007,3.53,8,automatic,hv,hv
-2022-04-06T18:11:21.950Z,36.8916664,-121.6193314,0.67,1.98,md,8,87,0.02309,0.04,nc,nc73715131,2022-04-06T18:39:17.648Z,"2km E of Aromas, CA",earthquake,0.32,0.63,0.46,8,automatic,nc,nc
+2022-04-06T18:11:21.950Z,36.8916664,-121.6193314,0.67,1.98,md,8,87,0.02309,0.04,nc,nc73715131,2022-04-06T19:15:10.853Z,"2km E of Aromas, CA",earthquake,0.32,0.63,0.46,8,automatic,nc,nc
 2022-04-06T18:07:41.820Z,33.0646667,-115.0025,-0.2,2.12,ml,17,65,0.09445,0.22,ci,ci39987463,2022-04-06T18:30:24.150Z,"45km NE of Holtville, CA",quarry blast,0.51,31.61,0.223,3,reviewed,ci,ci
 2022-04-06T17:43:25.917Z,61.318,-146.8225,13.3,2.8,ml,,,,1,ak,ak0224f1yyh3,2022-04-06T17:53:04.357Z,"32 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-06T17:34:39.855Z,38.1128,-118.1321,0,0.6,ml,9,215.77,0.138,0.1757,nn,nn00836772,2022-04-06T17:38:29.395Z,"30 km S of Mina, Nevada",earthquake,,14.3,0.2,3,automatic,nn,nn
