@@ -9092,3 +9092,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T13:30:43.739Z,66.355,-150.0762,8.8,1.4,ml,,,,1.19,ak,ak0224ezih5y,2022-04-06T13:41:58.633Z,"59 km NW of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-06T13:28:23.780Z,38.8100014,-122.8225021,2.18,0.74,md,12.0,103.0,0.005337,0.01,nc,nc73715031,2022-04-06T13:46:15.774Z,"7km WNW of The Geysers, CA",earthquake,0.28,0.67,0.11,2.0,automatic,nc,nc
 2022-04-05T21:05:11.080Z,44.329,-110.5556667,5.81,1.2,md,10.0,91.0,0.06128,0.11,uu,uu60488952,2022-04-06T13:28:30.160Z,"57 km SE of West Yellowstone, Montana",earthquake,0.32,0.77,0.494,7.0,reviewed,uu,uu
+2022-04-05T19:56:57.660Z,44.7123333,-111.0618333,10.12,1.36,ml,13.0,74.0,0.0615,0.16,uu,uu60488907,2022-04-06T13:55:43.500Z,"6 km NNE of West Yellowstone, Montana",earthquake,0.5,1.07,0.091,3.0,reviewed,uu,uu
