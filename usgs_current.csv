@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-07T19:26:11.250Z,32.925,-116.23,9.27,1.18,ml,23,77,0.0684,0.18,ci,ci39988239,2022-04-07T19:29:47.129Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.35,0.7,0.195,22,automatic,ci,ci
 2022-04-07T19:19:31.910Z,38.8373337,-122.8113327,1.88,0.85,md,8,106,0.01395,0.01,nc,nc73715631,2022-04-07T19:21:07.442Z,"8km WNW of Cobb, CA",earthquake,0.54,1.1,,1,automatic,nc,nc
 2022-04-07T19:09:51.570Z,61.765,-149.7305,36.8,1.4,ml,,,,0.61,ak,ak0224gqhxqj,2022-04-07T19:12:29.787Z,"15 km NNE of Houston, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-04-07T19:03:46.990Z,33.5855,-117.5353333,2.91,1.36,ml,21,81,0.03323,0.36,ci,ci39988207,2022-04-07T19:07:21.991Z,"5km ESE of Coto De Caza, CA",earthquake,0.78,0.96,0.395,24,automatic,ci,ci
@@ -289,6 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T19:35:45.920Z,38.4816667,-112.8506667,-0.02,-0.69,md,6,201,0.02157,0.1,uu,uu60489262,2022-04-06T21:13:38.440Z,"16 km NE of Milford, Utah",earthquake,0.43,0.74,0.435,2,reviewed,uu,uu
 2022-04-06T19:34:49.710Z,33.6975,-116.804,16.82,1.2,ml,42,65,0.07612,0.15,ci,ci39987495,2022-04-06T20:54:54.350Z,"9km WSW of Idyllwild, CA",earthquake,0.2,0.33,0.183,26,reviewed,ci,ci
 2022-04-06T19:30:35.190Z,33.5825,-116.807,8.2,1.14,ml,49,24,0.03751,0.16,ci,ci39987487,2022-04-06T20:42:44.230Z,"13km WNW of Anza, CA",earthquake,0.15,0.42,0.165,28,reviewed,ci,ci
-2022-04-06T19:27:16.850Z,54.5711666666667,-163.314833333333,11.14,1.09,ml,7,218,,0.22,av,av91053928,2022-04-07T01:04:42.210Z,"32 km S of False Pass, Alaska",earthquake,1.15,1.1,0.139730836234174,6,reviewed,av,av
-2022-04-06T19:25:24.660Z,38.4811667,-112.8425,-0.18,0.92,md,12,110,0.01329,0.09,uu,uu60489257,2022-04-06T20:51:55.270Z,"17 km ENE of Milford, Utah",earthquake,0.33,0.12,0.254,4,reviewed,uu,uu
-2022-04-06T19:25:19.010Z,38.4835,-112.8446667,-0.41,-0.73,md,8,104,0.02454,0.07,uu,uu60030409,2022-04-06T20:57:00.610Z,"17 km ENE of Milford, Utah",earthquake,0.26,0.11,0.535,2,reviewed,uu,uu
