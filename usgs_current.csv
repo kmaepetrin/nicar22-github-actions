@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T20:11:33.320Z,34.0631667,-117.2741667,12.37,1.84,ml,78,38,0.04273,0.15,ci,ci39988287,2022-04-07T20:41:36.360Z,"2km NW of Loma Linda, CA",earthquake,0.12,0.33,0.095,25,reviewed,ci,ci
 2022-04-07T20:11:04.550Z,65.2658,-157.9889,12.4,2.4,ml,,,,0.72,ak,ak0224gr3p8f,2022-04-07T20:20:31.466Z,"45 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-07T20:10:03.250Z,38.8105011,-122.7721634,1.68,0.65,md,19,81,0.007205,0.03,nc,nc73715651,2022-04-07T21:01:18.287Z,"4km NNW of The Geysers, CA",earthquake,0.24,0.37,0.24,4,automatic,nc,nc
-2022-04-07T20:00:35.960Z,32.826,-117.0605,-0.17,1.13,ml,13,106,0.07759,0.24,ci,ci39988271,2022-04-07T20:21:57.421Z,"7km NNW of La Mesa, CA",quarry blast,1.01,31.61,0.145,12,reviewed,ci,ci
+2022-04-07T20:00:35.960Z,32.826,-117.0605,-0.17,1.13,ml,13,106,0.07759,0.24,ci,ci39988271,2022-04-07T21:44:54.321Z,"7km NNW of La Mesa, CA",quarry blast,1.01,31.61,0.145,12,reviewed,ci,ci
 2022-04-07T19:59:47.660Z,44.4378333,-110.3418333,4.87,0.62,md,10,93,0.06144,0.07,uu,uu60489507,2022-04-07T20:44:55.000Z,"65 km ESE of West Yellowstone, Montana",earthquake,0.35,0.67,0.214,7,reviewed,uu,uu
 2022-04-07T19:56:07.170Z,33.9068333,-117.5165,15.07,1.48,ml,49,41,0.04833,0.14,ci,ci39988263,2022-04-07T20:29:26.950Z,"3km N of Home Gardens, CA",earthquake,0.17,0.28,0.221,20,reviewed,ci,ci
 2022-04-07T19:47:47.117Z,51.8872,177.4973,103.5,2.8,ml,,329,0.631,0.52,us,us7000h0i3,2022-04-07T20:48:30.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,13,2.7,0.105,12,reviewed,us,us
@@ -118,8 +118,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T10:21:29.790Z,19.1674995422363,-155.484832763672,33.9799995422363,2.35,ml,43,148,,0.140000001,hv,hv72976067,2022-04-07T10:26:58.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.52,0.810000002,4.39,10,automatic,hv,hv
 2022-04-07T10:21:26.260Z,45.3645,-112.5753333,7.04,0.77,ml,7,98,0.015,0.16,mb,mb80542514,2022-04-07T16:36:42.300Z,"17 km NNE of Dillon, Montana",earthquake,0.51,0.63,0.18,4,reviewed,mb,mb
 2022-04-07T10:20:38.137Z,37.1282,-117.3825,0,0.6,ml,3,155.56,0.198,0.149,nn,nn00836849,2022-04-07T20:08:02.443Z,"60 km WNW of Beatty, Nevada",earthquake,,0,0,1,reviewed,nn,nn
+2022-04-07T10:15:17.003Z,38.532,-119.5893,0,0,ml,3,254.37,0.077,0.0534,nn,nn00836867,2022-04-07T21:50:14.516Z,"8 km WSW of Coleville, California",earthquake,,81.1,0.13,2,reviewed,nn,nn
 2022-04-07T10:13:50.044Z,8.9514,-40.5089,10,5.1,mb,,78,12.634,0.82,us,us7000h0c6,2022-04-07T10:39:08.040Z,"central Mid-Atlantic Ridge",earthquake,8.7,1.8,0.047,151,reviewed,us,us
 2022-04-07T10:05:45.370Z,33.9841667,-116.9703333,16.39,1.1,ml,28,120,0.06319,0.14,ci,ci39987895,2022-04-07T20:10:16.640Z,"6km N of Beaumont, CA",earthquake,0.22,0.55,0.096,22,reviewed,ci,ci
+2022-04-07T10:05:32.762Z,39.3907,-120.1687,12.1,-0.3,ml,4,144.71,0.124,0.1363,nn,nn00836866,2022-04-07T21:44:02.223Z,"7 km N of Truckee, California",earthquake,,4.5,0.22,3,reviewed,nn,nn
 2022-04-07T10:03:26.000Z,34.9245,-95.90283333,1.69,1.13,ml,53,92,0.3932228363,0.38,ok,ok2022guef,2022-04-07T12:26:19.720Z,"6 km ESE of Arpelar, Oklahoma",earthquake,,1.4,0.23,16,reviewed,ok,ok
 2022-04-07T10:01:42.874Z,-24.1147,-67.2022,193.8,4.5,mb,,93,1.463,1.02,us,us7000h0c4,2022-04-07T14:40:46.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,10.7,14.4,0.22,6,reviewed,us,us
 2022-04-07T09:52:55.292Z,6.2916,125.7609,159.03,4.5,mb,,119,0.793,0.66,us,us7000h0c3,2022-04-07T11:41:49.040Z,"10 km ENE of Talagutong, Philippines",earthquake,9.8,7.9,0.124,19,reviewed,us,us
