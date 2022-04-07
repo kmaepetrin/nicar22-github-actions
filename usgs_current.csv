@@ -270,6 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T06:02:45.390Z,17.9505,-66.9215,9.8,2.1,md,16,197,,0.1,pr,pr71343548,2022-04-06T06:38:31.140Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.33,0.32,0.115467816786961,9,reviewed,pr,pr
 2022-04-06T05:42:27.230Z,38.779335,-122.767334,2.05,0.15,md,12,90,0.00869,0.02,nc,nc73714926,2022-04-06T06:30:16.174Z,"1km WNW of The Geysers, CA",earthquake,0.42,0.68,0.09,3,automatic,nc,nc
 2022-04-06T05:39:51.665Z,59.9617,-151.8161,62,1.2,ml,,,,0.12,ak,ak0224euswr7,2022-04-06T15:29:30.198Z,"4 km WNW of Happy Valley, Alaska",earthquake,,2,,,reviewed,ak,ak
-2022-04-06T05:34:48.687Z,65.257,-149.9685,4.2,0.7,ml,,,,0.57,ak,ak0224eurvjw,2022-04-06T15:25:42.587Z,"29 km SSE of Rampart, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2022-04-06T05:32:03.650Z,33.4376667,-116.6161667,6.11,0.44,ml,30,63,0.05877,0.15,ci,ci39987167,2022-04-06T14:53:11.218Z,"14km SSE of Anza, CA",earthquake,0.2,0.48,0.12,8,reviewed,ci,ci
-2022-04-06T05:29:44.019Z,7.4319,94.3107,10,5.5,mww,,39,5.366,1.16,us,us7000h035,2022-04-06T21:15:47.040Z,"203 km NNW of Sabang, Indonesia",earthquake,7.7,1.8,0.059,28,reviewed,us,us
