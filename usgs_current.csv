@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T02:19:29.280Z,36.1845,-117.8726667,6.23,0.95,ml,16,96,0.06832,0.15,ci,ci39987727,2022-04-07T02:22:55.799Z,"16km SE of Olancha, CA",earthquake,0.37,0.72,0.203,6,automatic,ci,ci
 2022-04-07T02:12:35.010Z,38.7923333,-122.7248333,2.09,1.99,md,79,41,0.006544,0.06,nc,nc73715286,2022-04-07T07:11:24.060Z,"3km ENE of The Geysers, CA",earthquake,0.11,0.14,0.204,51,reviewed,nc,nc
 2022-04-07T01:50:26.990Z,38.7991676,-122.7508316,2.37,0.84,md,11,99,0.00709,0.02,nc,nc73715271,2022-04-07T02:17:25.414Z,"2km N of The Geysers, CA",earthquake,0.4,0.92,0.02,3,automatic,nc,nc
-2022-04-07T01:47:24.410Z,38.6245,-119.8145,3.08,2.06,md,30,48,0.04254,0.1,nc,nc73715266,2022-04-07T07:14:11.077Z,"7km SSW of Markleeville, CA",earthquake,0.18,0.58,0.225,30,reviewed,nc,nc
+2022-04-07T01:47:24.410Z,38.6245,-119.8145,3.08,2.06,md,30,48,0.04254,0.1,nc,nc73715266,2022-04-07T07:44:10.251Z,"7km SSW of Markleeville, CA",earthquake,0.18,0.58,0.225,30,reviewed,nc,nc
 2022-04-07T01:36:19.300Z,35.8263333,-117.673,8.15,1.63,ml,25,41,0.06226,0.16,ci,ci39987719,2022-04-07T01:47:01.750Z,"23km N of Ridgecrest, CA",earthquake,0.24,0.69,0.157,25,automatic,ci,ci
 2022-04-07T01:33:12.682Z,62.9872,-150.8215,97.9,1.6,ml,,,,0.61,ak,ak0224gfx72z,2022-04-07T01:51:17.733Z,"54 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-07T01:17:19.077Z,44.4419,-115.2477,18.06,2.5,ml,,60,0.839,0.48,us,us7000h09u,2022-04-07T04:33:41.040Z,"35 km NW of Stanley, Idaho",earthquake,2.5,10.1,0.055,44,reviewed,us,us
