@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-07T10:27:03.430Z,38.833168,-122.7901688,1.53,0.85,md,7,91,0.005235,0.02,nc,nc73715451,2022-04-07T10:28:37.807Z,"6km WNW of Cobb, CA",earthquake,0.58,1.35,,1,automatic,nc,nc
+2022-04-07T10:24:27.830Z,19.236499786377,-155.408340454102,32.25,1.75999999,md,42,134,,0.140000001,hv,hv72976072,2022-04-07T10:27:49.380Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.59,0.99000001,0.699999988,13,automatic,hv,hv
+2022-04-07T10:21:29.790Z,19.1674995422363,-155.484832763672,33.9799995422363,2.35,ml,43,148,,0.140000001,hv,hv72976067,2022-04-07T10:26:58.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.52,0.810000002,4.39,10,automatic,hv,hv
 2022-04-07T10:05:45.320Z,33.9875,-116.975,18.08,1.18,ml,28,90,0.0661,0.23,ci,ci39987895,2022-04-07T10:09:26.763Z,"6km N of Beaumont, CA",earthquake,0.41,0.83,0.182,28,automatic,ci,ci
 2022-04-07T10:05:35.760Z,34.3061667,-118.9141667,25.63,1.26,ml,12,125,0.1565,0.27,ci,ci39987887,2022-04-07T10:09:18.776Z,"4km NW of Moorpark, CA",earthquake,1.12,2.61,0.213,18,automatic,ci,ci
 2022-04-07T10:03:31.439Z,35.1506424,-96.09497833,14.03676796,1.81,ml,10,181.6011047,0.1298510283,1.291569408,ok,ok2022guef,2022-04-07T10:05:45.135Z,"6 km NNE of Lamar, Oklahoma",earthquake,7.296508613,5.247672455,,7,automatic,ok,ok
 2022-04-07T09:48:22.319Z,38.2039,-117.7185,0.5,1.5,ml,14,161.92,0.127,0.1138,nn,nn00836828,2022-04-07T09:52:02.881Z,"39 km ESE of Mina, Nevada",earthquake,,5.9,0.14,8,automatic,nn,nn
-2022-04-07T09:44:38.670Z,38.8218346,-122.7636642,1.57,0.36,md,11,176,0.009909,0.03,nc,nc73715446,2022-04-07T09:46:12.333Z,"4km W of Cobb, CA",earthquake,0.51,1.15,,1,automatic,nc,nc
+2022-04-07T09:44:38.670Z,38.8218346,-122.7636642,1.57,0.36,md,11,176,0.009909,0.03,nc,nc73715446,2022-04-07T10:23:23.262Z,"4km W of Cobb, CA",earthquake,0.51,1.15,,1,automatic,nc,nc
 2022-04-07T09:36:45.913Z,61.334,-151.0194,53.3,1.2,ml,,,,0.82,ak,ak0224gkpdnz,2022-04-07T09:44:15.104Z,"21 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-07T09:28:56.610Z,34.0663333,-117.2786667,10.96,1.34,ml,43,37,0.1083,0.2,ci,ci39987879,2022-04-07T09:40:02.180Z,"3km NW of Loma Linda, CA",earthquake,0.25,0.54,0.13,25,automatic,ci,ci
 2022-04-07T09:26:51.130Z,38.8318329,-122.8054962,2.04,0.85,md,9,69,0.009153,0.01,nc,nc73715441,2022-04-07T10:11:23.183Z,"7km W of Cobb, CA",earthquake,0.38,2.17,,1,automatic,nc,nc
@@ -264,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T10:40:54.620Z,60.0176666666667,-153.1205,2.91,-1.04,ml,4,197,,0.19,av,av91530746,2022-04-06T17:10:33.910Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.89,2.02,0.188820158200224,4,reviewed,av,av
 2022-04-06T10:36:43.020Z,38.8176667,-122.7955,2.02,0.27,md,19,45,0.009686,0.02,nc,nc73715001,2022-04-06T22:06:14.901Z,"6km NW of The Geysers, CA",earthquake,0.24,0.4,0.297,4,reviewed,nc,nc
 2022-04-06T10:32:58.130Z,38.7768333,-122.7225,1.48,0.11,md,16,51,0.01283,0.04,nc,nc73714996,2022-04-06T19:43:16.025Z,"3km W of Anderson Springs, CA",earthquake,0.26,0.28,0.081,4,reviewed,nc,nc
-2022-04-06T10:32:09.170Z,44.402,-115.207,3.83,1.74,ml,9,83,0.889,0.18,mb,mb80542384,2022-04-06T15:02:21.070Z,"29 km NW of Stanley, Idaho",earthquake,0.6,1.62,0.239,7,reviewed,mb,mb
-2022-04-06T10:23:05.333Z,63.0267,-149.3526,64.8,1.6,ml,,,,0.79,ak,ak0224exolc1,2022-04-06T10:28:13.491Z,"45 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
