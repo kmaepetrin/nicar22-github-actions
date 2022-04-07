@@ -9555,3 +9555,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T08:43:20.410Z,18.8096666666667,-155.1895,7.42,2.15,md,36.0,272.0,,0.17,hv,hv72975992,2022-04-07T21:17:14.290Z,"50 km SE of Naalehu, Hawaii",earthquake,0.48,0.41,0.132934666302276,18.0,reviewed,hv,hv
 2022-04-07T02:41:00.003Z,38.2494,-118.3623,10.4,0.4,ml,8.0,162.64,0.112,0.1149,nn,nn00836862,2022-04-07T21:22:16.847Z,"27 km SW of Mina, Nevada",earthquake,,4.0,0.0,1.0,reviewed,nn,nn
 2022-04-07T02:14:55.819Z,38.2639,-118.4406,0.0,0.1,ml,8.0,216.73,0.052,0.0736,nn,nn00836860,2022-04-07T21:16:05.169Z,"32 km WSW of Mina, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2022-04-07T05:11:33.251Z,38.9308,-118.7704,12.6,0.9,ml,8.0,158.44,0.37,0.071,nn,nn00836863,2022-04-07T21:31:35.133Z,"4 km ESE of Schurz, Nevada",earthquake,,15.4,0.0,1.0,reviewed,nn,nn
