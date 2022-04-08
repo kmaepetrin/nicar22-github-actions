@@ -275,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T08:56:22.660Z,37.1331667,-121.5221667,8.7,1.01,md,31,62,0.06902,0.15,nc,nc73715416,2022-04-07T17:09:03.824Z,"10km NE of San Martin, CA",earthquake,0.27,0.57,0.187,20,reviewed,nc,nc
 2022-04-07T08:54:51.996Z,62.9577,-149.6763,65.1,1.6,ml,,,,0.73,ak,ak0224gk7tf7,2022-04-07T08:57:29.340Z,"60 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-07T08:54:19.140Z,38.2336,-118.6873,12.2,-0.1,ml,6,330.7,0.145,0.05,nn,nn00836865,2022-04-08T02:39:03.908Z,"32 km S of Hawthorne, Nevada",earthquake,,13.6,0,1,reviewed,nn,nn
-2022-04-07T08:49:50.380Z,38.8339996,-122.8160019,1.61,0.36,md,7,89,0.01156,0.01,nc,nc73715411,2022-04-07T09:17:24.782Z,"8km NW of The Geysers, CA",earthquake,0.51,1.74,,1,automatic,nc,nc
