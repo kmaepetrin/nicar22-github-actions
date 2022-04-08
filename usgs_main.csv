@@ -9603,3 +9603,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T23:44:45.053Z,62.2656,-148.9342,19.7,1.4,ml,,,,0.61,ak,ak0224gt35sn,2022-04-07T23:51:44.923Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-07T23:36:10.625Z,21.7113,121.0332,10.0,5.7,mww,,56.0,1.102,1.03,us,us7000h0jz,2022-04-07T23:52:13.223Z,"44 km SE of Hengchun, Taiwan",earthquake,6.8,1.8,0.058,29.0,reviewed,us,us
 2022-04-07T00:45:16.840Z,53.8808333333333,-166.6565,3.87,-0.06,ml,6.0,126.0,,0.11,av,av91053953,2022-04-07T23:48:53.640Z,"7 km W of Dutch Harbor, Alaska",earthquake,0.33,0.67,0.188674259197736,6.0,reviewed,av,av
+2022-04-07T00:35:06.660Z,58.3245,-154.8205,4.5,0.25,ml,7.0,164.0,,0.17,av,av91053963,2022-04-07T23:57:47.590Z,"86 km NNW of Karluk, Alaska",earthquake,0.59,1.28,0.173877050918552,7.0,reviewed,av,av
+2022-04-07T00:30:01.830Z,51.89,-177.935,3.24,0.05,ml,5.0,208.0,,0.21,av,av91053958,2022-04-07T23:54:00.770Z,"89 km W of Adak, Alaska",earthquake,0.75,1.41,0.0964645401305958,5.0,reviewed,av,av
