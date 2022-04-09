@@ -10105,3 +10105,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T20:40:46.586Z,63.1676,-149.6992,89.3,1.8,ml,,,,0.51,ak,ak0224k2cp8b,2022-04-09T20:43:23.234Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-09T20:37:07.490Z,33.3333333,-116.2258333,8.59,0.88,ml,23.0,61.0,0.07586,0.26,ci,ci39989591,2022-04-09T20:40:38.586Z,"16km ENE of Borrego Springs, CA",earthquake,0.56,1.12,0.08,18.0,automatic,ci,ci
 2022-04-09T18:38:37.552Z,28.8265,86.5402,10.0,4.2,mb,,71.0,1.51,0.69,us,us7000h0xr,2022-04-09T20:39:30.040Z,"100 km NNW of Lobujya, Nepal",earthquake,7.9,1.9,0.081,48.0,reviewed,us,us
+2022-04-09T20:54:18.430Z,33.795,-117.073,7.57,1.14,ml,8.0,85.0,0.3462,0.27,ci,ci39989599,2022-04-09T20:57:57.362Z,"6km N of Green Acres, CA",earthquake,1.07,31.61,0.296,13.0,automatic,ci,ci
