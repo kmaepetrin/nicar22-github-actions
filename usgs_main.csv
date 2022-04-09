@@ -9989,3 +9989,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T07:32:40.728Z,61.6106,-149.6898,19.8,2.1,ml,,,,0.71,ak,ak0224jukc63,2022-04-09T07:36:14.612Z,"4 km WSW of Meadow Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-09T07:39:20.001Z,60.344,-147.8813,9.2,2.9,ml,,,,0.61,ak,ak0224julsmd,2022-04-09T07:44:34.546Z,"31 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-09T07:35:37.930Z,62.2056,-150.7212,65.1,1.8,ml,,,,0.32,ak,ak0224jukz3z,2022-04-09T07:44:41.958Z,"28 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-09T07:52:56.629Z,57.368,-154.9113,53.0,2.1,ml,,,,0.43,ak,ak0224juonq6,2022-04-09T07:55:34.299Z,"35 km SW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2022-04-09T07:50:39.760Z,32.9278333,-116.2248333,9.18,0.86,ml,12.0,142.0,0.07124,0.13,ci,ci39989223,2022-04-09T07:54:08.417Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.36,0.72,0.111,6.0,automatic,ci,ci
