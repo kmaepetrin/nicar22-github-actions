@@ -10064,3 +10064,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T16:16:01.170Z,38.8325005,-122.8026657,1.51,0.85,md,8.0,102.0,0.01078,0.01,nc,nc73716321,2022-04-09T16:43:14.159Z,"7km W of Cobb, CA",earthquake,0.38,1.12,,1.0,automatic,nc,nc
 2022-04-09T12:49:19.260Z,37.4093333,-118.6126667,2.71,1.31,md,10.0,296.0,0.2493,0.05,nc,nc73716256,2022-04-09T16:43:04.650Z,"1km WSW of Round Valley, CA",earthquake,0.67,31.61,0.11,10.0,reviewed,nc,nc
 2022-04-09T11:26:03.820Z,37.5021667,-118.859,2.18,0.68,md,9.0,229.0,0.09087,0.06,nc,nc73716251,2022-04-09T16:27:03.270Z,"17km WSW of Toms Place, CA",earthquake,0.94,3.05,0.193,8.0,reviewed,nc,nc
+2022-04-09T16:43:48.930Z,21.7161,120.9651,10.0,5.0,mb,,96.0,1.101,1.02,us,us7000h0xd,2022-04-09T16:57:09.040Z,"39 km SE of Hengchun, Taiwan",earthquake,7.0,1.9,0.08,50.0,reviewed,us,us
