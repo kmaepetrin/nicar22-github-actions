@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-10T06:32:19.608Z,63.1853,-150.6551,123.2,1.2,ml,,,,0.55,ak,ak0224lhi7fs,2022-04-10T06:37:51.832Z,"66 km SE of Denali National Park, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2022-04-10T06:28:17.958Z,64.1624,-148.0766,0,1.6,ml,,,,0.99,ak,ak0224lhhcfw,2022-04-10T06:37:52.565Z,"53 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-10T06:32:19.608Z,63.1853,-150.6551,123.2,1.2,ml,,,,0.55,ak,ak0224lhi7fs,2022-04-10T06:42:46.870Z,"66 km SE of Denali National Park, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2022-04-10T06:28:17.958Z,64.1624,-148.0766,0,1.6,ml,,,,0.99,ak,ak0224lhhcfw,2022-04-10T06:42:46.120Z,"53 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T06:25:13.700Z,35.8518333,-117.6903333,6.63,1.85,ml,27,47,0.07439,0.18,ci,ci39989807,2022-04-10T06:35:44.880Z,"22km ESE of Little Lake, CA",earthquake,0.26,0.59,0.204,26,automatic,ci,ci
 2022-04-10T06:20:41.800Z,19.173999786377,-155.44416809082,34.2900009155273,1.80999994,md,32,161,,0.109999999,hv,hv72979432,2022-04-10T06:23:58.530Z,"4 km SE of Pāhala, Hawaii",earthquake,0.76,0.870000005,1.80999994,4,automatic,hv,hv
 2022-04-10T06:09:38.172Z,60.3189,-153.3645,169.5,1.8,ml,,,,0.4,ak,ak0224lhdbf2,2022-04-10T06:32:06.497Z,"54 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-10T05:54:48.526Z,63.4683,-147.079,4.2,1.2,ml,,,,0.47,ak,ak0224lh1jtg,2022-04-10T06:06:12.897Z,"84 km WNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T05:54:41.280Z,38.8325005,-122.8146667,1.93,1.16,md,17,63,0.009774,0.02,nc,nc73716556,2022-04-10T06:36:15.292Z,"8km NW of The Geysers, CA",earthquake,0.24,0.58,0.22,2,automatic,nc,nc
-2022-04-10T05:54:12.600Z,38.8321648,-122.8148346,1.85,1.21,md,25,51,0.009514,0.02,nc,nc73716546,2022-04-10T06:12:15.132Z,"8km NW of The Geysers, CA",earthquake,0.18,0.39,0.03,5,automatic,nc,nc
+2022-04-10T05:54:12.600Z,38.8321648,-122.8148346,1.85,1.21,md,25,51,0.009514,0.02,nc,nc73716546,2022-04-10T06:46:10.363Z,"8km NW of The Geysers, CA",earthquake,0.18,0.39,0.03,5,automatic,nc,nc
 2022-04-10T05:46:47.595Z,61.6389,-151.289,11.1,0.9,ml,,,,0.32,ak,ak0224lgzu0n,2022-04-10T05:58:05.471Z,"39 km S of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-10T05:37:17.020Z,33.2511667,-116.2891667,7.77,1.31,ml,40,83,0.06535,0.2,ci,ci39989791,2022-04-10T05:48:16.490Z,"8km E of Borrego Springs, CA",earthquake,0.32,0.78,0.143,26,automatic,ci,ci
 2022-04-10T05:22:20.360Z,38.8330002,-122.8154984,1.94,1.16,md,19,55,0.01049,0.02,nc,nc73716536,2022-04-10T06:03:11.107Z,"8km NW of The Geysers, CA",earthquake,0.22,0.56,0.34,2,automatic,nc,nc
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T04:27:04.687Z,60.2442,-152.9389,126.6,1.2,ml,,,,0.54,ak,ak0224lga8hf,2022-04-10T04:31:17.233Z,"73 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-10T04:24:25.809Z,61.1181,-150.4695,20,1,ml,,,,0.49,ak,ak0224lg9myo,2022-04-10T04:31:16.518Z,"24 km NNE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-10T04:18:37.430Z,17.954,-66.196,9.05,2.27,md,6,219,,0.23,pr,pr71343943,2022-04-10T05:58:19.970Z,"2 km E of Central Aguirre, Puerto Rico",earthquake,0.84,0.97,0.0588494011315657,4,reviewed,pr,pr
-2022-04-10T04:13:24.260Z,38.8014984,-122.7710037,1.19,0.85,md,9,94,0.008866,0.02,nc,nc73716506,2022-04-10T04:36:16.558Z,"3km NNW of The Geysers, CA",earthquake,0.45,0.81,,1,automatic,nc,nc
+2022-04-10T04:13:24.260Z,38.8014984,-122.7710037,1.19,0.85,md,9,94,0.008866,0.02,nc,nc73716506,2022-04-10T06:48:17.373Z,"3km NNW of The Geysers, CA",earthquake,0.45,0.81,,1,automatic,nc,nc
 2022-04-10T04:05:03.434Z,26.9725,143.862,10,4.4,mb,,161,7.055,0.98,us,us7000h10u,2022-04-10T04:45:52.040Z,"Bonin Islands, Japan region",earthquake,13.2,1.9,0.089,38,reviewed,us,us
 2022-04-10T03:59:02.380Z,33.6755,-116.6916667,14.09,0.68,ml,20,110,0.04022,0.14,ci,ci39989727,2022-04-10T04:02:48.582Z,"8km SSE of Idyllwild, CA",earthquake,0.33,0.5,0.107,9,automatic,ci,ci
 2022-04-10T03:48:37.390Z,46.3095,-122.18233333333333,1.41,0.56,ml,9,183,0.04234,0.12,uw,uw61830306,2022-04-10T05:17:25.760Z,"28 km SSE of Morton, Washington",earthquake,0.31,0.43,0.15564332766953248,6,reviewed,uw,uw
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T07:11:18.273Z,37.1152,-115.3283,2.8,1.1,ml,10,128.95,0.517,0.3117,nn,nn00836967,2022-04-09T07:14:33.401Z,"31 km SSW of Alamo, Nevada",earthquake,,10.8,1.15,4,automatic,nn,nn
 2022-04-09T07:09:49.510Z,36.7041667,-121.3393333,2.75,1.79,md,38,107,0.006638,0.11,nc,nc73716201,2022-04-09T23:32:11.715Z,"10km S of Tres Pinos, CA",earthquake,0.23,0.36,0.194,37,reviewed,nc,nc
 2022-04-09T07:03:07.990Z,63.3216,-149.8116,101,1.5,ml,,,,0.16,ak,ak0224jue1vz,2022-04-09T07:09:02.440Z,"43 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-09T06:48:25.910Z,38.7493324,-122.7409973,1.87,0.32,md,7,140,0.00437,0.02,nc,nc73716196,2022-04-09T07:06:14.575Z,"3km SSE of The Geysers, CA",earthquake,0.52,0.77,,1,automatic,nc,nc
-2022-04-09T06:42:44.030Z,46.83,-112.5276667,13.46,0.47,ml,6,242,0.057,0.08,mb,mb80542664,2022-04-09T15:00:56.590Z,"18 km SE of Lincoln, Montana",earthquake,1.27,0.76,,0,reviewed,mb,mb
