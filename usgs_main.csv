@@ -10299,3 +10299,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T20:42:30.795Z,62.9217,-149.3857,59.9,2.2,ml,,,,0.67,ak,ak0224lpwfwn,2022-04-10T20:45:25.644Z,"56 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-10T20:39:36.150Z,38.8248329,-122.8056641,1.3,0.84,md,10.0,70.0,0.003732,0.02,nc,nc73716716,2022-04-10T20:41:13.416Z,"7km NW of The Geysers, CA",earthquake,0.31,0.87,,1.0,automatic,nc,nc
 2022-04-10T20:39:04.350Z,19.3623332977295,-155.480834960938,4.1399998664856,2.23,ml,38.0,64.0,,0.200000003,hv,hv72979932,2022-04-10T20:44:36.130Z,"17 km N of Pāhala, Hawaii",earthquake,0.35,0.899999976,3.67,6.0,automatic,hv,hv
+2022-04-10T20:54:01.699Z,63.7599,-149.5541,117.6,2.1,ml,,,,0.67,ak,ak0224lpyy96,2022-04-10T21:00:12.035Z,"30 km WSW of Healy, Alaska",earthquake,,0.7,,,automatic,ak,ak
