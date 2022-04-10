@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T07:51:49.444Z,44.2497,-129.0452,10,4.4,mb,,197,3.639,0.87,us,us7000h0vb,2022-04-09T08:11:01.040Z,"off the coast of Oregon",earthquake,9.8,1.9,0.044,147,reviewed,us,us
 2022-04-09T07:50:39.760Z,32.9278333,-116.2248333,9.18,0.86,ml,12,142,0.07124,0.13,ci,ci39989223,2022-04-09T07:54:08.417Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.36,0.72,0.111,6,automatic,ci,ci
 2022-04-09T07:39:19.703Z,60.3366,-147.8827,6.5,2.9,ml,,,,0.64,ak,ak0224julsmd,2022-04-09T07:59:54.040Z,"30 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-09T07:35:37.941Z,62.206,-150.7207,64.8,1.8,ml,,,,0.31,ak,ak0224jukz3z,2022-04-09T07:47:51.727Z,"28 km WSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-09T07:32:40.746Z,61.6076,-149.6935,20,2,ml,,,,0.74,ak,ak0224jukc63,2022-04-09T07:44:41.089Z,"5 km WSW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
