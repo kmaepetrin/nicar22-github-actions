@@ -10304,3 +10304,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T20:56:48.333Z,1.8691,127.4738,117.6,4.9,mb,,99.0,5.519,0.83,us,us7000h15q,2022-04-10T21:11:48.040Z,"61 km WNW of Tobelo, Indonesia",earthquake,7.4,7.9,0.073,60.0,reviewed,us,us
 2022-04-10T20:03:03.013Z,-44.3388,-78.3536,10.0,4.5,mwr,,185.0,4.619,1.03,us,us7000h15f,2022-04-10T21:20:10.040Z,"Off the coast of Aisen, Chile",earthquake,10.7,1.9,,,reviewed,us,guc
 2022-04-10T21:35:44.000Z,33.4819984,-116.456337,11.95,1.41,ml,32.0,113.0,0.04858,0.17,ci,ci39990079,2022-04-10T21:38:01.177Z,"22km ESE of Anza, CA",earthquake,0.37,0.84,0.395,6.0,automatic,ci,ci
+2022-04-10T21:31:21.165Z,62.3704,-151.2156,85.5,1.1,ml,,,,0.56,ak,ak0224lqfhx0,2022-04-10T21:43:35.383Z,"27 km WSW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
