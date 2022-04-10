@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-10T19:32:28.619Z,58.7065,-154.0961,17.9,1,ml,,,,0.9,ak,ak0224lp8uzx,2022-04-10T19:33:58.121Z,"90 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-10T19:01:14.730Z,19.6106662750244,-155.917663574219,13.3199996948242,1.98000002,md,17,234,,0.239999995,hv,hv72979887,2022-04-10T19:04:27.700Z,"3 km ESE of Hōlualoa, Hawaii",earthquake,2.32,2.96000004,0.660000026,3,automatic,hv,hv
 2022-04-10T18:49:57.980Z,38.838665,-122.8366699,2.01,0.37,md,9,112,0.0009269,0.01,nc,nc73716681,2022-04-10T19:07:16.845Z,"10km NW of The Geysers, CA",earthquake,0.43,0.79,,1,automatic,nc,nc
 2022-04-10T18:33:42.150Z,19.175500869751,-155.488494873047,36.7000007629395,2.21000004,md,36,147,,0.159999996,hv,hv72979882,2022-04-10T18:36:53.230Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.85,1.23000002,0.699999988,20,automatic,hv,hv
@@ -181,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T19:50:55.770Z,38.8338333,-122.8403333,1.9,1.5,md,47,74,0.006073,0.03,nc,nc73716401,2022-04-09T23:06:12.558Z,"10km NW of The Geysers, CA",earthquake,0.13,0.17,0.039,13,reviewed,nc,nc
 2022-04-09T19:49:29.570Z,38.8333321,-122.8404999,1.42,0.94,md,25,99,0.006548,0.05,nc,nc73716396,2022-04-09T19:51:04.122Z,"10km NW of The Geysers, CA",earthquake,0.2,0.38,0.06,5,automatic,nc,nc
 2022-04-09T19:35:14.119Z,-22.9049,171.537,22.96,5,mww,,64,3.786,0.91,us,us7000h0y5,2022-04-09T20:17:25.040Z,"southeast of the Loyalty Islands",earthquake,8.9,4.5,0.098,10,reviewed,us,us
-2022-04-09T19:34:34.240Z,33.9913333,-116.9945,13.75,1.17,ml,29,88,0.113,0.21,ci,ci39989575,2022-04-09T19:38:12.880Z,"5km E of Calimesa, CA",earthquake,0.3,0.67,0.202,30,automatic,ci,ci
-2022-04-09T19:30:46.360Z,34.1401667,-117.4201667,4.29,1.01,ml,24,46,0.07895,0.19,ci,ci39989567,2022-04-09T19:34:16.859Z,"6km NE of Fontana, CA",earthquake,0.36,1.01,0.162,29,automatic,ci,ci
