@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-10T08:39:36.710Z,33.8728333,-116.1876667,2.55,1.13,ml,27,107,0.05381,0.27,ci,ci39989855,2022-04-10T08:43:21.098Z,"17km N of Indio, CA",earthquake,0.46,0.91,0.093,25,automatic,ci,ci
+2022-04-10T08:30:25.318Z,37.32,141.9009,40.23,4.7,mb,,97,3.058,0.75,us,us7000h122,2022-04-10T08:50:59.040Z,"81 km ESE of Namie, Japan",earthquake,3.4,6.8,0.054,104,reviewed,us,us
 2022-04-10T08:21:03.590Z,34.6253333,-116.5716667,7.41,2.12,ml,30,52,0.04722,0.17,ci,ci39989847,2022-04-10T08:31:41.880Z,"39km WSW of Ludlow, CA",earthquake,0.28,0.91,0.117,25,automatic,ci,ci
 2022-04-10T08:15:52.640Z,33.6665,-116.7136667,16.54,0.99,ml,28,53,0.04455,0.17,ci,ci39989839,2022-04-10T08:19:42.186Z,"8km S of Idyllwild, CA",earthquake,0.3,0.48,0.181,29,automatic,ci,ci
 2022-04-10T08:04:24.338Z,61.5385,-149.9704,45.2,1.2,ml,,,,0.66,ak,ak0224lij2yp,2022-04-10T08:06:18.336Z,"2 km NNW of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -55,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T01:13:49.970Z,17.947,-67.0748333333333,7.18,1.84,md,3,250,,0.05,pr,pr71343918,2022-04-10T03:49:20.810Z,"4 km SW of La Parguera, Puerto Rico",earthquake,1.43,0.33,0.0489153175059724,3,reviewed,pr,pr
 2022-04-10T01:13:38.260Z,19.1301670074463,-155.374160766602,29.1499996185303,2.1099999,md,42,186,,0.109999999,hv,hv72979287,2022-04-10T01:16:45.160Z,"13 km SE of Pāhala, Hawaii",earthquake,0.61,0.860000014,0.769999981,25,automatic,hv,hv
 2022-04-10T00:58:53.570Z,38.8333321,-122.8166656,1.79,1.18,md,11,88,0.01118,0.02,nc,nc73716456,2022-04-10T03:27:18.158Z,"8km NW of The Geysers, CA",earthquake,0.4,0.7,,1,automatic,nc,nc
-2022-04-10T00:58:05.072Z,42.3427,20.1824,10,4.2,mb,,27,0.688,0.76,us,us7000h0zq,2022-04-10T07:40:45.990Z,"16 km SSW of Junik, Kosovo",earthquake,2,1.9,0.237,5,reviewed,us,us
+2022-04-10T00:58:05.072Z,42.3427,20.1824,10,4.2,mb,,27,0.688,0.76,us,us7000h0zq,2022-04-10T08:46:58.729Z,"16 km SSW of Junik, Kosovo",earthquake,2,1.9,0.237,5,reviewed,us,us
 2022-04-10T00:36:54.547Z,61.5709,-149.8967,32.8,1.7,ml,,,,0.32,ak,ak0224ldyjd3,2022-04-10T00:48:55.434Z,"6 km NNE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T00:36:52.600Z,57.9743,-155.1328,71.6,1.4,ml,,,,1.11,ak,ak0224ldyj7w,2022-04-10T00:38:36.581Z,"60 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-04-10T00:06:22.780Z,34.1423333,-117.4135,6.81,1.01,ml,22,141,0.1162,0.24,ci,ci39989679,2022-04-10T00:10:03.521Z,"6km NW of Rialto, CA",earthquake,0.52,1.29,0.13,23,automatic,ci,ci
