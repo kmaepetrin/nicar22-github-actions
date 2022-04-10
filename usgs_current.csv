@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-10T08:15:52.790Z,33.6553345,-116.7148361,15.44,1.26,ml,30,74,0.05569,0.12,ci,ci39989839,2022-04-10T08:17:57.981Z,"9km S of Idyllwild, CA",earthquake,0.32,0.54,0.214,7,automatic,ci,ci
+2022-04-10T08:21:03.590Z,34.6253333,-116.5716667,7.41,2.12,ml,30,52,0.04722,0.17,ci,ci39989847,2022-04-10T08:31:41.880Z,"39km WSW of Ludlow, CA",earthquake,0.28,0.91,0.117,25,automatic,ci,ci
+2022-04-10T08:15:52.640Z,33.6665,-116.7136667,16.54,0.99,ml,28,53,0.04455,0.17,ci,ci39989839,2022-04-10T08:19:42.186Z,"8km S of Idyllwild, CA",earthquake,0.3,0.48,0.181,29,automatic,ci,ci
 2022-04-10T08:04:24.338Z,61.5385,-149.9704,45.2,1.2,ml,,,,0.66,ak,ak0224lij2yp,2022-04-10T08:06:18.336Z,"2 km NNW of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-10T07:47:15.879Z,59.3253,-152.7846,85.7,1.4,ml,,,,0.13,ak,ak0224li6uhv,2022-04-10T07:49:41.951Z,"49 km W of Nanwalek, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-04-10T07:46:54.230Z,18.0638333333333,-66.8526666666667,18.12,2.04,md,8,121,,0.17,pr,pr71343958,2022-04-10T08:25:28.520Z,"3 km N of Yauco, Puerto Rico",earthquake,0.56,0.78,0.156685787295934,8,reviewed,pr,pr
 2022-04-10T07:46:29.190Z,19.420166015625,-155.279327392578,0.0199999995529652,2.05,ml,13,60,,0.100000001,hv,hv72979477,2022-04-10T07:51:59.490Z,"5 km WSW of Volcano, Hawaii",earthquake,0.22,0.289999992,0.39,3,automatic,hv,hv
 2022-04-10T07:10:28.670Z,19.1871662139893,-155.474334716797,36.3800010681152,2.1400001,md,42,86,,0.100000001,hv,hv72979457,2022-04-10T07:13:46.950Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.52,0.810000002,1.41999996,12,automatic,hv,hv
 2022-04-10T07:05:26.742Z,-60.6901,-25.7725,10,4.9,mb,,112,8.625,0.46,us,us7000h11n,2022-04-10T07:24:25.040Z,"South Sandwich Islands region",earthquake,13.9,1.9,0.076,55,reviewed,us,us
@@ -179,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T10:20:09.830Z,59.6402,-153.114,97.1,1.3,ml,,,,0.26,ak,ak0224jwa00n,2022-04-09T10:21:45.018Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-09T10:14:43.840Z,38.7869987,-122.7450027,1.67,0.86,md,17,83,0.007481,0.03,nc,nc73716226,2022-04-09T11:28:13.151Z,"2km NE of The Geysers, CA",earthquake,0.25,0.54,0.1,4,automatic,nc,nc
 2022-04-09T09:46:22.470Z,33.5861667,-116.8025,7.57,0.82,ml,30,41,0.03292,0.14,ci,ci39989239,2022-04-09T09:50:00.990Z,"12km WNW of Anza, CA",earthquake,0.21,0.56,0.146,19,automatic,ci,ci
-2022-04-09T09:45:25.882Z,32.5459,-16.7375,12.68,4.4,mb,,128,0.476,0.92,us,us7000h10z,2022-04-10T05:14:42.040Z,"14 km SE of Caniço, Portugal",earthquake,6.1,5.4,0.268,5,reviewed,us,us
+2022-04-09T09:45:25.882Z,32.5459,-16.7375,12.68,4.4,mb,,128,0.476,0.92,us,us7000h10z,2022-04-10T08:19:40.491Z,"14 km SE of Caniço, Portugal",earthquake,6.1,5.4,0.268,5,reviewed,us,us
 2022-04-09T09:41:04.717Z,-8.6697,114.752,101.21,4.6,mb,,65,0.625,0.93,us,us7000h0vq,2022-04-09T23:27:44.034Z,"37 km SSE of Negara, Indonesia",earthquake,6.9,6,0.098,37,reviewed,us,us
 2022-04-09T09:40:00.808Z,-18.0932,-178.322,494.25,4.9,mb,,37,3.468,0.88,us,us7000h0vs,2022-04-09T10:01:53.040Z,"249 km E of Levuka, Fiji",earthquake,9,5.3,0.026,466,reviewed,us,us
 2022-04-09T09:23:07.860Z,38.8204994,-122.767334,2.02,0.87,md,22,106,0.01016,0.03,nc,nc73716221,2022-04-09T11:01:12.988Z,"4km W of Cobb, CA",earthquake,0.26,0.44,0.11,4,automatic,nc,nc
@@ -187,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T09:11:32.160Z,38.831,-122.8043333,2.02,0.25,md,20,46,0.008819,0.07,nc,nc73716216,2022-04-09T20:05:15.408Z,"7km W of Cobb, CA",earthquake,0.25,0.45,0.314,2,reviewed,nc,nc
 2022-04-09T09:03:42.726Z,64.7398,-147.428,6.3,1,ml,,,,0.54,ak,ak0224jvkzsi,2022-04-09T15:49:27.334Z,"3 km WSW of North Pole, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-04-09T08:58:58.850Z,17.9268333333333,-66.8558333333333,11.32,2.64,md,17,210,,0.11,pr,pr71343883,2022-04-09T09:25:49.720Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.46,0.34,0.19453294596619,11,reviewed,pr,pr
-2022-04-09T08:23:12.680Z,19.2821,-67.033,12,3.81,md,26,209,0.8183,0.62,pr,pr2022099000,2022-04-09T12:48:47.809Z,"86 km N of Isabela, Puerto Rico",earthquake,1.94,3.86,0.13,22,reviewed,pr,pr
-2022-04-09T08:19:03.192Z,64.7121,-154.8194,8.7,2,ml,,,,0.59,ak,ak0224jv2wkv,2022-04-09T08:27:50.617Z,"31 km E of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
