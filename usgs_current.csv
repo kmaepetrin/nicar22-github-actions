@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-10T23:22:04.876Z,59.4779,-152.6886,72.6,1.5,ml,,,,0.36,ak,ak0224lrkeee,2022-04-10T23:26:44.921Z,"45 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-10T23:19:13.226Z,62.7065,-151.567,12,1,ml,,,,0.55,ak,ak0224lrjrx6,2022-04-10T23:29:17.656Z,"47 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-10T23:22:04.825Z,59.4795,-152.6833,73.5,1.5,ml,,,,0.53,ak,ak0224lrkeee,2022-04-10T23:34:21.237Z,"45 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-10T23:19:13.226Z,62.7065,-151.567,12,1,ml,,,,0.55,ak,ak0224lrjrx6,2022-04-10T23:30:33.437Z,"47 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-10T23:16:24.094Z,-15.2647,49.6867,10,4.4,mb,,77,4.41,0.61,us,us7000h164,2022-04-10T23:35:04.040Z,"13 km WNW of Antakotako, Madagascar",earthquake,10.4,1.9,0.123,19,reviewed,us,us
 2022-04-10T23:15:52.704Z,62.0696,-149.0753,25.1,1.7,ml,,,,1.2,ak,ak0224lrj041,2022-04-10T23:19:16.375Z,"36 km NNW of Sutton-Alpine, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-10T23:06:13.659Z,64.6836,-149.7059,21,1.1,ml,,,,0.39,ak,ak0224lrgzmy,2022-04-10T23:19:38.254Z,"29 km WNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-10T23:03:50.237Z,64.9973,-147.4832,0,1.4,ml,,,,1.07,ak,ak0224lrgfay,2022-04-10T23:10:34.797Z,"7 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T00:06:16.962Z,21.4417,97.997,10,4.4,mwr,,77,1.121,1.33,us,us7000h0zn,2022-04-10T00:25:09.040Z,"123 km NE of Taunggyi, Myanmar",earthquake,3.1,1.9,0.073,18,reviewed,us,us
 2022-04-09T23:52:35.440Z,34.1468333,-117.4168333,6.66,1.04,ml,24,116,0.1198,0.21,ci,ci39989663,2022-04-09T23:56:25.442Z,"6km NW of Rialto, CA",earthquake,0.45,1.14,0.184,29,automatic,ci,ci
 2022-04-09T23:42:25.450Z,38.8133316,-122.8208313,2.53,1.16,md,28,51,0.007899,0.02,nc,nc73716446,2022-04-10T02:34:20.833Z,"7km NW of The Geysers, CA",earthquake,0.19,0.36,0.2,5,automatic,nc,nc
-2022-04-09T23:39:56.820Z,44.379,-115.205,9.21,2.22,ml,12,83,0.836,0.2,mb,mb80542724,2022-04-10T14:26:55.470Z,"27 km NW of Stanley, Idaho",earthquake,0.5,1.22,0.163,11,reviewed,mb,mb
