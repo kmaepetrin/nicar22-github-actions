@@ -10499,3 +10499,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T17:31:24.930Z,36.791832,-120.8433304,1.03,1.96,md,5.0,209.0,0.1347,0.13,nc,nc73716981,2022-04-11T17:33:58.460Z,"26km SW of South Dos Palos, CA",earthquake,1.39,12.88,0.01,3.0,automatic,nc,nc
 2022-04-11T17:28:44.308Z,61.4106,-149.8913,38.5,1.1,ml,,,,0.55,ak,ak0224nbkimp,2022-04-11T17:39:39.741Z,"7 km NE of Point MacKenzie, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-04-11T00:38:31.590Z,46.755833333333335,-121.88883333333334,3.29,0.97,ml,14.0,104.0,0.02479,0.07,uw,uw61830446,2022-04-11T17:34:48.540Z,"10 km E of Ashford, Washington",earthquake,0.31,0.66,0.353135939594762,4.0,reviewed,uw,uw
+2022-04-11T12:26:16.665Z,50.2336,-179.9177,41.3,3.0,ml,,,,0.68,ak,ak0224n8kvcb,2022-04-11T17:42:18.217Z,"293 km SW of Adak, Alaska",earthquake,,12.7,,,reviewed,ak,ak
