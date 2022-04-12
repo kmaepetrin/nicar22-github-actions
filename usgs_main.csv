@@ -10850,3 +10850,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T18:45:44.760Z,38.819,-122.8043333,2.81,0.54,md,15.0,71.0,0.006275,0.03,nc,nc73717516,2022-04-12T23:29:41.205Z,"6km NW of The Geysers, CA",earthquake,0.25,0.62,0.108,3.0,reviewed,nc,nc
 2022-04-12T23:36:29.978Z,62.136,-151.3348,74.8,2.0,ml,,,,0.42,ak,ak0224p2q5dk,2022-04-12T23:42:14.550Z,"16 km NNE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-12T07:32:45.620Z,61.111,-152.407833333333,4.02,-0.29,ml,4.0,290.0,,0.07,av,av91054563,2022-04-12T23:37:45.800Z,"68 km W of Tyonek, Alaska",earthquake,0.77,0.41,0.113057836019499,3.0,reviewed,av,av
+2022-04-12T23:52:40.770Z,38.8238335,-122.8008347,2.84,0.84,md,12.0,64.0,0.00723,0.02,nc,nc73717601,2022-04-12T23:54:16.839Z,"6km NW of The Geysers, CA",earthquake,0.39,1.05,,1.0,automatic,nc,nc
+2022-04-12T23:52:24.259Z,62.0528,-147.6501,49.0,1.4,ml,,,,0.81,ak,ak0224p2tke1,2022-04-12T23:54:25.360Z,"27 km N of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
