@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-12T14:35:18.533Z,54.2822,-160.7377,26.64,3.7,mb,,206,0.865,0.32,us,us7000h1h8,2022-04-12T14:51:00.040Z,"118 km S of Sand Point, Alaska",earthquake,5.7,12.3,0.252,4,reviewed,us,us
 2022-04-12T14:27:45.200Z,38.8263321,-122.8568344,2.68,0.37,md,9,74,0.001212,0.01,nc,nc73717436,2022-04-12T14:44:12.556Z,"10km WNW of The Geysers, CA",earthquake,0.36,1.58,,1,automatic,nc,nc
 2022-04-12T14:14:41.100Z,19.1946659088135,-155.431335449219,32.9000015258789,1.74000001,md,37,151,,0.119999997,hv,hv72981752,2022-04-12T14:18:01.500Z,"5 km E of Pāhala, Hawaii",earthquake,0.61,0.870000005,1.74000001,4,automatic,hv,hv
 2022-04-12T14:05:06.814Z,9.9844,-83.3683,11.33,4,mb,,102,0.672,0.43,us,us7000h1h4,2022-04-12T14:23:36.040Z,"11 km SSW of Batán, Costa Rica",earthquake,3.1,7.1,0.516,1,reviewed,us,us
