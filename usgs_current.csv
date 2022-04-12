@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T14:32:30.237Z,22.8587,121.0039,12.06,4.5,mb,,184,0.081,0.71,us,us7000h19x,2022-04-11T15:22:52.040Z,"62 km ESE of Yujing, Taiwan",earthquake,8.5,5.5,0.118,21,reviewed,us,us
 2022-04-11T14:19:42.270Z,38.8349991,-122.807663,2.22,0.85,md,9,107,0.01174,0.02,nc,nc73716921,2022-04-11T15:18:15.195Z,"8km W of Cobb, CA",earthquake,0.47,0.96,,1,automatic,nc,nc
 2022-04-11T13:58:45.360Z,38.8066673,-122.8136673,3.32,0.49,md,16,60,0.01232,0.02,nc,nc73716916,2022-04-11T14:52:15.061Z,"6km WNW of The Geysers, CA",earthquake,0.33,0.69,0.35,2,automatic,nc,nc
-2022-04-11T13:54:23.300Z,38.8345,-122.8081667,2.41,0.28,md,14,101,0.01119,0.02,nc,nc73716911,2022-04-12T00:17:23.508Z,"8km W of Cobb, CA",earthquake,0.4,0.58,0.297,2,reviewed,nc,nc
