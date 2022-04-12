@@ -10819,3 +10819,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T19:33:02.590Z,42.4605,-120.34333333333332,3.57,1.2,ml,4.0,121.0,0.2349,0.15,uw,uw61831016,2022-04-12T21:52:07.730Z,"30 km N of Lakeview, Oregon",earthquake,0.6,3.09,0.2045672080867937,2.0,reviewed,uw,uw
 2022-04-12T12:11:18.760Z,31.64505754,-104.4737479,7.288427734,2.1,ml,8.0,109.0,0.0329691238,0.2,tx,tx2022hdly,2022-04-12T21:54:18.149Z,"59 km S of Whites City, New Mexico",earthquake,2.804096465,2.653508667,0.1,7.0,reviewed,tx,tx
 2022-04-12T06:46:58.900Z,48.30583333333333,-121.8705,7.85,1.32,ml,10.0,136.0,0.117,0.11,uw,uw61830906,2022-04-12T21:54:58.590Z,"5 km NE of Oso, Washington",earthquake,0.38,0.81,0.0816895175072704,3.0,reviewed,uw,uw
+2022-04-12T05:39:04.889Z,37.1709,-117.368,8.7,1.1,ml,8.0,106.2,0.175,0.1918,nn,nn00837090,2022-04-12T21:59:28.543Z,"60 km S of Goldfield, Nevada",earthquake,,1.9,0.7,4.0,reviewed,nn,nn
