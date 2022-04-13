@@ -10953,3 +10953,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T08:16:15.200Z,38.8363342,-122.8066635,1.87,0.85,md,11.0,104.0,0.01291,0.01,nc,nc73717781,2022-04-13T08:17:49.364Z,"7km WNW of Cobb, CA",earthquake,0.36,0.91,,1.0,automatic,nc,nc
 2022-04-13T08:15:34.260Z,38.7868347,-122.7411652,1.64,0.37,md,8.0,181.0,0.004995,0.01,nc,nc73717776,2022-04-13T08:17:09.212Z,"2km NE of The Geysers, CA",earthquake,0.55,1.03,,1.0,automatic,nc,nc
 2022-04-13T08:00:32.840Z,18.9446666666667,-67.922,41.23,3.23,md,12.0,232.0,,0.4,pr,pr71344428,2022-04-13T08:21:23.770Z,"64 km NE of Punta Cana, Dominican Republic",earthquake,3.77,8.42,0.0420253237006984,3.0,reviewed,pr,pr
+2022-04-13T08:47:22.000Z,38.8339996,-122.7978363,2.16,0.98,md,14.0,61.0,0.01427,0.02,nc,nc73717801,2022-04-13T08:48:58.546Z,"7km WNW of Cobb, CA",earthquake,0.3,0.69,0.19,3.0,automatic,nc,nc
+2022-04-13T08:42:29.571Z,39.0898,-119.0141,7.2,1.0,ml,8.0,134.89,0.455,0.1477,nn,nn00837108,2022-04-13T08:46:48.720Z,"17 km NE of Yerington, Nevada",earthquake,,303.1,0.2,4.0,automatic,nn,nn
+2022-04-13T08:41:32.647Z,59.5782,-152.655,82.9,1.0,ml,,,,0.21,ak,ak0224qhd2kw,2022-04-13T08:47:08.191Z,"48 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-13T08:35:28.394Z,65.0632,-152.2474,0.0,1.9,ml,,,,0.76,ak,ak0224qhbrz7,2022-04-13T08:46:53.319Z,"14 km SSW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
