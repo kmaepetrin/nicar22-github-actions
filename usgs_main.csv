@@ -11111,3 +11111,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T20:44:29.157Z,35.9654,-115.0465,12.6,1.8,ml,9.0,242.97,0.547,0.4909,nn,nn00837135,2022-04-13T20:49:33.357Z,"10 km SW of Henderson, Nevada",earthquake,,2.2,0.37,5.0,automatic,nn,nn
 2022-04-13T20:19:22.069Z,26.8345,126.4812,10.0,4.8,mb,,44.0,1.6,1.0,us,us7000h1yk,2022-04-13T20:48:34.040Z,"Ryukyu Islands, Japan",earthquake,6.9,1.8,0.07,63.0,reviewed,us,us
 2022-04-13T01:23:29.674Z,31.61311084,-104.1097659,8.933740234,1.9,ml,10.0,74.0,0.09164234439,0.2,tx,tx2022hemb,2022-04-13T20:51:03.895Z,"44 km NW of Toyah, Texas",earthquake,0.9834388874,1.600242757,0.3,7.0,reviewed,tx,tx
+2022-04-13T21:00:49.937Z,63.1813,-148.639,55.8,2.1,ml,,,,0.58,ak,ak0224qouyec,2022-04-13T21:03:26.193Z,"28 km SSE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-13T17:14:58.046Z,36.8084,-115.5509,0.0,1.0,ml,11.0,297.68,0.314,0.1837,nn,nn00837136,2022-04-13T20:59:53.764Z,"28 km NNE of Indian Springs, Nevada",earthquake,,0.0,0.24,4.0,reviewed,nn,nn
