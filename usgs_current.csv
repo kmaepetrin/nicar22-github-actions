@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T04:27:52.560Z,17.9841666666667,-66.7231666666667,11.01,2.01,md,11,171,,0.11,pr,pr71344418,2022-04-13T04:39:45.330Z,"1 km SSW of Tallaboa, Puerto Rico",earthquake,0.46,0.54,0.194347304912411,5,reviewed,pr,pr
 2022-04-13T04:16:25.470Z,38.8361664,-122.8108368,1.94,0.97,md,18,55,0.01277,0.01,nc,nc73717701,2022-04-13T04:34:12.605Z,"8km WNW of Cobb, CA",earthquake,0.22,0.6,0.21,3,automatic,nc,nc
 2022-04-13T04:04:21.898Z,61.1582,-149.8662,19.2,2,ml,,,,0.72,ak,ak0224qerdw6,2022-04-13T04:33:37.781Z,"6 km SSE of Anchorage, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-13T04:00:27.690Z,38.8224983,-122.800499,2.81,2.09,md,35,30,0.007533,0.05,nc,nc73717696,2022-04-13T04:21:15.515Z,"6km NW of The Geysers, CA",earthquake,0.21,0.36,0.08,9,automatic,nc,nc
+2022-04-13T04:00:27.690Z,38.8224983,-122.800499,2.81,2.09,md,35,30,0.007533,0.05,nc,nc73717696,2022-04-13T04:58:11.756Z,"6km NW of The Geysers, CA",earthquake,0.21,0.36,0.08,9,automatic,nc,nc
 2022-04-13T03:58:18.744Z,60.1774,-153.2211,39.7,0.9,ml,,,,0.67,ak,ak0224qehinm,2022-04-13T04:00:12.510Z,"60 km E of Port Alsworth, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-04-13T03:54:53.710Z,17.947,-66.9413333333333,14.67,2.04,md,8,210,,0.06,pr,pr71344408,2022-04-13T04:04:07.970Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.61,0.37,0.022407891254854,6,reviewed,pr,pr
 2022-04-13T03:51:02.790Z,19.2205009460449,-155.426666259766,33.1300010681152,1.77999997,md,30,146,,0.129999995,hv,hv72982297,2022-04-13T03:54:20.460Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.64,0.779999971,0.980000019,7,automatic,hv,hv
@@ -257,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T05:16:56.662Z,63.2974,-147.3394,30.3,1.7,ml,,,,0.99,ak,ak0224orw482,2022-04-12T05:18:56.264Z,"81 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-12T05:14:26.220Z,34.0848333,-117.9661667,12.07,0.87,ml,20,70,0.02275,0.11,ci,ci39990631,2022-04-12T14:26:22.782Z,"0km W of Baldwin Park, CA",earthquake,0.21,0.46,0.066,4,reviewed,ci,ci
 2022-04-12T05:14:16.220Z,46.6795,-121.7025,2.33,0.55,ml,14,189,0.1024,0.16,uw,uw61830891,2022-04-12T22:47:48.720Z,"8 km NNW of Packwood, Washington",earthquake,0.52,2.36,0.06950570902551728,5,reviewed,uw,uw
-2022-04-12T04:58:00.090Z,17.9743333333333,-67.009,8.93,2.55,md,6,173,,0.08,pr,pr71344298,2022-04-12T05:26:56.350Z,"3 km E of La Parguera, Puerto Rico",earthquake,0.56,0.84,0.100393964460891,3,reviewed,pr,pr
-2022-04-12T04:56:16.630Z,31.63563024,-104.3714153,7.288427734,2.4,ml,13,90,0.0977092288,0.3,tx,tx2022hcxp,2022-04-12T15:44:05.228Z,"59 km S of Whites City, New Mexico",earthquake,2.310135983,1.614549103,0.1,6,reviewed,tx,tx
-2022-04-12T04:55:28.078Z,0.0761,123.5833,136.87,4.3,mb,,61,1.375,0.53,us,us7000h1ey,2022-04-13T01:02:06.040Z,"77 km SE of Gorontalo, Indonesia",earthquake,5.8,8.5,0.119,20,reviewed,us,us
