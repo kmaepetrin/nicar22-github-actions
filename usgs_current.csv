@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-13T19:30:04.469Z,64.7591,-147.5879,17.6,1,ml,,,,0.4,ak,ak0224qnuf6m,2022-04-13T19:31:33.763Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-13T19:30:04.508Z,64.7574,-147.5858,17.2,1.1,ml,,,,0.4,ak,ak0224qnuf6m,2022-04-13T19:38:33.175Z,"5 km SSW of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-13T19:24:57.060Z,36.0763333,-117.4678333,-0.2,1.38,ml,16,167,0.1774,0.14,ci,ci39991663,2022-04-13T19:28:25.703Z,"35km N of Searles Valley, CA",earthquake,0.64,31.61,0.099,15,automatic,ci,ci
+2022-04-13T19:13:01.444Z,-27.7555,63.9313,10,5.3,mb,,72,7.98,1.01,us,us7000h1xi,2022-04-13T19:32:23.040Z,"Southwest Indian Ridge",earthquake,8.2,1.8,0.054,117,reviewed,us,us
 2022-04-13T19:06:12.965Z,63.6828,-149.3627,8.1,1.1,ml,,,,0.68,ak,ak0224qnpank,2022-04-13T19:09:03.784Z,"22 km WSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-13T18:52:26.430Z,34.1125,-118.3315,6.5,1.63,ml,43,37,0.02654,0.27,ci,ci39991647,2022-04-13T19:03:08.440Z,"2km NNW of Hollywood, CA",earthquake,0.35,0.71,0.145,29,automatic,ci,ci
 2022-04-13T18:50:46.840Z,17.9621666666667,-66.8896666666667,15.02,1.97,md,7,204,,0.08,pr,pr71344488,2022-04-13T19:15:04.770Z,"1 km S of Maria Antonia, Puerto Rico",earthquake,0.76,0.42,0.237352960477655,5,reviewed,pr,pr
@@ -252,9 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T20:01:32.367Z,63.244,-151.0765,1.1,1.6,ml,,,,0.56,ak,ak0224p0qcol,2022-04-12T20:15:22.473Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-12T19:52:03.040Z,35.0465,-118.3281667,-0.84,1.51,ml,6,203,0.05684,0.07,ci,ci39990871,2022-04-12T20:44:32.844Z,"14km W of Mojave, CA",quarry blast,0.61,31.61,0.21,3,reviewed,ci,ci
 2022-04-12T19:44:55.940Z,33.5855,-116.7991667,7.5,0.55,ml,16,118,0.03039,0.15,ci,ci39990855,2022-04-12T20:42:35.320Z,"12km WNW of Anza, CA",earthquake,0.4,0.57,0.125,7,reviewed,ci,ci
-2022-04-12T19:39:06.780Z,48.299166666666665,-121.69283333333334,-0.5,1.1,ml,8,108,0.1833,0.15,uw,uw61831026,2022-04-12T23:14:01.660Z,"3 km ENE of Swede Heaven, Washington",explosion,0.63,31.61,0.05960036553484771,3,reviewed,uw,uw
-2022-04-12T19:36:59.367Z,62.796,-150.5149,77.5,1.3,ml,,,,0.46,ak,ak0224p0ch7b,2022-04-12T19:46:56.457Z,"35 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-12T19:36:00.690Z,19.4703333333333,-155.5935,9.61,0.87,md,14,83,,0.12,hv,hv72000383,2022-04-13T04:09:51.030Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.55,0.85,0.161140661024356,5,reviewed,hv,hv
-2022-04-12T19:33:16.399Z,61.8485,-147.0743,9.6,1.9,ml,,,,0.64,ak,ak0224p0bqv0,2022-04-12T19:36:43.088Z,"11 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-12T19:33:02.590Z,42.4605,-120.34333333333333,3.57,1.2,ml,4,121,0.2349,0.15,uw,uw61831016,2022-04-12T21:52:07.730Z,"30 km N of Lakeview, Oregon",earthquake,0.6,3.09,0.20456720808679374,2,reviewed,uw,uw
-2022-04-12T19:32:57.850Z,37.415,-118.5993333,9.93,1.23,md,20,61,0.06809,0.04,nc,nc73717531,2022-04-12T21:29:17.093Z,"0km WNW of Round Valley, CA",earthquake,0.28,0.92,0.199,15,reviewed,nc,nc
