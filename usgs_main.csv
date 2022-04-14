@@ -11385,3 +11385,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T17:33:40.502Z,63.7192,-145.2329,13.1,0.5,ml,,,,0.77,ak,ak0224sa7men,2022-04-14T18:19:41.994Z,"17 km S of Deltana, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-04-14T16:08:22.580Z,34.3283333,-119.0963333,11.11,1.73,ml,13.0,103.0,0.07899,0.21,ci,ci40236192,2022-04-14T18:13:23.073Z,"4km SW of Santa Paula, CA",earthquake,0.59,0.71,0.348,4.0,reviewed,ci,ci
 2022-04-13T21:26:20.924Z,31.66323809,-104.366273,8.728076172,2.6,ml,10.0,61.0,0.08683006633,0.3,tx,tx2022hfzr,2022-04-14T18:18:05.867Z,"56 km S of Whites City, New Mexico",earthquake,1.78173477,1.674993084,0.1,6.0,reviewed,tx,tx
+2022-04-14T02:44:33.160Z,59.359,-153.456,-0.12,-0.21,ml,5.0,231.0,,0.06,av,av91537406,2022-04-14T18:40:48.910Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.5,0.12,0.119983107949158,5.0,reviewed,av,av
