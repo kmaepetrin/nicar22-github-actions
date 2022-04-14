@@ -11232,3 +11232,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T05:36:45.099Z,63.4964,-150.8348,14.7,1.1,ml,,,,0.96,ak,ak0224s332my,2022-04-14T05:39:41.437Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:45:21.680Z,38.7811661,-122.7646637,0.86,0.86,md,8.0,100.0,0.01046,0.01,nc,nc73718151,2022-04-14T05:46:54.579Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.97,,1.0,automatic,nc,nc
 2022-04-14T05:42:41.400Z,64.7381,-147.3384,0.0,0.6,ml,,,,0.87,ak,ak0224s34cok,2022-04-14T05:47:18.214Z,"1 km SSE of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-14T06:10:41.000Z,33.9099998,-117.6693344,12.49,1.1,ml,15.0,132.0,0.01196,0.11,ci,ci39991999,2022-04-14T06:12:59.434Z,"10km WNW of Corona, CA",earthquake,0.72,0.56,0.354,14.0,automatic,ci,ci
