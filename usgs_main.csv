@@ -11684,3 +11684,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T17:34:13.507Z,64.3022,-154.2463,4.2,2.0,ml,,,,0.42,ak,ak0224txr4jo,2022-04-15T17:38:49.764Z,"76 km SE of Ruby, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-15T17:32:30.220Z,37.5673332,-118.4978333,5.97,1.48,md,16.0,118.0,0.04738,0.06,nc,nc73717940,2022-04-15T17:37:36.739Z,"16km E of Toms Place, CA",earthquake,0.73,1.57,0.25,12.0,automatic,nc,nc
 2022-04-15T17:30:58.120Z,38.8170013,-122.8188324,2.55,0.85,md,7.0,117.0,0.009358,0.01,nc,nc73717935,2022-04-15T17:36:32.826Z,"7km NW of The Geysers, CA",earthquake,0.64,1.35,,1.0,automatic,nc,nc
+2022-04-15T05:57:59.360Z,33.6556667,-116.7093333,14.85,-0.01,ml,13.0,73.0,0.03244,0.11,ci,ci37495773,2022-04-15T17:47:39.821Z,"9km S of Idyllwild, CA",earthquake,0.36,0.58,0.113,3.0,reviewed,ci,ci
+2022-04-15T01:55:20.440Z,44.4455,-115.2006667,6.06,2.12,ml,10.0,82.0,0.835,0.18,mb,mb80543054,2022-04-15T17:47:45.800Z,"32 km NW of Stanley, Idaho",earthquake,0.58,1.14,0.197,12.0,reviewed,mb,mb
