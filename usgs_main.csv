@@ -11776,3 +11776,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T22:33:57.771Z,30.1177,137.3457,505.42,4.5,mb,,48.0,3.655,0.77,us,us7000h2l1,2022-04-15T22:59:19.040Z,"Izu Islands, Japan region",earthquake,9.8,6.5,0.028,387.0,reviewed,us,us
 2022-04-15T20:59:18.410Z,34.4136667,-119.3336667,13.17,1.1,ml,12.0,138.0,0.04546,0.18,ci,ci40237664,2022-04-15T23:11:51.614Z,"9km WSW of Ojai, CA",earthquake,1.23,1.35,0.176,3.0,reviewed,ci,ci
 2022-04-15T15:33:59.690Z,36.6993333,-122.0013333,12.72,1.65,md,16.0,257.0,0.1201,0.14,nc,nc73717900,2022-04-15T23:07:47.967Z,"12km NW of Pacific Grove, CA",earthquake,0.72,0.91,0.174,12.0,reviewed,nc,nc
+2022-04-15T12:43:42.356Z,31.64877959,-104.4673262,9.756396484,2.2,ml,7.0,89.0,0.1118557806,0.2,tx,tx2022hizn,2022-04-15T23:18:28.035Z,"59 km S of Whites City, New Mexico",earthquake,2.122069725,2.839300944,0.2,5.0,reviewed,tx,tx
+2022-04-15T03:24:28.745Z,66.3012,-157.2544,5.0,3.2,ml,,70.0,0.172,0.72,us,us7000h2en,2022-04-15T23:23:22.040Z,"65 km S of Shungnak, Alaska",earthquake,3.6,2.0,0.115,10.0,reviewed,us,us
