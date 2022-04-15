@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-15T11:36:28.125Z,63.8759,-150.4209,5.9,3.3,ml,,,,0.88,ak,ak0224tu6zgj,2022-04-15T11:40:40.619Z,"65 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-15T11:00:36.183Z,63.1117,-150.701,107.3,1.4,ml,,,,0.26,ak,ak0224ttzaaq,2022-04-15T11:03:56.058Z,"68 km N of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-15T10:49:53.050Z,38.8338318,-122.8093338,2.13,0.98,md,17,55,0.01044,0.04,nc,nc73717805,2022-04-15T11:16:17.049Z,"8km W of Cobb, CA",earthquake,0.26,0.6,0.27,2,automatic,nc,nc
 2022-04-15T10:47:59.700Z,38.8180008,-122.8225021,2.95,0.5,md,13,54,0.0111,0.01,nc,nc73717800,2022-04-15T11:05:26.992Z,"7km NW of The Geysers, CA",earthquake,0.27,0.83,0.36,2,automatic,nc,nc
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T11:51:00.150Z,19.1760005950928,-155.507339477539,35.7000007629395,2.25999999,md,44,103,,0.129999995,hv,hv72983547,2022-04-14T11:54:19.330Z,"4 km SW of Pāhala, Hawaii",earthquake,0.65,0.850000024,1.27999997,20,automatic,hv,hv
 2022-04-14T11:48:06.820Z,35.6171667,-117.4695,9.13,1.4,ml,29,54,0.03117,0.14,ci,ci39992167,2022-04-14T15:41:29.210Z,"18km SSW of Searles Valley, CA",earthquake,0.2,0.46,0.229,13,reviewed,ci,ci
 2022-04-14T11:43:05.370Z,38.8165,-122.8218333,2.97,1.41,md,36,49,0.00954,0.04,nc,nc73718251,2022-04-15T03:12:21.913Z,"7km NW of The Geysers, CA",earthquake,0.18,0.3,0.028,9,reviewed,nc,nc
-2022-04-14T11:40:41.300Z,34.0081667,-116.448,8.14,0.73,ml,24,89,0.0748,0.08,ci,ci39992159,2022-04-14T15:34:27.790Z,"7km NE of Desert Hot Springs, CA",earthquake,0.15,0.34,0.118,5,reviewed,ci,ci
