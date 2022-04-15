@@ -11786,3 +11786,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T23:42:08.630Z,34.8471667,-118.8983333,8.93,1.51,ml,19.0,65.0,0.04679,0.21,ci,ci40237832,2022-04-15T23:46:02.824Z,"3km WNW of Lebec, CA",earthquake,0.48,0.71,0.325,33.0,automatic,ci,ci
 2022-04-15T23:40:59.702Z,64.9005,-149.3525,15.4,1.2,ml,,,,1.01,ak,ak0224u1d40d,2022-04-15T23:44:42.360Z,"27 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-15T23:30:22.180Z,17.925,-66.9545,9.65,2.09,md,8.0,231.0,,0.07,pr,pr71344728,2022-04-15T23:45:27.930Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.54,0.69,0.0385369309031054,3.0,reviewed,pr,pr
+2022-04-15T13:39:05.503Z,39.9923,-120.0361,7.8,0.6,ml,5.0,169.26,0.169,0.0851,nn,nn00837284,2022-04-15T23:53:09.887Z,"7 km SE of Doyle, California",earthquake,,4.9,0.17,4.0,reviewed,nn,nn
