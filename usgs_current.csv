@@ -270,7 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T13:55:35.480Z,17.965,-66.9548333333333,6.93,1.75,md,4,192,,0.05,pr,pr71344663,2022-04-15T14:57:19.880Z,"4 km WSW of Fuig, Puerto Rico",earthquake,1.35,31.61,0.0843959841504613,3,reviewed,pr,pr
 2022-04-15T13:54:34.520Z,38.8166667,-122.7603333,1.53,0.99,md,44,75,0.01481,0.05,nc,nc73717840,2022-04-15T21:33:54.816Z,"3km W of Cobb, CA",earthquake,0.15,0.21,0.202,8,reviewed,nc,nc
 2022-04-15T13:46:05.090Z,62.7328,-149.5205,63,1.4,ml,,,,0.42,ak,ak0224tvfy1p,2022-04-15T14:06:20.094Z,"43 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-04-15T13:39:05.503Z,39.9923,-120.0361,7.8,0.6,ml,5,169.26,0.169,0.0851,nn,nn00837284,2022-04-16T02:38:44.855Z,"7 km SE of Doyle, California",earthquake,,4.9,0.17,4,reviewed,nn,nn
-2022-04-15T13:37:07.520Z,36.7869,-115.934,11,0.2,ml,19,196.64,0.014,0.171,nn,nn00837248,2022-04-15T18:28:18.009Z,"33 km NW of Indian Springs, Nevada",earthquake,,1.1,0.3,11,reviewed,nn,nn
-2022-04-15T13:35:09.625Z,61.8391,-149.6286,39.2,1,ml,,,,0.73,ak,ak0224tvdliq,2022-04-15T16:26:18.383Z,"23 km WNW of Fishhook, Alaska",earthquake,,1.1,,,reviewed,ak,ak
-2022-04-15T13:35:00.591Z,62.7334,-151.7938,5.8,0.8,ml,,,,1.05,ak,ak0224tvdhbq,2022-04-15T16:26:11.401Z,"59 km WNW of Petersville, Alaska",earthquake,,2.9,,,reviewed,ak,ak
