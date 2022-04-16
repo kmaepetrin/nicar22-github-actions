@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-16T23:38:13.248Z,62.3197,-151.426,89.1,2.1,ml,,,,0.5,ak,ak0224vovxip,2022-04-16T23:47:36.145Z,"36 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-16T23:38:13.248Z,62.3197,-151.426,89.1,2.1,ml,,,,0.5,ak,ak0224vovxip,2022-04-16T23:50:42.713Z,"36 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-16T23:35:01.506Z,36.61096573,-99.14864349,9.892828941,1.98,ml,14,188.6058807,0.1056468189,1.32169028,ok,ok2022hlqn,2022-04-16T23:39:13.866Z,"17 km S of Freedom, Oklahoma",earthquake,5.367640038,3.677225316,,9,automatic,ok,ok
 2022-04-16T23:25:15.350Z,38.8068352,-122.8235016,2.12,1.4,md,32,55,0.004877,0.03,nc,nc73718580,2022-04-16T23:47:38.456Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.3,0.06,7,automatic,nc,nc
 2022-04-16T23:15:49.750Z,38.7981682,-122.7588348,5.44,0.36,md,4,157,0.002547,0.01,nc,nc73718575,2022-04-16T23:34:57.377Z,"2km N of The Geysers, CA",earthquake,1.25,6.66,,1,automatic,nc,nc
@@ -226,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T23:58:25.397Z,38.141,-118.0425,2.7,0.8,ml,11,150.85,0.065,0.1463,nn,nn00837286,2022-04-16T02:38:50.189Z,"28 km SSE of Mina, Nevada",earthquake,,2,0.25,4,reviewed,nn,nn
 2022-04-15T23:56:25.690Z,37.0263333,-121.487,5.81,0.91,md,15,85,0.002199,0.07,nc,nc73718080,2022-04-16T06:30:05.102Z,"8km ENE of Gilroy, CA",earthquake,0.29,0.46,0.177,13,reviewed,nc,nc
 2022-04-15T23:56:00.570Z,32.669,-115.8305,5.95,1.73,ml,21,129,0.08032,0.22,ci,ci40237840,2022-04-16T00:06:54.300Z,"17km ESE of Ocotillo, CA",earthquake,0.5,1.27,0.174,28,automatic,ci,ci
-2022-04-15T23:55:08.550Z,38.0036667,-122.233,6.51,1.05,md,14,142,0.02015,0.05,nc,nc73718075,2022-04-16T07:11:37.376Z,"4km SE of Rodeo, CA",earthquake,0.27,0.39,0.171,10,reviewed,nc,nc
-2022-04-15T23:54:13.900Z,38.8355,-122.7955,2.3,1.08,md,40,46,0.004965,0.03,nc,nc73718070,2022-04-16T07:10:55.371Z,"6km WNW of Cobb, CA",earthquake,0.14,0.25,0.291,8,reviewed,nc,nc
-2022-04-15T23:53:35.410Z,38.8345,-122.7866667,1.78,0.55,md,21,65,0.004846,0.04,nc,nc73718065,2022-04-16T04:03:57.239Z,"6km WNW of Cobb, CA",earthquake,0.22,0.5,,1,reviewed,nc,nc
