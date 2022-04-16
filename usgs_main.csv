@@ -12010,3 +12010,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T19:58:04.130Z,38.8364983,-122.800499,2.27,1.03,md,12.0,64.0,0.008157,0.02,nc,nc73718505,2022-04-16T20:04:41.989Z,"7km WNW of Cobb, CA",earthquake,0.33,1.26,,1.0,automatic,nc,nc
 2022-04-16T19:57:52.030Z,32.668,-115.8253333,8.77,1.98,ml,25.0,87.0,0.08428,0.25,ci,ci40238424,2022-04-16T20:08:47.450Z,"17km ESE of Ocotillo, CA",earthquake,0.52,1.0,0.206,27.0,automatic,ci,ci
 2022-04-16T19:55:52.295Z,37.1501,-117.8813,5.5,1.7,ml,8.0,129.8,0.294,0.1753,nn,nn00837310,2022-04-16T20:01:54.338Z,"36 km E of Big Pine, California",earthquake,,8.2,0.91,5.0,automatic,nn,nn
+2022-04-16T17:23:20.060Z,55.9994,-155.8414,35.0,3.3,ml,,190.0,1.709,0.65,us,us7000h2q7,2022-04-16T20:20:22.040Z,"147 km SW of Akhiok, Alaska",earthquake,4.8,2.0,0.062,34.0,reviewed,us,us
