@@ -11885,3 +11885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T07:23:52.230Z,19.2386665344238,-155.398162841797,31.4899997711182,2.27,ml,47.0,138.0,,0.119999997,hv,hv72986452,2022-04-16T07:29:23.650Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.49,0.670000017,4.44,7.0,automatic,hv,hv
 2022-04-16T07:48:34.960Z,34.2586667,-118.3855,10.44,2.01,ml,52.0,25.0,0.0431,0.24,ci,ci40238056,2022-04-16T07:52:25.935Z,"3km SW of Lake View Terrace, CA",earthquake,0.25,0.58,0.24,25.0,automatic,ci,ci
 2022-04-16T05:03:12.574Z,31.6701,-104.6178,5.0,2.5,ml,,73.0,0.099,0.44,us,us7000h2mp,2022-04-16T07:51:43.040Z,"60 km SSW of Whites City, New Mexico",earthquake,1.7,2.0,0.079,38.0,reviewed,us,us
+2022-04-16T07:53:53.786Z,61.5461,-146.6172,54.1,1.2,ml,,,,0.33,ak,ak0224vfgaoi,2022-04-16T07:58:23.517Z,"48 km NNW of Valdez, Alaska",earthquake,,1.2,,,automatic,ak,ak
