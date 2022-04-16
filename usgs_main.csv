@@ -11956,3 +11956,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T05:58:12.110Z,46.8988333,-112.5168333,11.06,0.67,ml,11.0,123.0,0.057,0.12,mb,mb80543159,2022-04-16T15:03:45.750Z,"14 km ESE of Lincoln, Montana",earthquake,0.43,0.62,0.066,3.0,reviewed,mb,mb
 2022-04-16T15:27:53.970Z,35.7350006,-117.5731659,7.66,1.2,ml,20.0,146.0,0.08296,0.12,ci,ci40238272,2022-04-16T15:30:04.949Z,"16km WSW of Searles Valley, CA",earthquake,0.37,1.24,0.286,5.0,automatic,ci,ci
 2022-04-16T15:10:06.430Z,19.2290000915527,-155.395004272461,32.3899993896484,2.0,md,40.0,144.0,,0.109999999,hv,hv72986962,2022-04-16T15:13:15.930Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.99000001,1.38999999,10.0,automatic,hv,hv
+2022-04-16T15:37:19.232Z,62.9888,-150.3726,109.4,1.3,ml,,,,1.17,ak,ak0224vk49eb,2022-04-16T15:40:18.677Z,"58 km NNE of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-04-16T15:33:38.680Z,38.7985001,-122.7505035,1.44,0.46,md,9.0,98.0,0.007502,0.03,nc,nc73718380,2022-04-16T15:40:16.639Z,"2km NNE of The Geysers, CA",earthquake,0.29,1.1,0.41,2.0,automatic,nc,nc
