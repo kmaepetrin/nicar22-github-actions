@@ -12247,3 +12247,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T19:59:31.160Z,38.7809982,-122.7665024,1.48,0.36,md,7.0,109.0,0.01028,0.02,nc,nc73719030,2022-04-17T20:06:09.367Z,"1km WNW of The Geysers, CA",earthquake,0.54,1.08,,1.0,automatic,nc,nc
 2022-04-17T19:58:19.290Z,33.6863333,-116.7861667,17.1,0.52,ml,21.0,80.0,0.06493,0.13,ci,ci40239160,2022-04-17T20:01:51.343Z,"9km SW of Idyllwild, CA",earthquake,0.3,0.55,0.137,14.0,automatic,ci,ci
 2022-04-17T19:25:37.110Z,28.8826,-98.2153,5.0,2.8,mb_lg,,74.0,0.296,0.94,us,us7000h2xw,2022-04-17T20:05:25.040Z,"22 km WSW of Falls City, Texas",earthquake,5.6,2.0,0.208,38.0,reviewed,us,us
+2022-04-17T20:28:15.470Z,19.2054996490479,-155.462493896484,30.7000007629395,2.44000006,md,40.0,104.0,,0.150000006,hv,hv72987937,2022-04-17T20:31:31.920Z,"1 km E of Pāhala, Hawaii",earthquake,0.5,0.75999999,1.11000001,20.0,automatic,hv,hv
+2022-04-17T20:24:02.056Z,61.5801,-148.0426,13.3,1.1,ml,,,,1.11,ak,ak0224xajya5,2022-04-17T20:31:23.176Z,"32 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-17T19:31:51.933Z,16.6163,-95.0704,35.0,4.5,mb,,169.0,2.834,0.75,us,us7000h2y1,2022-04-17T20:29:38.761Z,"7 km NNE of Ixtepec, Mexico",earthquake,8.5,2.0,0.037,221.0,reviewed,us,us
