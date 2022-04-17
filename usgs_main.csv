@@ -12250,3 +12250,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T20:28:15.470Z,19.2054996490479,-155.462493896484,30.7000007629395,2.44000006,md,40.0,104.0,,0.150000006,hv,hv72987937,2022-04-17T20:31:31.920Z,"1 km E of Pāhala, Hawaii",earthquake,0.5,0.75999999,1.11000001,20.0,automatic,hv,hv
 2022-04-17T20:24:02.056Z,61.5801,-148.0426,13.3,1.1,ml,,,,1.11,ak,ak0224xajya5,2022-04-17T20:31:23.176Z,"32 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-17T19:31:51.933Z,16.6163,-95.0704,35.0,4.5,mb,,169.0,2.834,0.75,us,us7000h2y1,2022-04-17T20:29:38.761Z,"7 km NNE of Ixtepec, Mexico",earthquake,8.5,2.0,0.037,221.0,reviewed,us,us
+2022-04-17T20:31:35.714Z,63.2251,-150.682,129.9,1.9,ml,,,,0.35,ak,ak0224xalivq,2022-04-17T20:41:32.467Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-17T20:27:42.100Z,19.2355003356934,-155.411834716797,29.0499992370605,2.12,ml,11.0,244.0,,0.119999997,hv,hv72987932,2022-04-17T20:33:13.650Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.77,0.720000029,4.23,11.0,automatic,hv,hv
+2022-04-17T19:50:44.363Z,37.7504,141.72,55.4,4.5,mb,,136.0,3.053,1.03,us,us7000h2y6,2022-04-17T20:36:03.040Z,"70 km ENE of Namie, Japan",earthquake,9.2,8.4,0.115,22.0,reviewed,us,us
