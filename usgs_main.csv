@@ -12130,3 +12130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T08:51:54.180Z,33.7181664,-116.026001,5.26,0.95,ml,25.0,116.0,0.07979,0.16,ci,ci40238800,2022-04-17T08:53:59.462Z,"14km NE of Thermal, CA",earthquake,0.4,0.84,0.167,4.0,automatic,ci,ci
 2022-04-17T08:49:58.660Z,33.502,-116.5148333,9.96,0.42,ml,18.0,87.0,0.05698,0.14,ci,ci40238792,2022-04-17T08:53:36.605Z,"16km ESE of Anza, CA",earthquake,0.26,0.6,0.117,10.0,automatic,ci,ci
 2022-04-17T08:48:54.510Z,38.8250008,-122.8113327,1.23,1.41,md,26.0,38.0,0.001881,0.03,nc,nc73718745,2022-04-17T08:54:50.920Z,"7km NW of The Geysers, CA",earthquake,0.17,0.31,0.02,5.0,automatic,nc,nc
+2022-04-17T09:03:04.150Z,38.8279991,-122.8096695,2.13,0.85,md,12.0,63.0,0.004608,0.02,nc,nc73718755,2022-04-17T09:08:41.200Z,"7km NW of The Geysers, CA",earthquake,0.28,0.58,,1.0,automatic,nc,nc
+2022-04-17T08:57:19.490Z,38.8271675,-122.8550034,2.2,0.37,md,9.0,97.0,0.01665,0.02,nc,nc73718750,2022-04-17T09:03:56.913Z,"10km WNW of The Geysers, CA",earthquake,0.32,1.17,,1.0,automatic,nc,nc
+2022-04-17T08:55:21.590Z,63.5574,-147.4882,0.0,1.1,ml,,,,0.82,ak,ak0224x3lfq2,2022-04-17T08:57:54.926Z,"73 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T08:18:18.038Z,2.1609,128.537,75.58,4.4,mb,,115.0,1.809,0.61,us,us7000h2ux,2022-04-17T09:01:22.040Z,"75 km NE of Tobelo, Indonesia",earthquake,6.9,8.5,0.117,26.0,reviewed,us,us
