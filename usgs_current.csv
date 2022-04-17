@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T20:59:49.730Z,32.6391667,-115.7243333,7.67,1.6,ml,21,131,0.01028,0.22,ci,ci40239184,2022-04-17T21:03:38.730Z,"15km WNW of Progreso, B.C., MX",earthquake,0.51,0.69,0.254,20,automatic,ci,ci
 2022-04-17T20:58:29.210Z,38.8291664,-122.8041687,1.87,0.33,md,14,53,0.007382,0.01,nc,nc73719040,2022-04-17T21:14:34.125Z,"7km W of Cobb, CA",earthquake,0.27,0.71,0.35,2,automatic,nc,nc
 2022-04-17T20:49:26.360Z,35.951,-117.6785,4.53,0.76,ml,10,137,0.02303,0.07,ci,ci40239176,2022-04-17T20:52:56.665Z,"21km E of Little Lake, CA",earthquake,0.25,0.47,0.137,9,automatic,ci,ci
+2022-04-17T20:47:47.150Z,17.9765,-66.9721666666667,8.3,2.21,md,9,175,,0.23,pr,pr71344913,2022-04-17T21:53:13.630Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.68,1.98,0.173345633595366,6,reviewed,pr,pr
 2022-04-17T20:46:48.506Z,59.8796,-153.2634,125.6,1.8,ml,,,,0.56,ak,ak0224xaormi,2022-04-17T20:58:51.618Z,"48 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-17T20:43:30.180Z,38.7931671,-122.7568359,1.51,0.42,md,10,84,0.007779,0.01,nc,nc73719035,2022-04-17T21:00:54.015Z,"2km N of The Geysers, CA",earthquake,0.37,1.27,0.08,2,automatic,nc,nc
 2022-04-17T20:42:28.060Z,33.321,-116.2121667,11.42,0.62,ml,13,94,0.0914,0.26,ci,ci40239168,2022-04-17T20:46:03.778Z,"17km ENE of Borrego Springs, CA",earthquake,0.69,1.38,0.253,9,automatic,ci,ci
@@ -242,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T22:06:06.580Z,35.9833333,-118.3405,3.05,2.02,ml,25,62,0.2214,0.18,ci,ci40238504,2022-04-16T22:09:45.355Z,"26km NNE of Kernville, CA",earthquake,0.27,1.51,0.172,27,automatic,ci,ci
 2022-04-16T21:57:37.802Z,-22.4135,170.6441,10,5.3,mww,,82,2.963,0.81,us,us7000h2rc,2022-04-16T22:24:47.040Z,"southeast of the Loyalty Islands",earthquake,5.8,1.8,0.075,17,reviewed,us,us
 2022-04-16T21:56:36.400Z,35.861,-117.6935,9.67,1.6,ml,20,75,0.09013,0.09,ci,ci40238496,2022-04-17T13:54:39.040Z,"21km ESE of Little Lake, CA",earthquake,0.2,0.48,0.161,24,reviewed,ci,ci
-2022-04-16T21:51:12.020Z,-29.3055,-176.58,10,4.9,mb,,129,1.171,0.86,us,us7000h2ra,2022-04-16T22:10:50.040Z,"Kermadec Islands region",earthquake,8.3,1.9,0.088,40,reviewed,us,us
