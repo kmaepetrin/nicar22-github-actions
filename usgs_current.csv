@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-17T23:30:30.323Z,65.0219,-147.0375,4.3,1.7,ml,,,,1.01,ak,ak0224xcdlko,2022-04-17T23:32:28.438Z,"16 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-17T23:25:21.040Z,33.5538333,-116.675,7.48,0.25,ml,21,64,0.05329,0.18,ci,ci40239296,2022-04-17T23:28:57.825Z,"0km SW of Anza, CA",earthquake,0.32,0.67,0.22,8,automatic,ci,ci
 2022-04-17T23:06:42.120Z,34.0441667,-117.2311667,3.4,1.28,ml,46,42,0.07758,0.22,ci,ci40239272,2022-04-17T23:10:23.727Z,"3km E of Loma Linda, CA",earthquake,0.28,0.74,0.176,26,automatic,ci,ci
-2022-04-17T22:59:29.000Z,40.3268318,-124.3533325,16.18,1.81,md,8,290,0.053,0.04,nc,nc73719100,2022-04-17T23:07:22.830Z,"6km W of Petrolia, CA",earthquake,2.45,1.3,0.17,4,automatic,nc,nc
+2022-04-17T22:59:29.000Z,40.3268318,-124.3533325,16.18,1.81,md,8,290,0.053,0.04,nc,nc73719100,2022-04-17T23:33:26.983Z,"6km W of Petrolia, CA",earthquake,2.45,1.3,0.17,4,automatic,nc,nc
 2022-04-17T22:46:19.470Z,33.6383333,-116.6668333,11.79,0.61,ml,25,72,0.05971,0.25,ci,ci40239264,2022-04-17T22:49:48.593Z,"9km N of Anza, CA",earthquake,0.47,0.68,0.167,18,automatic,ci,ci
 2022-04-17T22:43:38.931Z,63.5523,-150.663,0,1.2,ml,,,,0.43,ak,ak0224xbuyxt,2022-04-17T22:46:19.829Z,"52 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-17T22:37:37.310Z,38.8436661,-122.8161697,1.44,0.88,md,22,47,0.01233,0.03,nc,nc73719085,2022-04-17T22:57:54.768Z,"8km WNW of Cobb, CA",earthquake,0.2,0.42,0.02,3,automatic,nc,nc
@@ -14,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T21:04:46.750Z,38.8504982,-122.7853317,1.28,0.22,md,7,178,0.0102,0.02,nc,nc73719045,2022-04-17T21:26:54.178Z,"6km WNW of Cobb, CA",earthquake,0.51,0.75,0.15,2,automatic,nc,nc
 2022-04-17T21:00:27.608Z,39.1815,-118.8096,14,1.1,ml,12,81.73,0.388,0.1476,nn,nn00837339,2022-04-17T21:04:42.800Z,"25 km N of Schurz, Nevada",earthquake,,1,0.25,7,automatic,nn,nn
 2022-04-17T20:59:49.730Z,32.6391667,-115.7243333,7.67,1.6,ml,21,131,0.01028,0.22,ci,ci40239184,2022-04-17T21:03:38.730Z,"15km WNW of Progreso, B.C., MX",earthquake,0.51,0.69,0.254,20,automatic,ci,ci
-2022-04-17T20:58:29.210Z,38.8291664,-122.8041687,1.87,0.33,md,14,53,0.007382,0.01,nc,nc73719040,2022-04-17T21:14:34.125Z,"7km W of Cobb, CA",earthquake,0.27,0.71,0.35,2,automatic,nc,nc
+2022-04-17T20:58:29.210Z,38.8291664,-122.8041687,1.87,0.33,md,14,53,0.007382,0.01,nc,nc73719040,2022-04-17T23:24:53.941Z,"7km W of Cobb, CA",earthquake,0.27,0.71,0.35,2,automatic,nc,nc
 2022-04-17T20:49:26.360Z,35.951,-117.6785,4.53,0.76,ml,10,137,0.02303,0.07,ci,ci40239176,2022-04-17T20:52:56.665Z,"21km E of Little Lake, CA",earthquake,0.25,0.47,0.137,9,automatic,ci,ci
 2022-04-17T20:47:47.150Z,17.9765,-66.9721666666667,8.3,2.21,md,9,175,,0.23,pr,pr71344913,2022-04-17T21:53:13.630Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.68,1.98,0.173345633595366,6,reviewed,pr,pr
 2022-04-17T20:46:48.506Z,59.8796,-153.2634,125.6,1.8,ml,,,,0.56,ak,ak0224xaormi,2022-04-17T20:58:51.618Z,"48 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -245,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T23:44:08.215Z,-16.2055,167.9588,187.59,4.7,mb,,62,1.047,0.76,us,us7000h2rv,2022-04-17T00:07:03.040Z,"59 km ESE of Lakatoro, Vanuatu",earthquake,10.6,7.5,0.097,32,reviewed,us,us
 2022-04-16T23:38:13.248Z,62.3197,-151.426,89.1,2.1,ml,,,,0.5,ak,ak0224vovxip,2022-04-17T00:42:42.040Z,"36 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-16T23:35:01.506Z,36.61096573,-99.14864349,9.892828941,1.98,ml,14,188.6058807,0.1056468189,1.32169028,ok,ok2022hlqn,2022-04-16T23:39:13.866Z,"17 km S of Freedom, Oklahoma",earthquake,5.367640038,3.677225316,,9,automatic,ok,ok
-2022-04-16T23:32:02.607Z,-31.481,-69.4776,123.99,4.1,mb,,84,0.68,0.92,us,us7000h2rs,2022-04-16T23:56:01.040Z,"17 km SSW of Calingasta, Argentina",earthquake,5.5,4.5,0.234,5,reviewed,us,us
-2022-04-16T23:25:15.350Z,38.8068352,-122.8235016,2.12,1.4,md,32,55,0.004877,0.03,nc,nc73718580,2022-04-17T01:39:58.151Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.3,0.06,7,automatic,nc,nc
