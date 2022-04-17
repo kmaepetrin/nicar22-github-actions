@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-17T16:57:30.930Z,34.0598333,-117.2528333,13.85,0.98,ml,39,70,0.1214,0.3,ci,ci40239072,2022-04-17T17:01:02.457Z,"2km NNE of Loma Linda, CA",earthquake,0.44,1.14,0.112,30,automatic,ci,ci
+2022-04-17T16:48:12.835Z,63.3126,-151.0834,0,1.4,ml,,,,0.6,ak,ak0224x8bdvn,2022-04-17T16:58:41.913Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T16:31:07.832Z,61.2415,-149.7208,35.9,1.5,ml,,,,0.71,ak,ak0224x87qbg,2022-04-17T16:46:14.332Z,"5 km WSW of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-17T16:17:59.870Z,33.714,-116.6805,20.09,0.53,ml,15,154,0.02617,0.22,ci,ci40239064,2022-04-17T16:21:38.007Z,"5km SE of Idyllwild, CA",earthquake,0.71,0.75,0.123,12,automatic,ci,ci
 2022-04-17T16:17:22.670Z,19.1380004882812,-155.450332641602,31.2900009155273,2.1400001,md,44,169,,0.109999999,hv,hv72987802,2022-04-17T16:20:30.340Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.59,0.829999983,1.02999997,24,automatic,hv,hv
@@ -225,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T17:11:43.547Z,62.7529,-149.5334,54.9,1.6,ml,,,,0.5,ak,ak0224vl5lv6,2022-04-16T17:27:00.216Z,"44 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-16T17:10:33.627Z,-33.9896,-72.3744,6.11,5,mww,,69,0.714,0.8,us,us7000h2q1,2022-04-16T19:39:19.108Z,"Off the coast of Valparaiso, Chile",earthquake,3,3.4,0.073,18,reviewed,us,us
 2022-04-16T17:09:37.570Z,38.8213333,-122.7641667,2.22,1.21,md,42,64,0.01017,0.03,nc,nc73718420,2022-04-16T21:10:53.479Z,"4km W of Cobb, CA",earthquake,0.15,0.23,0.045,7,reviewed,nc,nc
-2022-04-16T17:00:39.693Z,36.0479,22.5741,62.33,4.7,mb,,57,1.243,0.82,us,us7000h2q0,2022-04-16T19:20:48.040Z,"39 km WSW of Kýthira, Greece",earthquake,6.2,6.1,0.045,159,reviewed,us,us
