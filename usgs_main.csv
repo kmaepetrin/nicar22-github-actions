@@ -12188,3 +12188,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T12:25:05.918Z,47.4516,-112.9111,10.0,2.7,ml,,58.0,0.383,0.65,us,us7000h2wc,2022-04-17T12:52:07.040Z,western Montana,earthquake,4.5,2.0,0.048,58.0,reviewed,us,us
 2022-04-17T13:19:26.954Z,63.5046,-151.2386,4.2,1.4,ml,,,,1.12,ak,ak0224x6cwdz,2022-04-17T13:22:52.968Z,"24 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T13:10:30.030Z,37.0843333,-117.9395,3.42,1.99,ml,6.0,118.0,0.2344,0.02,ci,ci40238984,2022-04-17T13:14:22.388Z,"32km ESE of Big Pine, CA",earthquake,0.3,0.83,0.282,13.0,automatic,ci,ci
+2022-04-17T13:32:35.480Z,35.9343333,-117.7128333,9.76,1.06,ml,14.0,59.0,0.05246,0.12,ci,ci40239000,2022-04-17T13:36:16.497Z,"18km E of Little Lake, CA",earthquake,0.31,0.58,0.408,8.0,automatic,ci,ci
