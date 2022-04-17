@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T11:34:32.707Z,58.9917,-154.5329,126.9,1.5,ml,,,,0.39,ak,ak0224x599dq,2022-04-17T11:39:18.077Z,"51 km SSE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-17T11:34:32.707Z,58.9917,-154.5329,126.9,1.5,ml,,,,0.39,ak,ak0224x599dq,2022-04-17T11:46:16.327Z,"51 km SSE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-17T11:32:10.300Z,38.8248329,-122.8101654,1.13,0.85,md,12,89,0.001438,0.03,nc,nc73718820,2022-04-17T11:38:55.183Z,"7km NW of The Geysers, CA",earthquake,0.32,0.58,,1,automatic,nc,nc
 2022-04-17T11:22:22.776Z,60.2313,-152.0375,69.4,1.4,ml,,,,0.63,ak,ak0224x56nzt,2022-04-17T11:36:21.094Z,"28 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-17T11:17:46.399Z,-1.3877,136.7803,45.87,4.9,mb,,71,4.776,0.77,us,us7000h2vy,2022-04-17T11:38:10.040Z,"81 km ESE of Biak, Indonesia",earthquake,8.9,6.7,0.063,78,reviewed,us,us
@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T12:12:47.200Z,34.3601667,-117.6255,7.34,1.38,ml,41,49,0.04876,0.2,ci,ci40238160,2022-04-16T12:16:26.507Z,"1km E of Wrightwood, CA",earthquake,0.29,0.82,0.171,28,automatic,ci,ci
 2022-04-16T12:09:06.852Z,59.5975,-153.0814,108.4,1.9,ml,,,,0.87,ak,ak0224vi5xkx,2022-04-16T12:31:33.772Z,"61 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-16T11:56:03.469Z,60.8155,-146.91,12.4,2,ml,,,,0.71,ak,ak0224vhukgk,2022-04-16T12:12:54.687Z,"13 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-16T11:45:12.725Z,-4.5792,125.2174,461.69,4.6,mb,,43,4.279,0.71,us,us7000h2nw,2022-04-16T12:04:13.040Z,"Banda Sea",earthquake,10.8,8.3,0.058,90,reviewed,us,us
-2022-04-16T11:41:38.940Z,38.8378334,-122.8338318,0.29,0.86,md,7,108,0.01473,0.07,nc,nc73718310,2022-04-16T12:01:56.090Z,"10km NW of The Geysers, CA",earthquake,0.53,3.05,,1,automatic,nc,nc
-2022-04-16T11:41:09.500Z,44.9025,-112.7763333,3.67,1.48,ml,13,132,0.091,0.18,mb,mb80543149,2022-04-16T14:49:39.040Z,"32 km NNW of Lima, Montana",earthquake,0.54,0.86,0.424,9,reviewed,mb,mb
