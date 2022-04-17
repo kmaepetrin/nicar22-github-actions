@@ -12144,3 +12144,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T09:38:27.140Z,38.8349991,-122.8126678,1.82,1.18,md,8.0,96.0,0.01176,0.01,nc,nc73718770,2022-04-17T09:44:24.210Z,"8km W of Cobb, CA",earthquake,0.48,1.36,,1.0,automatic,nc,nc
 2022-04-17T09:38:23.690Z,33.5528333,-116.8063333,9.4,0.39,ml,9.0,117.0,0.05389,0.18,ci,ci40238832,2022-04-17T09:41:57.635Z,"12km W of Anza, CA",earthquake,0.66,1.13,0.149,4.0,automatic,ci,ci
 2022-04-17T09:16:47.765Z,19.4453,-68.3434,10.0,2.6,ml,,240.0,0.926,0.68,us,us7000h2v5,2022-04-17T09:37:39.040Z,"89 km NE of Miches, Dominican Republic",earthquake,4.4,2.0,0.064,32.0,reviewed,us,us
+2022-04-17T09:40:26.000Z,38.8336678,-122.8116684,1.87,0.66,md,16.0,53.0,0.01033,0.02,nc,nc73718775,2022-04-17T09:46:12.888Z,"8km W of Cobb, CA",earthquake,0.24,0.58,0.12,2.0,automatic,nc,nc
+2022-04-17T09:32:39.876Z,-1.0802,137.4576,10.0,4.6,mb,,196.0,5.516,0.9,us,us7000h2v7,2022-04-17T09:50:50.040Z,"153 km E of Biak, Indonesia",earthquake,7.3,1.9,0.116,22.0,reviewed,us,us
