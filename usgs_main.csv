@@ -12239,3 +12239,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T17:56:51.960Z,17.9886666666667,-66.8096666666667,16.61,2.3,md,25.0,168.0,,0.26,pr,pr71344908,2022-04-17T19:35:53.760Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.51,0.43,0.0894870645929489,11.0,reviewed,pr,pr
 2022-04-17T19:45:44.789Z,60.5466,-151.0522,36.0,1.1,ml,,,,0.54,ak,ak0224xa340e,2022-04-17T19:50:23.680Z,"2 km NE of Ridgeway, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2022-04-17T19:44:16.710Z,35.7891667,-117.6323333,8.32,1.1,ml,21.0,78.0,0.03879,0.16,ci,ci40239152,2022-04-17T19:47:55.075Z,"19km NNE of Ridgecrest, CA",earthquake,0.29,0.68,0.126,11.0,automatic,ci,ci
+2022-04-17T19:56:44.489Z,61.4969,-148.0361,29.0,1.1,ml,,,,0.26,ak,ak0224xa5gv4,2022-04-17T19:58:23.452Z,"40 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-17T19:54:32.570Z,38.7799988,-122.7663345,1.63,0.85,md,21.0,86.0,0.02124,0.04,nc,nc73719025,2022-04-17T19:58:20.220Z,"1km WNW of The Geysers, CA",earthquake,0.23,0.44,0.03,4.0,automatic,nc,nc
