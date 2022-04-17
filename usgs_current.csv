@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T06:36:12.780Z,38.8388329,-122.8103333,1.73,0.85,md,14,60,0.01542,0.01,nc,nc73718710,2022-04-17T06:42:53.236Z,"8km WNW of Cobb, CA",earthquake,0.26,0.61,,1,automatic,nc,nc
+2022-04-17T06:36:12.780Z,38.8388329,-122.8103333,1.73,0.85,md,14,60,0.01542,0.01,nc,nc73718710,2022-04-17T06:53:56.027Z,"8km WNW of Cobb, CA",earthquake,0.26,0.61,,1,automatic,nc,nc
 2022-04-17T06:22:16.606Z,60.1691,-152.1126,83.9,1.9,ml,,,,0.55,ak,ak0224x27hh6,2022-04-17T06:31:44.973Z,"28 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-17T06:10:02.011Z,65.1273,-148.9707,4.5,1,ml,,,,0.31,ak,ak0224x24vs9,2022-04-17T06:21:16.135Z,"17 km E of Minto, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-17T06:05:54.110Z,17.9216666666667,-67.0243333333333,13.89,2.29,md,5,223,,0.32,pr,pr71344828,2022-04-17T06:27:45.510Z,"6 km SSE of La Parguera, Puerto Rico",earthquake,1.53,1.71,0.162573593447395,2,reviewed,pr,pr
