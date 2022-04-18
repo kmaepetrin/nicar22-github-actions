@@ -12500,3 +12500,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T00:11:53.000Z,44.5768333,-112.8883333,1.6,1.23,ml,11.0,131.0,0.249,0.17,mb,mb80543299,2022-04-18T16:35:49.250Z,"24 km WSW of Lima, Montana",earthquake,0.62,1.45,0.147,7.0,reviewed,mb,mb
 2022-04-17T21:26:17.070Z,36.36,-97.35233333,7.12,0.9,ml,31.0,138.0,0.07828463788,0.22,ok,ok2022hnht,2022-04-18T16:42:22.413Z,"9 km NW of Perry, Oklahoma",earthquake,,0.7,0.07,4.0,reviewed,ok,ok
 2022-04-17T20:21:20.640Z,35.72516667,-97.76416667,4.44,1.52,ml,64.0,46.0,0.1439717478,0.22,ok,ok2022hnfp,2022-04-18T16:35:30.722Z,"9 km N of Piedmont, Oklahoma",earthquake,,0.5,0.14,5.0,reviewed,ok,ok
+2022-04-18T16:59:18.290Z,38.8273315,-122.8043365,1.81,0.75,md,14.0,75.0,0.005961,0.01,nc,nc73719720,2022-04-18T17:05:54.975Z,"7km NW of The Geysers, CA",earthquake,0.28,0.5,0.23,3.0,automatic,nc,nc
+2022-04-18T16:45:56.130Z,34.1285,-117.4333333,2.29,0.95,ml,24.0,81.0,0.06413,0.2,ci,ci40240032,2022-04-18T16:49:30.770Z,"4km NE of Fontana, CA",earthquake,0.4,0.88,0.193,20.0,automatic,ci,ci
+2022-04-17T20:45:03.209Z,35.52833333,-96.76433333,7.85,0.82,ml,21.0,64.0,0.1259752794,0.16,ok,ok2022hngk,2022-04-18T16:46:29.645Z,"8 km WNW of Prague, Oklahoma",earthquake,,0.7,0.21,7.0,reviewed,ok,ok
