@@ -12556,3 +12556,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T20:47:34.580Z,33.8935013,-117.48983,3.07,1.27,ml,23.0,96.0,0.08454,0.28,ci,ci40240328,2022-04-18T20:49:40.243Z,"3km ENE of Home Gardens, CA",earthquake,0.61,0.87,0.234,6.0,automatic,ci,ci
 2022-04-18T20:42:52.947Z,63.0028,-149.1692,66.8,1.6,ml,,,,0.53,ak,ak0224yy79la,2022-04-18T20:45:26.681Z,"44 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-18T19:33:09.678Z,-21.7394,170.6729,106.97,4.6,mb,,120.0,3.114,0.9,us,us7000h34z,2022-04-18T20:45:52.040Z,"283 km SSE of Isangel, Vanuatu",earthquake,11.2,8.6,0.095,33.0,reviewed,us,us
+2022-04-18T20:48:24.850Z,35.762,-117.5756667,7.48,1.12,ml,13.0,149.0,0.05649,0.17,ci,ci40240336,2022-04-18T20:52:04.030Z,"16km W of Searles Valley, CA",earthquake,0.46,0.92,0.167,10.0,automatic,ci,ci
+2022-04-18T20:30:53.142Z,29.7594,142.1689,10.0,4.9,mb,,115.0,3.904,0.82,us,us7000h35c,2022-04-18T20:55:50.040Z,"Izu Islands, Japan region",earthquake,7.9,1.9,0.047,145.0,reviewed,us,us
+2022-04-18T19:26:48.310Z,33.7891667,-116.0916667,3.35,0.98,ml,23.0,101.0,0.1084,0.15,ci,ci40240256,2022-04-18T20:51:47.767Z,"14km ENE of Indio, CA",earthquake,0.19,0.91,0.107,6.0,reviewed,ci,ci
+2022-04-18T06:47:55.559Z,36.722,-115.9751,5.3,-0.5,ml,5.0,221.82,0.011,0.0573,nn,nn00837391,2022-04-18T20:56:35.355Z,"32 km WNW of Indian Springs, Nevada",earthquake,,2.4,0.08,2.0,reviewed,nn,nn
+2022-04-18T02:51:27.537Z,37.0543,-117.9574,5.0,2.2,ml,,25.0,0.218,0.97,us,us7000h303,2022-04-18T20:52:16.040Z,"31 km ESE of Big Pine, California",earthquake,1.3,1.9,0.041,78.0,reviewed,us,us
+2022-04-17T22:59:21.900Z,38.8248333,-122.7716667,0.72,0.05,md,19.0,62.0,0.005794,0.04,nc,nc73719095,2022-04-18T20:52:47.155Z,"4km W of Cobb, CA",earthquake,0.19,0.23,0.137,3.0,reviewed,nc,nc
