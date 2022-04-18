@@ -12488,3 +12488,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T11:59:34.360Z,44.3286667,-115.1856667,8.76,2.04,ml,11.0,82.0,0.825,0.26,mb,mb80543279,2022-04-18T15:33:38.500Z,"23 km WNW of Stanley, Idaho",earthquake,0.6,1.17,0.113,11.0,reviewed,mb,mb
 2022-04-18T03:50:56.470Z,44.5885,-112.5253333,4.65,1.32,ml,15.0,104.0,0.094,0.17,mb,mb80543254,2022-04-18T15:43:33.120Z,"7 km SE of Lima, Montana",earthquake,0.53,1.14,0.205,13.0,reviewed,mb,mb
 2022-04-18T02:34:36.490Z,38.5648333,-112.2176667,-0.25,1.31,ml,9.0,163.0,0.06118,0.06,uu,uu60492257,2022-04-18T15:32:28.420Z,"6 km S of Joseph, Utah",earthquake,1.38,1.9,0.213,4.0,reviewed,uu,uu
+2022-04-18T05:21:04.537Z,53.1744,-166.84,25.2,2.5,ml,,,,0.39,ak,ak0224yp55yp,2022-04-18T16:01:45.486Z,"80 km SSW of Unalaska, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2022-04-18T02:51:28.115Z,37.0728,-117.9492,9.7,2.5,ml,14.0,75.89,0.225,0.2023,nn,nn00837341,2022-04-18T16:08:35.299Z,"31 km ESE of Big Pine, California",earthquake,,2.5,0.88,8.0,reviewed,nn,nn
+2022-04-17T23:49:11.182Z,52.6207,-168.5654,53.8,2.5,ml,,,,0.47,ak,ak0224xchn76,2022-04-18T15:57:46.644Z,"40 km SSE of Nikolski, Alaska",earthquake,,6.5,,,reviewed,ak,ak
