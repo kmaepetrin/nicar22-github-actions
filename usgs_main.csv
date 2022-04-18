@@ -12453,3 +12453,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T13:43:46.462Z,59.8912,-151.0689,12.3,1.6,ml,,,,0.9,ak,ak0224yu1fkm,2022-04-18T13:45:36.176Z,"7 km WNW of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-18T13:33:23.960Z,35.7738333,-117.588,7.89,0.79,ml,9.0,154.0,0.04253,0.15,ci,ci40239736,2022-04-18T13:36:55.421Z,"17km W of Searles Valley, CA",earthquake,0.46,0.75,0.128,7.0,automatic,ci,ci
 2022-04-18T13:31:06.690Z,35.7785,-117.5925,7.77,1.18,ml,17.0,78.0,0.03738,0.17,ci,ci40239720,2022-04-18T13:34:44.382Z,"17km W of Searles Valley, CA",earthquake,0.35,0.74,0.152,13.0,automatic,ci,ci
+2022-04-18T13:59:25.920Z,33.5616667,-117.2898333,13.97,1.34,ml,11.0,172.0,0.33,0.35,ci,ci40239776,2022-04-18T14:03:07.747Z,"4km SSW of Wildomar, CA",earthquake,1.83,6.45,0.319,27.0,automatic,ci,ci
+2022-04-18T13:57:37.840Z,35.8606667,-117.6973333,9.13,1.61,ml,25.0,49.0,0.0756,0.13,ci,ci40239768,2022-04-18T14:01:25.738Z,"21km ESE of Little Lake, CA",earthquake,0.2,0.5,0.222,25.0,automatic,ci,ci
+2022-04-18T13:51:30.126Z,61.7416,-148.1919,16.8,1.0,ml,,,,0.27,ak,ak0224yu341g,2022-04-18T13:59:46.196Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
