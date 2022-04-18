@@ -12409,3 +12409,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T09:38:06.380Z,33.5455,-116.5221667,16.82,0.5,ml,14.0,164.0,0.01406,0.21,ci,ci40239608,2022-04-18T09:41:39.929Z,"14km E of Anza, CA",earthquake,0.77,0.61,0.117,7.0,automatic,ci,ci
 2022-04-18T09:31:42.580Z,33.1958333,-116.0073333,6.68,1.84,ml,57.0,32.0,0.03335,0.24,ci,ci40239600,2022-04-18T09:35:26.769Z,"12km SSW of Salton City, CA",earthquake,0.26,1.09,0.169,26.0,automatic,ci,ci
 2022-04-18T09:29:53.450Z,38.8149986,-122.8225021,2.3,0.71,md,14.0,70.0,0.008042,0.02,nc,nc73719555,2022-04-18T09:36:35.160Z,"7km NW of The Geysers, CA",earthquake,0.29,0.74,0.09,2.0,automatic,nc,nc
+2022-04-18T09:58:45.200Z,38.8165016,-122.8203354,2.72,0.85,md,7.0,118.0,0.01029,0.01,nc,nc73719560,2022-04-18T10:05:25.058Z,"7km NW of The Geysers, CA",earthquake,0.62,1.64,,1.0,automatic,nc,nc
