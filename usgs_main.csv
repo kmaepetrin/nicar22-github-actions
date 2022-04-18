@@ -12382,3 +12382,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T06:24:09.697Z,63.0846,-150.7179,122.9,1.6,ml,,,,0.9,ak,ak0224ypr8w9,2022-04-18T06:27:25.662Z,"65 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-18T06:22:55.560Z,19.2479991912842,-155.379333496094,33.0400009155273,2.00999999,md,41.0,141.0,,0.170000002,hv,hv72988432,2022-04-18T06:26:11.060Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.62,0.99000001,0.980000019,15.0,automatic,hv,hv
 2022-04-18T00:42:27.440Z,37.5356667,-118.8708333,4.92,0.71,md,13.0,214.0,0.06359,0.03,nc,nc73719150,2022-04-18T06:45:00.589Z,"15km SE of Mammoth Lakes, CA",earthquake,0.86,1.14,0.145,12.0,reviewed,nc,nc
+2022-04-18T07:04:33.053Z,59.7479,-151.4817,47.0,1.6,ml,,,,0.57,ak,ak0224yq8fzd,2022-04-18T07:06:53.420Z,"8 km NNW of Kachemak, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-18T06:13:53.066Z,4.1663,126.6291,49.33,4.6,mb,,83.0,3.067,0.59,us,us7000h30s,2022-04-18T07:01:15.040Z,"Kepulauan Talaud, Indonesia",earthquake,7.8,7.6,0.078,49.0,reviewed,us,us
