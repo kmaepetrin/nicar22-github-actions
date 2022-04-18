@@ -12622,3 +12622,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T23:28:08.760Z,38.8261681,-122.8580017,2.42,0.85,md,16.0,66.0,0.001633,0.02,nc,nc73719855,2022-04-18T23:31:54.480Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.52,0.02,3.0,automatic,nc,nc
 2022-04-18T23:24:18.874Z,60.6184,-153.1975,234.1,1.6,ml,,,,0.44,ak,ak0224yzvmvz,2022-04-18T23:26:11.028Z,"77 km NE of Port Alsworth, Alaska",earthquake,,7.3,,,automatic,ak,ak
 2022-04-18T17:55:56.414Z,38.2612,-118.78,0.0,0.4,ml,7.0,330.7,0.216,0.1597,nn,nn00837414,2022-04-18T23:31:58.083Z,"32 km SSW of Hawthorne, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2022-04-18T23:36:42.580Z,33.6856651,-116.7096634,15.5,0.99,ml,25.0,100.0,0.02571,0.1,ci,ci40240624,2022-04-18T23:39:04.644Z,"6km S of Idyllwild, CA",earthquake,0.43,0.82,0.223,6.0,automatic,ci,ci
+2022-04-18T23:33:59.520Z,33.7885,-116.0893333,2.82,1.14,ml,26.0,83.0,0.1378,0.21,ci,ci40240608,2022-04-18T23:37:37.582Z,"14km ENE of Indio, CA",earthquake,0.29,1.21,0.12,27.0,automatic,ci,ci
+2022-04-18T23:30:49.130Z,32.407,-115.2255,18.07,2.45,ml,13.0,108.0,0.1637,0.28,ci,ci40240600,2022-04-18T23:34:38.565Z,"6km NNW of Delta, B.C., MX",earthquake,1.03,3.22,0.223,26.0,automatic,ci,ci
