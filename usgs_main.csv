@@ -12774,3 +12774,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T23:10:11.610Z,44.6505,-110.4625,4.91,1.73,ml,21.0,103.0,0.07133,0.16,uu,uu60492397,2022-04-19T13:11:54.430Z,"40 km SSE of Mammoth, Wyoming",earthquake,0.37,0.41,0.085,3.0,reviewed,uu,uu
 2022-04-19T13:23:47.870Z,35.6413333,-117.4478333,6.45,1.87,ml,23.0,118.0,0.05595,0.2,ci,ci40241008,2022-04-19T13:27:28.648Z,"15km SSW of Searles Valley, CA",earthquake,0.38,0.87,0.119,27.0,automatic,ci,ci
 2022-04-19T12:56:09.128Z,-24.6392,-67.1448,174.41,4.6,mwr,,70.0,1.928,0.64,us,us7000h3bz,2022-04-19T13:28:13.040Z,"95 km WSW of San Antonio de los Cobres, Argentina",earthquake,8.5,0.8,,,reviewed,us,guc
+2022-04-19T13:48:06.200Z,35.9413333,-117.6778333,3.4,2.66,ml,28.0,62.0,0.02322,0.17,ci,ci40241024,2022-04-19T13:56:37.040Z,"21km E of Little Lake, CA",earthquake,0.23,0.52,0.157,25.0,automatic,ci,ci
+2022-04-19T05:52:24.500Z,44.5896667,-110.4863333,4.84,0.59,md,12.0,123.0,0.06741,0.12,uu,uu60492437,2022-04-19T13:55:01.210Z,"46 km SSE of Mammoth, Wyoming",earthquake,0.39,0.74,0.401,6.0,reviewed,uu,uu
