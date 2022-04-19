@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T23:20:02.830Z,32.9615,-115.5106667,1.11,1.65,ml,10,108,0.07318,0.26,ci,ci40241664,2022-04-19T23:23:47.489Z,"3km SE of Brawley, CA",earthquake,0.61,31.61,0.233,27,automatic,ci,ci
 2022-04-19T23:12:41.380Z,18.0133333333333,-68.4335,68.06,3.41,md,7,220,,0.2,pr,pr71345148,2022-04-19T23:30:38.360Z,"44 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.24,3.77,0.106541904949144,5,reviewed,pr,pr
 2022-04-19T22:55:35.530Z,38.8204994,-122.7630005,2.15,0.75,md,15,120,0.01133,0.02,nc,nc73720430,2022-04-19T23:13:05.174Z,"4km W of Cobb, CA",earthquake,0.31,0.52,0.27,3,automatic,nc,nc
-2022-04-19T22:53:54.470Z,32.9108333,-115.4963333,5.35,2.1,ml,17,104,0.05495,0.3,ci,ci40241640,2022-04-19T22:57:34.344Z,"8km SSE of Brawley, CA",earthquake,0.68,1.08,0.169,27,automatic,ci,ci
+2022-04-19T22:53:54.470Z,32.9108333,-115.4963333,5.35,2.1,ml,17,104,0.05495,0.3,ci,ci40241640,2022-04-19T23:38:14.428Z,"8km SSE of Brawley, CA",earthquake,0.68,1.08,0.169,27,automatic,ci,ci
 2022-04-19T22:50:12.800Z,19.2076663970947,-155.413833618164,31.4400005340576,1.79999995,md,23,149,,0.109999999,hv,hv72989757,2022-04-19T22:53:27.990Z,"Island of Hawaii, Hawaii",earthquake,0.75,0.930000007,0.899999976,3,automatic,hv,hv
 2022-04-19T22:48:10.000Z,33.67,-116.7505,15.24,0.73,ml,15,115,0.05103,0.06,ci,ci40241624,2022-04-19T22:51:46.370Z,"8km SSW of Idyllwild, CA",earthquake,0.23,0.37,0.121,14,automatic,ci,ci
 2022-04-19T22:45:51.800Z,33.6695,-116.7541667,15.35,1.35,ml,46,46,0.05329,0.19,ci,ci40241616,2022-04-19T22:56:37.220Z,"8km SSW of Idyllwild, CA",earthquake,0.27,0.42,0.184,27,automatic,ci,ci
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T00:00:15.320Z,32.3688333,-115.2778333,11.81,1.7,ml,14,175,0.0555,0.24,ci,ci37496021,2022-04-19T15:15:32.392Z,"8km W of Delta, B.C., MX",earthquake,0.48,0.67,0.083,5,reviewed,ci,ci
 2022-04-19T00:00:03.350Z,32.3358333,-115.2545,10.97,2.21,ml,17,216,0.09373,0.27,ci,ci40240656,2022-04-19T15:13:23.360Z,"6km WSW of Delta, B.C., MX",earthquake,0.92,0.71,0.232,7,reviewed,ci,ci
 2022-04-18T23:48:12.184Z,60.9814,-150.5491,37.5,1.5,ml,,,,0.4,ak,ak0224z00rk2,2022-04-18T23:54:22.395Z,"9 km NE of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-04-18T23:43:37.000Z,33.7911667,-116.0915,3.26,1.55,ml,51,44,0.1084,0.15,ci,ci40240640,2022-04-19T21:32:00.800Z,"14km NE of Indio, CA",earthquake,0.13,0.52,0.209,25,reviewed,ci,ci
