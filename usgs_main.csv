@@ -12730,3 +12730,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T08:15:02.790Z,36.4635,-117.9651667,9.46,1.47,ml,12.0,131.0,0.09566,0.17,ci,ci40240888,2022-04-19T08:18:49.786Z,"17km SE of Lone Pine, CA",earthquake,0.4,0.7,0.218,15.0,automatic,ci,ci
 2022-04-19T08:13:22.827Z,61.5528,-141.2171,0.0,1.8,ml,,,,0.63,ak,ak02250ef4qr,2022-04-19T08:16:55.834Z,"91 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-19T07:50:23.290Z,17.9606,-66.952,9.0,3.41,md,24.0,198.0,0.0742,0.13,pr,pr2022109000,2022-04-19T08:32:13.346Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.42,0.64,0.12,19.0,reviewed,pr,pr
+2022-04-19T08:25:09.400Z,18.4093,-63.987,58.0,3.91,md,17.0,346.0,1.2995,0.32,pr,pr2022109001,2022-04-19T08:55:22.657Z,"85 km E of Cruz Bay, U.S. Virgin Islands",earthquake,5.86,12.21,0.08,7.0,reviewed,pr,pr
