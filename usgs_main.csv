@@ -13130,3 +13130,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T18:31:49.311Z,62.2026,-152.2394,117.4,1.6,ml,,,,0.58,ak,ak0225280q7g,2022-04-20T18:45:36.616Z,"49 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-20T18:19:23.000Z,32.001928,-103.8138711,6.979931641,3.2,ml,12.0,56.0,0.1000767475,0.2,tx,tx2022hsoc,2022-04-20T18:35:58.122Z,"34 km SE of Malaga, New Mexico",earthquake,1.675706014,2.459326367,0.2,6.0,reviewed,tx,tx
 2022-04-20T08:20:12.563Z,62.6916,-149.2975,71.9,0.8,ml,,,,0.42,ak,ak022521zyqa,2022-04-20T18:38:21.787Z,"49 km ENE of Chase, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2022-04-20T17:48:15.890Z,4.068,126.6861,49.83,4.4,mb,,113.0,3.344,0.92,us,us6000hf2g,2022-04-20T18:54:10.040Z,"200 km SE of Sarangani, Philippines",earthquake,9.0,5.9,0.09,36.0,reviewed,us,us
