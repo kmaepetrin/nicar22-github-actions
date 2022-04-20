@@ -13157,3 +13157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T08:14:19.086Z,31.60722402,-104.2364148,8.959448242,2.1,ml,10.0,91.0,0.06890856097,0.2,tx,tx2022hrud,2022-04-20T20:23:38.858Z,"53 km NW of Toyah, Texas",earthquake,1.135217944,1.36125524,0.1,6.0,reviewed,tx,tx
 2022-04-20T07:19:10.070Z,46.23166666666667,-122.57016666666668,14.47,0.65,ml,17.0,108.0,0.1559,0.16,uw,uw61832991,2022-04-20T20:31:10.900Z,"26 km E of Castle Rock, Washington",earthquake,0.6,1.13,0.1380667123093544,9.0,reviewed,uw,uw
 2022-04-20T20:27:35.290Z,17.9673,-68.4473,83.0,4.22,md,25.0,198.0,0.5506,0.51,pr,pr2022110000,2022-04-20T20:50:31.381Z,"48 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.03,2.98,0.11,19.0,reviewed,pr,pr
+2022-04-20T21:08:37.860Z,33.5616667,-117.2086667,27.34,1.43,ml,9.0,173.0,0.3446,0.32,ci,ci40242616,2022-04-20T21:12:15.888Z,"1km NNE of Murrieta, CA",earthquake,2.45,2.38,0.275,25.0,automatic,ci,ci
+2022-04-20T19:23:05.526Z,1.7279,-100.7652,10.0,4.8,mb,,191.0,15.884,0.83,us,us6000hf3c,2022-04-20T21:02:51.040Z,Galapagos Triple Junction region,earthquake,14.3,2.0,0.046,148.0,reviewed,us,us
+2022-04-20T02:56:22.160Z,58.2721666666667,-154.9755,-1.61,0.4,ml,7.0,136.0,,0.1,av,av91055393,2022-04-20T21:09:52.280Z,"84 km NNW of Karluk, Alaska",earthquake,0.28,4.11,0.243837507848109,7.0,reviewed,av,av
+2022-04-20T00:29:03.153Z,39.9823,24.3394,10.0,4.1,mb,,43.0,1.425,1.08,us,us7000h3ge,2022-04-20T21:13:02.040Z,"31 km SSE of Karyes, Greece",earthquake,5.5,2.0,0.262,4.0,reviewed,us,us
