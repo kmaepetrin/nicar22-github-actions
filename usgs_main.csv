@@ -13005,3 +13005,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T08:07:37.760Z,33.4656667,-116.4231667,7.21,0.74,ml,18.0,103.0,0.1285,0.23,ci,ci40242000,2022-04-20T08:11:12.878Z,"24km N of Borrego Springs, CA",earthquake,0.69,2.27,0.134,16.0,automatic,ci,ci
 2022-04-20T08:04:33.074Z,-35.4158,53.4724,10.0,5.1,mb,,64.0,11.07,0.7,us,us7000h3hs,2022-04-20T08:22:52.040Z,Southwest Indian Ridge,earthquake,10.3,1.9,0.069,68.0,reviewed,us,us
 2022-04-20T08:34:34.570Z,19.2013339996338,-155.387161254883,32.0299987792969,1.83000004,md,45.0,161.0,,0.119999997,hv,hv72990217,2022-04-20T08:37:54.080Z,"9 km E of Pāhala, Hawaii",earthquake,0.55,0.790000021,0.529999971,13.0,automatic,hv,hv
+2022-04-20T08:47:43.449Z,61.8692,-151.0623,28.0,1.5,ml,,,,0.36,ak,ak0225225t60,2022-04-20T08:55:30.391Z,"22 km SE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
