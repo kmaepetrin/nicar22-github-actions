@@ -12993,3 +12993,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T06:15:49.090Z,32.909,-115.5191667,2.38,2.15,ml,17.0,87.0,0.03575,0.29,ci,ci40241944,2022-04-20T06:26:53.470Z,"8km S of Brawley, CA",earthquake,0.56,0.68,0.154,26.0,automatic,ci,ci
 2022-04-19T23:49:56.580Z,53.8601666666667,-166.845166666667,3.14,-0.05,ml,4.0,146.0,,0.05,av,av91055373,2022-04-20T06:24:32.650Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.4,1.21,0.242751693491585,4.0,reviewed,av,av
 2022-04-19T23:49:14.710Z,53.8591666666667,-166.843166666667,3.92,0.47,ml,5.0,144.0,,0.06,av,av91055368,2022-04-20T06:19:48.660Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.27,0.92,0.100686329525703,6.0,reviewed,av,av
+2022-04-20T06:40:03.516Z,59.9915,-151.0856,36.6,1.9,ml,,,,0.76,ak,ak022520xctj,2022-04-20T06:42:42.884Z,"16 km NNW of Fox River, Alaska",earthquake,,7.8,,,automatic,ak,ak
