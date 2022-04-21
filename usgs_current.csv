@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-21T05:11:56.120Z,38.8188324,-122.7666702,2.09,1.17,md,7,157,0.01189,0.01,nc,nc73721140,2022-04-21T05:14:30.042Z,"4km W of Cobb, CA",earthquake,0.67,1.34,,1,automatic,nc,nc
+2022-04-21T05:33:32.050Z,33.2576667,-116.253,9.93,0.9,ml,25,89,0.06481,0.2,ci,ci40242872,2022-04-21T05:37:09.323Z,"11km E of Borrego Springs, CA",earthquake,0.39,0.72,0.16,16,automatic,ci,ci
+2022-04-21T05:28:39.490Z,33.3546667,-116.3558333,10.28,1.04,ml,39,52,0.03945,0.21,ci,ci40242864,2022-04-21T05:32:20.445Z,"11km N of Borrego Springs, CA",earthquake,0.32,0.57,0.223,29,automatic,ci,ci
+2022-04-21T05:25:04.170Z,32.7728333,-115.6213333,15.31,1.59,ml,5,139,0.1505,0.25,ci,ci40242856,2022-04-21T05:28:34.520Z,"6km WSW of El Centro, CA",earthquake,2.1,3.09,0.213,20,automatic,ci,ci
+2022-04-21T05:22:56.402Z,61.9662,-153.0104,6,1.4,ml,,,,0.73,ak,ak02253nriy1,2022-04-21T05:29:19.519Z,"84 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-21T05:19:05.520Z,17.963,-67.0091666666667,11.82,1.87,md,4,198,,0.18,pr,pr71345273,2022-04-21T05:34:43.220Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,3.18,1.19,0.00117753444251401,3,reviewed,pr,pr
+2022-04-21T05:11:56.120Z,38.8188324,-122.7666702,2.09,1.17,md,7,157,0.01189,0.01,nc,nc73721140,2022-04-21T05:45:45.316Z,"4km W of Cobb, CA",earthquake,0.67,1.34,,1,automatic,nc,nc
 2022-04-21T05:01:51.341Z,63.4056,-148.9073,86.9,2.9,ml,,,,0.56,ak,ak02253nn0hx,2022-04-21T05:14:01.040Z,"2 km NE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-21T04:51:00.643Z,59.9998,-153.1385,136.6,1.8,ml,,,,0.71,ak,ak02253nc6sw,2022-04-21T04:53:13.138Z,"59 km ENE of Pedro Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-04-21T04:36:06.177Z,65.149,-148.9615,8.1,1.3,ml,,,,0.58,ak,ak02253n8zhs,2022-04-21T04:56:04.424Z,"18 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -56,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T21:18:39.408Z,65.1141,-149.1258,10.6,1.1,ml,,,,1.1,ak,ak022529q7yc,2022-04-20T21:32:48.488Z,"11 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-20T21:14:01.440Z,58.3603333333333,-154.6035,6.33,-0.07,ml,7,192,,0.22,av,av91542231,2022-04-21T03:22:06.420Z,"88 km N of Karluk, Alaska",earthquake,0.94,2.64,0.177802984931769,7,reviewed,av,av
 2022-04-20T21:12:53.170Z,38.8388329,-122.8235016,2.14,1,md,14,88,0.009363,0.01,nc,nc73720940,2022-04-20T22:51:15.886Z,"9km WNW of Cobb, CA",earthquake,0.25,0.69,0.24,2,automatic,nc,nc
+2022-04-20T21:04:14.175Z,57.0699,-154.394,50.3,1.2,ml,,,,0.69,ak,ak022529n5c2,2022-04-21T05:46:54.859Z,"19 km NW of Akhiok, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2022-04-20T21:02:55.478Z,2.8166,-79.4768,10,4.4,mb,,150,2.684,0.77,us,us6000hf3t,2022-04-20T21:52:17.040Z,"119 km WNW of Mosquera, Colombia",earthquake,5.4,1.9,0.139,15,reviewed,us,us
 2022-04-20T20:27:35.290Z,17.9673,-68.4473,83,4.22,md,25,198,0.5506,0.51,pr,pr2022110000,2022-04-20T22:23:19.389Z,"48 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.03,2.98,0.11,19,reviewed,pr,pr
 2022-04-20T20:16:55.860Z,32.9111667,-115.5166667,3.79,1.6,ml,11,137,0.08382,0.27,ci,ci40242560,2022-04-20T20:20:41.532Z,"8km S of Brawley, CA",earthquake,0.79,1.09,0.265,23,automatic,ci,ci
@@ -243,15 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T06:12:47.990Z,38.8260002,-122.7963333,2.61,0.89,md,24,35,0.01104,0.02,nc,nc73720580,2022-04-20T08:31:12.593Z,"6km W of Cobb, CA",earthquake,0.23,0.49,0.13,4,automatic,nc,nc
 2022-04-20T06:06:36.860Z,38.8391685,-122.8096695,1.9,0.98,md,20,65,0.01511,0.01,nc,nc73720575,2022-04-20T06:23:22.750Z,"8km WNW of Cobb, CA",earthquake,0.23,0.46,0.14,4,automatic,nc,nc
 2022-04-20T05:59:49.240Z,33.4561667,-116.5813333,11.44,0.75,ml,31,75,0.0422,0.16,ci,ci40241936,2022-04-20T15:54:39.584Z,"14km SE of Anza, CA",earthquake,0.21,0.39,0.209,14,reviewed,ci,ci
-2022-04-20T05:48:43.111Z,61.163,-150.9175,59.8,0.6,ml,,,,0.35,ak,ak022520dq70,2022-04-20T06:02:14.442Z,"9 km ENE of Beluga, Alaska",earthquake,,1.4,,,reviewed,ak,ak
-2022-04-20T05:43:52.040Z,34.2415,-117.0623333,3.84,1.32,ml,52,70,0.1191,0.15,ci,ci40241920,2022-04-20T18:56:12.200Z,"6km NE of Running Springs, CA",earthquake,0.16,0.59,0.168,20,reviewed,ci,ci
-2022-04-20T05:38:47.588Z,-1.6721,-77.8011,184.2,4.2,mb,,61,0.285,0.82,us,us7000h3hf,2022-04-20T13:53:01.040Z,"18 km E of Palora, Ecuador",earthquake,8.3,8.2,0.159,11,reviewed,us,us
-2022-04-20T05:34:03.280Z,34.235,-116.9933333,7.8,1.82,ml,69,46,0.066,0.17,ci,ci40241904,2022-04-20T13:15:59.930Z,"8km W of Big Bear Lake, CA",earthquake,0.22,0.6,0.135,28,reviewed,ci,ci
-2022-04-20T05:31:46.030Z,36.43033333,-96.90266667,6.19,0.87,ml,25,74,0.03599293696,0.17,ok,ok2022hrot,2022-04-20T13:25:44.382Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.7,0.18,5,reviewed,ok,ok
-2022-04-20T05:31:26.100Z,18.176,-67.2251666666667,7.01,2.79,md,8,283,,0.31,pr,pr71345183,2022-04-20T05:58:13.510Z,"9 km WSW of Mayagüez, Puerto Rico",earthquake,2.74,3.37,0.127381948603124,4,reviewed,pr,pr
-2022-04-20T05:26:26.420Z,32.917,-115.5196667,6.79,1.99,ml,36,78,0.03784,0.28,ci,ci40241896,2022-04-20T18:43:55.670Z,"7km S of Brawley, CA",earthquake,0.32,0.59,0.122,13,reviewed,ci,ci
-2022-04-20T05:24:30.730Z,33.5126667,-116.7425,2.75,0.55,ml,26,49,0.04833,0.1,ci,ci40241888,2022-04-20T18:28:25.944Z,"8km SW of Anza, CA",earthquake,0.13,0.17,0.14,13,reviewed,ci,ci
-2022-04-20T05:21:57.860Z,44.7896667,-111.0096667,10.36,0.77,md,12,153,0.03044,0.15,uu,uu60492937,2022-04-20T13:50:15.190Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.7,0.86,0.202,7,reviewed,uu,uu
-2022-04-20T05:20:29.920Z,38.8351669,-122.8031693,1.95,0.85,md,12,60,0.01053,0.02,nc,nc73720565,2022-04-20T05:58:16.592Z,"7km WNW of Cobb, CA",earthquake,0.28,0.77,,1,automatic,nc,nc
-2022-04-20T05:19:44.820Z,32.9168333,-115.5106667,13.8,3.41,ml,55,71,0.0448,0.29,ci,ci40241880,2022-04-21T03:09:25.631Z,"7km SSE of Brawley, CA",earthquake,0.29,0.68,0.173,72,reviewed,ci,ci
-2022-04-20T05:18:24.336Z,29.0777,142.5092,26.41,4.7,mb,,117,4.641,0.7,us,us7000h3he,2022-04-20T06:13:37.040Z,"Izu Islands, Japan region",earthquake,11.5,6,0.076,52,reviewed,us,us
