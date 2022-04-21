@@ -13273,3 +13273,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T05:22:56.402Z,61.9662,-153.0104,6.0,1.4,ml,,,,0.73,ak,ak02253nriy1,2022-04-21T05:29:19.519Z,"84 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-21T05:19:05.520Z,17.963,-67.0091666666667,11.82,1.87,md,4.0,198.0,,0.18,pr,pr71345273,2022-04-21T05:34:43.220Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,3.18,1.19,0.001177534442514,3.0,reviewed,pr,pr
 2022-04-20T21:04:14.175Z,57.0699,-154.394,50.3,1.2,ml,,,,0.69,ak,ak022529n5c2,2022-04-21T05:46:54.859Z,"19 km NW of Akhiok, Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2022-04-21T05:52:33.970Z,34.0591667,-117.241,14.65,1.34,ml,34.0,66.0,0.1094,0.21,ci,ci40242888,2022-04-21T05:56:05.396Z,"2km ENE of Loma Linda, CA",earthquake,0.31,0.61,0.143,26.0,automatic,ci,ci
+2022-04-21T05:52:05.000Z,32.6996667,-115.5426667,1.92,2.2,ml,21.0,63.0,0.1069,0.26,ci,ci40242880,2022-04-21T05:56:26.201Z,"4km SSW of Heber, CA",earthquake,0.52,0.96,0.227,26.0,automatic,ci,ci
