@@ -13286,3 +13286,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T06:30:31.190Z,32.9033333,-115.5168333,3.63,2.04,ml,22.0,86.0,0.03696,0.28,ci,ci40242920,2022-04-21T06:34:16.924Z,"8km NE of Imperial, CA",earthquake,0.43,0.63,0.23,26.0,automatic,ci,ci
 2022-04-21T06:25:39.230Z,33.477,-116.5283333,12.63,1.91,ml,68.0,25.0,0.06421,0.19,ci,ci40242912,2022-04-21T06:36:39.620Z,"16km ESE of Anza, CA",earthquake,0.18,0.35,0.139,26.0,automatic,ci,ci
 2022-04-21T06:12:46.504Z,-43.0047,-15.9735,10.0,5.2,mb,,68.0,17.565,0.98,us,us6000hf6u,2022-04-21T06:37:40.040Z,southern Mid-Atlantic Ridge,earthquake,10.2,1.8,0.107,29.0,reviewed,us,us
+2022-04-21T06:20:06.585Z,-42.8434,-16.0005,10.0,5.1,mb,,91.0,17.67,0.33,us,us6000hf72,2022-04-21T06:47:09.040Z,southern Mid-Atlantic Ridge,earthquake,6.6,1.9,0.09,40.0,reviewed,us,us
