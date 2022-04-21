@@ -13287,3 +13287,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T06:25:39.230Z,33.477,-116.5283333,12.63,1.91,ml,68.0,25.0,0.06421,0.19,ci,ci40242912,2022-04-21T06:36:39.620Z,"16km ESE of Anza, CA",earthquake,0.18,0.35,0.139,26.0,automatic,ci,ci
 2022-04-21T06:12:46.504Z,-43.0047,-15.9735,10.0,5.2,mb,,68.0,17.565,0.98,us,us6000hf6u,2022-04-21T06:37:40.040Z,southern Mid-Atlantic Ridge,earthquake,10.2,1.8,0.107,29.0,reviewed,us,us
 2022-04-21T06:20:06.585Z,-42.8434,-16.0005,10.0,5.1,mb,,91.0,17.67,0.33,us,us6000hf72,2022-04-21T06:47:09.040Z,southern Mid-Atlantic Ridge,earthquake,6.6,1.9,0.09,40.0,reviewed,us,us
+2022-04-21T07:11:43.900Z,32.9011667,-115.5228333,3.54,2.46,ml,30.0,56.0,0.03187,0.28,ci,ci40242936,2022-04-21T07:15:36.167Z,"7km NE of Imperial, CA",earthquake,0.45,0.65,0.214,27.0,automatic,ci,ci
+2022-04-21T07:08:24.480Z,35.6413333,-117.441,6.54,1.29,ml,15.0,157.0,0.05738,0.21,ci,ci40242928,2022-04-21T07:11:57.150Z,"14km SSW of Searles Valley, CA",earthquake,0.61,1.0,0.12,11.0,automatic,ci,ci
+2022-04-21T06:59:19.997Z,61.7001,-143.2579,64.1,1.2,ml,,,,0.69,ak,ak02253okt8f,2022-04-21T07:01:24.244Z,"34 km NNW of McCarthy, Alaska",earthquake,,1.0,,,automatic,ak,ak
