@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-22T06:15:24.253Z,-30.023,-177.835,40.63,5.3,mww,,56,0.762,0.72,us,us6000hfhy,2022-04-22T06:34:43.040Z,"Kermadec Islands, New Zealand",earthquake,9.2,6.2,0.098,10,reviewed,us,us
+2022-04-22T06:38:52.790Z,19.1971664428711,-155.388000488281,30.8099994659424,1.92999995,md,47,161,,0.119999997,hv,hv72992217,2022-04-22T06:42:06.110Z,"9 km E of Pāhala, Hawaii",earthquake,0.52,0.699999988,0.419999987,23,automatic,hv,hv
+2022-04-22T06:15:23.756Z,-30.042,-177.8423,37.02,5.3,mww,,65,0.78,0.71,us,us6000hfhy,2022-04-22T06:51:27.040Z,"Kermadec Islands, New Zealand",earthquake,9,6.2,0.089,12,reviewed,us,us
 2022-04-22T06:05:50.924Z,38.5538,-119.5137,2.4,1.7,ml,17,139.35,0.032,0.295,nn,nn00837673,2022-04-22T06:09:21.362Z,"1 km SSW of Coleville, California",earthquake,,0.5,0.23,9,automatic,nn,nn
 2022-04-22T06:05:43.546Z,18.7809,-74.0797,10,4,mb,,68,1.394,0.94,us,us6000hfhx,2022-04-22T06:22:56.040Z,"15 km NNE of Jérémie, Haiti",earthquake,6.1,1,0.259,4,reviewed,us,us
 2022-04-22T06:01:55.870Z,33.3748333,-116.8735,4.75,1.81,ml,60,45,0.02303,0.22,ci,ci40243656,2022-04-22T06:12:25.980Z,"2km NNW of Palomar Observatory, CA",earthquake,0.21,0.58,0.137,26,automatic,ci,ci
@@ -260,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T07:10:38.326Z,38.9244,-119.7364,8.3,0.5,ml,4,131.9,0.018,0.043,nn,nn00837622,2022-04-21T20:14:04.483Z,"2 km SSE of Gardnerville, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
 2022-04-21T07:08:24.460Z,35.637,-117.4565,6.82,1.33,ml,25,118,0.0506,0.13,ci,ci40242928,2022-04-21T20:10:55.875Z,"15km SSW of Searles Valley, CA",earthquake,0.2,0.46,0.116,8,reviewed,ci,ci
 2022-04-21T06:59:19.997Z,61.7001,-143.2579,64.1,1.2,ml,,,,0.69,ak,ak02253okt8f,2022-04-21T07:01:24.244Z,"34 km NNW of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-21T06:41:38.498Z,60.6449,-151.5245,67.2,1.1,ml,,,,0.3,ak,ak02253ogzrt,2022-04-21T06:43:41.455Z,"11 km WNW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
