@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T10:33:49.254Z,60.7345,-151.6884,58.1,1.5,ml,,,,0.94,ak,ak02253qt1ae,2022-04-21T10:36:47.373Z,"22 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-21T10:28:51.210Z,38.7911682,-122.7606659,0.84,0.84,md,13,123,0.02032,0.06,nc,nc73721220,2022-04-21T11:22:16.305Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.72,0.01,3,automatic,nc,nc
 2022-04-21T10:01:47.913Z,61.3826,-150.0557,33.2,1.5,ml,,,,0.59,ak,ak02253qm69z,2022-04-21T10:06:56.949Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-21T09:58:49.950Z,19.2723333333333,-155.382666666667,2.59,2.39,ml,50,117,,0.18,hv,hv72991337,2022-04-21T21:05:21.740Z,"12 km NE of Pāhala, Hawaii",earthquake,0.21,0.51,0.211247019997559,11,reviewed,hv,hv
-2022-04-21T09:58:21.560Z,19.2121666666667,-155.4125,32.97,1.5,md,17,160,,0.12,hv,hv72991332,2022-04-21T21:41:39.030Z,"7 km E of Pāhala, Hawaii",earthquake,0.71,0.56,0.0250496216243541,11,reviewed,hv,hv
