@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T21:18:49.550Z,38.8063316,-122.8085022,1.23,0.95,md,13,93,0.01044,0.04,nc,nc73721405,2022-04-21T21:35:22.890Z,"6km NW of The Geysers, CA",earthquake,0.29,0.51,0.1,4,automatic,nc,nc
 2022-04-21T21:14:46.655Z,64.2053,-151.6712,16.7,1.3,ml,,,,0.61,ak,ak02253x8q52,2022-04-21T21:25:22.999Z,"47 km NE of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-21T21:11:47.490Z,44.8318333,-112.7941667,4.66,1.58,ml,14,103,0.039,0.16,mb,mb80543759,2022-04-21T23:53:04.600Z,"26 km NW of Lima, Montana",earthquake,0.38,1.08,0.211,8,reviewed,mb,mb
-2022-04-21T20:53:40.090Z,44.3506,-115.2327,10,2.6,ml,,85,0.857,0.95,us,us6000hff3,2022-04-22T17:37:43.122Z,"27 km WNW of Stanley, Idaho",earthquake,2,2,0.081,20,reviewed,us,us
