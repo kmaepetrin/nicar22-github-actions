@@ -212,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T19:33:04.810Z,38.8201675,-122.8036652,3.1,1.18,md,26,35,0.005954,0.02,nc,nc73721935,2022-04-22T23:57:23.457Z,"6km NW of The Geysers, CA",earthquake,0.22,0.43,0.03,5,automatic,nc,nc
 2022-04-22T19:31:42.650Z,33.6791667,-116.7311667,14.78,0.98,ml,22,105,0.03492,0.08,ci,ci40243968,2022-04-22T21:38:34.337Z,"7km S of Idyllwild, CA",earthquake,0.21,0.34,0.164,19,reviewed,ci,ci
 2022-04-22T19:24:04.600Z,44.324,-114.974,-1.04,1.96,ml,11,74,0.674,0.28,mb,mb80543809,2022-04-22T22:14:34.610Z,"12 km NNW of Stanley, Idaho",earthquake,0.72,3.6,0.171,12,reviewed,mb,mb
-2022-04-22T19:21:45.069Z,61.5281,-149.8493,35.4,1.5,ml,,,,0.63,ak,ak02255jmpbe,2022-04-22T19:42:16.069Z,"5 km E of Big Lake, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-04-22T19:14:05.630Z,46.2005,-122.17966666666666,2.14,-0.79,md,11,139,0.007806,0.12,uw,uw61833416,2022-04-22T22:06:59.120Z,"38 km NNE of Amboy, Washington",earthquake,0.43,0.9,0.09021680543764049,4,reviewed,uw,uw
-2022-04-22T19:12:32.420Z,17.973,-66.8198333333333,11.3,2.8,md,8,199,,0.13,pr,pr71345523,2022-04-22T20:01:29.295Z,"2 km S of Indios, Puerto Rico",earthquake,0.5,0.59,0.149132422466181,5,reviewed,pr,pr
