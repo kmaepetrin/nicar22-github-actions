@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-23T10:49:53.550Z,33.6329994,-116.6999969,11.44,1.07,ml,15,65,0.04195,0.08,ci,ci40244296,2022-04-23T10:52:05.996Z,"9km NNW of Anza, CA",earthquake,0.42,1.03,0.007,3,automatic,ci,ci
+2022-04-23T10:55:41.226Z,63.0622,-151.4942,9.5,1.7,ml,,,,1.12,ak,ak0225720fey,2022-04-23T10:59:30.846Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-23T10:50:01.400Z,33.6406667,-116.702,12.87,0.51,ml,17,93,0.06986,0.12,ci,ci40244304,2022-04-23T10:53:25.901Z,"10km NNW of Anza, CA",earthquake,0.36,0.62,0.222,9,automatic,ci,ci
+2022-04-23T10:49:53.210Z,33.6383333,-116.706,13.78,0.34,ml,15,89,0.06583,0.06,ci,ci40244296,2022-04-23T10:53:23.177Z,"10km NNW of Anza, CA",earthquake,0.23,0.46,0.008,5,automatic,ci,ci
 2022-04-23T10:48:34.880Z,33.6415,-116.7048333,13.64,0.55,ml,20,92,0.0687,0.07,ci,ci40244288,2022-04-23T10:52:06.895Z,"10km NNW of Anza, CA",earthquake,0.19,0.36,0.153,9,automatic,ci,ci
 2022-04-23T10:43:44.250Z,35.7728333,-117.5868333,7.74,0.54,ml,9,147,0.04369,0.14,ci,ci40244280,2022-04-23T10:47:19.876Z,"16km W of Searles Valley, CA",earthquake,0.48,0.77,0.082,8,automatic,ci,ci
 2022-04-23T10:43:36.692Z,63.3964,-152.0593,11.7,1.7,ml,,,,0.61,ak,ak022571xuha,2022-04-23T10:51:35.628Z,"23 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-23T10:35:09.370Z,38.1383,-118.1943,0.2,0.8,ml,8,140.71,0.269,0.3871,nn,nn00837753,2022-04-23T10:39:04.086Z,"28 km SSW of Mina, Nevada",earthquake,,102.7,0.47,5,automatic,nn,nn
 2022-04-23T10:30:43.641Z,63.6033,-148.6646,68.5,2.6,ml,,,,1.37,ak,ak022571v2p8,2022-04-23T10:48:45.423Z,"19 km SE of Denali Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-04-23T10:30:24.884Z,64.6359,-147.7349,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T10:51:44.241Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-23T10:30:24.884Z,64.6359,-147.7349,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T10:56:46.457Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-23T10:23:06.806Z,61.5289,-149.9052,41.3,1.4,ml,,,,0.67,ak,ak022571thug,2022-04-23T10:25:26.057Z,"2 km ENE of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-23T10:11:08.510Z,18.0081666666667,-66.8543333333333,16.97,2.23,md,10,135,,0.09,pr,pr71345568,2022-04-23T10:43:51.550Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.37,0.46,0.0462285864031515,4,reviewed,pr,pr
 2022-04-23T10:02:31.880Z,33.3248333,-116.1456667,6.48,0.97,ml,32,70,0.1422,0.25,ci,ci40244272,2022-04-23T10:06:04.633Z,"16km SSW of Oasis, CA",earthquake,0.37,2.02,0.054,23,automatic,ci,ci
@@ -227,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T11:07:14.914Z,40.0824,-119.6685,15.5,0.8,ml,3,178.61,0.1,0.0759,nn,nn00837726,2022-04-23T02:39:04.438Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,5.5,0,1,reviewed,nn,nn
 2022-04-22T11:06:52.150Z,19.4258327484131,-155.385665893555,7.65999984741211,1.74,ml,38,62,,0.0900000036,hv,hv72992392,2022-04-22T11:12:24.170Z,"16 km W of Volcano, Hawaii",earthquake,0.35,0.75999999,0.22,3,automatic,hv,hv
 2022-04-22T11:05:38.199Z,36.498,70.7238,146.03,4.1,mb,,95,0.637,0.53,us,us6000hfjc,2022-04-22T11:26:46.040Z,"41 km SSW of Jurm, Afghanistan",earthquake,8,3.7,0.145,13,reviewed,us,us
-2022-04-22T10:58:16.109Z,61.7762,-146.9732,29,1.4,ml,,,,1.03,ak,ak02255eho4p,2022-04-22T11:02:42.466Z,"20 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-22T10:56:51.920Z,34.2206667,-117.6298333,6.03,0.76,ml,14,86,0.05409,0.15,ci,ci40243744,2022-04-22T19:22:51.968Z,"12km NNW of Rancho Cucamonga, CA",earthquake,0.34,0.58,0.069,6,reviewed,ci,ci
