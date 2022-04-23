@@ -13936,3 +13936,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T14:30:00.610Z,38.8428345,-122.8398361,2.11,0.87,md,16.0,120.0,0.005432,0.01,nc,nc73722280,2022-04-23T14:31:35.639Z,"10km NW of The Geysers, CA",earthquake,0.26,0.47,0.01,2.0,automatic,nc,nc
 2022-04-23T14:28:51.630Z,33.8033333,-117.7926667,10.86,1.89,ml,56.0,66.0,0.02529,0.21,ci,ci40244352,2022-04-23T14:32:47.238Z,"2km ESE of Villa Park, CA",earthquake,0.28,0.5,0.122,27.0,automatic,ci,ci
 2022-04-23T09:14:48.800Z,44.4595,-115.2096667,4.63,1.99,ml,10.0,82.0,0.843,0.22,mb,mb80543864,2022-04-23T14:35:19.810Z,"34 km NW of Stanley, Idaho",earthquake,0.63,1.5,0.243,11.0,reviewed,mb,mb
+2022-04-23T14:41:39.790Z,35.9724998,-117.3880005,-0.23,2.15,ml,26.0,64.0,0.1176,0.16,ci,ci40244360,2022-04-23T14:43:46.324Z,"23km N of Searles Valley, CA",earthquake,0.38,0.57,0.177,18.0,automatic,ci,ci
