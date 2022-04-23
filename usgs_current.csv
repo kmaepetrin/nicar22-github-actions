@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T02:56:43.020Z,38.8308334,-122.8130035,1.61,0.85,md,10,66,0.007772,0.02,nc,nc73722085,2022-04-23T03:17:22.611Z,"8km NW of The Geysers, CA",earthquake,0.27,0.78,,1,automatic,nc,nc
 2022-04-23T02:44:41.970Z,36.9029999,-120.94767,9.2,2.07,md,21,102,0.1605,0.07,nc,nc73722080,2022-04-23T05:09:17.212Z,"19km SSW of Los Banos, CA",earthquake,0.3,0.79,0.15,16,automatic,nc,nc
 2022-04-23T02:14:23.300Z,62.1652,-145.6264,22.2,1.6,ml,,,,0.94,ak,ak02256x04u2,2022-04-23T02:18:28.489Z,"7 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-23T02:02:46.660Z,34.9858333,-82.3333333,5.77,2.17,md,11,97,0.4571,0.63,se,se60149643,2022-04-23T18:07:16.394Z,"8 km NNW of Taylors, South Carolina",earthquake,1.23,15.19,0.082,11,reviewed,se,se
+2022-04-23T02:02:46.660Z,34.9858333,-82.3333333,5.77,2.17,md,11,97,0.4571,0.63,se,se60149643,2022-04-23T19:57:12.544Z,"8 km NNW of Taylors, South Carolina",earthquake,1.23,15.19,0.082,11,reviewed,se,se
 2022-04-23T01:26:10.530Z,38.8334999,-122.8099976,-0.79,1.14,md,10,74,0.01009,0.16,nc,nc73722055,2022-04-23T04:53:22.130Z,"8km W of Cobb, CA",earthquake,0.38,1.61,0.38,2,automatic,nc,nc
 2022-04-23T01:24:58.080Z,38.8373337,-122.8249969,1.63,0.36,md,10,85,0.008288,0.01,nc,nc73722050,2022-04-23T01:43:15.142Z,"9km NW of The Geysers, CA",earthquake,0.35,0.7,,1,automatic,nc,nc
 2022-04-23T01:22:29.450Z,19.3736667633057,-155.045166015625,5.23999977111816,1.82,ml,38,177,,0.289999992,hv,hv72992952,2022-04-23T01:28:00.130Z,"13 km SE of Fern Forest, Hawaii",earthquake,0.98,0.930000007,0.18,4,automatic,hv,hv
