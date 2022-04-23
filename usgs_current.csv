@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T09:37:09.380Z,38.8274994,-122.8043365,1.75,0.94,md,24,44,0.006073,0.02,nc,nc73722215,2022-04-23T09:38:45.159Z,"7km NW of The Geysers, CA",earthquake,0.2,0.36,0.06,5,automatic,nc,nc
 2022-04-23T09:10:53.550Z,38.8370018,-122.7916641,1.68,0.36,md,8,90,0.001743,0.02,nc,nc73722210,2022-04-23T09:27:17.767Z,"6km WNW of Cobb, CA",earthquake,0.46,1.04,,1,automatic,nc,nc
 2022-04-23T08:53:22.106Z,62.3197,-152.0251,103.3,2,ml,,,,0.33,ak,ak022570t3aw,2022-04-23T08:56:56.477Z,"49 km NW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-23T08:49:17.530Z,33.898,-117.799,2.81,1.06,ml,23,67,0.06974,0.19,ci,ci40244264,2022-04-23T08:52:53.202Z,"2km NE of Yorba Linda, CA",earthquake,0.32,0.48,0.126,29,automatic,ci,ci
@@ -200,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T11:39:23.660Z,33.468,-116.5031667,12.95,2.12,ml,76,29,0.08511,0.17,ci,ci40243768,2022-04-22T19:36:34.190Z,"18km ESE of Anza, CA",earthquake,0.14,0.28,0.195,26,reviewed,ci,ci
 2022-04-22T11:38:21.740Z,38.821167,-122.8001633,2.65,0.84,md,6,123,0.008055,0.01,nc,nc73721730,2022-04-22T11:40:53.182Z,"6km NW of The Geysers, CA",earthquake,0.97,1.56,,1,automatic,nc,nc
 2022-04-22T11:27:53.620Z,38.822834,-122.8008347,2.25,1.21,md,31,49,0.007239,0.05,nc,nc73721725,2022-04-22T15:01:15.132Z,"6km NW of The Geysers, CA",earthquake,0.21,0.4,0.02,4,automatic,nc,nc
-2022-04-22T11:26:55.860Z,38.8225,-122.8023333,2.78,1.35,md,44,32,0.006112,0.03,nc,nc73721720,2022-04-23T07:33:10.052Z,"6km NW of The Geysers, CA",earthquake,0.15,0.28,0.098,10,reviewed,nc,nc
+2022-04-22T11:26:55.860Z,38.8225,-122.8023333,2.78,1.35,md,44,32,0.006112,0.03,nc,nc73721720,2022-04-23T09:38:15.834Z,"6km NW of The Geysers, CA",earthquake,0.15,0.28,0.098,10,reviewed,nc,nc
 2022-04-22T11:19:37.430Z,38.821167,-122.8018341,2.68,0.74,md,16,98,0.00681,0.02,nc,nc73721715,2022-04-22T11:21:14.025Z,"6km NW of The Geysers, CA",earthquake,0.34,0.56,0.1,2,automatic,nc,nc
 2022-04-22T11:19:33.290Z,38.825,-122.803,2.64,0.43,md,30,33,0.005753,0.02,nc,nc73721710,2022-04-23T06:40:15.755Z,"7km NW of The Geysers, CA",earthquake,0.16,0.37,0.253,4,reviewed,nc,nc
 2022-04-22T11:18:04.850Z,38.8201667,-122.8018333,3.49,0.24,md,20,51,0.007199,0.02,nc,nc73721705,2022-04-23T06:16:17.623Z,"6km NW of The Geysers, CA",earthquake,0.27,0.68,0.313,2,reviewed,nc,nc
