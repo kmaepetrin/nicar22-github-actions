@@ -13966,3 +13966,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T16:44:56.121Z,36.3537,19.5819,10.0,4.7,mb,,67.0,2.053,0.79,us,us6000hfvc,2022-04-23T17:08:35.040Z,"187 km SW of Lithakiá, Greece",earthquake,5.7,1.4,0.102,29.0,reviewed,us,us
 2022-04-23T13:33:42.000Z,40.2026667,-111.1433333,6.29,1.74,md,10.0,88.0,0.2266,0.09,uu,uu60493972,2022-04-23T17:04:29.950Z,Utah,earthquake,0.39,5.11,0.103,6.0,reviewed,uu,uu
 2022-04-23T11:01:34.900Z,40.193,-111.1363333,5.7,1.55,md,10.0,92.0,0.2375,0.1,uu,uu60493967,2022-04-23T16:58:48.830Z,"15 km SE of Independence, Utah",earthquake,0.53,4.81,0.144,7.0,reviewed,uu,uu
+2022-04-23T17:23:04.069Z,61.3111,-150.0639,33.6,1.7,ml,,,,0.46,ak,ak022575ziv7,2022-04-23T17:26:49.381Z,"7 km SW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-23T17:21:26.408Z,17.8549,-66.8199,10.0,2.8,ml,,215.0,0.194,0.65,us,us6000hfvk,2022-04-23T17:30:41.040Z,"15 km S of Indios, Puerto Rico",earthquake,1.8,2.0,0.062,34.0,reviewed,us,us
+2022-04-23T17:08:14.472Z,63.4888,-148.1517,87.1,2.1,ml,,,,1.72,ak,ak022575wbuw,2022-04-23T17:20:53.816Z,"41 km ENE of Cantwell, Alaska",earthquake,,2.7,,,automatic,ak,ak
