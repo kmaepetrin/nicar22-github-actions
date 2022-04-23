@@ -13983,3 +13983,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T17:58:56.270Z,17.9558333333333,-66.8441666666667,12.4,3.27,md,28.0,173.0,,0.13,pr,pr71345653,2022-04-23T18:32:32.210Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.31,0.22,0.0611668051435519,9.0,reviewed,pr,pr
 2022-04-23T17:38:29.170Z,17.9408333333333,-66.838,12.93,2.42,md,12.0,179.0,,0.13,pr,pr71345623,2022-04-23T18:20:54.390Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.44,0.42,0.140514418710136,6.0,reviewed,pr,pr
 2022-04-23T10:02:24.770Z,37.4733333,-118.8533333,3.9,0.6,md,8.0,153.0,0.1181,0.03,nc,nc73722225,2022-04-23T18:27:46.181Z,"18km WSW of Toms Place, CA",earthquake,0.75,2.69,0.246,9.0,reviewed,nc,nc
+2022-04-23T18:42:29.740Z,33.669,-116.7688333,10.5,1.2,ml,40.0,46.0,0.06202,0.14,ci,ci40244496,2022-04-23T18:46:02.795Z,"9km SSW of Idyllwild, CA",earthquake,0.21,0.26,0.201,27.0,automatic,ci,ci
+2022-04-23T18:41:42.860Z,33.6625,-116.7715,10.15,2.09,ml,67.0,25.0,0.06813,0.2,ci,ci40244488,2022-04-23T18:45:26.809Z,"10km SSW of Idyllwild, CA",earthquake,0.19,0.32,0.192,25.0,automatic,ci,ci
