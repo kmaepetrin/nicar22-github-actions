@@ -14234,3 +14234,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T18:58:56.820Z,36.6008339,-121.1848297,1.8,1.62,md,12.0,128.0,0.02908,0.08,nc,nc73722805,2022-04-24T19:09:10.124Z,"8km NNW of Pinnacles, CA",earthquake,0.48,0.68,0.08,8.0,automatic,nc,nc
 2022-04-24T19:20:51.122Z,61.5468,-152.0038,107.1,1.5,ml,,,,0.73,ak,ak02258up720,2022-04-24T19:23:23.419Z,"58 km SSW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-24T19:19:51.444Z,64.6799,-149.3021,15.9,1.4,ml,,,,0.76,ak,ak02258uozd4,2022-04-24T19:23:25.184Z,"12 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-24T19:22:41.372Z,57.1499,-154.5436,10.0,1.9,ml,,,,0.43,ak,ak02258uplqh,2022-04-24T19:31:04.201Z,"32 km NW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
