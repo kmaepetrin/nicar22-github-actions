@@ -14080,3 +14080,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T03:33:53.560Z,33.918,-118.3003333,27.29,1.76,ml,31.0,98.0,0.04829,0.4,ci,ci40244728,2022-04-24T03:37:42.035Z,"3km NNE of Gardena, CA",earthquake,0.97,0.81,0.168,29.0,automatic,ci,ci
 2022-04-24T03:33:19.560Z,33.9171667,-118.3161667,22.79,1.79,ml,37.0,92.0,0.0498,0.26,ci,ci40244720,2022-04-24T03:44:21.640Z,"3km NNW of Gardena, CA",earthquake,0.45,0.72,0.179,32.0,automatic,ci,ci
 2022-04-23T20:37:27.780Z,38.834,-122.8081667,1.9,-0.03,md,16.0,48.0,0.01069,0.03,nc,nc73722395,2022-04-24T03:41:17.810Z,"8km W of Cobb, CA",earthquake,0.26,0.55,0.171,3.0,reviewed,nc,nc
+2022-04-24T03:52:10.930Z,33.9256667,-118.3281667,20.83,1.54,ml,22.0,133.0,0.0567,0.23,ci,ci40244744,2022-04-24T03:55:57.156Z,"2km ENE of Hawthorne, CA",earthquake,0.61,1.06,0.171,32.0,automatic,ci,ci
