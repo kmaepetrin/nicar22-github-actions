@@ -14433,3 +14433,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T16:53:39.130Z,47.4495,-113.9363333,12.17,0.95,ml,17.0,75.0,0.073,0.25,mb,mb80543969,2022-04-25T14:38:30.860Z,"10 km E of Kicking Horse, Montana",earthquake,0.5,0.98,0.256,3.0,reviewed,mb,mb
 2022-04-25T14:25:21.098Z,-21.6703,-179.1455,598.07,4.6,mb,,128.0,4.713,0.78,us,us6000hg85,2022-04-25T14:49:00.040Z,Fiji region,earthquake,15.1,12.3,0.094,37.0,reviewed,us,us
 2022-04-24T20:12:49.990Z,43.9818333,-110.864,10.56,0.84,ml,11.0,100.0,0.106,0.16,mb,mb80543989,2022-04-25T14:45:23.950Z,"28 km NNE of Alta, Wyoming",earthquake,0.52,0.82,0.22,8.0,reviewed,mb,mb
+2022-04-25T12:04:40.080Z,44.2658333,-115.1853333,9.22,2.07,ml,13.0,68.0,0.831,0.27,mb,mb80544024,2022-04-25T14:53:44.220Z,"20 km WNW of Stanley, Idaho",earthquake,0.61,1.31,0.134,12.0,reviewed,mb,mb
