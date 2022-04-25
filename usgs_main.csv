@@ -14526,3 +14526,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T21:14:12.180Z,33.7011667,-116.909,7.81,0.19,ml,11.0,169.0,0.01871,0.23,ci,ci40246056,2022-04-25T21:17:41.901Z,"5km SSW of Valle Vista, CA",earthquake,1.62,1.79,0.077,6.0,automatic,ci,ci
 2022-04-25T20:42:43.340Z,46.9005,-112.5198333,10.57,0.55,ml,7.0,133.0,0.06,0.11,mb,mb80544109,2022-04-25T21:21:07.790Z,"13 km ESE of Lincoln, Montana",earthquake,0.57,0.94,0.147,2.0,reviewed,mb,mb
 2022-04-25T18:21:32.310Z,46.8983333,-112.521,10.72,0.51,ml,9.0,96.0,0.059,0.12,mb,mb80544104,2022-04-25T21:15:51.990Z,"13 km ESE of Lincoln, Montana",earthquake,0.44,0.7,0.182,2.0,reviewed,mb,mb
+2022-04-25T21:28:22.316Z,35.11355209,-95.55789948,5.148492813,1.74,ml,10.0,112.0789185,0.1143985167,0.3017758888,ok,ok2022ibxw,2022-04-25T21:30:40.385Z,"10 km E of Crowder, Oklahoma",earthquake,4.914376817,4.897494937,,7.0,automatic,ok,ok
