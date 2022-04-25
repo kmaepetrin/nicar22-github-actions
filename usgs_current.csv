@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-25T11:38:39.076Z,59.9351,-153.0534,110.5,1.9,ml,,,,0.5,ak,ak0225adkwo3,2022-04-25T11:41:51.039Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-25T11:36:14.150Z,33.5913333,-116.8055,6.43,0.92,ml,43,41,0.03464,0.19,ci,ci40245600,2022-04-25T11:39:49.203Z,"13km WNW of Anza, CA",earthquake,0.2,0.42,0.173,29,automatic,ci,ci
+2022-04-25T11:36:14.150Z,33.5913333,-116.8055,6.43,0.92,ml,43,41,0.03464,0.19,ci,ci40245600,2022-04-25T11:45:17.947Z,"13km WNW of Anza, CA",earthquake,0.2,0.42,0.173,29,automatic,ci,ci
 2022-04-25T11:29:38.230Z,33.5958333,-116.8055,6.37,0.26,ml,13,79,0.04906,0.09,ci,ci40245592,2022-04-25T11:33:11.174Z,"13km WNW of Anza, CA",earthquake,0.26,0.57,0.13,6,automatic,ci,ci
 2022-04-25T11:28:28.262Z,65.1638,-150.2667,12.9,1,ml,,,,0.4,ak,ak0225adiqoa,2022-04-25T11:42:46.200Z,"25 km NE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-25T11:00:54.720Z,33.6758333,-116.73,17.59,0.75,ml,26,74,0.03763,0.15,ci,ci40245576,2022-04-25T11:04:29.347Z,"7km S of Idyllwild, CA",earthquake,0.34,0.45,0.14,25,automatic,ci,ci
