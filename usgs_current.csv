@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-25T08:51:09.580Z,38.831665,-122.8156662,1.61,0.97,md,18,66,0.009342,0.02,nc,nc73723070,2022-04-25T08:52:47.244Z,"8km NW of The Geysers, CA",earthquake,0.24,0.42,0.21,3,automatic,nc,nc
+2022-04-25T08:51:09.580Z,38.831665,-122.8156662,1.61,0.97,md,18,66,0.009342,0.02,nc,nc73723070,2022-04-25T09:07:17.330Z,"8km NW of The Geysers, CA",earthquake,0.24,0.42,0.21,3,automatic,nc,nc
 2022-04-25T08:36:26.400Z,38.8276672,-122.8056641,1.74,0.35,md,9,75,0.005483,0.01,nc,nc73723065,2022-04-25T08:53:22.251Z,"7km NW of The Geysers, CA",earthquake,0.33,0.96,,1,automatic,nc,nc
 2022-04-25T07:55:24.630Z,32.633,-115.6776667,2.73,1.49,ml,13,122,0.04421,0.29,ci,ci40245536,2022-04-25T07:59:05.844Z,"11km NW of Progreso, B.C., MX",earthquake,1.2,0.63,0.163,20,automatic,ci,ci
 2022-04-25T07:44:58.220Z,33.9818333,-118.8593333,19.65,1.79,ml,40,108,0.04908,0.23,ci,ci40245528,2022-04-25T07:48:43.787Z,"5km WSW of Malibu, CA",earthquake,0.46,0.49,0.191,29,automatic,ci,ci
@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T09:23:10.940Z,38.833168,-122.8050003,1.29,0.85,md,9,68,0.01053,0.01,nc,nc73722685,2022-04-24T09:59:17.772Z,"7km W of Cobb, CA",earthquake,0.33,1.09,,1,automatic,nc,nc
 2022-04-24T09:22:50.370Z,38.8326683,-122.8051682,1.22,0.36,md,9,96,0.01002,0.01,nc,nc73722680,2022-04-24T12:06:15.550Z,"7km W of Cobb, CA",earthquake,0.42,1.13,,1,automatic,nc,nc
 2022-04-24T09:15:57.880Z,19.2598323822021,-155.395172119141,30.7800006866455,1.86000001,md,30,147,,0.159999996,hv,hv72993972,2022-04-24T09:19:15.120Z,"10 km NE of Pāhala, Hawaii",earthquake,0.91,0.639999986,1.86000001,4,automatic,hv,hv
-2022-04-24T09:08:51.500Z,18.0111666666667,-66.8345,15.45,2.17,md,6,150,,0.08,pr,pr71345838,2022-04-24T09:29:52.650Z,"2 km NW of Indios, Puerto Rico",earthquake,0.53,0.74,0.0527381858829803,5,reviewed,pr,pr
-2022-04-24T09:07:01.020Z,18.047,-66.7651666666667,12.66,1.55,md,7,156,,0.44,pr,pr71345833,2022-04-24T09:27:47.070Z,"2 km SW of Santo Domingo, Puerto Rico",earthquake,1.6,2.34,0.200106185775589,5,reviewed,pr,pr
