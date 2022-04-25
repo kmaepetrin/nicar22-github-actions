@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-25T23:47:33.270Z,38.767334,-122.7588348,2.77,0.82,md,16,94,0.006375,0.02,nc,nc73723440,2022-04-25T23:49:11.276Z,"1km S of The Geysers, CA",earthquake,0.39,0.64,0.05,3,automatic,nc,nc
+2022-04-25T23:42:54.480Z,38.7651672,-122.7593307,2.66,0.96,md,13,137,0.007477,0.03,nc,nc73723435,2022-04-25T23:44:31.364Z,"1km S of The Geysers, CA",earthquake,0.37,0.5,0.19,3,automatic,nc,nc
 2022-04-25T23:29:03.460Z,38.8166656,-122.8119965,2.65,0.93,md,26,44,0.006885,0.04,nc,nc73723425,2022-04-25T23:30:41.514Z,"6km NW of The Geysers, CA",earthquake,0.22,0.48,0.05,5,automatic,nc,nc
 2022-04-25T23:13:30.950Z,33.9285,-116.8081667,13.99,0.81,ml,23,50,0.09509,0.27,ci,ci40246088,2022-04-25T23:17:16.572Z,"2km WNW of Cabazon, CA",earthquake,0.49,0.88,0.151,20,automatic,ci,ci
 2022-04-25T23:11:05.440Z,38.8196678,-122.7771683,1.06,0.47,md,14,67,0.006964,0.04,nc,nc73723405,2022-04-25T23:43:15.693Z,"5km W of Cobb, CA",earthquake,0.27,0.43,0.22,3,automatic,nc,nc
@@ -251,6 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T23:59:01.040Z,44.765,-110.9185,6.65,0.52,md,10,129,0.05376,0.13,uu,uu60494167,2022-04-25T13:27:57.590Z,"18 km NE of West Yellowstone, Montana",earthquake,0.44,1.19,0.285,7,reviewed,uu,uu
 2022-04-24T23:52:32.141Z,62.7707,-143.3212,11.6,1.3,ml,,,,0.84,ak,ak02258x9qxa,2022-04-25T00:04:50.414Z,"28 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-24T23:51:06.280Z,37.1521683,-121.5263367,9.13,1.05,md,6,85,0.06202,0.04,nc,nc73722875,2022-04-25T02:22:18.863Z,"10km NE of San Martin, CA",earthquake,0.55,1.68,0.13,5,automatic,nc,nc
-2022-04-24T23:50:26.212Z,-3.7479,140.4913,10,5.3,mww,,20,10.064,1.11,us,us6000hg4t,2022-04-25T01:54:02.092Z,"128 km S of Abepura, Indonesia",earthquake,8.5,1.7,0.098,10,reviewed,us,us
-2022-04-24T23:46:02.480Z,19.288,-154.818333333333,7.94,2.43,md,25,290,,0.18,hv,hv72994442,2022-04-25T03:57:48.800Z,"22 km SSE of Leilani Estates, Hawaii",earthquake,0.6,0.35,0.129469038925402,7,reviewed,hv,hv
-2022-04-24T23:45:48.930Z,35.7701667,-117.6135,11.13,1,mh,11,126,0.0473,0.06,ci,ci40245336,2022-04-25T21:42:15.299Z,"18km NNE of Ridgecrest, CA",earthquake,0.21,0.22,,0,reviewed,ci,ci
