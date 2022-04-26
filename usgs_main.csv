@@ -14824,3 +14824,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T23:17:26.893Z,63.4102,-144.9523,7.3,1.7,ml,,,,0.94,ak,ak0225c84xdn,2022-04-26T23:20:48.226Z,"30 km SSW of Dry Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-26T23:11:16.100Z,19.3721675872803,-154.997665405273,2.0,2.03,ml,27.0,195.0,,0.140000001,hv,hv72996062,2022-04-26T23:16:46.690Z,"13 km SW of Leilani Estates, Hawaii",earthquake,0.66,0.680000007,3.58,6.0,automatic,hv,hv
 2022-04-26T22:18:25.700Z,18.0045,-66.9881666666667,7.78,1.4,md,5.0,132.0,,0.04,pr,pr71346258,2022-04-26T23:25:45.980Z,"6 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.41,0.77,0.131168674608701,4.0,reviewed,pr,pr
+2022-04-26T23:28:47.574Z,61.4458,-149.9447,35.3,1.0,ml,,,,0.86,ak,ak0225c87bx1,2022-04-26T23:31:12.011Z,"8 km S of Big Lake, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2022-04-26T22:22:57.560Z,47.50516666666667,-122.00133333333332,5.28,2.0,ml,36.0,48.0,0.07739,0.26,uw,uw61834471,2022-04-26T23:39:41.610Z,"3 km SE of Issaquah, Washington",earthquake,0.28,1.02,0.2212750582938651,20.0,reviewed,uw,uw
