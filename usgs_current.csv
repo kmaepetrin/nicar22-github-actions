@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-26T07:52:19.884Z,61.8648,-151.0483,70.2,1.5,ml,,,,0.39,ak,ak0225bytha7,2022-04-26T07:57:51.687Z,"23 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-26T07:39:58.720Z,34.371,-116.462,9.81,1.28,ml,22,131,0.103,0.16,ci,ci40246232,2022-04-26T07:50:47.150Z,"29km N of Yucca Valley, CA",earthquake,0.36,0.65,0.235,30,automatic,ci,ci
 2022-04-26T07:36:23.000Z,19.236665725708,-155.433166503906,33.939998626709,2.23,ml,46,122,,0.119999997,hv,hv72995512,2022-04-26T07:41:54.650Z,"6 km NE of Pāhala, Hawaii",earthquake,0.45,0.670000017,0.27,5,automatic,hv,hv
 2022-04-26T07:07:01.690Z,18.0273333333333,-66.768,13.13,2.81,md,13,123,,0.14,pr,pr71346158,2022-04-26T07:23:06.130Z,"1 km N of Magas Arriba, Puerto Rico",earthquake,0.29,0.41,0.062707224695782,4,reviewed,pr,pr
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T08:51:09.580Z,38.831665,-122.8156662,1.61,0.97,md,18,66,0.009342,0.02,nc,nc73723070,2022-04-25T10:07:16.684Z,"8km NW of The Geysers, CA",earthquake,0.24,0.42,0.21,3,automatic,nc,nc
 2022-04-25T08:36:26.400Z,38.8276672,-122.8056641,1.74,0.35,md,9,75,0.005483,0.01,nc,nc73723065,2022-04-25T09:39:17.502Z,"7km NW of The Geysers, CA",earthquake,0.33,0.96,,1,automatic,nc,nc
 2022-04-25T08:26:59.640Z,45.8105,-111.59,13.34,-0.91,md,3,270,0.203,0.02,mb,mb80544099,2022-04-25T21:08:00.390Z,"4 km ESE of Willow Creek, Montana",earthquake,2.09,1.67,,1,reviewed,mb,mb
-2022-04-25T07:55:24.430Z,32.648,-115.661,5.97,1.48,ml,25,121,0.05517,0.17,ci,ci40245536,2022-04-25T23:01:33.525Z,"10km NW of Progreso, B.C., MX",earthquake,0.41,0.52,0.141,19,reviewed,ci,ci
