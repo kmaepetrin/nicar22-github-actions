@@ -244,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T05:55:33.910Z,38.8338318,-122.8113327,2.01,1.05,md,21,45,0.01047,0.02,nc,nc73723025,2022-04-25T06:12:16.299Z,"8km W of Cobb, CA",earthquake,0.21,0.46,0.34,3,automatic,nc,nc
 2022-04-25T05:54:48.559Z,47.3776,-70.2253,10,1.8,ml,,65,0.184,0.64,us,us6000hgdu,2022-04-26T03:46:31.040Z,"14 km W of La Pocatière, Canada",earthquake,2.9,2,0.115,10,reviewed,us,us
 2022-04-25T05:54:40.660Z,33.4171667,-116.61,6.79,0.51,ml,23,69,0.07696,0.09,ci,ci40245480,2022-04-25T22:41:02.399Z,"15km N of Warner Springs, CA",earthquake,0.2,0.4,0.109,9,reviewed,ci,ci
-2022-04-25T05:49:08.340Z,33.929,-116.814,15.68,0.56,ml,24,96,0.09617,0.15,ci,ci40245464,2022-04-25T22:35:03.316Z,"3km WNW of Cabazon, CA",earthquake,0.28,0.6,0.119,14,reviewed,ci,ci
-2022-04-25T05:47:20.530Z,33.9306667,-116.8196667,16.34,1.9,ml,81,24,0.09859,0.16,ci,ci40245456,2022-04-25T22:32:02.130Z,"3km WNW of Cabazon, CA",earthquake,0.12,0.36,0.185,25,reviewed,ci,ci
