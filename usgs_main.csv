@@ -14802,3 +14802,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T20:02:20.568Z,34.7787,32.4818,13.76,4.2,mb,,102.0,0.721,0.93,us,us6000hgid,2022-04-26T21:39:40.040Z,"2 km ESE of Konia, Cyprus",earthquake,5.4,3.4,0.06,84.0,reviewed,us,us
 2022-04-26T21:09:38.350Z,37.96,-118.5611667,3.59,2.13,md,18.0,72.0,0.1919,0.14,nc,nc73724786,2022-04-26T21:45:58.213Z,"39km S of Qualeys Camp, NV",earthquake,0.32,4.53,0.309,25.0,reviewed,nc,nc
 2022-04-26T17:02:55.708Z,-20.2014,-69.5894,37.27,3.6,ml,,142.0,0.414,0.76,us,us6000hggr,2022-04-26T21:46:12.565Z,"58 km E of Iquique, Chile",earthquake,4.8,22.1,0.081,20.0,reviewed,us,us
+2022-04-26T21:48:08.483Z,63.2229,-150.553,68.5,1.2,ml,,,,1.47,ak,ak0225c74nzt,2022-04-26T21:51:33.712Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
