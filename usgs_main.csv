@@ -14798,3 +14798,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T21:20:09.898Z,35.10676575,-95.52417755,5.0,2.52,ml,29.0,71.83397675,0.1052446887,0.7125209492,ok,ok2022idtc,2022-04-26T21:23:42.158Z,"13 km E of Crowder, Oklahoma",earthquake,3.402437026,,,22.0,automatic,ok,ok
 2022-04-26T21:13:01.310Z,17.8935,-66.935,8.13,1.79,md,3.0,272.0,,0.03,pr,pr71346238,2022-04-26T21:26:32.590Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.89,6.83,0.06983879466514,3.0,reviewed,pr,pr
 2022-04-26T20:39:30.420Z,46.9055,-122.1245,-0.92,0.49,md,11.0,265.0,0.05978,0.33,uw,uw61834411,2022-04-26T21:25:34.740Z,"11 km ENE of Eatonville, Washington",explosion,1.13,31.61,0.1801772412858389,7.0,reviewed,uw,uw
+2022-04-26T21:33:59.620Z,38.8388329,-122.8379974,1.86,0.62,md,17.0,112.0,0.001976,0.02,nc,nc73724796,2022-04-26T21:35:32.907Z,"10km NW of The Geysers, CA",earthquake,0.28,0.48,0.25,2.0,automatic,nc,nc
+2022-04-26T20:02:20.568Z,34.7787,32.4818,13.76,4.2,mb,,102.0,0.721,0.93,us,us6000hgid,2022-04-26T21:39:40.040Z,"2 km ESE of Konia, Cyprus",earthquake,5.4,3.4,0.06,84.0,reviewed,us,us
