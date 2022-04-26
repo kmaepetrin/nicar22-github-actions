@@ -14614,3 +14614,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T04:41:26.650Z,38.7885017,-122.7696686,2.06,0.8,md,10.0,95.0,0.01439,0.03,nc,nc73723555,2022-04-26T04:43:01.117Z,"2km NW of The Geysers, CA",earthquake,0.42,0.82,0.08,2.0,automatic,nc,nc
 2022-04-26T04:24:39.430Z,35.8786667,-117.7056667,2.25,0.9,ml,16.0,70.0,0.08238,0.23,ci,ci40246184,2022-04-26T04:28:14.596Z,"19km ESE of Little Lake, CA",earthquake,0.34,0.58,0.156,12.0,automatic,ci,ci
 2022-04-25T18:26:05.480Z,53.8838333333333,-166.944833333333,20.21,0.73,ml,5.0,228.0,,0.08,av,av91545606,2022-04-26T04:22:19.080Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.66,0.56,0.131764586179022,5.0,reviewed,av,av
+2022-04-26T04:58:04.670Z,38.8051682,-122.8081665,1.46,0.74,md,16.0,54.0,0.01043,0.03,nc,nc73723560,2022-04-26T04:59:41.279Z,"6km NW of The Geysers, CA",earthquake,0.23,0.53,0.11,2.0,automatic,nc,nc
