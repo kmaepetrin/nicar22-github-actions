@@ -237,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T00:00:41.444Z,61.8523,-149.1621,19.8,1.1,ml,,,,0.3,ak,ak0225bucchc,2022-04-26T00:16:21.739Z,"12 km NNE of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-25T23:55:12.189Z,59.6787,-153.6996,114.7,1.8,ml,,,,0.48,ak,ak0225aktoxm,2022-04-25T23:58:30.139Z,"25 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-25T23:55:04.022Z,61.33,-147.8008,0,1.6,ml,,,,1.45,ak,ak0225aktoe5,2022-04-25T23:57:35.079Z,"53 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-25T23:47:33.270Z,38.767334,-122.7588348,2.77,0.82,md,16,94,0.006375,0.02,nc,nc73723440,2022-04-26T00:26:16.958Z,"1km S of The Geysers, CA",earthquake,0.39,0.64,0.05,3,automatic,nc,nc
-2022-04-25T23:42:54.480Z,38.7651672,-122.7593307,2.66,0.96,md,13,137,0.007477,0.03,nc,nc73723435,2022-04-26T00:15:15.888Z,"1km S of The Geysers, CA",earthquake,0.37,0.5,0.19,3,automatic,nc,nc
