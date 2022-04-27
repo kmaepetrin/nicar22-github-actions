@@ -15100,3 +15100,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T23:16:15.390Z,35.1126667,-117.6261667,0.28,1.59,ml,11.0,142.0,0.1869,0.16,ci,ci40247256,2022-04-27T23:19:57.646Z,"13km N of Boron, CA",earthquake,0.77,31.61,0.212,28.0,automatic,ci,ci
 2022-04-27T23:14:35.380Z,35.673,-117.4248333,2.05,1.13,ml,14.0,154.0,0.09152,0.18,ci,ci40247248,2022-04-27T23:18:09.553Z,"11km S of Searles Valley, CA",earthquake,0.45,0.71,0.148,11.0,automatic,ci,ci
 2022-04-27T23:09:23.868Z,-19.2902,167.5419,10.0,5.4,mww,,72.0,3.307,1.01,us,us7000h5hl,2022-04-27T23:29:27.678Z,"182 km N of Wé, New Caledonia",earthquake,7.6,1.8,0.089,12.0,reviewed,us,us
+2022-04-27T23:37:47.003Z,61.3988,-149.9021,33.5,1.1,ml,,,,0.61,ak,ak0225dvslt8,2022-04-27T23:41:03.200Z,"5 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
