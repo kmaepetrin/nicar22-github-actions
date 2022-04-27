@@ -15049,3 +15049,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T20:32:15.560Z,38.8269997,-122.7610016,0.81,0.45,md,8.0,138.0,0.007776,0.02,nc,nc73725226,2022-04-27T20:33:52.803Z,"3km W of Cobb, CA",earthquake,0.36,0.83,0.4,2.0,automatic,nc,nc
 2022-04-27T15:28:31.650Z,36.0256667,-117.7783333,2.4,0.69,ml,10.0,67.0,0.01061,0.08,ci,ci40246992,2022-04-27T20:36:58.908Z,"15km NE of Little Lake, CA",earthquake,0.2,0.14,0.248,3.0,reviewed,ci,ci
 2022-04-27T03:20:40.975Z,40.5375,-118.8103,12.6,1.7,ml,7.0,211.81,0.793,0.1066,nn,nn00837959,2022-04-27T20:36:24.023Z,"43 km SE of Black Rock City, Nevada",earthquake,,2.8,0.41,5.0,reviewed,nn,nn
+2022-04-27T20:48:40.030Z,38.8061676,-122.7916641,0.8,0.83,md,10.0,57.0,0.003364,0.02,nc,nc73725241,2022-04-27T20:50:17.957Z,"4km NW of The Geysers, CA",earthquake,0.3,0.54,,1.0,automatic,nc,nc
+2022-04-27T20:42:25.270Z,38.7986679,-122.7523346,1.65,0.86,md,9.0,164.0,0.006087,0.02,nc,nc73725231,2022-04-27T20:44:02.878Z,"2km N of The Geysers, CA",earthquake,0.42,0.84,,1.0,automatic,nc,nc
+2022-04-27T08:17:53.198Z,39.4116,-119.9286,7.5,0.0,ml,6.0,137.57,0.129,0.1186,nn,nn00837961,2022-04-27T20:45:42.604Z,"8 km ENE of Floriston, California",earthquake,,5.6,0.08,2.0,reviewed,nn,nn
