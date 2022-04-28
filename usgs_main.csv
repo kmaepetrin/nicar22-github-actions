@@ -15362,3 +15362,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T21:46:04.399Z,62.8352,-151.5876,0.0,1.1,ml,,,,0.81,ak,ak0225fi6x93,2022-04-28T21:48:47.447Z,"56 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-28T09:12:40.598Z,40.2355,-119.7169,11.2,0.1,ml,4.0,280.73,0.067,0.194,nn,nn00838026,2022-04-28T21:52:46.418Z,"33 km NNW of Sutcliffe, Nevada",earthquake,,5.1,0.0,1.0,reviewed,nn,nn
 2022-04-28T05:06:19.640Z,54.1205,-165.915666666667,2.64,-1.28,ml,5.0,109.0,,0.2,av,av91056638,2022-04-28T21:46:57.160Z,"9 km W of Akutan, Alaska",earthquake,0.48,1.25,0.28622018054215,5.0,reviewed,av,av
+2022-04-28T09:26:51.683Z,38.8812,-119.6533,0.0,0.2,ml,3.0,278.05,0.037,0.1141,nn,nn00838027,2022-04-28T21:59:00.161Z,"2 km NNW of Carter Springs, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2022-04-28T05:14:47.690Z,53.9461666666667,-166.206666666667,10.24,0.54,ml,16.0,180.0,,0.26,av,av91056643,2022-04-28T22:00:56.410Z,"22 km ENE of Dutch Harbor, Alaska",earthquake,1.36,31.61,0.180500432331196,15.0,reviewed,av,av
