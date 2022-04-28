@@ -15270,3 +15270,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T13:21:13.263Z,-3.9519,146.6595,10.0,6.0,mww,,40.0,5.495,1.01,us,us7000h5mc,2022-04-28T13:47:47.711Z,"170 km NE of Madang, Papua New Guinea",earthquake,7.9,1.8,0.078,16.0,reviewed,us,us
 2022-04-28T07:31:16.600Z,43.4545,-110.2925,5.78,2.1,ml,15.0,131.0,0.276,0.18,mb,mb80544334,2022-04-28T13:54:29.190Z,"29 km NNE of Bondurant, Wyoming",earthquake,0.52,9.66,0.265,17.0,reviewed,mb,mb
 2022-04-28T02:30:44.120Z,33.4445,-116.6355,4.59,0.22,ml,20.0,100.0,0.05376,0.08,ci,ci40247328,2022-04-28T13:47:31.838Z,"13km SSE of Anza, CA",earthquake,0.15,0.19,0.071,3.0,reviewed,ci,ci
+2022-04-28T12:15:11.030Z,33.9161667,-116.7253333,14.53,0.56,ml,24.0,71.0,0.1019,0.11,ci,ci40247568,2022-04-28T14:00:25.726Z,"6km E of Cabazon, CA",earthquake,0.18,0.48,0.133,10.0,reviewed,ci,ci
+2022-04-28T00:07:30.310Z,44.3561667,-115.1886667,7.87,2.24,ml,13.0,82.0,0.825,0.21,mb,mb80544314,2022-04-28T14:03:51.230Z,"25 km NW of Stanley, Idaho",earthquake,0.48,0.99,0.117,13.0,reviewed,mb,mb
