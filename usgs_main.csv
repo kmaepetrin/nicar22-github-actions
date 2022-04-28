@@ -15179,3 +15179,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T05:14:05.034Z,-20.8154,-68.9117,112.28,4.1,mb,,48.0,0.583,0.75,us,us7000h5k0,2022-04-28T05:44:31.040Z,"145 km ESE of Iquique, Chile",earthquake,4.6,6.7,0.157,12.0,reviewed,us,us
 2022-04-28T04:10:58.054Z,31.6119902,-103.9798422,8.291040039,3.7,ml,9.0,91.0,0.0765978628,0.1,tx,tx2022igcd,2022-04-28T05:25:17.036Z,"37 km NNW of Toyah, Texas",earthquake,0.8981250272999999,1.131668771,0.2,7.0,reviewed,tx,tx
 2022-04-28T04:05:15.330Z,35.8015,-121.3063333,4.88,1.68,md,31.0,191.0,0.172,0.07,nc,nc73725391,2022-04-28T05:35:20.066Z,"20km NNW of San Simeon, CA",earthquake,0.28,0.85,0.269,24.0,reviewed,nc,nc
+2022-04-28T05:54:01.594Z,63.6039,-147.2776,0.0,1.3,ml,,,,0.92,ak,ak0225f8pp33,2022-04-28T05:55:57.985Z,"82 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
