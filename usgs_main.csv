@@ -15282,3 +15282,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T14:52:57.660Z,19.1546669006348,-155.473999023438,31.5,2.4,ml,48.0,141.0,,0.140000001,hv,hv72997672,2022-04-28T14:58:28.720Z,"5 km S of Pāhala, Hawaii",earthquake,0.61,0.870000005,3.89,13.0,automatic,hv,hv
 2022-04-28T14:52:28.998Z,60.1185,-141.5037,5.8,2.4,ml,,,,0.86,ak,ak0225fe287a,2022-04-28T14:55:01.008Z,"118 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-28T14:49:32.737Z,38.6356,-119.8183,4.6,1.2,ml,9.0,227.65,0.238,0.087,nn,nn00838001,2022-04-28T14:53:37.839Z,"7 km SSW of Markleeville, California",earthquake,,1.8,0.24,7.0,automatic,nn,nn
+2022-04-28T15:00:00.809Z,38.7129,-118.4482,8.5,3.1,ml,31.0,73.68,0.356,0.409,nn,nn00838002,2022-04-28T15:03:55.562Z,"25 km NE of Hawthorne, Nevada",earthquake,,0.5,0.26,17.0,automatic,nn,nn
+2022-04-28T10:09:36.810Z,37.5378333,-118.8888333,4.07,0.47,md,8.0,194.0,0.07048,0.13,nc,nc73725576,2022-04-28T15:10:03.453Z,"14km SE of Mammoth Lakes, CA",earthquake,0.72,2.19,0.174,8.0,reviewed,nc,nc
