@@ -15213,3 +15213,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T09:24:51.700Z,38.7944984,-122.8000031,1.17,1.25,md,12.0,104.0,0.006613,0.03,nc,nc73725546,2022-04-28T09:33:11.396Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.68,0.25,2.0,automatic,nc,nc
 2022-04-28T09:23:32.880Z,38.793335,-122.7993317,1.0,0.74,md,11.0,81.0,0.005792,0.03,nc,nc73725541,2022-04-28T09:25:10.169Z,"4km WNW of The Geysers, CA",earthquake,0.29,0.55,0.11,2.0,automatic,nc,nc
 2022-04-28T09:19:15.570Z,38.8686676,-122.8604965,13.81,0.95,md,9.0,184.0,0.02932,0.04,nc,nc73725536,2022-04-28T09:20:51.164Z,"12km S of Kelseyville, CA",earthquake,1.79,1.25,,1.0,automatic,nc,nc
+2022-04-28T09:39:43.520Z,34.0008333,-118.4211667,7.21,1.62,ml,26.0,198.0,0.03591,0.27,ci,ci40247488,2022-04-28T09:43:31.528Z,"3km SW of Culver City, CA",earthquake,0.67,0.77,0.204,28.0,automatic,ci,ci
