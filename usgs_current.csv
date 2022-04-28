@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-28T19:24:07.390Z,17.9296666666667,-66.8721666666667,11.05,2.54,md,7,219,,0.14,pr,pr71346633,2022-04-28T19:48:54.700Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.86,0.59,0.120541961987528,3,reviewed,pr,pr
+2022-04-28T19:48:51.469Z,38.4989,-116.1024,1.6,2.2,ml,8,139.5,0.976,0.2119,nn,nn00838021,2022-04-28T19:53:18.388Z,"99 km NNW of Rachel, Nevada",earthquake,,3.1,0.99,6,automatic,nn,nn
+2022-04-28T19:24:07.390Z,17.9296666666667,-66.8721666666667,11.05,2.54,md,7,219,,0.14,pr,pr71346633,2022-04-28T19:48:54.700Z,"Puerto Rico region",earthquake,0.86,0.59,0.120541961987528,3,reviewed,pr,pr
 2022-04-28T19:23:46.940Z,38.8255005,-122.7648315,2.12,1.07,md,20,126,0.006355,0.03,nc,nc73725826,2022-04-28T19:41:20.352Z,"4km W of Cobb, CA",earthquake,0.29,0.5,0.16,5,automatic,nc,nc
 2022-04-28T19:22:18.207Z,61.619,-150.3746,48.7,1.3,ml,,,,0.36,ak,ak0225fguxx8,2022-04-28T19:31:22.391Z,"11 km NE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-28T19:14:47.496Z,62.9785,-150.7921,109.2,1.9,ml,,,,0.56,ak,ak0225fgtagg,2022-04-28T19:34:20.225Z,"53 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -145,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T05:28:40.670Z,46.95933333333333,-121.969,12.86,0.29,ml,11,84,0.01209,0.11,uw,uw61834831,2022-04-28T18:51:20.390Z,"14 km SSE of Carbonado, Washington",earthquake,0.69,1.12,0.10937299771632958,3,reviewed,uw,uw
 2022-04-28T05:28:23.900Z,34.0998333,-118.2196667,10.75,1.26,ml,29,54,0.02463,0.11,ci,ci40247408,2022-04-28T15:19:30.758Z,"3km SW of Highland Park, CA",earthquake,0.18,0.31,0.093,12,reviewed,ci,ci
 2022-04-28T05:27:11.310Z,34.9133333,-119.5631667,9.49,1.85,ml,38,47,0.09563,0.26,ci,ci40247400,2022-04-28T15:11:51.780Z,"22km SW of Maricopa, CA",earthquake,0.31,0.74,0.152,25,reviewed,ci,ci
-2022-04-28T05:26:05.110Z,39.1874,-119.5761,6.8,-0.2,ml,3,237.55,0.1,0.049,nn,nn00838020,2022-04-28T18:07:32.244Z,"5 km SSE of Dayton, Nevada",earthquake,,10.1,0,1,reviewed,nn,nn
+2022-04-28T05:26:05.110Z,39.1874,-119.5761,6.8,-0.2,ml,3,237.55,0.1,0.049,nn,nn00838020,2022-04-28T18:07:32.244Z,"Nevada",earthquake,,10.1,0,1,reviewed,nn,nn
 2022-04-28T05:18:06.580Z,35.947,-117.686,2.52,1.76,ml,22,75,0.02892,0.14,ci,ci40247392,2022-04-28T12:46:40.568Z,"20km E of Little Lake, CA",earthquake,0.23,0.32,0.13,26,reviewed,ci,ci
 2022-04-28T05:18:01.790Z,38.8013344,-122.8203354,3.13,1.2,md,14,80,0.01021,0.02,nc,nc73725421,2022-04-28T08:42:14.047Z,"6km WNW of The Geysers, CA",earthquake,0.38,1,0.61,3,automatic,nc,nc
 2022-04-28T05:14:39.550Z,17.98,-66.8526666666667,16.06,2.53,md,7,185,,0.08,pr,pr71346568,2022-04-28T05:32:49.180Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.41,0.66,0.14975866846873,4,reviewed,pr,pr
