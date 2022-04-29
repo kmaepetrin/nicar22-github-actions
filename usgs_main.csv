@@ -15527,3 +15527,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T13:10:12.196Z,61.2006,-147.021,0.0,1.6,ml,,,,0.45,ak,ak0225h0r3m9,2022-04-29T13:13:02.857Z,"37 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-29T10:36:18.303Z,17.8148,145.8684,250.92,4.3,mb,,79.0,16.181,0.42,us,us7000h5tq,2022-04-29T13:21:57.040Z,"288 km N of Saipan, Northern Mariana Islands",earthquake,12.0,7.9,0.066,64.0,reviewed,us,us
 2022-04-29T13:49:00.966Z,61.5671,-150.4712,17.6,1.1,ml,,,,0.45,ak,ak0225h0zfsg,2022-04-29T13:51:23.692Z,"3 km NE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-29T14:11:49.680Z,36.0815,-117.442,-0.2,2.18,ml,26.0,61.0,0.1948,0.18,ci,ci40248376,2022-04-29T14:15:22.346Z,"35km N of Searles Valley, CA",earthquake,0.34,31.61,0.13,25.0,automatic,ci,ci
+2022-04-29T12:55:57.420Z,17.933,-66.9021666666667,18.83,1.86,md,4.0,221.0,,0.09,pr,pr71346743,2022-04-29T14:08:34.780Z,"4 km S of Guánica, Puerto Rico",earthquake,3.34,0.86,0.144660346296843,4.0,reviewed,pr,pr
+2022-04-28T22:52:06.670Z,36.3,-89.5353333,9.78,1.11,md,13.0,62.0,0.03522,0.08,nm,nm60392211,2022-04-29T14:04:47.000Z,"5 km NW of Ridgely, Tennessee",earthquake,0.7,0.87,0.054,9.0,reviewed,nm,nm
+2022-04-28T19:06:59.240Z,44.9091667,-111.52,9.59,1.88,ml,33.0,54.0,0.101,0.21,mb,mb80544374,2022-04-29T14:12:50.000Z,"30 km WNW of Hebgen Lake Estates, Montana",earthquake,0.41,0.79,0.234,19.0,reviewed,mb,mb
