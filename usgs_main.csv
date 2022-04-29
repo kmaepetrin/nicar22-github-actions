@@ -15451,3 +15451,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T05:22:53.117Z,62.3242,-149.7258,39.6,1.8,ml,,,,0.77,ak,ak0225gw2ak8,2022-04-29T05:30:22.331Z,"19 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-29T05:26:27.830Z,17.9605,-66.8606666666667,15.25,2.05,md,4.0,273.0,,0.08,pr,pr71346703,2022-04-29T05:42:00.640Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,2.03,0.81,0.313072131185607,2.0,reviewed,pr,pr
 2022-04-29T04:24:18.110Z,18.3461,-68.3063,107.0,3.85,md,15.0,274.0,0.1838,0.06,pr,pr2022119000,2022-04-29T05:37:09.322Z,"28 km SSE of Punta Cana, Dominican Republic",earthquake,6.77,1.29,0.11,7.0,reviewed,pr,pr
+2022-04-29T05:55:44.590Z,35.6144981,-120.7226639,4.82,1.63,md,24.0,63.0,,0.1,nc,nc73726081,2022-04-29T05:57:19.411Z,"4km WSW of Paso Robles, CA",earthquake,0.35,1.83,0.24,14.0,automatic,nc,nc
