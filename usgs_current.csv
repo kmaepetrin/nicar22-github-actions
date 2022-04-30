@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-30T09:42:25.109Z,61.9427,-148.6989,20.1,1.5,ml,,,,0.61,ak,ak0225im3lpu,2022-04-30T09:46:59.675Z,"18 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-30T09:41:11.090Z,58.26,-154.4054,84.9,2.2,ml,,,,0.42,ak,ak0225im3cwj,2022-04-30T09:46:48.608Z,"77 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-30T09:42:25.109Z,61.9427,-148.6989,20.1,1.5,ml,,,,0.61,ak,ak0225im3lpu,2022-04-30T09:53:39.970Z,"18 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-30T09:41:11.090Z,58.26,-154.4054,84.9,2.2,ml,,,,0.42,ak,ak0225im3cwj,2022-04-30T09:52:34.142Z,"77 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-30T09:21:28.621Z,-34.4647,-72.07,18.6,4.5,mb,,129,0.555,0.65,us,us7000h61w,2022-04-30T09:48:47.040Z,"67 km WNW of Santa Cruz, Chile",earthquake,3.8,1.7,0.144,14,reviewed,us,us
 2022-04-30T09:19:02.490Z,19.1971664428711,-155.484497070312,33.3800010681152,2.02,ml,48,135,,0.140000001,hv,hv72999427,2022-04-30T09:24:36.120Z,"0 km SW of Pāhala, Hawaii",earthquake,0.43,0.699999988,3.31,7,automatic,hv,hv
 2022-04-30T09:06:45.583Z,34.8994,135.6439,10,4.2,mb,,75,1.221,0.45,us,us7000h61r,2022-04-30T09:45:25.555Z,"6 km NNE of Takatsuki, Japan",earthquake,6.1,1.9,0.128,19,reviewed,us,us
 2022-04-30T08:52:22.910Z,35.6151667,-117.579,8.3,1.45,ml,23,109,0.09939,0.14,ci,ci40248992,2022-04-30T09:02:45.590Z,"9km E of Ridgecrest, CA",earthquake,0.23,0.94,0.141,22,automatic,ci,ci
@@ -235,7 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T10:19:04.150Z,36.0336667,-117.6761667,1.81,1.21,ml,15,133,0.07271,0.13,ci,ci40248200,2022-04-29T12:39:21.958Z,"23km ENE of Little Lake, CA",earthquake,0.3,0.4,0.174,17,reviewed,ci,ci
 2022-04-29T10:09:02.108Z,59.9889,-152.7877,68.9,0.9,ml,,,,1.14,ak,ak0225gyykf6,2022-04-29T10:11:30.639Z,"58 km WNW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-04-29T10:08:17.340Z,36.9824982,-121.4748306,6.29,1.59,md,16,96,0.04349,0.14,nc,nc73726131,2022-04-29T11:12:11.079Z,"9km ESE of Gilroy, CA",earthquake,0.53,1.12,0.19,14,automatic,nc,nc
-2022-04-29T09:53:53.840Z,54.0848333333333,-166.008666666667,16.29,0.49,ml,12,149,,0.33,av,av91056733,2022-04-29T17:59:03.910Z,"16 km WSW of Akutan, Alaska",earthquake,1.46,0.92,0.454924307094664,11,reviewed,av,av
-2022-04-29T09:53:20.140Z,54.1055,-166.020166666667,16.18,0.56,ml,14,65,,0.25,av,av91056728,2022-04-29T17:50:00.910Z,"16 km W of Akutan, Alaska",earthquake,0.93,0.67,0.363091008387683,14,reviewed,av,av
-2022-04-29T09:49:59.680Z,38.9943333,-123.3291667,3.08,1.2,md,15,63,0.01662,0.08,nc,nc73726126,2022-04-29T20:23:11.476Z,"4km ESE of Boonville, CA",earthquake,0.26,0.36,0.198,14,reviewed,nc,nc
-2022-04-29T09:49:52.600Z,54.1111666666667,-166.013333333333,14.67,0.66,ml,12,92,,0.29,av,av91547996,2022-04-29T17:36:37.350Z,"15 km W of Akutan, Alaska",earthquake,0.86,1.01,0.320327100562953,12,reviewed,av,av
