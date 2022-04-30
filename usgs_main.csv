@@ -15845,3 +15845,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T18:38:44.580Z,35.9595,-117.982,1.92,1.82,ml,33.0,43.0,0.08853,0.18,ci,ci40249304,2022-04-30T18:49:20.640Z,"7km WNW of Little Lake, CA",earthquake,0.26,0.43,0.192,26.0,automatic,ci,ci
 2022-04-30T18:37:17.370Z,38.821167,-122.7624969,1.8,0.83,md,19.0,122.0,0.01095,0.04,nc,nc73726691,2022-04-30T18:38:54.407Z,"3km W of Cobb, CA",earthquake,0.3,0.5,0.31,3.0,automatic,nc,nc
 2022-04-29T23:27:15.410Z,37.3475,-118.4015,9.19,1.46,md,13.0,133.0,0.05956,0.08,nc,nc73726321,2022-04-30T18:48:52.861Z,"2km SSW of Bishop, CA",earthquake,0.36,0.96,0.482,15.0,reviewed,nc,nc
+2022-04-30T18:52:45.190Z,34.0563333,-116.434,8.7,1.28,ml,40.0,42.0,0.03881,0.2,ci,ci40249328,2022-04-30T18:56:18.620Z,"6km S of Yucca Valley, CA",earthquake,0.25,0.63,0.192,28.0,automatic,ci,ci
