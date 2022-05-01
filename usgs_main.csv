@@ -15998,3 +15998,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T09:50:52.290Z,38.8173332,-122.7985001,2.63,0.35,md,7.0,102.0,0.009679,0.01,nc,nc73727456,2022-05-01T09:52:29.432Z,"6km NW of The Geysers, CA",earthquake,0.46,1.69,,1.0,automatic,nc,nc
 2022-05-01T09:49:37.779Z,62.4571,-146.8165,26.9,2.1,ml,,,,0.88,ak,ak0225k9oh75,2022-05-01T09:54:50.543Z,"23 km NW of Lake Louise, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-01T09:49:13.141Z,61.4678,-149.7416,28.7,2.4,ml,,,,0.51,ak,ak0225k9ofb0,2022-05-01T09:54:49.751Z,"1 km NNW of Knik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-01T09:55:48.143Z,38.2549,-118.7377,0.0,1.6,ml,15.0,121.4,0.183,0.2058,nn,nn00838139,2022-05-01T09:59:19.283Z,"31 km SSW of Hawthorne, Nevada",earthquake,,10.1,0.37,11.0,automatic,nn,nn
+2022-05-01T09:19:13.222Z,-27.6409,-63.3405,570.91,4.2,mb,,63.0,5.215,0.49,us,us7000h66l,2022-05-01T10:01:29.040Z,"33 km NNE of Suncho Corral, Argentina",earthquake,11.8,7.2,0.056,89.0,reviewed,us,us
+2022-05-01T08:53:48.197Z,13.9987,-91.4142,58.32,4.3,mb,,184.0,1.589,0.41,us,us7000h66f,2022-05-01T10:07:47.040Z,"25 km SSW of Nueva Concepción, Guatemala",earthquake,6.1,13.3,0.142,14.0,reviewed,us,us
