@@ -1,16 +1,19 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-01T21:28:53.798Z,60.2565,-147.7612,35.5,2.4,ml,,,,0.86,ak,ak0225kgp7m5,2022-05-01T21:32:05.954Z,"25 km NNE of Chenega, Alaska",earthquake,,22.6,,,automatic,ak,ak
+2022-05-01T21:40:10.640Z,36.0313339,-117.770668,0.54,1.36,ml,11,67,0.007521,0.07,ci,ci40249944,2022-05-01T21:42:19.764Z,"16km E of Coso Junction, CA",earthquake,0.38,0.56,0.05,2,automatic,ci,ci
+2022-05-01T21:37:31.052Z,39.4141,-119.9397,8.1,1.8,ml,20,43.16,0.124,0.1445,nn,nn00838149,2022-05-01T21:40:53.705Z,"7 km ENE of Floriston, California",earthquake,,0.9,0.29,10,automatic,nn,nn
+2022-05-01T21:33:37.070Z,38.8209991,-122.7671661,0.48,0.67,md,10,107,0.009698,0.02,nc,nc73727846,2022-05-01T21:42:10.750Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.14,2,automatic,nc,nc
+2022-05-01T21:28:53.798Z,60.2565,-147.7612,35.5,2.5,ml,,,,0.86,ak,ak0225kgp7m5,2022-05-01T21:41:04.586Z,"25 km NNE of Chenega, Alaska",earthquake,,22.6,,,automatic,ak,ak
 2022-05-01T21:20:09.360Z,33.8596667,-117.2781667,0.76,1.34,ml,8,73,0.1928,0.16,ci,ci40249936,2022-05-01T21:23:54.220Z,"3km NNE of Mead Valley, CA",earthquake,0.59,31.61,0.185,17,automatic,ci,ci
 2022-05-01T21:15:57.060Z,19.2036666870117,-155.48567199707,31.6599998474121,1.99,ml,49,79,,0.119999997,hv,hv73000582,2022-05-01T21:21:28.240Z,"0 km W of Pāhala, Hawaii",earthquake,0.41,0.709999979,4.55,6,automatic,hv,hv
 2022-05-01T20:56:44.454Z,62.306,-149.035,43.4,1.6,ml,,,,0.51,ak,ak0225kg9rdp,2022-05-01T21:14:15.029Z,"45 km ENE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-05-01T20:56:41.350Z,33.2088333,-116.6303333,6.21,0.8,ml,21,142,0.01717,0.19,ci,ci40249928,2022-05-01T21:00:21.076Z,"8km S of Warner Springs, CA",earthquake,0.46,0.58,0.159,18,automatic,ci,ci
 2022-05-01T20:54:57.495Z,60.0945,-153.575,159.9,2.6,ml,,,,0.71,ak,ak0225kg9cyi,2022-05-01T21:06:55.301Z,"42 km ESE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-01T20:52:35.420Z,36.8538322,-121.5938339,6.62,2.79,md,64,39,,0.18,nc,nc73727841,2022-05-01T21:33:16.694Z,"5km W of San Juan Bautista, CA",earthquake,0.25,0.53,0.11,78,automatic,nc,nc
+2022-05-01T20:52:35.420Z,36.8538322,-121.5938339,6.62,2.79,md,64,39,,0.18,nc,nc73727841,2022-05-01T21:41:04.153Z,"5km W of San Juan Bautista, CA",earthquake,0.25,0.53,0.11,78,automatic,nc,nc
 2022-05-01T20:41:30.840Z,38.8224983,-122.802002,2.37,0.35,md,9,154,0.006369,0.02,nc,nc73727836,2022-05-01T20:50:10.454Z,"6km NW of The Geysers, CA",earthquake,0.47,0.91,,1,automatic,nc,nc
 2022-05-01T20:33:32.000Z,35.7945,-117.6065,9.49,0.73,ml,8,124,0.02242,0.24,ci,ci40249920,2022-05-01T20:37:01.934Z,"18km W of Searles Valley, CA",earthquake,0.71,1.17,0.104,7,automatic,ci,ci
 2022-05-01T20:30:33.290Z,38.8214989,-122.7656631,1.93,0.85,md,11,168,0.009554,0.02,nc,nc73727831,2022-05-01T20:39:11.399Z,"4km W of Cobb, CA",earthquake,0.5,0.42,,1,automatic,nc,nc
 2022-05-01T20:23:10.500Z,38.8380013,-122.836998,1.34,0.86,md,11,146,0.01494,0.01,nc,nc73727821,2022-05-01T20:33:11.491Z,"10km NW of The Geysers, CA",earthquake,0.26,0.54,,2,automatic,nc,nc
-2022-05-01T20:22:01.350Z,36.8536682,-121.5958328,6.04,2.7,md,60,44,0.03089,0.18,nc,nc73727816,2022-05-01T21:33:15.693Z,"5km W of San Juan Bautista, CA",earthquake,0.26,0.61,0.17,73,automatic,nc,nc
+2022-05-01T20:22:01.350Z,36.8536682,-121.5958328,6.04,2.7,md,60,44,0.03089,0.18,nc,nc73727816,2022-05-01T21:41:58.203Z,"5km W of San Juan Bautista, CA",earthquake,0.26,0.61,0.17,73,automatic,nc,nc
 2022-05-01T20:21:29.610Z,36.857666,-121.5970001,6.69,2.12,md,42,39,0.02704,0.14,nc,nc73727811,2022-05-01T21:33:14.693Z,"5km SE of Aromas, CA",earthquake,0.29,0.56,0.19,37,automatic,nc,nc
 2022-05-01T20:15:59.200Z,38.7976685,-122.81633,3.52,0.35,md,8,123,0.01394,0.02,nc,nc73727801,2022-05-01T20:28:10.340Z,"6km WNW of The Geysers, CA",earthquake,0.6,1.72,,1,automatic,nc,nc
 2022-05-01T20:15:30.150Z,38.8320007,-122.817337,1.61,1.18,md,17,54,0.01563,0.01,nc,nc73727796,2022-05-01T21:33:12.692Z,"8km NW of The Geysers, CA",earthquake,0.23,0.68,,1,automatic,nc,nc
@@ -241,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T22:23:58.420Z,45.087833333333336,-122.35316666666667,8.47,0.86,ml,11,101,0.1476,0.22,uw,uw61835641,2022-05-01T06:29:41.110Z,"18 km ESE of Molalla, Oregon",earthquake,0.45,3.84,0.1517075825802675,3,reviewed,uw,uw
 2022-04-30T21:59:44.310Z,38.8351669,-122.8161697,1.57,0.36,md,9,61,0.01268,0.01,nc,nc73726846,2022-04-30T22:26:16.413Z,"8km W of Cobb, CA",earthquake,0.33,1.14,,1,automatic,nc,nc
 2022-04-30T21:58:41.370Z,38.8223343,-122.762001,1.98,0.45,md,9,125,0.01021,0.01,nc,nc73726841,2022-04-30T22:15:15.360Z,"3km W of Cobb, CA",earthquake,0.39,0.69,0.4,2,automatic,nc,nc
-2022-04-30T21:38:32.720Z,46.884166666666665,-121.96733333333333,2.95,-0.44,md,10,136,0.01983,0.11,uw,uw61835621,2022-05-01T06:19:38.630Z,"14 km NNE of Ashford, Washington",earthquake,0.38,0.51,0.1637415508778477,9,reviewed,uw,uw
