@@ -16226,3 +16226,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T09:10:21.817Z,61.4001,-146.7345,12.7,2.8,ml,,,,0.88,ak,ak0225lwzfj8,2022-05-02T09:23:52.261Z,"36 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-02T09:10:13.210Z,33.0766667,-116.4131667,0.41,0.43,ml,12.0,93.0,0.1527,0.22,ci,ci40250192,2022-05-02T09:13:45.566Z,"18km E of Julian, CA",earthquake,0.47,31.61,0.075,4.0,automatic,ci,ci
 2022-05-02T09:10:02.020Z,62.3298,-147.6416,39.3,2.2,ml,,,,0.46,ak,ak0225lwzdz2,2022-05-02T09:26:32.771Z,"50 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-02T09:35:00.990Z,36.2013333,-118.192,2.54,1.26,ml,18.0,109.0,0.2546,0.12,ci,ci40250232,2022-05-02T09:38:31.287Z,"19km WSW of Olancha, CA",earthquake,0.2,0.93,0.119,11.0,automatic,ci,ci
