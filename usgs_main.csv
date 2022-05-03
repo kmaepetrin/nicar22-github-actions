@@ -16453,3 +16453,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:22:45.631Z,63.9522,-148.8354,113.0,2.0,ml,,,,0.35,ak,ak0225njej8o,2022-05-03T07:28:29.093Z,"12 km NNE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-03T07:12:22.782Z,61.2798,-150.9093,57.2,1.6,ml,,,,0.4,ak,ak0225njccbi,2022-05-03T07:16:23.692Z,"18 km NNE of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-03T07:10:25.720Z,34.1635,-117.5791667,10.38,0.97,ml,32.0,50.0,0.06489,0.19,ci,ci40251016,2022-05-03T07:13:53.251Z,"4km N of Rancho Cucamonga, CA",earthquake,0.34,0.55,0.228,26.0,automatic,ci,ci
+2022-05-03T07:31:56.390Z,35.876,-117.677,6.16,1.04,ml,17.0,87.0,0.07493,0.13,ci,ci40251024,2022-05-03T07:35:31.912Z,"22km ESE of Little Lake, CA",earthquake,0.23,0.66,0.191,9.0,automatic,ci,ci

@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-03T07:31:56.390Z,35.876,-117.677,6.16,1.04,ml,17,87,0.07493,0.13,ci,ci40251024,2022-05-03T07:35:31.912Z,"22km ESE of Little Lake, CA",earthquake,0.23,0.66,0.191,9,automatic,ci,ci
 2022-05-03T07:22:45.631Z,63.9522,-148.8354,113,2,ml,,,,0.35,ak,ak0225njej8o,2022-05-03T07:28:29.093Z,"12 km NNE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-03T07:12:22.782Z,61.2798,-150.9093,57.2,1.6,ml,,,,0.4,ak,ak0225njccbi,2022-05-03T07:16:23.692Z,"18 km NNE of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-03T07:10:25.720Z,34.1635,-117.5791667,10.38,0.97,ml,32,50,0.06489,0.19,ci,ci40251016,2022-05-03T07:13:53.251Z,"4km N of Rancho Cucamonga, CA",earthquake,0.34,0.55,0.228,26,automatic,ci,ci
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T06:36:56.380Z,19.7803325653076,-155.315002441406,31.4500007629395,2.61999989,md,44,116,,0.180000007,hv,hv73001827,2022-05-03T06:45:22.040Z,"22 km WSW of Pepeekeo, Hawaii",earthquake,0.55,1.00999999,1.33000004,24,automatic,hv,hv
 2022-05-03T06:30:19.500Z,33.5163333,-116.897,12.86,0.51,ml,18,72,0.1206,0.2,ci,ci40251000,2022-05-03T06:33:51.838Z,"9km NNW of Aguanga, CA",earthquake,0.46,1.07,0.136,11,automatic,ci,ci
 2022-05-03T06:19:49.810Z,33.6756667,-116.7186667,14.53,0.38,ml,19,97,0.03561,0.13,ci,ci40250992,2022-05-03T06:23:27.315Z,"7km S of Idyllwild, CA",earthquake,0.33,0.51,0.131,7,automatic,ci,ci
-2022-05-03T05:39:56.950Z,38.796833,-122.7851639,3.27,0.29,md,13,65,0.004236,0.02,nc,nc73728586,2022-05-03T05:58:15.542Z,"3km NW of The Geysers, CA",earthquake,0.38,0.8,0.29,3,automatic,nc,nc
+2022-05-03T05:39:56.950Z,38.796833,-122.7851639,3.27,0.29,md,13,65,0.004236,0.02,nc,nc73728586,2022-05-03T07:37:10.159Z,"3km NW of The Geysers, CA",earthquake,0.38,0.8,0.29,3,automatic,nc,nc
 2022-05-03T05:30:16.180Z,18.0273333333333,-66.847,16.23,2.19,md,6,125,,0.3,pr,pr71347203,2022-05-03T05:46:23.940Z,"Puerto Rico region",earthquake,1.1,2.02,0.0595443040546475,5,reviewed,pr,pr
 2022-05-03T05:14:02.540Z,18.007,-66.8695,16.3,2.52,md,3,287,,0.1,pr,pr71347198,2022-05-03T05:46:33.630Z,"0 km SSE of Palomas, Puerto Rico",earthquake,4.66,1.47,0.115999724110844,3,reviewed,pr,pr
 2022-05-03T05:08:14.353Z,43.4735,-110.2719,7.76,2.5,ml,,82,0.278,0.52,us,us7000h6re,2022-05-03T05:42:40.040Z,"32 km NNE of Bondurant, Wyoming",earthquake,3.4,6,0.048,58,reviewed,us,us
@@ -209,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T07:50:28.340Z,58.406,-154.804166666667,6,-0.22,ml,6,154,,0.17,av,av91057053,2022-05-02T22:57:16.410Z,"95 km NNW of Karluk, Alaska",earthquake,0.62,2.39,0.0857233848815708,6,reviewed,av,av
 2022-05-02T07:47:20.550Z,17.9371666666667,-66.766,15.43,2.69,md,8,222,,0.2,pr,pr71347053,2022-05-02T08:13:22.580Z,"8 km SW of Tallaboa, Puerto Rico",earthquake,1.58,0.89,0.203782774988997,2,reviewed,pr,pr
 2022-05-02T07:40:49.410Z,37.5261667,-118.8323333,7.2,0.24,md,9,240,0.0638,0.01,nc,nc73728066,2022-05-02T17:33:13.796Z,"14km WSW of Toms Place, CA",earthquake,0.94,1.41,0.228,8,reviewed,nc,nc
-2022-05-02T07:38:02.940Z,38.7970009,-122.8146667,4.13,0.24,md,8,96,0.01254,0.02,nc,nc73728061,2022-05-02T08:57:10.839Z,"6km WNW of The Geysers, CA",earthquake,0.71,1.97,0.11,2,automatic,nc,nc
