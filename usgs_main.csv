@@ -16585,3 +16585,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T17:55:57.450Z,38.8235016,-122.8021698,3.2,0.84,md,16.0,64.0,0.006175,0.02,nc,nc73728931,2022-05-03T17:57:32.237Z,"6km NW of The Geysers, CA",earthquake,0.35,0.62,,1.0,automatic,nc,nc
 2022-05-03T13:01:53.070Z,46.263666666666666,-119.57116666666668,7.01,0.15,ml,10.0,175.0,0.09217,0.07,uw,uw61836331,2022-05-03T17:57:03.870Z,"6 km W of Benton City, Washington",earthquake,0.42,0.36,0.0238429701680272,4.0,reviewed,uw,uw
 2022-05-03T00:51:19.220Z,44.6176667,-112.9895,4.21,1.03,ml,11.0,131.0,0.233,0.14,mb,mb80544839,2022-05-03T17:57:30.760Z,"30 km ESE of Leadore, Idaho",earthquake,0.43,2.61,0.217,7.0,reviewed,mb,mb
+2022-05-03T18:11:47.870Z,38.8308334,-122.8134995,1.57,0.85,md,8.0,84.0,0.007895,0.01,nc,nc73728936,2022-05-03T18:13:21.344Z,"8km NW of The Geysers, CA",earthquake,0.37,1.18,,1.0,automatic,nc,nc
+2022-05-03T18:02:54.660Z,36.6074,-115.9403,9.1,0.6,ml,9.0,309.66,0.057,0.0406,nn,nn00838241,2022-05-03T18:06:08.742Z,"24 km W of Indian Springs, Nevada",earthquake,,3.4,0.07,7.0,automatic,nn,nn
+2022-05-03T16:47:42.430Z,43.3646667,-110.7148333,8.4,1.27,ml,8.0,182.0,0.099,0.12,mb,mb80544809,2022-05-03T18:08:50.580Z,"9 km SE of South Park, Wyoming",earthquake,0.88,1.07,0.268,6.0,reviewed,mb,mb
