@@ -16471,3 +16471,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T09:31:38.220Z,38.8271675,-122.8018341,1.64,1.07,md,13.0,80.0,0.007458,0.02,nc,nc73728656,2022-05-03T09:33:14.752Z,"7km NW of The Geysers, CA",earthquake,0.27,0.7,0.13,2.0,automatic,nc,nc
 2022-05-03T09:27:01.740Z,38.8361664,-122.8203354,1.89,0.85,md,9.0,71.0,0.01208,0.02,nc,nc73728651,2022-05-03T09:35:10.879Z,"9km W of Cobb, CA",earthquake,0.32,1.1,,1.0,automatic,nc,nc
 2022-05-03T08:48:27.686Z,0.5044,126.6417,58.32,4.6,mb,,51.0,0.772,0.48,us,us7000h6s5,2022-05-03T09:34:54.040Z,"88 km WSW of Ternate, Indonesia",earthquake,6.0,8.5,0.107,26.0,reviewed,us,us
+2022-05-03T09:50:38.740Z,19.1788330078125,-155.490997314453,34.310001373291,2.21,ml,42.0,82.0,,0.140000001,hv,hv73001877,2022-05-03T09:58:06.843Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.47,0.819999993,5.15,3.0,automatic,hv,hv
