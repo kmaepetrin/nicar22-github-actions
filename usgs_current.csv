@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-03T15:44:19.670Z,19.3271675109863,-155.808837890625,8.77000045776367,1.96000004,md,12,142,,0.150000006,hv,hv73002087,2022-05-03T15:47:16.350Z,"15 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.6,1.09000003,0.980000019,3,automatic,hv,hv
-2022-05-03T15:41:39.590Z,19.1946659088135,-155.388000488281,30.8799991607666,2.82,ml,47,163,,0.129999995,hv,hv73002082,2022-05-03T15:47:36.135Z,"9 km E of Pāhala, Hawaii",earthquake,0.58,0.689999998,3.7,28,automatic,hv,hv
+2022-05-03T15:41:39.590Z,19.1946659088135,-155.388000488281,30.8799991607666,2.82,ml,47,163,,0.129999995,hv,hv73002082,2022-05-03T15:52:43.143Z,"9 km E of Pāhala, Hawaii",earthquake,0.58,0.689999998,3.7,28,automatic,hv,hv
 2022-05-03T15:41:15.200Z,18.0423333333333,-66.832,11.91,2.1,md,6,125,,0.23,pr,pr71347258,2022-05-03T15:51:10.970Z,"2 km ENE of Yauco, Puerto Rico",earthquake,1.06,2.33,0.140038658814786,5,reviewed,pr,pr
 2022-05-03T15:29:07.620Z,38.8223343,-122.803833,3.07,0.96,md,22,44,0.004989,0.01,nc,nc73728886,2022-05-03T15:38:10.118Z,"6km NW of The Geysers, CA",earthquake,0.23,0.57,0.21,3,automatic,nc,nc
 2022-05-03T15:27:12.900Z,38.8308334,-122.8128357,1.37,0.36,md,7,95,0.007734,0,nc,nc73728881,2022-05-03T15:35:11.098Z,"8km NW of The Geysers, CA",earthquake,0.38,0.67,,1,automatic,nc,nc
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T13:01:38.610Z,38.8224983,-122.8054962,2.77,1.02,md,6,100,0.01655,0.01,nc,nc73728756,2022-05-03T13:17:12.337Z,"7km NW of The Geysers, CA",earthquake,0.43,2.01,,1,automatic,nc,nc
 2022-05-03T13:01:08.190Z,38.824501,-122.8003311,3.26,2.88,md,55,31,0.00769,0.07,nc,nc73728751,2022-05-03T15:30:18.235Z,"6km NW of The Geysers, CA",earthquake,0.16,0.21,0.13,42,automatic,nc,nc
 2022-05-03T12:59:50.080Z,38.8233337,-122.8016663,2.97,1.27,md,27,31,0.006568,0.02,nc,nc73728741,2022-05-03T15:42:16.146Z,"6km NW of The Geysers, CA",earthquake,0.19,0.46,0.09,5,automatic,nc,nc
-2022-05-03T12:59:14.700Z,38.8243332,-122.8003311,3.31,2.67,md,52,30,0.007668,0.07,nc,nc73728746,2022-05-03T13:46:17.413Z,"6km NW of The Geysers, CA",earthquake,0.16,0.21,0.14,40,automatic,nc,nc
+2022-05-03T12:59:14.700Z,38.8243332,-122.8003311,3.31,2.67,md,52,30,0.007668,0.07,nc,nc73728746,2022-05-03T15:53:11.202Z,"6km NW of The Geysers, CA",earthquake,0.16,0.21,0.14,40,automatic,nc,nc
 2022-05-03T12:56:55.190Z,38.8246651,-122.8075027,1.68,0.84,md,9,72,0.002375,0.01,nc,nc73728726,2022-05-03T13:13:17.197Z,"7km NW of The Geysers, CA",earthquake,0.38,0.77,,1,automatic,nc,nc
 2022-05-03T12:52:30.254Z,37.1531,-117.3836,12.8,2.3,ml,28,71.87,0.158,0.3675,nn,nn00838224,2022-05-03T12:57:44.135Z,"61 km WNW of Beatty, Nevada",earthquake,,0.4,0.56,18,automatic,nn,nn
 2022-05-03T12:33:41.760Z,38.8398323,-122.8368301,1.09,0.86,md,11,116,0.001625,0.02,nc,nc73728716,2022-05-03T15:00:14.886Z,"10km NW of The Geysers, CA",earthquake,0.29,0.68,,1,automatic,nc,nc
