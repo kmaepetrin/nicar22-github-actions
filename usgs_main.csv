@@ -16835,3 +16835,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T19:21:05.740Z,33.7823334,-117.939003,1.31,1.6,ml,35.0,176.0,0.2482,0.45,ci,ci40252208,2022-05-04T19:23:31.814Z,"2km ENE of Garden Grove, CA",earthquake,1.15,4.81,0.45,10.0,automatic,ci,ci
 2022-05-04T18:48:16.925Z,31.61243748,-103.9836099,9.319360352,3.5,ml,12.0,70.0,0.074264535,0.2,tx,tx2022isec,2022-05-04T19:22:34.042Z,"37 km NNW of Toyah, Texas",earthquake,1.009271279,1.078163048,0.2,12.0,reviewed,tx,tx
 2022-05-04T18:28:15.933Z,40.4902,-127.44,10.0,4.2,mb,,253.0,2.615,0.82,us,us7000h72v,2022-05-04T19:19:55.040Z,"269 km W of Ferndale, California",earthquake,9.9,2.0,0.146,13.0,reviewed,us,us
+2022-05-04T19:25:41.650Z,33.0921667,-115.6066667,9.67,1.92,ml,33.0,50.0,0.03645,0.26,ci,ci40252216,2022-05-04T19:29:30.851Z,"6km NNE of Westmorland, CA",earthquake,0.36,0.76,0.215,28.0,automatic,ci,ci
