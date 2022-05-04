@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-04T20:43:25.160Z,38.8284988,-122.7983322,1.46,0.85,md,8,83,0.01049,0.01,nc,nc73729376,2022-05-04T20:45:00.742Z,"7km W of Cobb, CA",earthquake,0.41,1,,1,automatic,nc,nc
-2022-05-04T20:43:14.800Z,38.8286667,-122.7975006,1.42,0.85,md,10,67,0.01114,0.01,nc,nc73729371,2022-05-04T20:44:50.515Z,"6km W of Cobb, CA",earthquake,0.32,0.89,,1,automatic,nc,nc
+2022-05-04T20:48:15.670Z,38.8081665,-122.8143311,3.24,1.4,md,31,57,0.01162,0.03,nc,nc73729386,2022-05-04T20:51:05.446Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.12,7,automatic,nc,nc
+2022-05-04T20:46:17.466Z,57.0229,-155.0904,125.8,2,ml,,,,1.12,ak,ak0225petlma,2022-05-04T20:49:08.249Z,"56 km W of Akhiok, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-05-04T20:43:25.160Z,38.8284988,-122.7983322,1.46,0.85,md,8,83,0.01049,0.01,nc,nc73729376,2022-05-04T20:51:10.622Z,"7km W of Cobb, CA",earthquake,0.41,1,,1,automatic,nc,nc
+2022-05-04T20:43:14.800Z,38.8286667,-122.7975006,1.42,0.85,md,10,67,0.01114,0.01,nc,nc73729371,2022-05-04T20:51:09.623Z,"6km W of Cobb, CA",earthquake,0.32,0.89,,1,automatic,nc,nc
 2022-05-04T20:35:47.120Z,33.5046667,-116.5056667,14.03,0.51,ml,19,72,0.05678,0.14,ci,ci40252328,2022-05-04T20:39:24.321Z,"16km ESE of Anza, CA",earthquake,0.29,0.59,0.201,10,automatic,ci,ci
 2022-05-04T20:27:48.210Z,34.8788333,-116.935,10,1.43,ml,20,76,0.05096,0.21,ci,ci40252312,2022-05-04T20:31:20.135Z,"8km ESE of Barstow, CA",earthquake,0.37,0.7,0.122,14,automatic,ci,ci
-2022-05-04T20:25:09.780Z,33.5266667,-115.866,5.43,1.24,ml,34,77,0.04137,0.2,ci,ci40252304,2022-05-04T20:35:51.480Z,"7km E of North Shore, CA",earthquake,0.32,0.5,0.119,25,automatic,ci,ci
+2022-05-04T20:25:09.700Z,33.5265,-115.8676667,5.59,1.24,ml,32,56,0.04121,0.11,ci,ci40252304,2022-05-04T20:55:03.780Z,"6km E of North Shore, CA",earthquake,0.2,0.32,0.116,23,reviewed,ci,ci
 2022-05-04T20:24:14.800Z,38.8246651,-122.80233,2.3,1.2,md,29,45,0.006181,0.03,nc,nc73729366,2022-05-04T20:32:10.499Z,"7km NW of The Geysers, CA",earthquake,0.19,0.4,0.01,6,automatic,nc,nc
 2022-05-04T20:20:19.860Z,38.8209991,-122.7891693,0.85,0.89,md,20,37,0.01018,0.04,nc,nc73729361,2022-05-04T20:29:11.483Z,"6km NNW of The Geysers, CA",earthquake,0.18,0.34,0.16,4,automatic,nc,nc
-2022-05-04T20:16:06.008Z,6.5883,127.0544,10,5.3,mww,,65,1.541,1.3,us,us7000h73u,2022-05-04T20:37:34.040Z,"84 km ESE of Lukatan, Philippines",earthquake,8,1.8,0.089,12,reviewed,us,us
+2022-05-04T20:16:05.847Z,6.5951,127.0402,10,5.1,mww,,87,1.525,1.16,us,us7000h73u,2022-05-04T20:52:52.040Z,"82 km SE of Lukatan, Philippines",earthquake,8,1.8,0.08,15,reviewed,us,us
 2022-05-04T20:13:48.220Z,33.523,-115.8635,7.02,1.03,ml,25,77,0.03779,0.17,ci,ci40252280,2022-05-04T20:42:31.338Z,"7km E of North Shore, CA",earthquake,0.35,0.56,0.127,13,reviewed,ci,ci
 2022-05-04T19:53:11.990Z,33.1446667,-117.143,-0.2,1.1,ml,12,90,0.02786,0.25,ci,ci40252248,2022-05-04T20:22:24.395Z,"2km E of San Marcos, CA",quarry blast,0.73,31.61,0.124,8,reviewed,ci,ci
 2022-05-04T19:34:17.790Z,38.7786674,-122.7686691,1.55,0.76,md,17,98,0.008257,0.04,nc,nc73729351,2022-05-04T20:24:13.457Z,"1km W of The Geysers, CA",earthquake,0.27,0.53,0.42,3,automatic,nc,nc
@@ -19,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T18:54:48.220Z,34.9965,-118.1831667,-0.82,1.16,ml,13,74,0.1232,0.19,ci,ci40252176,2022-05-04T20:02:15.072Z,"6km S of Mojave, CA",quarry blast,0.45,31.61,0.184,20,reviewed,ci,ci
 2022-05-04T18:53:19.720Z,35.7925,-117.5181667,-0.81,1.19,ml,16,170,0.06854,0.21,ci,ci40252168,2022-05-04T19:59:09.051Z,"11km WNW of Searles Valley, CA",quarry blast,0.82,31.61,0.146,19,reviewed,ci,ci
 2022-05-04T18:51:50.434Z,59.9101,-152.2229,87.1,1.2,ml,,,,0.45,ak,ak0225pdnvj7,2022-05-04T18:53:50.761Z,"26 km NW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-05-04T18:48:16.925Z,31.61243748,-103.9836099,9.319360352,3.5,ml,12,70,0.074264535,0.2,tx,tx2022isec,2022-05-04T19:22:34.042Z,"37 km NNW of Toyah, Texas",earthquake,1.009271279,1.078163048,0.2,12,reviewed,tx,tx
+2022-05-04T18:48:16.925Z,31.61243748,-103.9836099,9.319360352,3.5,ml,12,70,0.074264535,0.2,tx,tx2022isec,2022-05-04T20:51:37.354Z,"37 km NNW of Toyah, Texas",earthquake,1.009271279,1.078163048,0.2,12,reviewed,tx,tx
 2022-05-04T18:45:44.700Z,38.7956657,-122.8134995,3.43,0.56,md,14,93,0.01096,0.02,nc,nc73729341,2022-05-04T19:52:12.255Z,"5km WNW of The Geysers, CA",earthquake,0.43,1.18,0.34,2,automatic,nc,nc
 2022-05-04T18:41:26.395Z,60.4338,-152.5539,104.8,0,ml,,,,0.37,ak,ak0225pdloir,2022-05-04T18:49:31.354Z,"65 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-04T18:35:00.447Z,61.4612,-146.4208,20,2,ml,,,,0.87,ak,ak0225pdkc7q,2022-05-04T18:39:23.432Z,"37 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T18:15:28.500Z,33.7093333,-116.7475,16.87,0.76,ml,17,170,0.02785,0.08,ci,ci40252120,2022-05-04T19:57:17.493Z,"4km SW of Idyllwild, CA",earthquake,0.37,0.26,0.226,12,reviewed,ci,ci
 2022-05-04T17:59:30.060Z,46.3138333,-111.6008333,-2,0.98,ml,5,191,0.318,0.1,mb,mb80544974,2022-05-04T20:42:29.750Z,"6 km W of Townsend, Montana",quarry blast,1.77,31.61,0.234,3,reviewed,mb,mb
 2022-05-04T17:37:57.160Z,38.8223343,-122.8046646,1.79,1.42,md,25,35,0.004356,0.03,nc,nc73729316,2022-05-04T18:28:13.758Z,"6km NW of The Geysers, CA",earthquake,0.18,0.33,0.06,6,automatic,nc,nc
-2022-05-04T17:30:21.280Z,38.8346672,-122.8024979,2.08,1.6,md,33,57,0.0102,0.04,nc,nc73729311,2022-05-04T18:17:19.698Z,"7km WNW of Cobb, CA",earthquake,0.18,0.33,0.12,8,automatic,nc,nc
+2022-05-04T17:30:21.280Z,38.8346672,-122.8024979,2.08,1.6,md,33,57,0.0102,0.04,nc,nc73729311,2022-05-04T20:47:11.595Z,"7km WNW of Cobb, CA",earthquake,0.18,0.33,0.12,8,automatic,nc,nc
 2022-05-04T17:29:06.333Z,38.6278,-119.8254,5.8,1.2,ml,13,121.38,0.048,0.1263,nn,nn00838319,2022-05-04T20:24:27.545Z,"8 km SSW of Markleeville, California",earthquake,,1.3,0.11,3,reviewed,nn,nn
 2022-05-04T17:18:12.340Z,38.8240013,-122.8058319,1.42,0.84,md,6,168,0.003368,0.01,nc,nc73729301,2022-05-04T17:55:14.699Z,"7km NW of The Geysers, CA",earthquake,1,1.6,,1,automatic,nc,nc
 2022-05-04T17:16:26.564Z,51.6867,-178.5701,20.2,1.2,ml,,,,0.57,ak,ak0225pcuv28,2022-05-04T18:15:29.538Z,"135 km W of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
