@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-04T09:55:24.180Z,38.7966652,-122.8156662,3.93,0.35,md,6,135,0.01549,0.01,nc,nc73729186,2022-05-04T10:01:11.829Z,"6km WNW of The Geysers, CA",earthquake,1.04,3.29,,1,automatic,nc,nc
+2022-05-04T09:53:29.204Z,62.3958,-150.3556,11.3,2.8,ml,,,,0.83,ak,ak0225p8bcql,2022-05-04T10:07:26.389Z,"10 km NW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-04T09:48:20.060Z,34.2425,-117.5453333,5.63,1.12,ml,29,66,0.09385,0.16,ci,ci40251816,2022-05-04T09:51:54.747Z,"5km WSW of Lytle Creek, CA",earthquake,0.26,0.76,0.197,29,automatic,ci,ci
-2022-05-04T09:45:14.640Z,33.316,-116.7946667,7.57,1.18,ml,44,45,0.06816,0.23,ci,ci40251808,2022-05-04T09:48:55.047Z,"8km SE of Palomar Observatory, CA",earthquake,0.24,0.85,0.138,27,automatic,ci,ci
+2022-05-04T09:45:14.640Z,33.316,-116.7946667,7.57,1.18,ml,44,45,0.06816,0.23,ci,ci40251808,2022-05-04T09:55:55.050Z,"8km SE of Palomar Observatory, CA",earthquake,0.24,0.85,0.138,27,automatic,ci,ci
 2022-05-04T09:32:01.740Z,36.4203333,-117.5956667,0.22,1.21,ml,11,161,0.1486,0.15,ci,ci40251800,2022-05-04T09:35:29.566Z,"40km ENE of Olancha, CA",earthquake,0.58,0.68,0.107,11,automatic,ci,ci
 2022-05-04T09:15:08.570Z,39.0999985,-122.8803329,6.91,2.34,md,7,224,0.2634,0.24,nc,nc73729181,2022-05-04T09:44:14.559Z,"2km ENE of North Lakeport, CA",earthquake,9.97,17.25,,1,automatic,nc,nc
 2022-05-04T09:10:34.429Z,38.1476,-117.9895,5.4,0.9,ml,13,121.18,0.025,0.1755,nn,nn00838294,2022-05-04T09:14:00.788Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.35,8,automatic,nn,nn
