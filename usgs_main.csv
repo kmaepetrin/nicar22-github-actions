@@ -17014,3 +17014,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T08:40:00.314Z,62.7736,-150.9951,107.6,1.5,ml,,,,0.96,ak,ak0225qv6c3y,2022-05-05T08:44:06.415Z,"33 km NNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-05T08:21:17.171Z,6.5061,127.1311,26.2,5.9,mww,,52.0,1.639,0.93,us,us7000h781,2022-05-05T08:48:14.687Z,"96 km SE of Lukatan, Philippines",earthquake,7.6,4.0,0.086,13.0,reviewed,us,us
 2022-05-05T07:38:40.380Z,17.9326666666667,-67.1005,2.58,1.98,md,3.0,276.0,,0.14,pr,pr71347458,2022-05-05T08:38:13.410Z,"7 km SW of La Parguera, Puerto Rico",earthquake,1.15,31.61,0.0340769336350255,3.0,reviewed,pr,pr
+2022-05-05T08:57:57.860Z,19.204833984375,-155.433502197266,31.8299999237061,1.90999997,md,33.0,141.0,,0.109999999,hv,hv73003457,2022-05-05T09:01:03.230Z,"4 km E of Pāhala, Hawaii",earthquake,0.7,0.889999986,1.90999997,4.0,automatic,hv,hv
+2022-05-05T08:53:52.067Z,38.1792,-117.8573,3.8,1.1,ml,9.0,182.89,0.09,0.1808,nn,nn00838379,2022-05-05T08:57:44.918Z,"32 km SE of Mina, Nevada",earthquake,,1.0,0.48,5.0,automatic,nn,nn
+2022-05-05T08:50:04.282Z,63.2543,-145.104,0.0,1.6,ml,,,,1.04,ak,ak0225qv8ko3,2022-05-05T08:54:03.535Z,"31 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-05T08:06:47.892Z,53.3819,-165.1816,35.0,3.3,mb,,176.0,0.914,0.82,us,us7000h783,2022-05-05T08:59:58.040Z,"92 km SSE of Akutan, Alaska",earthquake,6.4,2.0,0.135,14.0,reviewed,us,us
