@@ -16983,3 +16983,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T12:57:21.377Z,-32.2463,-71.9885,10.0,4.4,mb,,149.0,0.826,0.63,us,us7000h6zs,2022-05-05T04:48:50.040Z,"74 km WNW of La Ligua, Chile",earthquake,3.7,1.9,0.268,4.0,reviewed,us,us
 2022-05-05T05:06:45.483Z,61.5862,-146.4748,8.0,2.1,ml,,,,0.89,ak,ak0225qt6xkg,2022-05-05T05:16:06.853Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-05T05:05:03.190Z,19.2465000152588,-155.398162841797,30.8299999237061,1.99000001,md,39.0,136.0,,0.109999999,hv,hv73003357,2022-05-05T05:08:16.420Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.64,0.779999971,1.25999999,15.0,automatic,hv,hv
+2022-05-05T05:51:18.270Z,62.304,-152.0075,99.0,1.1,ml,,,,0.38,ak,ak0225qtgiz8,2022-05-05T05:53:53.569Z,"47 km NW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
