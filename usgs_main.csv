@@ -17146,3 +17146,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T19:46:27.518Z,62.1689,-151.1927,82.8,2.0,ml,,,,0.42,ak,ak0225r1rj9f,2022-05-05T19:50:53.207Z,"22 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-05T19:25:57.135Z,18.6691,145.7055,199.08,5.2,mb,,47.0,5.114,0.96,us,us7000h7cj,2022-05-05T19:46:36.442Z,"Pagan region, Northern Mariana Islands",earthquake,9.7,6.8,0.028,431.0,reviewed,us,us
 2022-05-04T20:28:20.510Z,46.00566666666667,-122.85816666666666,-0.28,1.68,ml,8.0,114.0,0.102,0.38,uw,uw61828052,2022-05-05T19:47:52.750Z,"1 km WSW of Kalama, Washington",explosion,1.69,31.61,0.1126905069841688,4.0,reviewed,uw,uw
+2022-05-05T19:55:26.900Z,35.3725,-118.2941667,8.0,1.45,ml,25.0,36.0,0.1315,0.19,ci,ci40253160,2022-05-05T19:59:13.854Z,"30km SE of Bodfish, CA",earthquake,0.29,1.33,0.188,27.0,automatic,ci,ci
+2022-05-05T19:51:26.170Z,35.69,-117.5033333,8.91,1.16,ml,15.0,142.0,0.1086,0.19,ci,ci40253152,2022-05-05T19:55:04.058Z,"12km SW of Searles Valley, CA",earthquake,0.52,1.05,0.166,15.0,automatic,ci,ci
+2022-05-05T19:51:10.690Z,31.9415,-116.1703333,22.63,2.2,ml,10.0,241.0,0.1992,0.19,ci,ci40253144,2022-05-05T19:54:51.797Z,"43km E of Ensenada, B.C., MX",earthquake,4.11,4.19,0.227,19.0,automatic,ci,ci
+2022-05-05T19:49:47.476Z,59.9911,-152.8007,98.9,1.2,ml,,,,0.4,ak,ak0225r1s7yz,2022-05-05T19:52:47.972Z,"59 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-05T19:33:32.760Z,17.9343333333333,-66.919,12.99,2.1,md,4.0,221.0,,0.07,pr,pr71347553,2022-05-05T19:53:48.740Z,"4 km SSW of Guánica, Puerto Rico",earthquake,1.99,0.45,0.0766885852160786,3.0,reviewed,pr,pr
