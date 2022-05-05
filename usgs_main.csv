@@ -17018,3 +17018,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T08:53:52.067Z,38.1792,-117.8573,3.8,1.1,ml,9.0,182.89,0.09,0.1808,nn,nn00838379,2022-05-05T08:57:44.918Z,"32 km SE of Mina, Nevada",earthquake,,1.0,0.48,5.0,automatic,nn,nn
 2022-05-05T08:50:04.282Z,63.2543,-145.104,0.0,1.6,ml,,,,1.04,ak,ak0225qv8ko3,2022-05-05T08:54:03.535Z,"31 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-05T08:06:47.892Z,53.3819,-165.1816,35.0,3.3,mb,,176.0,0.914,0.82,us,us7000h783,2022-05-05T08:59:58.040Z,"92 km SSE of Akutan, Alaska",earthquake,6.4,2.0,0.135,14.0,reviewed,us,us
+2022-05-05T09:22:47.853Z,60.1914,-151.1685,73.7,1.4,ml,,,,0.81,ak,ak0225qvo3mb,2022-05-05T09:28:17.437Z,"13 km ESE of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-05-05T09:16:04.000Z,33.4941667,-116.788,14.73,0.43,ml,14.0,114.0,0.08271,0.31,ci,ci40252688,2022-05-05T09:19:33.412Z,"9km NE of Aguanga, CA",earthquake,1.22,2.3,0.11,5.0,automatic,ci,ci
