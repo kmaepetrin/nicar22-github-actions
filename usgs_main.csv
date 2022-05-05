@@ -17086,3 +17086,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T13:43:33.426Z,-7.5443,127.7582,170.83,4.5,mb,,57.0,3.535,0.88,us,us7000h79r,2022-05-05T14:46:21.040Z,"136 km NE of Lospalos, Timor Leste",earthquake,9.0,9.2,0.139,15.0,reviewed,us,us
 2022-05-05T04:25:55.360Z,47.733,-113.7746667,5.65,-0.69,md,4.0,208.0,0.206,0.03,mb,mb80545019,2022-05-05T14:45:44.500Z,"21 km E of Finley Point, Montana",earthquake,1.1,5.11,,1.0,reviewed,mb,mb
 2022-05-05T01:44:11.710Z,35.9431667,-117.6901667,4.46,-0.19,ml,6.0,144.0,0.03263,0.04,ci,ci37497493,2022-05-05T14:49:29.431Z,"20km E of Little Lake, CA",earthquake,0.24,0.28,0.086,3.0,reviewed,ci,ci
+2022-05-05T14:50:58.963Z,36.6857,-117.2468,0.0,1.4,ml,16.0,262.61,0.221,0.2707,nn,nn00838385,2022-05-05T14:54:17.963Z,"44 km NW of Furnace Creek, California",earthquake,,37.5,0.84,11.0,automatic,nn,nn
+2022-05-05T08:48:01.480Z,44.612,-112.9788333,6.82,1.27,ml,18.0,118.0,0.235,0.24,mb,mb80545024,2022-05-05T14:56:49.230Z,"30 km W of Lima, Montana",earthquake,0.56,1.12,0.174,10.0,reviewed,mb,mb
+2022-05-05T02:17:01.350Z,35.8926667,-117.7413333,10.39,0.95,ml,10.0,124.0,0.08394,0.14,ci,ci37497501,2022-05-05T14:56:27.499Z,"16km ESE of Little Lake, CA",earthquake,0.45,1.11,0.169,5.0,reviewed,ci,ci
