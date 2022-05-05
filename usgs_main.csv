@@ -17203,3 +17203,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T23:30:32.450Z,38.795166,-122.8154984,3.02,0.35,md,6.0,139.0,0.01187,0.01,nc,nc73729881,2022-05-05T23:32:08.638Z,"6km WNW of The Geysers, CA",earthquake,1.01,1.84,,1.0,automatic,nc,nc
 2022-05-05T23:27:28.126Z,61.4123,-150.0493,51.9,1.3,ml,,,,0.31,ak,ak0225r4175b,2022-05-05T23:31:42.003Z,"6 km NNW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-05T23:23:20.570Z,33.9975,-117.179,14.45,1.1,ml,23.0,122.0,0.1373,0.21,ci,ci40253280,2022-05-05T23:27:08.136Z,"6km S of Redlands, CA",earthquake,0.44,0.96,0.221,33.0,automatic,ci,ci
+2022-05-05T23:31:38.980Z,19.1333332061768,-155.377166748047,30.8600006103516,1.73000002,md,29.0,248.0,,0.109999999,hv,hv73003927,2022-05-05T23:35:00.680Z,"13 km SE of Pāhala, Hawaii",earthquake,0.78,1.12,0.860000014,3.0,automatic,hv,hv
+2022-05-05T22:55:17.190Z,-21.1407,-175.6895,148.49,4.6,mb,,124.0,6.801,0.87,us,us7000h7eb,2022-05-05T23:34:53.040Z,"49 km W of Haveluloto, Tonga",earthquake,11.7,7.3,0.122,20.0,reviewed,us,us
