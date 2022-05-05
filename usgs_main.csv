@@ -17033,3 +17033,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T11:24:13.650Z,38.8326683,-122.809166,1.89,0.85,md,11.0,94.0,0.009287,0.01,nc,nc73729646,2022-05-05T11:33:10.782Z,"8km W of Cobb, CA",earthquake,0.33,1.0,,1.0,automatic,nc,nc
 2022-05-05T11:38:02.630Z,32.9338341,-115.8193359,7.49,1.12,ml,23.0,60.0,0.01984,0.22,ci,ci40252720,2022-05-05T11:40:17.709Z,"22km WSW of Westmorland, CA",earthquake,0.46,0.75,0.255,3.0,automatic,ci,ci
 2022-05-05T11:19:42.660Z,18.0001666666667,-66.8333333333333,9.2,2.11,md,6.0,163.0,,0.14,pr,pr71347463,2022-05-05T11:40:03.910Z,"1 km WNW of Indios, Puerto Rico",earthquake,3.1,1.7,0.283661262369199,3.0,reviewed,pr,pr
+2022-05-05T11:43:57.460Z,33.242,-116.653,11.86,0.35,ml,16.0,81.0,0.043,0.15,ci,ci40252736,2022-05-05T11:47:34.757Z,"5km SSW of Warner Springs, CA",earthquake,0.36,0.63,0.094,5.0,automatic,ci,ci
