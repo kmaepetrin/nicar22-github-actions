@@ -11,10 +11,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T21:01:44.470Z,33.7355,-116.7158333,18.46,0.83,ml,17,122,0.02159,0.22,ci,ci40253880,2022-05-06T21:05:17.415Z,"1km SSE of Idyllwild, CA",earthquake,0.51,0.56,0.116,17,automatic,ci,ci
 2022-05-06T20:59:19.111Z,61.8768,-152.0636,113.8,0.9,ml,,,,0.45,ak,ak0225spz3k5,2022-05-06T21:02:09.163Z,"37 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-06T20:53:51.850Z,18.2146666666667,-66.864,11.18,1.95,md,4,182,,0.28,pr,pr71347613,2022-05-06T21:23:10.850Z,"8 km S of Lares, Puerto Rico",earthquake,1.12,5.94,0.0851357077167652,3,reviewed,pr,pr
-2022-05-06T20:30:55.770Z,35.7578333,-117.5745,8.44,1.76,ml,27,83,0.06074,0.17,ci,ci40253864,2022-05-06T20:41:38.290Z,"15km W of Searles Valley, CA",earthquake,0.29,0.77,0.194,27,automatic,ci,ci
+2022-05-06T20:30:55.780Z,35.7568333,-117.5776667,8.03,1.74,ml,34,61,0.06095,0.13,ci,ci40253864,2022-05-06T22:44:59.640Z,"16km W of Searles Valley, CA",earthquake,0.16,0.44,0.194,24,reviewed,ci,ci
 2022-05-06T20:28:52.358Z,64.7215,-146.1014,14.3,0.9,ml,,,,0.24,ak,ak0225spsi3o,2022-05-06T20:40:58.932Z,"40 km ESE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-06T20:20:53.211Z,34.99235535,-95.98828125,5.005705833,2.59,ml,42,130.089119,0.3037680387,0.6231837398,ok,ok2022ivye,2022-05-06T20:23:32.611Z,"5 km NNW of Arpelar, Oklahoma",earthquake,2.597165553,2.1095848,,31,automatic,ok,ok
-2022-05-06T20:17:26.790Z,40.8286667,-124.3834991,20.09,3.36,ml,37,198,0.3545,0.23,nc,nc73730206,2022-05-06T22:31:31.016Z,"18km WNW of Bayview, CA",earthquake,0.88,2.01,0.223,14,automatic,nc,nc
+2022-05-06T20:17:26.790Z,40.8286667,-124.3834991,20.09,3.36,ml,37,198,0.3545,0.23,nc,nc73730206,2022-05-06T22:43:24.920Z,"18km WNW of Bayview, CA",earthquake,0.88,2.01,0.223,14,automatic,nc,nc
 2022-05-06T20:12:13.820Z,33.3931667,-116.8963333,13.91,1.29,ml,39,34,0.04849,0.17,ci,ci40253848,2022-05-06T22:39:39.830Z,"5km NW of Palomar Observatory, CA",earthquake,0.21,0.5,0.194,23,reviewed,ci,ci
 2022-05-06T20:11:40.990Z,33.388,-116.9018333,13.5,1.85,ml,70,22,0.04745,0.19,ci,ci40253840,2022-05-06T22:33:47.020Z,"5km NW of Palomar Observatory, CA",earthquake,0.16,0.37,0.201,25,reviewed,ci,ci
 2022-05-06T20:11:11.283Z,57.5138,-154.9091,62.3,1,ml,,,,0.05,ak,ak0225spos0l,2022-05-06T20:13:56.949Z,"27 km WSW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
