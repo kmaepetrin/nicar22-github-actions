@@ -17248,3 +17248,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T03:33:28.834Z,65.0104,-148.7448,11.8,1.0,ml,,,,0.5,ak,ak0225sfp5w3,2022-05-06T03:35:37.949Z,"32 km ESE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-06T03:30:36.450Z,33.3746667,-116.8585,8.51,0.97,ml,35.0,35.0,0.02129,0.23,ci,ci40253336,2022-05-06T03:34:19.486Z,"2km NNE of Palomar Observatory, CA",earthquake,0.26,0.64,0.139,28.0,automatic,ci,ci
 2022-05-06T03:13:47.168Z,-5.9352,148.8304,97.54,4.8,mb,,72.0,3.745,0.53,us,us7000h7fm,2022-05-06T03:31:53.040Z,"84 km WNW of Kandrian, Papua New Guinea",earthquake,10.5,5.7,0.053,114.0,reviewed,us,us
+2022-05-06T03:38:59.920Z,17.9733333333333,-66.9253333333333,14.83,2.64,md,3.0,182.0,,0.04,pr,pr71347573,2022-05-06T04:05:46.440Z,Puerto Rico region,earthquake,2.83,0.91,0.159200506278315,3.0,reviewed,pr,pr
