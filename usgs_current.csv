@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T08:06:23.255Z,38.1524,-117.9433,12.5,1.5,ml,14,142.84,0.019,0.1089,nn,nn00838375,2022-05-05T16:46:48.403Z,"30 km SSE of Mina, Nevada",earthquake,,0.8,0.38,3,reviewed,nn,nn
 2022-05-05T07:51:23.795Z,63.3468,-151.2284,0,2.4,ml,,,,0.83,ak,ak0225qunear,2022-05-05T08:02:53.271Z,"32 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-05T07:47:01.250Z,38.7943344,-122.8153305,3.49,0.24,md,8,103,0.0113,0.01,nc,nc73729591,2022-05-05T07:55:10.646Z,"5km WNW of The Geysers, CA",earthquake,0.74,1.47,0.11,2,automatic,nc,nc
-2022-05-05T07:43:35.957Z,62.5278,-151.2325,91.7,1.4,ml,,,,0.4,ak,ak0225qulpjc,2022-05-05T07:46:45.391Z,"24 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
