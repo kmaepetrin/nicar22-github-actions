@@ -17261,3 +17261,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T05:18:03.533Z,60.119,-152.382,88.1,1.7,ml,,,,0.34,ak,ak0225sgsrdx,2022-05-06T05:20:37.434Z,"40 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-06T05:08:39.155Z,66.2984,-153.1115,1.1,1.1,ml,,,,0.46,ak,ak0225sgqozv,2022-05-06T05:10:55.486Z,"34 km SSW of Alatna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-06T04:47:46.360Z,9.6088,-84.7797,22.77,4.1,mb,,150.0,0.698,0.91,us,us7000h7g5,2022-05-06T05:10:48.375Z,"16 km W of Jacó, Costa Rica",earthquake,6.4,6.3,0.103,26.0,reviewed,us,us
+2022-05-06T05:55:25.898Z,60.2716,-142.7276,7.7,1.2,ml,,,,0.39,ak,ak0225sh0qml,2022-05-06T05:56:41.988Z,"129 km S of McCarthy, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2022-05-06T05:53:54.460Z,38.7916679,-122.8051682,3.18,0.89,md,27.0,80.0,0.003718,0.03,nc,nc73729936,2022-05-06T05:55:29.610Z,"4km WNW of The Geysers, CA",earthquake,0.25,0.45,0.21,4.0,automatic,nc,nc
+2022-05-06T05:52:53.943Z,61.3425,-150.704,52.0,1.7,ml,,,,0.5,ak,ak0225sh05ma,2022-05-06T05:55:28.371Z,"24 km SSW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
