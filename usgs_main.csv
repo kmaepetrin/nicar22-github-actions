@@ -17258,3 +17258,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T04:58:01.220Z,36.791832,-121.5273361,9.76,1.46,md,21.0,67.0,0.03282,0.12,nc,nc73729931,2022-05-06T04:59:35.288Z,"6km S of San Juan Bautista, CA",earthquake,0.38,0.55,0.35,13.0,automatic,nc,nc
 2022-05-06T04:54:16.739Z,56.4859,-157.2318,59.8,2.7,ml,,,,0.48,ak,ak0225sgf2lf,2022-05-06T05:00:59.040Z,"75 km ENE of Chignik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-06T00:06:36.220Z,38.824,-122.7883333,1.84,0.24,md,14.0,70.0,0.01228,0.01,nc,nc73729891,2022-05-06T05:05:34.674Z,"6km W of Cobb, CA",earthquake,0.32,0.67,0.267,2.0,reviewed,nc,nc
+2022-05-06T05:18:03.533Z,60.119,-152.382,88.1,1.7,ml,,,,0.34,ak,ak0225sgsrdx,2022-05-06T05:20:37.434Z,"40 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-06T05:08:39.155Z,66.2984,-153.1115,1.1,1.1,ml,,,,0.46,ak,ak0225sgqozv,2022-05-06T05:10:55.486Z,"34 km SSW of Alatna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-06T04:47:46.360Z,9.6088,-84.7797,22.77,4.1,mb,,150.0,0.698,0.91,us,us7000h7g5,2022-05-06T05:10:48.375Z,"16 km W of Jacó, Costa Rica",earthquake,6.4,6.3,0.103,26.0,reviewed,us,us
