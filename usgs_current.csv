@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-07T14:05:23.950Z,19.1946659088135,-155.369827270508,33.310001373291,2.01999998,md,39,170,,0.109999999,hv,hv73005492,2022-05-07T14:08:38.420Z,"11 km E of Pāhala, Hawaii",earthquake,0.61,0.810000002,0.709999979,17,automatic,hv,hv
 2022-05-07T13:57:44.617Z,63.3436,-145.2654,5.4,1.1,ml,,,,1,ak,ak0225u9bz0v,2022-05-07T14:00:29.977Z,"33 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T13:53:43.571Z,63.0395,-151.5281,0,1,ml,,,,1.03,ak,ak0225u9b5wa,2022-05-07T14:05:38.882Z,"56 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T13:41:38.880Z,19.224666595459,-155.40266418457,33.1300010681152,1.84000003,md,29,149,,0.119999997,hv,hv73005487,2022-05-07T13:44:51.240Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.68,0.75999999,1.83000004,6,automatic,hv,hv
@@ -201,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T14:57:58.480Z,53.9866666666667,-166.114666666667,16.81,-0.12,ml,6,327,,0.06,av,av91057538,2022-05-07T00:32:09.960Z,"27 km SW of Akutan, Alaska",earthquake,0.91,1.22,0.314501320532547,6,reviewed,av,av
 2022-05-06T14:48:26.453Z,61.5406,-147.184,17.8,1.3,ml,,,,0.84,ak,ak0225smc53p,2022-05-06T14:52:36.586Z,"38 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-06T14:43:11.725Z,63.12,-149.9195,81,1.1,ml,,,,0.37,ak,ak0225smb1dl,2022-05-06T14:46:51.499Z,"57 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-05-06T14:20:54.309Z,59.2719,-152.2824,71.3,1.2,ml,,,,0.27,ak,ak0225sm63oz,2022-05-06T16:07:26.106Z,"22 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2022-05-06T14:20:14.140Z,34.2091667,-120.0365,5.61,2.43,ml,36,136,0.2325,0.18,ci,ci40253632,2022-05-06T18:11:18.430Z,"18km NNW of Santa Cruz Is. (NW end), CA",earthquake,0.3,31.61,0.098,22,reviewed,ci,ci
