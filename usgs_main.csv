@@ -17482,3 +17482,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T02:26:23.221Z,57.8098,-153.9153,24.0,2.2,ml,,,,0.47,ak,ak0225u2lkdd,2022-05-07T02:32:47.060Z,"30 km N of Larsen Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T02:21:47.833Z,62.1805,-151.1481,66.0,1.5,ml,,,,0.24,ak,ak0225u2kjni,2022-05-07T02:29:18.575Z,"24 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-07T02:12:39.080Z,40.4963341,-123.5035019,7.85,2.14,md,12.0,152.0,0.056,0.21,nc,nc73730296,2022-05-07T02:19:14.614Z,"28km WSW of Hayfork, CA",earthquake,1.61,0.9,0.13,7.0,automatic,nc,nc
+2022-05-07T03:30:10.226Z,61.6128,-152.4652,4.9,0.6,ml,,,,1.85,ak,ak0225u37ttz,2022-05-07T03:36:04.924Z,"70 km SW of Skwentna, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2022-05-07T03:21:05.584Z,60.186,-141.3128,13.4,1.0,ml,,,,0.67,ak,ak0225u35vzy,2022-05-07T03:23:14.270Z,"113 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-07T03:19:17.070Z,35.8429985,-90.1246643,20.04,2.36,md,27.0,47.0,0.1004,0.21,nm,nm60393531,2022-05-07T03:42:37.672Z,"5 km SE of Manila, Arkansas",earthquake,0.51,0.59,0.23,23.0,reviewed,nm,nm
+2022-05-07T03:15:28.875Z,64.5838,-147.72,9.0,0.7,ml,,,,0.69,ak,ak0225u34ni3,2022-05-07T03:19:15.672Z,"25 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-07T03:10:57.008Z,64.7904,-149.158,23.5,0.9,ml,,,,0.54,ak,ak0225u33n38,2022-05-07T03:12:17.929Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
