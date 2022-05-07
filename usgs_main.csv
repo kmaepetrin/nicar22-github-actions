@@ -17537,3 +17537,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T05:02:48.050Z,17.9771666666667,-66.8461666666667,17.27,1.7,md,9.0,194.0,,0.11,pr,pr71347688,2022-05-07T08:37:15.860Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.51,0.8,0.284387563082131,8.0,reviewed,pr,pr
 2022-05-07T08:49:22.179Z,61.0967,-147.3534,17.0,1.3,ml,,,,0.66,ak,ak0225u6b3cq,2022-05-07T08:52:55.294Z,"44 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T05:26:02.800Z,17.9053333333333,-67.0303333333333,12.53,2.18,md,3.0,260.0,,0.01,pr,pr71347723,2022-05-07T08:51:24.350Z,"7 km SSE of La Parguera, Puerto Rico",earthquake,1.67,1.0,0.0051955916043207,3.0,reviewed,pr,pr
+2022-05-07T09:06:13.836Z,36.7623,-116.1926,8.3,0.4,ml,10.0,103.84,0.065,0.1615,nn,nn00838475,2022-05-07T09:09:12.589Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.29,5.0,automatic,nn,nn
