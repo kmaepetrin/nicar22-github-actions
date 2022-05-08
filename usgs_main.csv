@@ -17711,3 +17711,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T07:54:34.510Z,-3.5651,145.9392,10.0,4.8,mb,,72.0,6.241,0.74,us,us7000h7wh,2022-05-08T08:14:14.040Z,"183 km N of Madang, Papua New Guinea",earthquake,10.8,1.9,0.084,44.0,reviewed,us,us
 2022-05-08T08:30:15.840Z,38.8213348,-122.7634964,2.23,0.85,md,9.0,196.0,0.01041,0.01,nc,nc73730751,2022-05-08T08:39:11.165Z,"4km W of Cobb, CA",earthquake,0.62,1.12,,1.0,automatic,nc,nc
 2022-05-08T08:13:11.171Z,38.325,23.3802,10.65,4.3,mb,,68.0,1.624,0.52,us,us7000h7wi,2022-05-08T08:41:17.040Z,"5 km E of Thívai, Greece",earthquake,3.4,6.0,0.238,6.0,reviewed,us,us
+2022-05-08T08:50:34.963Z,58.1286,-155.8935,126.0,1.7,ml,,,,0.8,ak,ak0225vtuo99,2022-05-08T08:53:06.109Z,"76 km SE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
