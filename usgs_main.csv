@@ -17769,3 +17769,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T14:28:05.090Z,38.8359985,-122.7893295,2.03,0.85,md,11.0,81.0,0.002534,0.02,nc,nc73730816,2022-05-08T14:35:11.603Z,"6km WNW of Cobb, CA",earthquake,0.5,1.15,,1.0,automatic,nc,nc
 2022-05-07T23:14:49.440Z,44.4501667,-115.209,5.28,2.26,ml,8.0,82.0,0.841,0.19,mb,mb80545239,2022-05-08T14:38:38.250Z,"33 km NW of Stanley, Idaho",earthquake,0.56,1.83,0.22,10.0,reviewed,mb,mb
 2022-05-07T19:28:52.840Z,45.8861667,-111.6021667,2.48,1.12,ml,8.0,139.0,0.199,0.06,mb,mb80545229,2022-05-08T14:31:21.940Z,"3 km W of Three Forks, Montana",earthquake,0.35,1.1,0.209,3.0,reviewed,mb,mb
+2022-05-08T14:42:44.561Z,60.8805,-151.7798,71.1,0.8,ml,,,,0.67,ak,ak0225vxdl5b,2022-05-08T14:45:11.646Z,"34 km NW of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
