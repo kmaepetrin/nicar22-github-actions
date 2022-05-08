@@ -17817,3 +17817,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T19:20:08.158Z,62.9123,-148.3553,9.9,1.4,ml,,,,1.0,ak,ak0225w07yn5,2022-05-08T19:24:39.988Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-08T19:14:33.100Z,38.8154984,-122.8221664,3.6,0.75,md,14.0,52.0,0.008593,0.01,nc,nc73730931,2022-05-08T19:24:10.063Z,"7km NW of The Geysers, CA",earthquake,0.32,1.13,0.11,2.0,automatic,nc,nc
 2022-05-08T15:43:43.132Z,61.4332,-151.6535,80.7,0.9,ml,,,,0.23,ak,ak0225vxz8p1,2022-05-08T19:21:46.160Z,"44 km NW of Beluga, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2022-05-08T19:36:02.050Z,38.7874985,-122.7441635,2.18,0.36,md,8.0,173.0,0.01787,0.02,nc,nc73730936,2022-05-08T19:37:38.538Z,"2km NE of The Geysers, CA",earthquake,0.62,1.01,0.02,2.0,automatic,nc,nc
