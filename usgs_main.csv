@@ -17839,3 +17839,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T23:13:43.400Z,36.0203333,-117.8126667,1.51,1.28,ml,9.0,82.0,0.03789,0.09,ci,ci40254640,2022-05-08T23:17:22.713Z,"12km ESE of Coso Junction, CA",earthquake,0.21,0.27,0.217,16.0,automatic,ci,ci
 2022-05-08T23:03:45.940Z,-12.1981,121.9111,10.0,4.9,mb,,73.0,3.353,0.67,us,us7000h813,2022-05-08T23:22:57.040Z,"290 km SW of Kupang, Indonesia",earthquake,4.4,1.9,0.161,12.0,reviewed,us,us
 2022-05-08T23:38:12.464Z,63.1853,-149.5201,11.8,1.4,ml,,,,0.5,ak,ak0225w2pkaj,2022-05-08T23:46:02.258Z,"36 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-08T23:50:32.073Z,35.07852173,-95.52335358,0.2666303813,2.56,ml,24.0,114.3976593,0.1705153286,0.5566101625,ok,ok2022izwc,2022-05-08T23:52:49.640Z,"14 km ESE of Crowder, Oklahoma",earthquake,3.478143492,2.460053611,,18.0,automatic,ok,ok
+2022-05-08T23:07:22.630Z,17.992,-66.9976666666667,12.9,2.09,md,4.0,160.0,,0.05,pr,pr71347973,2022-05-08T23:47:07.710Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,2.38,0.63,0.0202015392818184,3.0,reviewed,pr,pr
