@@ -18054,3 +18054,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T21:43:29.120Z,33.046,-116.3541667,9.53,1.25,ml,33.0,82.0,0.1006,0.21,ci,ci40255184,2022-05-09T21:47:05.554Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.32,0.84,0.145,27.0,automatic,ci,ci
 2022-05-09T21:41:52.370Z,33.0465,-116.355,9.46,1.17,ml,39.0,61.0,0.1014,0.21,ci,ci40255176,2022-05-09T21:45:29.548Z,"23km E of Julian, CA",earthquake,0.29,0.88,0.196,26.0,automatic,ci,ci
 2022-05-09T21:41:25.820Z,33.0425,-116.353,10.06,1.21,ml,37.0,63.0,0.09707,0.21,ci,ci40255168,2022-05-09T21:45:05.245Z,"24km WSW of Ocotillo Wells, CA",earthquake,0.29,0.84,0.195,23.0,automatic,ci,ci
+2022-05-09T18:11:27.810Z,37.3745,-118.8053333,4.26,1.13,md,14.0,99.0,0.194,0.09,nc,nc73731361,2022-05-09T21:55:10.733Z,"19km WSW of Round Valley, CA",earthquake,0.38,31.61,0.232,9.0,reviewed,nc,nc
+2022-05-09T10:24:19.340Z,19.5085,-155.661833333333,3.99,1.52,md,11.0,123.0,,0.12,hv,hv72000393,2022-05-09T21:55:56.600Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.85,0.148696662263304,4.0,reviewed,hv,hv
+2022-05-09T09:12:13.668Z,39.2289,-120.0805,7.0,-0.5,ml,5.0,123.33,0.041,0.1485,nn,nn00838570,2022-05-09T21:51:18.988Z,"0 km NNE of Carnelian Bay, California",earthquake,,2.2,0.0,1.0,reviewed,nn,nn
