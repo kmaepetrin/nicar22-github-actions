@@ -18368,3 +18368,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T07:10:04.890Z,53.8643333333333,-166.856333333333,4.78,-0.09,ml,6.0,155.0,,0.09,av,av91058043,2022-05-10T22:42:06.440Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.3,0.99,0.291361214678195,6.0,reviewed,av,av
 2022-05-10T22:49:42.720Z,39.1992,-117.2326,10.0,2.5,ml,9.0,290.92,1.051,0.2534,nn,nn00838659,2022-05-10T22:54:20.023Z,"14 km W of Kingston, Nevada",earthquake,,3.3,0.45,6.0,automatic,nn,nn
 2022-05-10T20:10:00.962Z,38.1653,-117.8684,4.7,1.3,ml,12.0,139.88,0.076,0.149,nn,nn00838658,2022-05-10T22:54:54.702Z,"32 km SE of Mina, Nevada",earthquake,,3.6,0.04,3.0,reviewed,nn,nn
+2022-05-10T23:04:51.152Z,63.1524,-151.3242,0.0,1.6,ml,,,,0.85,ak,ak0225zdl1x7,2022-05-10T23:06:58.012Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-10T23:02:29.617Z,64.9248,-147.3163,1.2,1.2,ml,,,,0.91,ak,ak0225zdkktt,2022-05-10T23:04:57.551Z,"14 km WNW of Two Rivers, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2022-05-10T09:05:14.950Z,51.925,-177.6215,2.97,0.62,ml,5.0,187.0,,0.23,av,av91058048,2022-05-10T23:04:42.360Z,"68 km W of Adak, Alaska",earthquake,1.75,1.57,0.168794307920858,5.0,reviewed,av,av
