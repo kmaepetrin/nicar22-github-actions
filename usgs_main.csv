@@ -18299,3 +18299,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T17:32:28.330Z,33.248,-116.2733333,8.46,1.03,ml,33.0,67.0,0.05749,0.25,ci,ci40255640,2022-05-10T17:36:06.935Z,"10km E of Borrego Springs, CA",earthquake,0.38,0.78,0.137,23.0,automatic,ci,ci
 2022-05-10T17:30:25.680Z,17.9231666666667,-66.7975,9.48,2.91,md,18.0,184.0,,0.31,pr,pr71348283,2022-05-10T17:46:36.600Z,"8 km SSE of Indios, Puerto Rico",earthquake,0.83,1.18,0.246737810725102,13.0,reviewed,pr,pr
 2022-05-10T00:05:49.294Z,31.30804366,-103.3637145,8.316748047,2.5,ml,12.0,59.0,0.1427989834,0.2,tx,tx2022jbsc,2022-05-10T17:33:07.995Z,"17 km S of Barstow, Texas",earthquake,1.760552186,3.027051097,0.1,7.0,reviewed,tx,tx
+2022-05-10T08:25:31.060Z,33.0501667,-116.354,13.62,1.11,ml,24.0,81.0,0.07571,0.15,ci,ci37416444,2022-05-10T17:55:51.719Z,"23km S of Borrego Springs, CA",earthquake,0.23,0.54,0.126,16.0,reviewed,ci,ci
