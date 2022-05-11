@@ -18540,3 +18540,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T04:07:55.880Z,47.2281667,-113.4928333,18.42,1.18,ml,15.0,68.0,0.014,0.14,mb,mb80545624,2022-05-11T14:29:46.380Z,"5 km N of Seeley Lake, Montana",earthquake,0.43,0.77,0.102,3.0,reviewed,mb,mb
 2022-05-11T14:36:33.090Z,34.3803329,-118.6246643,10.09,2.28,ml,75.0,26.0,0.0376,0.26,ci,ci40256256,2022-05-11T14:38:59.759Z,"10km SSW of Valencia, CA",earthquake,0.28,0.59,0.226,26.0,automatic,ci,ci
 2022-05-11T14:20:14.053Z,-15.208,167.4815,117.3,5.2,mww,,42.0,0.358,0.85,us,us7000h8li,2022-05-11T14:38:27.040Z,"47 km ESE of Port-Olry, Vanuatu",earthquake,7.6,3.3,0.098,10.0,reviewed,us,us
+2022-05-10T19:57:10.177Z,29.6013,138.9445,460.35,4.0,mb,,132.0,3.581,0.72,us,us7000h8f1,2022-05-11T14:40:21.040Z,"Izu Islands, Japan region",earthquake,5.1,7.8,0.05,112.0,reviewed,us,us
