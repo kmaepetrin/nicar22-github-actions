@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-11T21:30:47.790Z,38.8278351,-122.8216629,1.55,0.85,md,16,49,0.01008,0.02,nc,nc73732316,2022-05-11T21:32:24.030Z,"8km NW of The Geysers, CA",earthquake,0.23,0.65,,1,automatic,nc,nc
+2022-05-11T21:30:47.790Z,38.8278351,-122.8216629,1.55,0.85,md,16,49,0.01008,0.02,nc,nc73732316,2022-05-11T21:39:11.080Z,"8km NW of The Geysers, CA",earthquake,0.23,0.65,,1,automatic,nc,nc
 2022-05-11T21:30:02.290Z,33.5688333,-116.8256667,7.6,0.48,ml,17,83,0.05706,0.22,ci,ci40015839,2022-05-11T21:33:41.928Z,"14km W of Anza, CA",earthquake,0.58,1.04,0.054,10,automatic,ci,ci
-2022-05-11T21:21:03.170Z,38.8421669,-122.8766632,2.73,1.17,md,16,89,0.006605,0.03,nc,nc73732301,2022-05-11T21:29:12.021Z,"13km NW of The Geysers, CA",earthquake,0.31,0.63,0.04,3,automatic,nc,nc
+2022-05-11T21:21:03.170Z,38.8421669,-122.8766632,2.73,1.17,md,16,89,0.006605,0.03,nc,nc73732301,2022-05-11T21:37:12.069Z,"13km NW of The Geysers, CA",earthquake,0.31,0.63,0.04,3,automatic,nc,nc
 2022-05-11T21:13:52.580Z,19.3818333333333,-154.9415,5.67,2.04,md,36,226,,0.2,hv,hv73009757,2022-05-11T21:26:07.750Z,"10 km SSW of Leilani Estates, Hawaii",earthquake,0.76,0.55,0.118994278719756,15,reviewed,hv,hv
+2022-05-11T21:11:48.690Z,17.9873333333333,-66.9746666666667,3.31,1.98,md,3,178,,0.04,pr,pr71348453,2022-05-11T21:42:52.080Z,"6 km W of Fuig, Puerto Rico",earthquake,1.64,4.95,0.083938419155402,3,reviewed,pr,pr
 2022-05-11T21:02:02.844Z,61.5858,-148.0623,8.3,1.5,ml,,,,1.12,ak,ak02260zx01i,2022-05-11T21:13:39.923Z,"31 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-11T20:43:05.140Z,33.8608333,-117.6463333,13.06,1.99,ml,16,130,0.05876,0.27,ci,ci40015799,2022-05-11T21:09:38.236Z,"7km W of Corona, CA",earthquake,0.68,1.17,0.472,10,automatic,ci,ci
 2022-05-11T20:38:45.510Z,38.8366661,-122.8121643,1.98,0.85,md,11,58,0.01335,0.01,nc,nc73732281,2022-05-11T21:13:11.917Z,"8km WNW of Cobb, CA",earthquake,0.36,1.08,,1,automatic,nc,nc
