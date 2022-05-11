@@ -18611,3 +18611,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T20:21:50.424Z,61.1543,-146.7611,34.4,1.8,ml,,,,0.86,ak,ak02260zfqpw,2022-05-11T20:28:04.971Z,"22 km W of Valdez, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-05-11T20:19:55.430Z,62.097,-151.2126,75.9,1.5,ml,,,,0.57,ak,ak02260zfbqs,2022-05-11T20:28:04.235Z,"15 km NE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-11T20:05:20.163Z,55.2907,-160.7491,86.73,3.1,ml,,125.0,0.166,0.81,us,us6000hkfi,2022-05-11T20:18:14.040Z,"16 km WSW of Sand Point, Alaska",earthquake,5.8,12.3,0.06,36.0,reviewed,us,us
+2022-05-11T20:33:55.140Z,38.838665,-122.8304977,2.11,0.86,md,6.0,106.0,0.003897,0.02,nc,nc73732266,2022-05-11T20:35:31.230Z,"9km NW of The Geysers, CA",earthquake,0.43,1.43,,1.0,automatic,nc,nc
