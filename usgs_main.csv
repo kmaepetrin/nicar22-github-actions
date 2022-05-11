@@ -18459,3 +18459,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T07:40:48.420Z,38.8221664,-122.8570023,2.54,0.72,md,23.0,71.0,0.005372,0.02,nc,nc73732071,2022-05-11T07:42:22.211Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.46,0.13,4.0,automatic,nc,nc
 2022-05-11T07:50:07.596Z,62.1701,-150.5807,3.1,2.2,ml,,,,0.67,ak,ak02260rv8ci,2022-05-11T07:54:04.008Z,"24 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-11T07:46:05.940Z,33.4871667,-116.4695,14.32,0.6,ml,21.0,66.0,0.08695,0.15,ci,ci40256080,2022-05-11T07:49:29.820Z,"20km ESE of Anza, CA",earthquake,0.33,0.64,0.082,15.0,automatic,ci,ci
+2022-05-11T07:53:13.669Z,38.1726,-117.8615,0.9,1.5,ml,13.0,175.4,0.084,0.1703,nn,nn00838713,2022-05-11T07:56:59.572Z,"32 km SE of Mina, Nevada",earthquake,,4.5,0.84,9.0,automatic,nn,nn
