@@ -18511,3 +18511,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T12:05:54.620Z,38.8204994,-122.7789993,0.87,0.92,md,12.0,155.0,0.007349,0.11,nc,nc73732131,2022-05-11T12:23:23.794Z,"5km W of Cobb, CA",earthquake,0.82,0.99,0.19,3.0,automatic,nc,nc
 2022-05-11T11:58:38.302Z,62.131,-148.0214,32.9,1.2,ml,,,,0.53,ak,ak02260uaque,2022-05-11T12:08:24.398Z,"40 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-11T11:52:38.988Z,1.2982,124.5344,178.95,4.5,mb,,78.0,2.879,0.77,us,us7000h8kk,2022-05-11T12:18:05.040Z,"30 km W of Tomohon, Indonesia",earthquake,9.0,9.0,0.1,32.0,reviewed,us,us
+2022-05-11T12:47:16.620Z,34.3751667,-118.6323333,10.56,1.8,ml,53.0,43.0,0.03479,0.3,ci,ci40256192,2022-05-11T12:56:50.923Z,"10km SSW of Valencia, CA",earthquake,0.34,0.75,0.158,27.0,automatic,ci,ci
+2022-05-11T12:44:07.400Z,33.0476667,-116.3575,9.88,1.03,ml,25.0,63.0,0.1034,0.21,ci,ci40256184,2022-05-11T12:47:34.991Z,"23km E of Julian, CA",earthquake,0.37,1.12,0.167,12.0,automatic,ci,ci
+2022-05-11T12:15:31.475Z,-29.3196,-68.5253,131.41,4.5,mb,,101.0,1.514,0.48,us,us7000h8kn,2022-05-11T12:49:49.040Z,"69 km SSW of Vinchina, Argentina",earthquake,6.7,8.1,0.181,10.0,reviewed,us,us
+2022-05-11T12:11:04.550Z,-6.1828,105.8501,167.76,4.3,mb,,69.0,2.193,0.76,us,us7000h8km,2022-05-11T12:32:23.040Z,"21 km N of Labuan, Indonesia",earthquake,7.4,6.9,0.117,23.0,reviewed,us,us
