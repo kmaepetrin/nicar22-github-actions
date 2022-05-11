@@ -18639,3 +18639,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T23:44:03.280Z,34.0198326,-117.5605011,8.23,1.28,ml,33.0,82.0,0.01522,0.16,ci,ci40015991,2022-05-11T23:46:14.947Z,"5km NW of Mira Loma, CA",earthquake,0.39,0.58,0.172,8.0,automatic,ci,ci
 2022-05-11T23:42:11.860Z,19.1949996948242,-155.479827880859,32.9099998474121,2.8900001,md,43.0,138.0,,0.100000001,hv,hv73009872,2022-05-11T23:45:19.000Z,"0 km S of Pāhala, Hawaii",earthquake,0.6,0.720000029,2.04999995,35.0,automatic,hv,hv
 2022-05-11T23:38:28.693Z,64.9836,-148.8885,18.0,0.8,ml,,,,0.38,ak,ak022611bn11,2022-05-11T23:39:56.237Z,"28 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-11T23:49:56.384Z,65.0165,-148.8105,6.7,0.9,ml,,,,0.78,ak,ak022611e21j,2022-05-11T23:52:56.069Z,"29 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-11T23:45:08.989Z,62.2703,-151.9626,98.1,1.4,ml,,,,0.71,ak,ak022611d3hv,2022-05-11T23:48:03.168Z,"42 km NW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
