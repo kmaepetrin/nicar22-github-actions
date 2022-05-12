@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-12T11:37:56.040Z,19.1848335266113,-155.481826782227,34.4799995422363,2.23000002,md,29,146,,0.129999995,hv,hv73010382,2022-05-12T11:41:04.680Z,"2 km S of Pāhala, Hawaii",earthquake,0.58,1.02999997,0.959999979,3,automatic,hv,hv
 2022-05-12T11:09:54.646Z,60.0716,-152.7828,102.2,1.4,ml,,,,0.49,ak,ak02262hjmhj,2022-05-12T11:13:40.397Z,"60 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-12T11:05:30.690Z,35.6951667,-117.6036667,9.55,1.46,ml,23,78,0.1196,0.17,ci,ci40016207,2022-05-12T11:09:09.505Z,"10km NE of Ridgecrest, CA",earthquake,0.27,0.71,0.166,23,automatic,ci,ci
 2022-05-12T11:00:29.420Z,38.7791672,-122.7676697,1.34,0.62,md,12,92,0.008567,0.04,nc,nc73732571,2022-05-12T11:09:11.282Z,"1km WNW of The Geysers, CA",earthquake,0.35,0.6,0.07,3,automatic,nc,nc
@@ -63,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T04:42:26.775Z,63.3994,-151.3387,0.1,1.6,ml,,,,1.05,ak,ak02262dklqt,2022-05-12T04:47:31.928Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T04:28:12.860Z,38.828167,-122.8148346,2.02,1.33,md,26,42,0.006044,0.02,nc,nc73732491,2022-05-12T07:54:11.070Z,"8km NW of The Geysers, CA",earthquake,0.19,0.34,0.36,2,automatic,nc,nc
 2022-05-12T04:28:05.890Z,38.8283348,-122.8151703,1.96,1.93,md,25,44,0.006339,0.02,nc,nc73732486,2022-05-12T07:28:11.876Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.14,5,automatic,nc,nc
-2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"120 km E of Chignik, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"Alaska Peninsula",earthquake,,3.1,,,automatic,ak,ak
 2022-05-12T04:14:13.281Z,62.1089,-150.2173,15.3,1.3,ml,,,,0.31,ak,ak02262deknk,2022-05-12T04:16:41.345Z,"19 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T04:05:22.550Z,33.2655,-116.2986667,12.17,1.17,ml,31,68,0.0817,0.23,ci,ci40016063,2022-05-12T04:09:02.591Z,"7km E of Borrego Springs, CA",earthquake,0.31,0.66,0.157,27,automatic,ci,ci
 2022-05-12T03:53:40.762Z,31.6122,-103.9456,2.64,2.8,ml,,70,0.25,0.32,us,us6000hkh9,2022-05-12T04:14:30.040Z,"34 km WSW of Mentone, Texas",earthquake,1.2,1.1,0.052,48,reviewed,us,us
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T11:53:28.380Z,34.373,-118.6286667,12,1.63,ml,39,80,0.0316,0.22,ci,ci40256176,2022-05-11T19:10:40.860Z,"10km SSW of Valencia, CA",earthquake,0.29,0.56,0.116,20,reviewed,ci,ci
 2022-05-11T11:52:38.988Z,1.2982,124.5344,178.95,4.5,mb,,78,2.879,0.77,us,us7000h8kk,2022-05-11T12:18:05.040Z,"30 km W of Tomohon, Indonesia",earthquake,9,9,0.1,32,reviewed,us,us
 2022-05-11T11:52:10.460Z,34.3733333,-118.637,8.65,1.49,ml,30,113,0.03504,0.27,ci,ci40256168,2022-05-11T11:55:56.679Z,"11km SW of Valencia, CA",earthquake,0.44,1.05,0.129,29,automatic,ci,ci
-2022-05-11T11:42:40.670Z,36.2155,-117.8788333,8.85,0.86,ml,18,66,0.09963,0.11,ci,ci40256160,2022-05-11T15:24:25.726Z,"14km ESE of Olancha, CA",earthquake,0.17,0.46,0.084,6,reviewed,ci,ci
