@@ -18891,3 +18891,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T20:49:08.080Z,19.3484992980957,-155.446166992188,6.21000003814697,1.94000006,md,30.0,74.0,,0.219999999,hv,hv73010617,2022-05-12T20:53:06.770Z,"16 km NNE of Pāhala, Hawaii",earthquake,0.43,0.980000019,0.600000024,15.0,automatic,hv,hv
 2022-05-12T20:48:55.833Z,63.4825,-151.2155,4.4,2.2,ml,,,,0.7,ak,ak02262n4vyk,2022-05-12T20:51:31.136Z,"26 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T05:44:05.559Z,37.0986,-116.1974,4.5,-0.2,ml,4.0,215.65,0.103,0.0794,nn,nn00838795,2022-05-12T20:55:03.014Z,"54 km ENE of Beatty, Nevada",earthquake,,9.9,0.06,2.0,reviewed,nn,nn
+2022-05-12T21:09:20.230Z,38.8378334,-122.8355026,2.14,1.54,md,34.0,59.0,0.0007546,0.03,nc,nc73732756,2022-05-12T21:12:05.389Z,"10km NW of The Geysers, CA",earthquake,0.19,0.33,0.12,8.0,automatic,nc,nc
+2022-05-12T20:50:44.448Z,31.6483,-104.4014,5.0,3.2,ml,,109.0,0.087,0.73,us,us6000hkp4,2022-05-12T21:05:23.040Z,"58 km S of Whites City, New Mexico",earthquake,2.7,2.0,0.064,72.0,reviewed,us,us
+2022-05-12T07:27:35.809Z,38.6261,-118.6024,7.2,1.0,ml,12.0,172.76,0.282,0.137,nn,nn00838797,2022-05-12T21:13:38.545Z,"11 km N of Hawthorne, Nevada",earthquake,,10.3,0.04,2.0,reviewed,nn,nn
+2022-05-12T07:17:29.807Z,36.5645,-116.3028,3.2,-0.2,ml,8.0,165.79,0.086,0.0732,nn,nn00838796,2022-05-12T21:04:20.091Z,"48 km NW of Pahrump, Nevada",earthquake,,5.7,1.06,3.0,reviewed,nn,nn
