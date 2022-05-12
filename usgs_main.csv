@@ -18680,3 +18680,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T06:21:48.983Z,37.1878,-115.9976,3.4,0.8,ml,10.0,204.59,0.014,0.1583,nn,nn00838745,2022-05-12T02:38:07.143Z,Nevada,earthquake,,1.5,0.36,6.0,reviewed,nn,nn
 2022-05-11T05:01:18.625Z,37.1778,-116.0085,3.5,0.0,ml,7.0,122.68,0.015,0.1513,nn,nn00838744,2022-05-12T02:38:06.439Z,Nevada,earthquake,,1.9,0.27,5.0,reviewed,nn,nn
 2022-05-11T04:56:01.963Z,37.1852,-115.998,4.4,0.5,ml,8.0,177.09,0.013,0.1167,nn,nn00838743,2022-05-12T02:38:05.770Z,"55 km SSW of Rachel, Nevada",earthquake,,1.7,0.47,5.0,reviewed,nn,nn
+2022-05-12T03:47:01.485Z,59.5825,-152.5757,71.1,1.6,ml,,,,0.25,ak,ak02262d06q4,2022-05-12T03:50:15.535Z,"44 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-12T03:41:46.010Z,38.8311653,-122.8178329,1.69,1.05,md,23.0,51.0,0.009845,0.02,nc,nc73732466,2022-05-12T03:53:11.474Z,"8km NW of The Geysers, CA",earthquake,0.2,0.45,0.26,4.0,automatic,nc,nc
+2022-05-12T03:31:00.352Z,60.6517,-150.0943,20.2,2.3,ml,,,,0.89,ak,ak02262cwrad,2022-05-12T03:38:07.391Z,"23 km NW of Cooper Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-12T01:01:03.131Z,-28.3516,-67.7964,173.75,4.6,mb,,76.0,1.918,0.6,us,us6000hkgv,2022-05-12T03:41:26.040Z,"39 km SW of Tinogasta, Argentina",earthquake,8.1,7.3,0.183,9.0,reviewed,us,us
