@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T04:56:25.750Z,33.1956667,-116.0351667,7.88,1.24,ml,36,55,0.05299,0.3,ci,ci40016071,2022-05-12T05:00:04.570Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.43,1.29,0.145,26,automatic,ci,ci
 2022-05-12T04:43:13.190Z,17.9588333333333,-66.9493333333333,11.64,2.26,md,7,201,,0.08,pr,pr71348478,2022-05-12T05:06:58.950Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.5,0.0468603813229664,4,reviewed,pr,pr
 2022-05-12T04:42:26.775Z,63.3994,-151.3387,0.1,1.6,ml,,,,1.05,ak,ak02262dklqt,2022-05-12T04:47:31.928Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-12T04:28:12.860Z,38.828167,-122.8148346,2.02,1.33,md,26,42,0.006044,0.02,nc,nc73732491,2022-05-12T04:41:10.769Z,"8km NW of The Geysers, CA",earthquake,0.19,0.34,0.36,2,automatic,nc,nc
+2022-05-12T04:28:12.860Z,38.828167,-122.8148346,2.02,1.33,md,26,42,0.006044,0.02,nc,nc73732491,2022-05-12T07:54:11.070Z,"8km NW of The Geysers, CA",earthquake,0.19,0.34,0.36,2,automatic,nc,nc
 2022-05-12T04:28:05.890Z,38.8283348,-122.8151703,1.96,1.93,md,25,44,0.006339,0.02,nc,nc73732486,2022-05-12T07:28:11.876Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.14,5,automatic,nc,nc
 2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"120 km E of Chignik, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2022-05-12T04:14:13.281Z,62.1089,-150.2173,15.3,1.3,ml,,,,0.31,ak,ak02262deknk,2022-05-12T04:16:41.345Z,"19 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T08:15:40.950Z,38.8231659,-122.7871704,1.44,0.67,md,14,70,0.01111,0.02,nc,nc73732076,2022-05-11T09:59:23.909Z,"6km W of Cobb, CA",earthquake,0.24,0.4,0.13,2,automatic,nc,nc
 2022-05-11T08:07:36.566Z,60.4686,-152.3481,92.7,1.5,ml,,,,0.6,ak,ak02260s7id4,2022-05-11T08:10:22.758Z,"58 km W of Cohoe, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-11T08:02:18.335Z,38.1772,-117.8764,3.2,1.1,ml,9,177.52,0.076,0.4392,nn,nn00838715,2022-05-11T08:06:28.949Z,"31 km SE of Mina, Nevada",earthquake,,1,0.19,4,automatic,nn,nn
-2022-05-11T07:53:13.669Z,38.1726,-117.8615,0.9,1.5,ml,13,175.4,0.084,0.1703,nn,nn00838713,2022-05-11T07:56:59.572Z,"32 km SE of Mina, Nevada",earthquake,,4.5,0.84,9,automatic,nn,nn
