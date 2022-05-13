@@ -19236,3 +19236,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T11:17:24.029Z,40.1085,-119.6865,15.4,0.7,ml,4.0,179.26,0.071,0.1718,nn,nn00838889,2022-05-13T23:20:40.178Z,"19 km NNW of Sutcliffe, Nevada",earthquake,,3.5,0.08,3.0,reviewed,nn,nn
 2022-05-13T09:20:41.242Z,38.2647,-118.3674,9.7,0.0,ml,7.0,218.38,0.109,0.0959,nn,nn00838888,2022-05-13T23:17:32.499Z,"26 km WSW of Mina, Nevada",earthquake,,5.2,0.0,1.0,reviewed,nn,nn
 2022-05-13T13:24:55.201Z,39.3948,-120.1748,9.7,0.0,ml,5.0,148.59,0.121,0.089,nn,nn00838891,2022-05-13T23:33:03.797Z,"7 km N of Truckee, California",earthquake,,4.1,0.26,3.0,reviewed,nn,nn
+2022-05-13T23:45:41.330Z,17.9808333333333,-66.9665,7.79,1.94,md,3.0,172.0,,0.05,pr,pr71348738,2022-05-13T23:55:18.580Z,"5 km W of Fuig, Puerto Rico",earthquake,6.59,1.47,0.170657377598165,3.0,reviewed,pr,pr
