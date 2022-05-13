@@ -19081,3 +19081,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T11:48:38.270Z,36.1621667,-117.8681667,8.99,0.36,ml,11.0,198.0,0.04578,0.11,ci,ci40017511,2022-05-13T11:52:11.849Z,"15km NNE of Coso Junction, CA",earthquake,0.5,0.44,0.165,2.0,automatic,ci,ci
 2022-05-13T11:46:34.840Z,38.8261681,-122.8048325,1.37,0.35,md,9.0,71.0,0.004943,0.02,nc,nc73733086,2022-05-13T11:48:07.855Z,"7km NW of The Geysers, CA",earthquake,0.36,1.15,,1.0,automatic,nc,nc
 2022-05-13T11:46:17.400Z,35.6726667,-117.425,11.0,0.47,ml,8.0,197.0,0.09116,0.17,ci,ci40017503,2022-05-13T11:49:54.344Z,"11km S of Searles Valley, CA",earthquake,0.86,1.17,0.11,6.0,automatic,ci,ci
+2022-05-13T11:53:27.070Z,38.4826,-118.9392,9.8,1.2,ml,11.0,149.29,0.391,0.2284,nn,nn00838849,2022-05-13T11:56:43.718Z,"24 km SW of Walker Lake, Nevada",earthquake,,2.1,0.17,8.0,automatic,nn,nn
+2022-05-13T11:50:51.158Z,31.6422,-104.3862,5.0,2.6,ml,,104.0,0.101,0.38,us,us6000hkuu,2022-05-13T12:05:25.040Z,"59 km S of Whites City, New Mexico",earthquake,1.5,1.8,0.045,64.0,reviewed,us,us
