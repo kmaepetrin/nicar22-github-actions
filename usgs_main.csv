@@ -19222,3 +19222,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T22:18:14.431Z,36.6894,71.0946,208.6,4.3,mb,,70.0,0.601,0.71,us,us6000hl0e,2022-05-13T22:40:31.040Z,"30 km SE of Jurm, Afghanistan",earthquake,6.5,5.5,0.084,40.0,reviewed,us,us
 2022-05-13T20:35:41.065Z,37.3427,-116.8077,17.8,1.0,ml,10.0,220.94,0.363,0.1405,nn,nn00838887,2022-05-13T22:46:36.047Z,"48 km N of Beatty, Nevada",earthquake,,1.8,1.21,6.0,reviewed,nn,nn
 2022-05-13T05:21:12.810Z,53.7806666666667,-167.048666666667,11.28,-0.24,ml,5.0,306.0,,0.05,av,av91058473,2022-05-13T22:43:00.930Z,"35 km WSW of Unalaska, Alaska",earthquake,0.55,0.57,0.177470839318058,5.0,reviewed,av,av
+2022-05-13T22:50:55.910Z,33.8383331,-116.7649994,16.14,1.02,ml,24.0,219.0,0.02736,0.15,ci,ci40018007,2022-05-13T22:53:01.590Z,"9km SSE of Cabazon, CA",earthquake,0.48,0.62,0.076,5.0,automatic,ci,ci
+2022-05-13T22:49:21.850Z,38.791832,-122.8024979,3.27,0.83,md,13.0,57.0,0.003529,0.03,nc,nc73733341,2022-05-13T22:50:56.652Z,"4km WNW of The Geysers, CA",earthquake,0.36,0.88,0.46,2.0,automatic,nc,nc
+2022-05-13T22:46:28.017Z,61.235,-150.5893,31.1,1.5,ml,,,,0.44,ak,ak02264bum0y,2022-05-13T22:53:21.375Z,"28 km ENE of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-05-13T22:45:17.040Z,32.9086667,-115.6441667,16.42,1.57,ml,12.0,180.0,0.07057,0.3,ci,ci40017999,2022-05-13T22:49:01.314Z,"10km NW of Imperial, CA",earthquake,1.62,0.98,0.224,30.0,automatic,ci,ci
