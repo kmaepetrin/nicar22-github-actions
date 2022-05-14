@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T14:08:33.430Z,19.1688327789307,-155.352340698242,29.4500007629395,2.1099999,md,42,177,,0.119999997,hv,hv73011252,2022-05-13T14:14:03.010Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.6,1.02999997,0.0700000003,13,automatic,hv,hv
 2022-05-13T13:49:15.190Z,38.8235016,-122.8028336,2.54,0.84,md,11,123,0.005657,0.01,nc,nc73733156,2022-05-13T13:58:11.027Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,,1,automatic,nc,nc
 2022-05-13T13:39:04.470Z,38.8050003,-122.8156662,3.35,0.25,md,13,65,0.01124,0.02,nc,nc73733151,2022-05-13T13:49:19.197Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.93,0.11,2,automatic,nc,nc
-2022-05-13T13:32:36.610Z,33.342,-116.8575,7.37,3.48,mw,153,12,0.01236,0.23,ci,ci40017591,2022-05-14T07:46:50.150Z,"2km SSE of Palomar Observatory, CA",earthquake,0.1,0.44,,4,reviewed,ci,ci
+2022-05-13T13:32:36.610Z,33.342,-116.8575,7.37,3.48,mw,153,12,0.01236,0.23,ci,ci40017591,2022-05-14T11:04:36.543Z,"2km SSE of Palomar Observatory, CA",earthquake,0.1,0.44,,4,reviewed,ci,ci
 2022-05-13T13:24:55.201Z,39.3948,-120.1748,9.7,0,ml,5,148.59,0.121,0.089,nn,nn00838891,2022-05-13T23:33:03.797Z,"7 km N of Truckee, California",earthquake,,4.1,0.26,3,reviewed,nn,nn
 2022-05-13T13:21:35.116Z,62.2733,-148.5627,29.3,1.6,ml,,,,0.87,ak,ak022646cdag,2022-05-13T13:25:15.487Z,"53 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-13T13:16:58.810Z,19.1889991760254,-155.474838256836,34.8600006103516,1.72000003,md,32,192,,0.129999995,hv,hv73011217,2022-05-13T13:20:08.050Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.77,1.01999998,0.569999993,3,automatic,hv,hv
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T11:17:24.029Z,40.1085,-119.6865,15.4,0.7,ml,4,179.26,0.071,0.1718,nn,nn00838889,2022-05-13T23:20:40.178Z,"19 km NNW of Sutcliffe, Nevada",earthquake,,3.5,0.08,3,reviewed,nn,nn
 2022-05-13T11:15:08.580Z,38.8050003,-122.81633,3.33,0.25,md,10,69,0.01076,0.02,nc,nc73733061,2022-05-13T13:23:10.817Z,"6km WNW of The Geysers, CA",earthquake,0.41,1.2,0.11,2,automatic,nc,nc
 2022-05-13T11:11:50.590Z,33.765,-116.1105,2.37,0.76,ml,25,111,0.09775,0.14,ci,ci40017471,2022-05-13T20:20:00.165Z,"11km ENE of Indio, CA",earthquake,0.21,0.33,0.122,13,reviewed,ci,ci
-2022-05-13T11:02:02.948Z,65.7029,-148.2073,13.9,1,ml,,,,1.03,ak,ak0226451czc,2022-05-13T11:05:42.896Z,"25 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
