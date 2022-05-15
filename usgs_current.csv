@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-15T17:05:53.540Z,38.8325005,-122.8105011,1.93,0.87,md,15,58,0.009098,0.01,nc,nc73734086,2022-05-15T17:07:28.358Z,"8km W of Cobb, CA",earthquake,0.26,0.87,0.01,2,automatic,nc,nc
+2022-05-15T16:58:29.560Z,19.4196662902832,-155.254165649414,0.779999971389771,1.75,ml,14,131,,0.280000001,hv,hv73013217,2022-05-15T17:04:00.400Z,"3 km SW of Volcano, Hawaii",earthquake,0.39,0.219999999,0.1,3,automatic,hv,hv
+2022-05-15T16:51:30.350Z,33.593,-116.8043333,7.65,0.67,ml,34,41,0.03359,0.22,ci,ci40019591,2022-05-15T16:55:12.784Z,"13km WNW of Anza, CA",earthquake,0.29,0.66,0.171,24,automatic,ci,ci
+2022-05-15T16:50:12.142Z,63.4873,-151.7731,92.4,1.9,ml,,,,0.9,ak,ak02267jdixm,2022-05-15T17:08:26.421Z,"6 km SSW of Denali National Park, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2022-05-15T16:49:03.440Z,33.895668,-116.9753342,28.67,1.42,ml,20,98,0.2124,0.39,ci,ci40019583,2022-05-15T16:52:41.780Z,"4km S of Beaumont, CA",earthquake,1.58,1.73,0.322,10,automatic,ci,ci
 2022-05-15T16:33:52.344Z,36.93294144,-98.27317047,34.16405106,1.88,ml,18,151.6087456,0.3000456393,1.479399676,ok,ok2022jmcf,2022-05-15T16:35:15.270Z,"1 km ENE of Amorita, Oklahoma",earthquake,9.954010006,7.85814261,,8,automatic,ok,ok
 2022-05-15T16:13:34.129Z,62.3761,-151.0753,75.6,1.3,ml,,,,0.58,ak,ak02267j5nag,2022-05-15T16:30:42.346Z,"20 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-15T16:09:26.260Z,38.8388329,-122.8363342,1.19,1.12,md,13,111,0.000705,0.01,nc,nc73734076,2022-05-15T16:19:11.108Z,"10km NW of The Geysers, CA",earthquake,0.24,0.76,0.22,2,automatic,nc,nc
@@ -152,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T21:42:39.450Z,18.2413,-67.4001,79,3.48,md,25,207,0.1635,0.13,pr,pr2022134001,2022-05-15T14:28:11.897Z,"18 km WSW of Stella, Puerto Rico",earthquake,0.79,0.53,0.15,18,reviewed,pr,pr
 2022-05-14T21:28:14.790Z,34.9123333,-119.353,5.83,3.26,ml,72,26,0.05664,0.31,ci,ci40018903,2022-05-15T16:13:13.507Z,"17km SSE of Maricopa, CA",earthquake,0.24,0.63,0.189,129,reviewed,ci,ci
 2022-05-14T21:13:31.540Z,38.8651657,-122.8101654,1.2,0.87,md,8,132,0.01317,0.01,nc,nc73733746,2022-05-14T22:27:10.616Z,"9km WNW of Cobb, CA",earthquake,0.44,0.64,,1,automatic,nc,nc
+2022-05-14T21:09:49.210Z,33.6736667,-116.7211667,14.09,0.39,ml,24,85,0.03786,0.11,ci,ci40018895,2022-05-15T17:01:45.514Z,"7km S of Idyllwild, CA",earthquake,0.24,0.36,0.109,4,reviewed,ci,ci
 2022-05-14T20:46:50.440Z,38.8396683,-122.8075027,2.08,0.36,md,8,122,0.01346,0,nc,nc73733741,2022-05-14T22:01:10.451Z,"8km WNW of Cobb, CA",earthquake,0.49,1.08,,1,automatic,nc,nc
 2022-05-14T20:45:41.981Z,63.7138,-149.2757,101.2,1,ml,,,,0.42,ak,ak02265y6wye,2022-05-15T00:09:45.944Z,"17 km W of Denali Park, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2022-05-14T20:35:20.460Z,38.7946663,-122.7493362,0.65,0.7,md,10,93,0.01006,0.01,nc,nc73733736,2022-05-14T21:38:11.325Z,"2km NNE of The Geysers, CA",earthquake,0.31,0.56,0.16,2,automatic,nc,nc
@@ -192,11 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T17:20:40.180Z,19.1973323822021,-155.382171630859,31.3099994659424,2.37,ml,38,163,,0.180000007,hv,hv73012267,2022-05-14T17:26:10.730Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.839999974,4.16,5,automatic,hv,hv
 2022-05-14T17:19:53.570Z,19.1678333282471,-155.498672485352,33.060001373291,2.55,ml,40,103,,0.129999995,hv,hv73012262,2022-05-14T17:25:24.760Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.970000029,0.32,4,automatic,hv,hv
 2022-05-14T17:14:07.127Z,41.1257,44.0609,11.77,4.3,mwr,,32,1.003,0.79,us,us6000hl5q,2022-05-14T21:31:26.040Z,"16 km WSW of Metsavan, Armenia",earthquake,5.5,4.4,0.083,14,reviewed,us,us
-2022-05-14T17:06:01.147Z,46.2143,152.7005,47.04,4.3,mb,,102,7.445,0.61,us,us6000hl5p,2022-05-14T20:57:52.040Z,"Kuril Islands",earthquake,10,8.5,0.077,51,reviewed,us,us
-2022-05-14T17:00:58.908Z,64.669,-149.6613,0,1.2,ml,,,,1.04,ak,ak02265w4zzt,2022-05-14T17:04:08.763Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-14T17:00:46.122Z,61.5395,-149.9594,40.7,1.3,ml,,,,0.51,ak,ak02265w4z0j,2022-05-14T17:06:27.408Z,"2 km N of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-05-14T16:59:44.940Z,34.0161667,-117.1845,14.93,0.88,ml,19,86,0.06289,0.19,ci,ci40018703,2022-05-14T17:03:25.498Z,"4km S of Redlands, CA",earthquake,0.38,0.91,0.291,21,automatic,ci,ci
-2022-05-14T16:57:55.550Z,38.8243332,-122.7630005,2.09,0.45,md,8,128,0.008168,0.01,nc,nc73733686,2022-05-14T17:48:10.976Z,"4km W of Cobb, CA",earthquake,0.46,0.72,0.4,2,automatic,nc,nc
-2022-05-14T16:56:33.180Z,64.1153,-21.3144,10,4.5,mb,,102,0.634,1.09,us,us6000hl5m,2022-05-15T08:10:58.035Z,"14 km NNW of Hveragerði, Iceland",earthquake,6.8,1.9,0.061,80,reviewed,us,us
-2022-05-14T16:51:58.650Z,33.3185,-116.331,11.09,0.87,ml,29,110,0.04728,0.22,ci,ci40018695,2022-05-14T16:55:34.490Z,"8km NNE of Borrego Springs, CA",earthquake,0.37,0.54,0.172,21,automatic,ci,ci
-2022-05-14T16:50:41.300Z,33.3845,-116.3495,4.94,0.54,ml,12,95,0.04002,0.14,ci,ci40018679,2022-05-14T16:54:15.150Z,"14km N of Borrego Springs, CA",earthquake,0.39,0.69,0.115,11,automatic,ci,ci
