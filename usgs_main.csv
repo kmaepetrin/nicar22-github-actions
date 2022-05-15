@@ -19494,3 +19494,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T04:04:08.453Z,57.9317,-155.8765,10.4,1.7,ml,,,,0.53,ak,ak02267byglp,2022-05-15T04:19:14.268Z,"93 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-15T04:03:05.960Z,38.8078346,-122.7929993,0.8,0.15,md,20.0,38.0,0.001805,0.02,nc,nc73733891,2022-05-15T04:12:10.712Z,"5km NW of The Geysers, CA",earthquake,0.17,0.35,0.08,3.0,automatic,nc,nc
 2022-05-15T04:02:24.530Z,35.768,-117.5786667,5.79,0.78,ml,10.0,158.0,0.05004,0.15,ci,ci40019207,2022-05-15T04:06:03.457Z,"16km W of Searles Valley, CA",earthquake,0.48,0.85,0.149,9.0,automatic,ci,ci
+2022-05-15T04:52:07.780Z,33.5961667,-116.8151667,13.14,0.63,ml,27.0,42.0,0.0427,0.1,ci,ci40019215,2022-05-15T04:55:41.252Z,"14km WNW of Anza, CA",earthquake,0.2,0.37,0.124,19.0,automatic,ci,ci
+2022-05-15T04:29:00.118Z,-34.9799,-74.4756,10.0,4.6,mwr,,109.0,2.049,1.02,us,us6000hl8x,2022-05-15T04:53:53.040Z,"192 km WNW of Constitución, Chile",earthquake,6.5,1.9,,,reviewed,us,guc
+2022-05-15T02:15:53.475Z,41.2814,-71.3875,5.65,2.5,ml,,200.0,0.511,0.43,us,us6000hl8b,2022-05-15T04:56:56.040Z,"17 km SSE of Narragansett Pier, Rhode Island",earthquake,2.1,6.4,0.049,54.0,reviewed,us,us
