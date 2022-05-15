@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-15T07:34:29.570Z,38.8320007,-122.8164978,1.58,0.87,md,18,52,0.009951,0.02,nc,nc73733931,2022-05-15T07:36:02.700Z,"8km NW of The Geysers, CA",earthquake,0.24,0.42,0.31,4,automatic,nc,nc
+2022-05-15T07:34:29.570Z,38.8320007,-122.8164978,1.58,0.87,md,18,52,0.009951,0.02,nc,nc73733931,2022-05-15T07:43:11.038Z,"8km NW of The Geysers, CA",earthquake,0.24,0.42,0.31,4,automatic,nc,nc
 2022-05-15T07:22:36.970Z,35.6286667,-117.4725,5.07,0.77,ml,8,157,0.0429,0.2,ci,ci40019303,2022-05-15T07:26:07.773Z,"17km SSW of Searles Valley, CA",earthquake,1.02,0.8,0.099,6,automatic,ci,ci
 2022-05-15T07:20:29.330Z,36.0891667,-117.8251667,-0.18,0.9,ml,11,90,0.03718,0.15,ci,ci40019295,2022-05-15T07:24:02.763Z,"12km ENE of Coso Junction, CA",earthquake,0.38,0.64,0.112,9,automatic,ci,ci
 2022-05-15T07:05:15.152Z,31.6686,-104.4062,5,2.6,ml,,118,0.08,0.37,us,us6000hl9j,2022-05-15T07:24:20.040Z,"56 km S of Whites City, New Mexico",earthquake,1,1.8,0.062,46,reviewed,us,us
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T07:54:14.430Z,46.797,-121.961,8.72,0.45,ml,13,204,0.04551,0.08,uw,uw61831092,2022-05-14T18:50:52.860Z,"6 km NE of Ashford, Washington",earthquake,0.36,0.47,0.07132036152753757,4,reviewed,uw,uw
 2022-05-14T07:50:19.620Z,38.8325005,-122.8046646,1.88,0.36,md,7,95,0.01003,0.01,nc,nc73733541,2022-05-14T07:59:11.452Z,"7km W of Cobb, CA",earthquake,0.53,0.98,,1,automatic,nc,nc
 2022-05-14T07:44:09.258Z,59.7968,-152.6615,79.5,1.8,ml,,,,0.52,ak,ak02265qfzm6,2022-05-14T07:48:04.506Z,"46 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-14T07:41:49.830Z,44.4528333,-115.2056667,6.73,1.99,ml,12,82,0.839,0.2,mb,mb80545784,2022-05-14T13:12:53.550Z,"33 km NW of Stanley, Idaho",earthquake,0.52,1.18,0.194,12,reviewed,mb,mb
