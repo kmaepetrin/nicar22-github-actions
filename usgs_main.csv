@@ -19558,3 +19558,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T13:29:40.227Z,61.9888,-148.3629,19.9,2.7,ml,,,,0.9,ak,ak02267hgsdx,2022-05-15T13:47:33.804Z,"22 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-15T10:33:30.480Z,47.6675,-113.5695,5.46,1.27,ml,17.0,136.0,0.331,0.15,mb,mb80545854,2022-05-15T13:42:06.280Z,"18 km NE of Condon, Montana",earthquake,0.49,1.76,0.355,4.0,reviewed,mb,mb
 2022-05-15T09:32:06.270Z,34.7081667,-85.2851667,5.09,1.93,md,12.0,116.0,0.2216,0.15,se,se60150543,2022-05-15T13:34:03.460Z,"0 km NW of LaFayette, Georgia",earthquake,0.39,1.28,0.093,11.0,reviewed,se,se
+2022-05-15T13:48:38.070Z,36.2931671,-120.8453369,7.28,1.59,md,13.0,131.0,,0.13,nc,nc73733981,2022-05-15T13:50:12.760Z,"21km SW of New Idria, CA",earthquake,0.44,0.86,0.24,8.0,automatic,nc,nc
+2022-05-14T19:53:42.690Z,47.4398333,-112.7585,14.22,1.12,ml,18.0,129.0,0.351,0.17,mb,mb80545799,2022-05-15T13:51:29.700Z,"28 km WSW of Augusta, Montana",earthquake,0.48,0.98,0.091,3.0,reviewed,mb,mb
