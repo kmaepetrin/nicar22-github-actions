@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T00:18:26.690Z,35.8956667,-117.7363333,9.32,-0.15,ml,7,185,0.08506,0.06,ci,ci37499093,2022-05-16T17:03:45.300Z,"16km ESE of Little Lake, CA",earthquake,0.34,0.67,0.148,2,reviewed,ci,ci
 2022-05-16T00:17:45.600Z,58.3258333333333,-154.8205,5.26,-0.39,ml,8,163,,0.16,av,av91058733,2022-05-16T21:00:15.050Z,"87 km NNW of Karluk, Alaska",earthquake,0.57,1.02,0.11204273086285,8,reviewed,av,av
 2022-05-16T00:04:39.140Z,33.5926667,-116.8068333,7.43,0.36,ml,19,75,0.03568,0.15,ci,ci40019791,2022-05-16T18:32:33.860Z,"13km WNW of Anza, CA",earthquake,0.34,0.55,0.191,6,reviewed,ci,ci
-2022-05-15T23:52:08.250Z,61.8281,-149.6789,21,1.1,ml,,,,0.67,ak,ak02267njzgh,2022-05-15T23:57:52.576Z,"20 km ENE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
