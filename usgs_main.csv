@@ -19907,3 +19907,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T22:44:21.020Z,38.8071671,-122.7693329,-0.29,0.35,md,8.0,131.0,0.009959,0.02,nc,nc73734776,2022-05-16T22:45:56.029Z,"4km NNW of The Geysers, CA",earthquake,0.3,0.89,,1.0,automatic,nc,nc
 2022-05-16T22:39:01.390Z,38.8193321,-122.8228302,2.34,0.85,md,9.0,68.0,0.01025,0.01,nc,nc73734771,2022-05-16T22:47:11.936Z,"7km NW of The Geysers, CA",earthquake,0.42,0.95,,1.0,automatic,nc,nc
 2022-05-16T10:25:35.527Z,36.7803,-115.9701,11.5,-0.5,ml,8.0,143.08,0.028,0.2049,nn,nn00839002,2022-05-16T22:46:18.647Z,"35 km NW of Indian Springs, Nevada",earthquake,,2.2,0.04,3.0,reviewed,nn,nn
+2022-05-16T22:49:02.660Z,38.8226662,-122.8536682,2.63,0.36,md,12.0,65.0,0.01457,0.02,nc,nc73734781,2022-05-16T22:50:35.842Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.71,0.21,3.0,automatic,nc,nc
