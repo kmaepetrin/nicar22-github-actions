@@ -19799,3 +19799,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T15:36:51.201Z,61.7415,-148.1996,1.2,1.6,ml,,,,1.1,ak,ak0226968ix5,2022-05-16T15:48:10.643Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-16T15:36:38.810Z,35.6433333,-118.32,7.56,2.66,ml,41.0,39.0,0.05782,0.15,ci,ci40020279,2022-05-16T15:47:49.430Z,"14km ENE of Lake Isabella, CA",earthquake,0.19,0.55,0.187,24.0,automatic,ci,ci
 2022-05-16T15:36:16.144Z,63.4978,-151.1481,3.3,1.4,ml,,,,0.72,ak,ak0226968g9g,2022-05-16T15:48:11.488Z,"29 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-16T15:55:01.940Z,35.6414986,-118.3233337,7.39,1.68,ml,29.0,78.0,0.05833,0.15,ci,ci40020303,2022-05-16T15:57:07.648Z,"14km E of Lake Isabella, CA",earthquake,0.35,0.69,0.171,12.0,automatic,ci,ci
+2022-05-15T21:01:55.830Z,44.7615,-111.2293333,4.27,0.24,md,11.0,191.0,0.02592,0.17,uu,uu60498262,2022-05-16T15:51:49.740Z,"3 km WSW of Hebgen Lake Estates, Montana",earthquake,0.59,0.51,0.35,7.0,reviewed,uu,uu
