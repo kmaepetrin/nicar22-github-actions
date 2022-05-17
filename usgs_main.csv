@@ -20106,3 +20106,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T00:57:48.310Z,40.4631667,-121.5513333,3.53,0.73,md,4.0,142.0,0.02542,0.01,nc,nc73734811,2022-05-17T16:34:09.853Z,"12km N of Mineral, CA",earthquake,0.99,1.82,0.049,3.0,reviewed,nc,nc
 2022-05-17T16:58:08.930Z,34.0068333,-116.4456667,6.45,0.7,ml,19.0,58.0,0.07277,0.2,ci,ci40021223,2022-05-17T17:01:42.229Z,"7km NE of Desert Hot Springs, CA",earthquake,0.33,0.72,0.112,9.0,automatic,ci,ci
 2022-05-17T02:22:23.420Z,59.3606666666667,-153.4255,-1.18,-0.5,ml,6.0,101.0,,0.11,av,av91058858,2022-05-17T17:10:30.060Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.15,0.5,0.266726162408282,6.0,reviewed,av,av
+2022-05-17T16:14:17.500Z,42.57483333333333,-122.56583333333332,10.66,1.42,ml,10.0,126.0,0.08311,0.15,uw,uw61832237,2022-05-17T17:35:58.260Z,"3 km N of Butte Falls, Oregon",earthquake,0.37,0.87,0.2810749353471612,6.0,reviewed,uw,uw
+2022-05-17T15:49:12.147Z,53.0416,-167.4846,23.7,2.1,ml,,,,0.4,ak,ak0226atukoy,2022-05-17T17:38:01.667Z,"93 km E of Nikolski, Alaska",earthquake,,10.5,,,reviewed,ak,ak
+2022-05-17T05:11:04.672Z,61.1439,-146.9395,0.0,1.4,ml,,,,0.87,ak,ak0226annyst,2022-05-17T17:24:16.639Z,"31 km W of Valdez, Alaska",ice quake,,0.0,,,reviewed,ak,ak
