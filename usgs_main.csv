@@ -20156,3 +20156,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T21:39:29.970Z,38.7639999,-122.7316666,-0.87,0.38,md,7.0,121.0,0.0151,0.11,nc,nc73735131,2022-05-17T21:47:11.931Z,"3km SE of The Geysers, CA",earthquake,0.34,3.36,,1.0,automatic,nc,nc
 2022-05-17T21:49:00.420Z,62.1345,-148.241,23.4,1.6,ml,,,,0.89,ak,ak0226axf5gq,2022-05-17T21:52:48.863Z,"39 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-17T09:33:39.623Z,36.7177,-115.7887,1.5,0.3,ml,7.0,286.68,0.158,0.1835,nn,nn00839043,2022-05-17T21:53:25.072Z,"19 km NNW of Indian Springs, Nevada",earthquake,,6.3,0.15,2.0,reviewed,nn,nn
+2022-05-17T22:02:50.240Z,38.8349991,-122.8198318,2.07,0.36,md,10.0,114.0,0.01274,0.01,nc,nc73735141,2022-05-17T22:04:24.566Z,"8km NW of The Geysers, CA",earthquake,0.41,1.28,,1.0,automatic,nc,nc
+2022-05-17T21:56:46.090Z,44.4463333,-110.986,5.42,0.77,ml,8.0,124.0,0.1077,0.3,uu,uu60498437,2022-05-17T22:08:16.010Z,"25 km SSE of West Yellowstone, Montana",earthquake,1.77,11.5,0.273,2.0,reviewed,uu,uu
+2022-05-17T21:25:06.020Z,19.0655,-65.992,37.04,2.98,md,11.0,257.0,,0.25,pr,pr71349178,2022-05-17T22:03:11.440Z,"67 km N of San Juan, Puerto Rico",earthquake,1.44,7.32,0.045459289380287,7.0,reviewed,pr,pr
+2022-05-17T12:25:11.870Z,48.2975,-121.884,8.76,0.75,ml,8.0,138.0,0.1063,0.12,uw,uw61832177,2022-05-17T22:02:42.460Z,"4 km NE of Oso, Washington",earthquake,0.95,3.25,0.137253590094931,2.0,reviewed,uw,uw
+2022-05-17T11:41:43.560Z,48.297,-121.858,3.53,0.5,md,5.0,208.0,0.1118,0.09,uw,uw61832167,2022-05-17T21:58:16.270Z,"6 km ENE of Oso, Washington",earthquake,0.53,11.29,0.1985207303002651,6.0,reviewed,uw,uw
+2022-05-17T04:25:30.430Z,47.4438333,-113.7375,13.94,-0.63,md,5.0,190.0,0.189,0.06,mb,mb80546244,2022-05-17T22:02:42.520Z,"9 km SSW of Condon, Montana",earthquake,0.55,1.89,,1.0,reviewed,mb,mb
