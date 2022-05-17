@@ -20073,3 +20073,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T14:25:29.380Z,33.236,-116.738,1.38,2.26,ml,9.0,119.0,0.157,0.19,ci,ci40021071,2022-05-17T14:29:18.631Z,"2km ESE of Lake Henshaw, CA",earthquake,0.6,1.24,0.344,18.0,automatic,ci,ci
 2022-05-17T14:05:50.031Z,31.6224,50.2791,10.0,4.9,mb,,60.0,5.663,0.77,us,us6000hlsd,2022-05-17T14:30:19.040Z,"74 km ENE of Rāmhormoz, Iran",earthquake,8.5,1.9,0.054,112.0,reviewed,us,us
 2022-05-17T14:33:45.030Z,33.9795,-117.039,-0.17,1.32,ml,10.0,125.0,0.1999,0.43,ci,ci40021079,2022-05-17T14:37:20.681Z,"2km SE of Calimesa, CA",earthquake,1.23,31.61,0.306,17.0,automatic,ci,ci
+2022-05-17T14:46:26.140Z,35.8795013,-117.7030029,3.28,1.0,ml,14.0,70.0,0.08052,0.09,ci,ci40021103,2022-05-17T14:50:04.367Z,"19km ESE of Little Lake, CA",earthquake,0.31,1.43,0.13,5.0,automatic,ci,ci
