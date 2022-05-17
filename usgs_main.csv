@@ -19978,3 +19978,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T02:15:04.750Z,46.793,-121.9655,8.92,1.92,ml,30.0,54.0,0.05007,0.12,uw,uw61832047,2022-05-17T04:06:16.800Z,"6 km NE of Ashford, Washington",earthquake,0.26,0.22,0.1454739122396391,15.0,reviewed,uw,uw
 2022-05-17T02:11:24.980Z,46.79283333333333,-121.96716666666669,9.08,2.29,ml,49.0,43.0,0.0505,0.16,uw,uw61832042,2022-05-17T03:55:29.050Z,"6 km NE of Ashford, Washington",earthquake,0.2,0.39,0.2056426942517801,23.0,reviewed,uw,uw
 2022-05-17T04:15:13.670Z,33.0031667,-118.109,29.66,2.38,ml,22.0,239.0,0.4732,0.26,ci,ci40020831,2022-05-17T04:19:00.421Z,"30km NE of San Clemente Is. (SE tip), CA",earthquake,2.19,0.81,0.118,30.0,automatic,ci,ci
+2022-05-17T05:00:58.660Z,32.8111667,-116.1138333,7.25,1.31,ml,29.0,64.0,0.02384,0.28,ci,ci40020839,2022-05-17T05:04:33.289Z,"14km NW of Ocotillo, CA",earthquake,0.47,0.81,0.127,20.0,automatic,ci,ci
