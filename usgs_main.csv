@@ -20196,3 +20196,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T03:56:50.913Z,12.6079,-87.0522,147.7,4.3,mb,,133.0,0.093,0.3,us,us6000hlpg,2022-05-17T23:34:22.040Z,"4 km NW of Chichigalpa, Nicaragua",earthquake,3.9,6.0,0.084,40.0,reviewed,us,us
 2022-05-17T23:36:48.631Z,38.1246,-118.1086,4.1,2.4,ml,17.0,51.86,0.118,0.3287,nn,nn00839060,2022-05-17T23:42:15.372Z,"29 km S of Mina, Nevada",earthquake,,0.7,0.33,9.0,automatic,nn,nn
 2022-05-17T23:32:46.450Z,17.9341666666667,-66.9336666666667,12.01,1.64,md,3.0,238.0,,0.02,pr,pr71349198,2022-05-17T23:47:57.580Z,"4 km SSW of Guánica, Puerto Rico",earthquake,2.69,0.87,0.121089084322864,3.0,reviewed,pr,pr
+2022-05-17T22:49:55.125Z,21.3751,98.5302,10.0,4.2,mb,,71.0,0.991,0.43,us,us6000hlw6,2022-05-17T23:56:31.040Z,"147 km WSW of Kēng Tung, Myanmar",earthquake,6.5,1.9,0.236,5.0,reviewed,us,us
+2022-05-17T20:29:03.533Z,36.8175,-116.1102,10.2,-0.1,ml,16.0,67.59,0.016,0.102,nn,nn00839065,2022-05-17T23:54:39.694Z,"47 km NW of Indian Springs, Nevada",earthquake,,1.2,0.28,10.0,reviewed,nn,nn
+2022-05-17T19:08:23.680Z,46.852833333333336,-121.75533333333334,2.04,0.36,ml,10.0,106.0,0.02305,0.06,uw,uw61832297,2022-05-17T23:52:34.430Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.66,0.0494347004859627,4.0,reviewed,uw,uw
