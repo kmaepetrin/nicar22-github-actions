@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:13:23.050Z,48.2925,-121.87483333333333,7.99,1.06,ml,10,85,0.1034,0.12,uw,uw61832107,2022-05-17T09:13:01.780Z,"4 km ENE of Oso, Washington",earthquake,0.32,0.61,0.3745844935444441,3,reviewed,uw,uw
 2022-05-17T08:11:02.870Z,48.30466666666667,-121.86833333333334,0.91,1.84,ml,19,56,0.1163,0.15,uw,uw61832102,2022-05-17T09:09:28.779Z,"5 km NE of Oso, Washington",earthquake,0.31,0.83,0.20047769472052357,11,reviewed,uw,uw
 2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T19:46:45.242Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
+2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T19:51:59.391Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
 2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6,170,0.1111,0.12,ci,ci40020911,2022-05-17T13:43:35.950Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8,reviewed,ci,ci
 2022-05-17T07:44:46.000Z,35.828,-117.6541667,8.2,0.92,ml,17,84,0.04764,0.07,ci,ci40020903,2022-05-17T18:41:12.528Z,"23km N of Ridgecrest, CA",earthquake,0.14,0.4,0.143,8,reviewed,ci,ci
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T06:36:41.300Z,33.8835,-116.869,13.68,0.64,ml,33,80,0.07766,0.13,ci,ci40020871,2022-05-17T14:50:00.753Z,"5km S of Banning, CA",earthquake,0.18,0.4,0.132,9,reviewed,ci,ci
 2022-05-17T06:35:06.175Z,62.9418,-149.6004,84.3,1,ml,,,,0.64,ak,ak0226aoentl,2022-05-17T06:36:57.367Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-17T06:08:52.900Z,17.9751666666667,-66.9495,8.19,1.95,md,4,173,,0.09,pr,pr71349108,2022-05-17T06:49:08.000Z,"3 km WSW of Fuig, Puerto Rico",earthquake,2.69,0.96,0.131121107340057,3,reviewed,pr,pr
-2022-05-17T06:04:53.396Z,33.4051,141.6684,10,5.6,mww,,62,1.58,0.9,us,us6000hlq7,2022-05-17T12:41:10.724Z,"229 km SSE of Katsuura, Japan",earthquake,7.4,1.8,0.062,25,reviewed,us,us
+2022-05-17T06:04:53.396Z,33.4051,141.6684,10,5.6,mww,,62,1.58,0.9,us,us6000hlq7,2022-05-17T19:52:17.040Z,"229 km SSE of Katsuura, Japan",earthquake,7.4,1.8,0.062,25,reviewed,us,us
 2022-05-17T06:02:09.520Z,37.8139992,-121.9586639,14.85,1.64,md,14,139,0.05223,0.04,nc,nc73734881,2022-05-17T14:09:58.170Z,"2km S of Diablo, CA",earthquake,0.44,0.79,0.14,11,automatic,nc,nc
 2022-05-17T05:53:57.884Z,62.4355,-149.5049,48.6,1,ml,,,,0.42,ak,ak0226anx73m,2022-05-17T05:56:18.506Z,"30 km E of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-17T05:43:12.971Z,63.5175,-151.069,20.4,2.1,ml,,,,0.91,ak,ak0226anuyez,2022-05-17T17:29:07.385Z,"32 km E of Denali National Park, Alaska",earthquake,,0.4,,,reviewed,ak,ak
