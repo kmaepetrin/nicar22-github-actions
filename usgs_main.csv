@@ -20081,3 +20081,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T15:19:25.581Z,61.5416,-149.909,34.9,1.7,ml,,,,0.37,ak,ak0226ato6at,2022-05-17T15:25:10.821Z,"3 km NE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-17T14:33:26.380Z,17.8695,-66.862,7.17,1.93,md,3.0,308.0,,0.09,pr,pr71349143,2022-05-17T15:31:18.490Z,"12 km SSE of Guánica, Puerto Rico",earthquake,8.68,6.6,0.311436999838812,3.0,reviewed,pr,pr
 2022-05-17T02:45:34.590Z,39.427,-110.2973333,-1.75,1.25,md,8.0,199.0,0.0217,0.15,uu,uu60498392,2022-05-17T15:41:36.320Z,"15 km SSE of Sunnyside, Utah",earthquake,1.12,1.36,0.148,3.0,reviewed,uu,uu
+2022-05-17T15:54:12.280Z,34.063,-117.2701667,4.05,0.96,ml,27.0,114.0,0.1409,0.27,ci,ci40021159,2022-05-17T15:57:57.484Z,"2km NNW of Loma Linda, CA",earthquake,0.44,1.92,0.129,25.0,automatic,ci,ci
+2022-05-17T15:51:17.340Z,34.0095,-116.4445,5.97,1.53,ml,38.0,53.0,0.0748,0.21,ci,ci40021143,2022-05-17T15:54:58.785Z,"8km NE of Desert Hot Springs, CA",earthquake,0.27,0.77,0.176,26.0,automatic,ci,ci
+2022-05-17T12:08:13.230Z,37.6078333,-113.0641667,9.93,0.8,md,5.0,185.0,0.0223,0.03,uu,uu60498407,2022-05-17T15:55:30.480Z,"7 km S of Cedar City, Utah",earthquake,0.76,0.65,0.385,5.0,reviewed,uu,uu
