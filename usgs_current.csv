@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-17T05:29:58.895Z,64.9581,-148.4579,28.9,1.9,ml,,,,0.42,ak,ak0226ans1zl,2022-05-17T05:32:27.080Z,"24 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-17T05:31:27.400Z,38.8356667,-122.8126678,1.82,0.85,md,9,57,0.01242,0.01,nc,nc73734861,2022-05-17T05:40:10.268Z,"8km W of Cobb, CA",earthquake,0.39,1.54,,1,automatic,nc,nc
+2022-05-17T05:29:58.897Z,64.9576,-148.458,28.9,1.9,ml,,,,0.42,ak,ak0226ans1zl,2022-05-17T05:33:09.660Z,"24 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-17T05:20:49.460Z,33.4838333,-116.9408333,16.03,0.73,ml,15,169,0.1454,0.23,ci,ci40020855,2022-05-17T05:24:26.736Z,"8km WNW of Aguanga, CA",earthquake,1.04,2.13,0.285,9,automatic,ci,ci
 2022-05-17T05:14:55.500Z,18.0393333333333,-67.107,9.3,2.13,md,12,138,,0.22,pr,pr71349093,2022-05-17T05:31:03.330Z,"3 km W of Palmarejo, Puerto Rico",earthquake,0.62,0.85,0.470468909645723,6,reviewed,pr,pr
 2022-05-17T05:09:43.770Z,35.9985,-117.7921667,0.95,0.84,ml,13,100,0.02094,0.14,ci,ci40020847,2022-05-17T05:13:21.738Z,"12km NE of Little Lake, CA",earthquake,0.31,0.37,0.212,9,automatic,ci,ci
@@ -242,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T06:16:50.290Z,34.0078333,-116.4448333,8.25,3.76,mw,115,21,0.07131,0.15,ci,ci40019919,2022-05-17T04:46:56.088Z,"7km NE of Desert Hot Springs, CA",earthquake,0.09,0.29,,6,reviewed,ci,ci
 2022-05-16T06:04:20.240Z,38.8339996,-122.8199997,1.4,0.85,md,14,61,0.01293,0.02,nc,nc73734356,2022-05-16T07:54:10.494Z,"8km NW of The Geysers, CA",earthquake,0.29,0.78,,1,automatic,nc,nc
 2022-05-16T05:48:41.779Z,58.6884,-137.5389,4.4,3.4,ml,,,,0.74,ak,ak022690cqso,2022-05-16T19:01:41.610Z,"88 km NW of Elfin Cove, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-05-16T05:36:03.750Z,33.4823333,-116.4545,12.26,1.66,ml,45,66,0.0475,0.21,ci,ci40019911,2022-05-16T19:44:24.820Z,"22km ESE of Anza, CA",earthquake,0.23,0.53,0.122,23,reviewed,ci,ci
-2022-05-16T05:35:39.180Z,33.4856667,-116.4491667,13.14,0.39,ml,20,72,0.04244,0.12,ci,ci40019903,2022-05-16T19:35:27.208Z,"22km ESE of Anza, CA",earthquake,0.28,0.56,0.258,5,reviewed,ci,ci
-2022-05-16T05:33:28.940Z,58.3243333333333,-154.8225,5.14,0.82,ml,11,163,,0.18,av,av91562731,2022-05-16T22:31:21.480Z,"86 km NNW of Karluk, Alaska",earthquake,0.53,1.05,0.269468078670123,11,reviewed,av,av
