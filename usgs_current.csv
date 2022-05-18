@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-18T07:08:46.240Z,38.8371658,-122.8083344,1.96,0.36,md,10,59,0.01382,0.03,nc,nc73735231,2022-05-18T07:10:22.734Z,"8km WNW of Cobb, CA",earthquake,0.38,1.28,,1,automatic,nc,nc
+2022-05-18T07:26:20.745Z,66.0217,-150.4958,21.2,1.1,ml,,,,0.56,ak,ak0226cchjlm,2022-05-18T07:28:14.008Z,"59 km NNW of Rampart, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-05-18T07:22:31.841Z,62.2921,-150.4176,7.2,1.5,ml,,,,0.63,ak,ak0226ccgplc,2022-05-18T07:28:14.769Z,"10 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-18T07:08:46.240Z,38.8371658,-122.8083344,1.96,0.36,md,10,59,0.01382,0.03,nc,nc73735231,2022-05-18T07:18:11.285Z,"8km WNW of Cobb, CA",earthquake,0.38,1.28,,1,automatic,nc,nc
 2022-05-18T07:06:46.429Z,36.7062,-115.8061,0.1,0.4,ml,13,155.35,0.143,0.4508,nn,nn00839083,2022-05-18T07:09:52.488Z,"Nevada",earthquake,,8.5,0.4,5,automatic,nn,nn
 2022-05-18T06:58:41.730Z,33.1708333,-116.3778333,1.97,0.56,ml,12,120,0.1025,0.29,ci,ci40021663,2022-05-18T07:02:20.937Z,"10km S of Borrego Springs, CA",earthquake,0.87,1.8,0.228,5,automatic,ci,ci
 2022-05-18T06:53:32.680Z,17.8805,-66.3008333333333,12.22,2.33,md,8,207,,0.1,pr,pr71349253,2022-05-18T07:10:07.660Z,"10 km S of Salinas, Puerto Rico",earthquake,0.61,0.55,0.350078486121863,8,reviewed,pr,pr
@@ -232,10 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T07:44:46.000Z,35.828,-117.6541667,8.2,0.92,ml,17,84,0.04764,0.07,ci,ci40020903,2022-05-17T18:41:12.528Z,"23km N of Ridgecrest, CA",earthquake,0.14,0.4,0.143,8,reviewed,ci,ci
 2022-05-17T07:43:47.830Z,34.0133333,-116.4501667,8.57,0.53,ml,20,92,0.07496,0.13,ci,ci40020895,2022-05-17T18:38:46.504Z,"8km NE of Desert Hot Springs, CA",earthquake,0.29,0.71,0.113,9,reviewed,ci,ci
 2022-05-17T07:38:25.452Z,36.6334,-116.0913,3.6,-0.4,ml,8,231.82,0.063,0.0537,nn,nn00839040,2022-05-18T02:39:13.686Z,"38 km W of Indian Springs, Nevada",earthquake,,4.1,0.08,4,reviewed,nn,nn
-2022-05-17T07:25:50.319Z,60.2131,-151.6165,5.2,1.2,ml,,,,0.89,ak,ak0226aoy1o7,2022-05-17T07:35:43.663Z,"12 km W of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-05-17T07:22:51.840Z,19.1663341522217,-155.466506958008,32.9799995422363,1.9,ml,42,90,,0.119999997,hv,hv73014947,2022-05-17T07:28:22.760Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.59,0.870000005,4.33,7,automatic,hv,hv
-2022-05-17T07:22:31.850Z,61.5923,-150.9721,67.1,1,ml,,,,0.3,ak,ak0226aoxd3l,2022-05-17T07:24:26.940Z,"25 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-17T07:19:59.233Z,33.3276,141.3786,10,5.3,mww,,93,1.328,1.07,us,us6000hlqp,2022-05-17T15:35:16.040Z,"224 km SSE of Katsuura, Japan",earthquake,6,1.8,0.08,15,reviewed,us,us
-2022-05-17T07:19:33.835Z,-36.8148,-71.5353,10,4.6,mb,,103,0.259,1.21,us,us6000hlqm,2022-05-17T07:54:09.040Z,"33 km SE of Coihueco, Chile",earthquake,4.4,1.8,0.132,17,reviewed,us,us
-2022-05-17T07:16:35.670Z,37.5496667,-118.8508333,0.59,0.22,md,9,295,0.04383,0.03,nc,nc73734901,2022-05-17T08:53:11.498Z,"15km SE of Mammoth Lakes, CA",earthquake,4.56,2.15,0.23,7,reviewed,nc,nc
-2022-05-17T07:15:25.820Z,19.1328333333333,-155.4315,29.75,1.55,md,21,225,,0.11,hv,hv73014942,2022-05-17T22:14:04.940Z,"9 km SSE of Pāhala, Hawaii",earthquake,0.66,0.86,0.114571754253519,6,reviewed,hv,hv
