@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T15:52:32.510Z,36.4593333,-116.9491667,8.53,1.35,ml,13,105,0.06973,0.16,ci,ci40021839,2022-05-18T17:11:52.660Z,"9km W of Furnace Creek, CA",earthquake,0.26,0.97,0.12,12,reviewed,ci,ci
 2022-05-18T15:48:22.140Z,61.349,-146.833,6.3,2.3,ml,,,,0.9,ak,ak0226chdqay,2022-05-18T15:59:51.594Z,"35 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-18T15:47:52.730Z,36.4608333,-116.9495,8.16,2.62,ml,23,88,0.06984,0.19,ci,ci40021831,2022-05-18T17:57:24.642Z,"9km W of Furnace Creek, CA",earthquake,0.27,0.8,0.101,54,reviewed,ci,ci
-2022-05-18T15:47:48.170Z,38.8121681,-122.805336,3.29,1.48,md,31,42,0.00889,0.02,nc,nc73735336,2022-05-18T16:00:09.409Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.08,7,automatic,nc,nc
+2022-05-18T15:47:48.170Z,38.8121681,-122.805336,3.29,1.48,md,31,42,0.00889,0.02,nc,nc73735336,2022-05-18T19:17:11.540Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.08,7,automatic,nc,nc
 2022-05-18T15:47:24.010Z,38.8203316,-122.7643356,2.01,1.29,md,25,115,0.01102,0.03,nc,nc73735331,2022-05-18T18:36:10.331Z,"4km W of Cobb, CA",earthquake,0.23,0.38,0.1,6,automatic,nc,nc
 2022-05-18T15:46:09.630Z,35.109,-96.318,2.46,1.66,ml,89,59,0.242052501,0.32,ok,ok2022jrnd,2022-05-18T16:06:43.275Z,"5 km SSE of Yeager, Oklahoma",earthquake,,0.8,0.24,36,reviewed,ok,ok
 2022-05-18T15:41:39.850Z,38.8128319,-122.8046646,3.16,0.88,md,24,52,0.00878,0.02,nc,nc73735326,2022-05-18T18:11:10.201Z,"6km NW of The Geysers, CA",earthquake,0.24,0.51,0.11,5,automatic,nc,nc
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T11:30:29.020Z,38.824501,-122.8071671,1.84,0.84,md,10,78,0.002525,0.03,nc,nc73735276,2022-05-18T13:39:11.550Z,"7km NW of The Geysers, CA",earthquake,0.33,1.79,,1,automatic,nc,nc
 2022-05-18T11:27:07.551Z,-17.9676,-69.8301,138.56,4.7,mb,,80,0.477,0.82,us,us6000hlz1,2022-05-18T11:58:31.900Z,"25 km SSE of Palca, Peru",earthquake,5.2,4.9,0.084,47,reviewed,us,us
 2022-05-18T11:24:58.961Z,38.5188,-119.5292,5.5,1.1,ml,8,176.97,0.068,0.093,nn,nn00839094,2022-05-18T11:28:24.816Z,"California-Nevada border region",earthquake,,0.8,0.15,5,automatic,nn,nn
-2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15,60,0.2166,0.38,se,se60150843,2022-05-18T18:45:42.326Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13,reviewed,se,se
+2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15,60,0.2166,0.38,se,se60150843,2022-05-18T19:08:30.100Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13,reviewed,se,se
 2022-05-18T10:52:01.141Z,-6.0616,150.8764,36.93,4.7,mb,,130,2.257,0.49,us,us6000hlyx,2022-05-18T11:21:38.040Z,"99 km SE of Kimbe, Papua New Guinea",earthquake,13.3,7.5,0.085,46,reviewed,us,us
 2022-05-18T10:39:09.880Z,44.4493333,-110.993,12.18,1.45,ml,17,126,0.1126,0.23,uu,uu60498522,2022-05-18T13:21:28.650Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.63,1.7,0.259,3,reviewed,uu,uu
 2022-05-18T10:36:56.000Z,33.9276667,-117.1765,13.3,0.54,ml,21,102,0.07008,0.16,ci,ci40021687,2022-05-18T15:44:05.050Z,"5km E of Moreno Valley, CA",earthquake,0.27,0.96,0.127,6,reviewed,ci,ci
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T10:19:42.010Z,44.4493333,-110.9758333,9.48,0.69,ml,10,121,0.1003,0.16,uu,uu60498507,2022-05-18T15:59:08.380Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.95,2.48,0.286,2,reviewed,uu,uu
 2022-05-18T10:16:41.837Z,36.7976,-116.0635,4,0.1,ml,11,123.48,0.05,0.2285,nn,nn00839092,2022-05-18T10:19:23.415Z,"43 km NW of Indian Springs, Nevada",earthquake,,0.6,0.09,7,automatic,nn,nn
 2022-05-18T10:16:26.020Z,38.8106651,-122.8193359,2.67,0.97,md,17,100,0.007896,0.02,nc,nc73735266,2022-05-18T10:26:11.411Z,"7km NW of The Geysers, CA",earthquake,0.27,0.89,0.27,2,automatic,nc,nc
-2022-05-18T10:14:54.050Z,19.1678333282471,-155.467330932617,31.9300003051758,2.72,ml,49,89,,0.140000001,hv,hv73016007,2022-05-18T14:33:37.604Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.55,0.889999986,3.31,31,automatic,hv,hv
+2022-05-18T10:14:54.080Z,19.1696666666667,-155.470333333333,32.2,3.06,ml,44,81,,0.11,hv,hv73016007,2022-05-18T19:09:44.692Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.54,0.64,0.202963388596173,41,reviewed,hv,hv
 2022-05-18T10:01:15.380Z,46.893,-112.5075,14.89,1,ml,15,72,0.048,0.16,mb,mb80546289,2022-05-18T13:44:41.520Z,"14 km ESE of Lincoln, Montana",earthquake,0.49,0.45,0.196,5,reviewed,mb,mb
 2022-05-18T09:59:17.810Z,45.4618333,-112.2183333,5.95,0.82,ml,10,99,0.261,0.13,mb,mb80546304,2022-05-18T15:05:09.090Z,"1 km WNW of Sheridan, Montana",earthquake,0.3,8.06,0.185,8,reviewed,mb,mb
 2022-05-18T09:55:03.230Z,44.4426667,-110.9866667,12.24,0.81,ml,14,124,0.1084,0.24,uu,uu60498502,2022-05-18T16:05:21.500Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.13,2.61,0.315,3,reviewed,uu,uu
@@ -224,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T19:46:38.360Z,38.8089981,-122.7748337,1.36,0.84,md,7,115,0.006245,0.02,nc,nc73735101,2022-05-17T19:56:10.052Z,"4km NNW of The Geysers, CA",earthquake,0.51,0.81,,1,automatic,nc,nc
 2022-05-17T19:43:24.880Z,46.39366666666667,-122.68516666666666,-1,1.1500000000000001,ml,11,244,0.2441,0.1,uw,uw61832307,2022-05-17T23:59:07.070Z,"13 km ESE of Toledo, Washington",explosion,0.68,31.61,0.14078136734079016,4,reviewed,uw,uw
 2022-05-17T19:26:27.200Z,38.8388329,-122.8106689,1.96,0.95,md,22,54,0.01542,0.03,nc,nc73735096,2022-05-17T19:36:09.940Z,"8km WNW of Cobb, CA",earthquake,0.21,0.42,0.08,5,automatic,nc,nc
-2022-05-17T19:19:38.911Z,61.7422,-148.1934,16.9,0.9,ml,,,,0.22,ak,ak0226aw1xqz,2022-05-17T19:23:23.459Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-17T19:13:53.670Z,51.7855,-178.785166666667,10.5,-0.04,ml,5,98,,0.08,av,av91564421,2022-05-18T03:09:42.780Z,"148 km W of Adak, Alaska",earthquake,0.8,0.63,0.270527272763093,5,reviewed,av,av
-2022-05-17T19:08:23.680Z,46.852833333333336,-121.75533333333334,2.04,0.36,ml,10,106,0.02305,0.06,uw,uw61832297,2022-05-17T23:52:34.430Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.66,0.04943470048596274,4,reviewed,uw,uw
