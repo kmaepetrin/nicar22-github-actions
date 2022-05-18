@@ -20360,3 +20360,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T14:49:12.880Z,38.8301659,-122.8093338,1.83,0.71,md,20.0,45.0,0.006786,0.02,nc,nc73735311,2022-05-18T14:50:48.548Z,"8km NW of The Geysers, CA",earthquake,0.23,0.42,0.14,2.0,automatic,nc,nc
 2022-05-18T14:47:41.920Z,38.8283348,-122.8011703,2.05,1.91,md,33.0,34.0,0.008526,0.02,nc,nc73735306,2022-05-18T14:49:18.621Z,"7km W of Cobb, CA",earthquake,0.17,0.3,0.05,9.0,automatic,nc,nc
 2022-05-18T14:43:21.450Z,33.182,-116.4051667,11.04,1.0,ml,29.0,62.0,0.08655,0.22,ci,ci40021807,2022-05-18T14:46:56.156Z,"9km SSW of Borrego Springs, CA",earthquake,0.37,0.6,0.144,22.0,automatic,ci,ci
+2022-05-18T08:29:42.710Z,47.2195,-114.1276667,10.61,-0.56,md,11.0,70.0,0.068,0.18,mb,mb80546299,2022-05-18T14:56:09.860Z,"7 km NNW of Arlee, Montana",earthquake,0.46,1.28,,1.0,reviewed,mb,mb
