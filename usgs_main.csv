@@ -20622,3 +20622,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T14:03:10.510Z,36.4583321,-121.0336685,6.84,2.08,md,24.0,117.0,0.01983,0.11,nc,nc73735671,2022-05-19T14:12:11.132Z,"13km SE of Pinnacles, CA",earthquake,0.39,0.66,0.23,15.0,automatic,nc,nc
 2022-05-19T14:02:00.983Z,62.0843,-149.5105,45.9,1.1,ml,,,,0.34,ak,ak0226e41qma,2022-05-19T14:18:22.445Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-19T14:34:46.570Z,33.6128349,-117.8861694,9.9,1.42,ml,15.0,120.0,0.2217,0.25,ci,ci40022439,2022-05-19T14:38:24.392Z,"4km E of Newport Beach, CA",earthquake,0.75,3.62,0.478,9.0,automatic,ci,ci
+2022-05-19T14:56:55.970Z,32.9059982,-115.5308304,6.95,1.4,ml,17.0,113.0,0.02554,0.13,ci,ci40022455,2022-05-19T14:59:00.815Z,"7km NNE of Imperial, CA",earthquake,0.52,0.73,0.364,8.0,automatic,ci,ci
+2022-05-19T03:29:34.300Z,39.4291667,-110.3061667,-1.32,1.59,md,8.0,196.0,0.01551,0.13,uu,uu60498592,2022-05-19T14:55:11.000Z,"15 km SSE of Sunnyside, Utah",earthquake,1.15,0.52,0.258,7.0,reviewed,uu,uu
