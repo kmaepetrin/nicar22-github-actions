@@ -20783,3 +20783,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T15:14:45.690Z,37.0786,-115.9548,6.8,-0.2,ml,5.0,244.06,0.016,0.1649,nn,nn00839190,2022-05-19T23:39:03.531Z,"61 km NNW of Indian Springs, Nevada",earthquake,,6.7,0.05,2.0,reviewed,nn,nn
 2022-05-19T14:29:16.929Z,36.3355,-116.8688,4.2,-0.3,ml,5.0,167.52,0.22,0.0451,nn,nn00839189,2022-05-19T23:32:52.195Z,"12 km S of Furnace Creek, California",earthquake,,13.0,0.63,2.0,reviewed,nn,nn
 2022-05-19T07:36:40.350Z,19.1988333333333,-155.4,32.35,1.4,md,15.0,176.0,,0.1,hv,hv73016952,2022-05-19T23:33:21.490Z,"8 km E of Pāhala, Hawaii",earthquake,0.7,0.51,0.0475000991014589,9.0,reviewed,hv,hv
+2022-05-19T23:54:16.790Z,38.8178329,-122.7611694,1.97,0.85,md,9.0,201.0,0.01435,0.03,nc,nc73735831,2022-05-19T23:55:49.223Z,"3km W of Cobb, CA",earthquake,0.6,1.11,,1.0,automatic,nc,nc
+2022-05-19T11:55:42.570Z,51.8621666666667,-177.856833333333,7.87,0.19,ml,7.0,156.0,,0.14,av,av91566856,2022-05-19T23:56:36.220Z,"84 km W of Adak, Alaska",earthquake,0.55,0.51,0.152210366584868,7.0,reviewed,av,av
