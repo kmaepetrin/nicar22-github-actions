@@ -20766,3 +20766,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T06:49:20.635Z,36.711,-116.1525,4.1,-0.4,ml,6.0,107.84,0.023,0.039,nn,nn00839178,2022-05-19T22:27:26.735Z,"45 km WNW of Indian Springs, Nevada",earthquake,,2.8,0.09,4.0,reviewed,nn,nn
 2022-05-19T06:21:12.357Z,36.4527,-116.9532,0.0,-0.5,ml,5.0,184.11,0.238,0.1938,nn,nn00839177,2022-05-19T22:21:13.713Z,"9 km W of Furnace Creek, California",earthquake,,0.0,0.91,2.0,reviewed,nn,nn
 2022-05-19T06:05:47.795Z,36.776,-115.9682,12.0,-0.2,ml,12.0,154.33,0.03,0.1824,nn,nn00839175,2022-05-19T22:14:59.565Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.6,0.36,4.0,reviewed,nn,nn
+2022-05-19T22:53:05.849Z,59.6741,-139.0359,25.6,1.6,ml,,,,0.9,ak,ak0226e945em,2022-05-19T22:56:14.010Z,"41 km ENE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-19T07:32:13.835Z,37.4382,-115.4846,14.3,0.9,ml,6.0,272.48,0.293,0.111,nn,nn00839182,2022-05-19T22:55:13.047Z,"28 km SW of Hiko, Nevada",earthquake,,22.5,0.27,4.0,reviewed,nn,nn
