@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-19T12:03:32.170Z,18.8863334655762,-155.519668579102,13.6199998855591,3.19,ml,48,274,,0.289999992,hv,hv73017147,2022-05-19T12:11:39.115Z,"21 km SSE of Naalehu, Hawaii",earthquake,2.92,4.28999996,3.72,29,automatic,hv,hv
+2022-05-19T12:03:05.180Z,19.204833984375,-155.373336791992,1.89999997615814,2.79,ml,9,246,,0.119999997,hv,hv73017142,2022-05-19T12:08:38.180Z,"11 km E of Pāhala, Hawaii",earthquake,1.97,14.7799997,3.66,29,automatic,hv,hv
+2022-05-19T12:02:58.769Z,59.8904,-152.3729,94.3,2,ml,,,,0.42,ak,ak0226e2uzvj,2022-05-19T12:11:40.023Z,"32 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-19T11:52:39.150Z,19.2233333587646,-155.407333374023,32.7999992370605,2.34,ml,48,142,,0.119999997,hv,hv73017127,2022-05-19T11:58:09.980Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.56,0.660000026,4.61,4,automatic,hv,hv
 2022-05-19T11:50:10.450Z,19.2255001068115,-155.407836914062,32.4599990844727,2,md,39,140,,0.129999995,hv,hv73017122,2022-05-19T11:53:29.420Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.66,0.790000021,0.74000001,13,automatic,hv,hv
 2022-05-19T11:49:10.890Z,33.5805,-116.736,15.52,0.26,ml,15,68,0.0151,0.05,ci,ci40022319,2022-05-19T11:52:44.942Z,"6km WNW of Anza, CA",earthquake,0.17,0.28,0.098,5,automatic,ci,ci
 2022-05-19T11:15:07.049Z,33.3392,141.4901,10,4.9,mb,,133,1.422,0.92,us,us6000hmaz,2022-05-19T11:36:12.040Z,"227 km SSE of Katsuura, Japan",earthquake,8.3,1.8,0.049,128,reviewed,us,us
@@ -9,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T10:13:31.721Z,-54.1373,159.0844,10,6.9,mww,,39,0.369,0.94,us,us6000hm9j,2022-05-19T11:08:24.870Z,"Macquarie Island region",earthquake,4.1,1.7,0.078,16,reviewed,us,us
 2022-05-19T10:12:50.100Z,35.9693333,-117.6906667,2.65,0.64,ml,9,100,0.03906,0.1,ci,ci40022295,2022-05-19T10:16:26.298Z,"20km E of Little Lake, CA",earthquake,0.42,0.29,0.046,6,automatic,ci,ci
 2022-05-19T10:12:18.390Z,38.8305016,-122.8011703,1.7,0.85,md,12,75,0.009936,0.01,nc,nc73735631,2022-05-19T11:40:11.257Z,"7km W of Cobb, CA",earthquake,0.31,0.67,,1,automatic,nc,nc
-2022-05-19T10:10:55.874Z,-54.0394,159.1444,10,5.5,mb,,130,0.473,0.92,us,us6000hm9e,2022-05-19T10:31:52.715Z,"Macquarie Island region",earthquake,11.2,1.9,0.101,34,reviewed,us,us
+2022-05-19T10:10:55.874Z,-54.0394,159.1444,10,5.5,mb,,130,0.473,0.92,us,us6000hm9e,2022-05-19T12:14:25.279Z,"Macquarie Island region",earthquake,11.2,1.9,0.101,34,reviewed,us,us
 2022-05-19T10:01:04.360Z,19.1678333282471,-155.485992431641,35.1399993896484,2.03999996,md,43,98,,0.159999996,hv,hv73017062,2022-05-19T10:04:16.320Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.920000017,0.449999988,5,automatic,hv,hv
 2022-05-19T09:23:51.580Z,-16.2914,-173.8381,113,5.8,mww,,72,3.09,0.75,us,us6000hm95,2022-05-19T11:27:01.547Z,"37 km S of Hihifo, Tonga",earthquake,9.5,5.9,0.078,16,reviewed,us,us
 2022-05-19T09:20:15.354Z,65.8586,-156.2862,4.6,1.1,ml,,,,0.53,ak,ak0226e16glb,2022-05-19T09:39:02.575Z,"18 km NNE of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -208,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T12:38:20.330Z,33.5015,-116.7828333,7.21,0.43,ml,28,35,0.01821,0.11,ci,ci40021727,2022-05-18T15:59:52.893Z,"10km NE of Aguanga, CA",earthquake,0.15,0.38,0.115,12,reviewed,ci,ci
 2022-05-18T12:33:32.750Z,33.7081667,-116.8041667,16,0.66,ml,27,147,0.07508,0.1,ci,ci40021719,2022-05-18T13:58:22.535Z,"9km WSW of Idyllwild, CA",earthquake,0.29,0.28,0.103,6,reviewed,ci,ci
 2022-05-18T12:24:34.340Z,63.7998,-151.8797,1.4,1.5,ml,,,,1.12,ak,ak0226cfgb8q,2022-05-18T12:35:38.749Z,"23 km ESE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-18T12:15:16.430Z,35.9006667,-117.7393333,8.72,0.89,ml,12,121,0.08005,0.05,ci,ci40021711,2022-05-18T13:25:21.356Z,"16km ESE of Little Lake, CA",earthquake,0.19,0.51,0.224,13,reviewed,ci,ci
-2022-05-18T12:11:23.076Z,63.2432,-150.5122,133.1,1.4,ml,,,,0.32,ak,ak0226cfdi2d,2022-05-18T12:17:43.356Z,"69 km ESE of Denali National Park, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2022-05-18T11:59:41.515Z,38.4677,-119.5383,6.7,1.2,ml,11,90.28,0.087,0.1356,nn,nn00839095,2022-05-18T22:10:18.782Z,"7 km SW of Walker, California",earthquake,,1.8,0.18,4,reviewed,nn,nn
