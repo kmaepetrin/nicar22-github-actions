@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-19T07:10:10.934Z,62.3701,-148.6653,29.1,1.2,ml,,,,1.31,ak,ak0226dzxfvp,2022-05-19T07:12:57.806Z,"64 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-19T07:26:26.860Z,38.8320007,-122.81633,2,0.85,md,9,84,0.009885,0.01,nc,nc73735616,2022-05-19T07:28:02.238Z,"8km NW of The Geysers, CA",earthquake,0.4,1,,1,automatic,nc,nc
+2022-05-19T07:23:01.792Z,36.15431213,-98.4317627,1.097948194,2.54,ml,48,190.0970259,0.1587440968,0.6922747089,ok,ok2022jssa,2022-05-19T07:26:58.255Z,"10 km ENE of Longdale, Oklahoma",earthquake,3.200240179,2.026729873,,36,automatic,ok,ok
+2022-05-19T07:10:10.934Z,62.3701,-148.6653,29.1,1.2,ml,,,,1.31,ak,ak0226dzxfvp,2022-05-19T07:19:37.656Z,"64 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-19T07:07:32.960Z,38.5455017,-122.3000031,-0.18,1.43,md,12,92,0.04586,0.36,nc,nc73735611,2022-05-19T07:16:10.643Z,"14km ESE of Angwin, CA",earthquake,0.84,3.73,0.28,5,automatic,nc,nc
 2022-05-19T06:52:03.235Z,40.0771,-119.6752,12.2,1.3,ml,12,127.22,0.103,0.1063,nn,nn00839132,2022-05-19T06:55:29.715Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,1.1,0.17,7,automatic,nn,nn
 2022-05-19T06:41:14.280Z,34.0036667,-117.5095,2.14,1.6,ml,51,41,0.04331,0.2,ci,ci40022247,2022-05-19T06:52:05.630Z,"1km NNE of Mira Loma, CA",earthquake,0.2,0.32,0.089,27,automatic,ci,ci
@@ -233,7 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T07:43:20.860Z,38.831501,-122.8153305,1.66,1.71,md,27,45,0.009076,0.04,nc,nc73735246,2022-05-18T10:31:11.441Z,"8km NW of The Geysers, CA",earthquake,0.18,0.33,0.14,7,automatic,nc,nc
 2022-05-18T07:38:44.900Z,44.7938333,-110.8173333,4.84,0.73,md,8,248,0.02425,0.08,uu,uu60498472,2022-05-18T15:29:44.690Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.48,0.61,0.389,6,reviewed,uu,uu
 2022-05-18T07:33:08.280Z,38.8339996,-122.7978363,2.14,0.36,md,8,76,0.007323,0.01,nc,nc73735241,2022-05-18T07:42:10.977Z,"7km WNW of Cobb, CA",earthquake,0.43,1.33,,1,automatic,nc,nc
-2022-05-18T07:29:08.550Z,38.8224983,-122.7910004,1.55,0.75,md,13,69,0.01225,0.04,nc,nc73735236,2022-05-18T09:53:11.207Z,"6km NNW of The Geysers, CA",earthquake,0.32,0.69,0.1,2,automatic,nc,nc
-2022-05-18T07:26:20.745Z,66.0217,-150.4958,21.2,1.1,ml,,,,0.56,ak,ak0226cchjlm,2022-05-18T07:41:39.559Z,"59 km NNW of Rampart, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-05-18T07:22:32.040Z,44.4305,-110.9648333,10.54,0.34,md,6,216,0.09473,0.22,uu,uu60498467,2022-05-18T16:45:25.430Z,"28 km SSE of West Yellowstone, Montana",earthquake,3.91,4.6,0.144,3,reviewed,uu,uu
-2022-05-18T07:22:31.841Z,62.2921,-150.4176,7.2,1.5,ml,,,,0.63,ak,ak0226ccgplc,2022-05-18T07:38:21.168Z,"10 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
