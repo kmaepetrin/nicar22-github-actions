@@ -20860,3 +20860,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T09:07:45.455Z,-29.5388,-72.0423,10.0,5.8,mww,,94.0,0.795,0.72,us,us6000hmkd,2022-05-20T09:34:27.689Z,"82 km NW of Coquimbo, Chile",earthquake,4.4,1.8,0.05,38.0,reviewed,us,us
 2022-05-20T09:40:56.566Z,36.85800934,-97.78103638,2.444131374,2.32,ml,30.0,66.50292969,0.06333959848,0.4451330665,ok,ok2022jusc,2022-05-20T09:42:26.149Z,"7 km NW of Medford, Oklahoma",earthquake,2.306354853,1.805943847,,16.0,automatic,ok,ok
 2022-05-20T09:40:11.124Z,17.927,-66.8771,10.0,3.7,ml,,209.0,0.12,0.37,us,us6000hmkp,2022-05-20T09:51:37.558Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,1.4,1.7,0.062,34.0,reviewed,us,us
+2022-05-20T09:59:59.076Z,63.2892,-151.6489,0.0,2.1,ml,,,,0.95,ak,ak0226foy9ec,2022-05-20T10:02:04.733Z,"28 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
