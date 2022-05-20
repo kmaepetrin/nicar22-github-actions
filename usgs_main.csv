@@ -20943,3 +20943,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T18:55:29.239Z,36.74928284,-98.05995941,6.602882862,1.78,ml,10.0,164.817234,0.09764780849,0.5863297815,ok,ok2022jvkj,2022-05-20T18:58:23.385Z,"8 km E of Nescatunga, Oklahoma",earthquake,5.522875788,4.234578357,,7.0,automatic,ok,ok
 2022-05-20T17:08:27.706Z,38.236,-112.2273,2.23,2.7,ml,,62.0,0.267,0.5,us,us6000hmpy,2022-05-20T19:02:15.040Z,"0 km WSW of Junction, Utah",earthquake,0.6,4.9,0.03,146.0,reviewed,us,us
 2022-05-20T08:07:18.358Z,39.1952,-119.6295,3.3,0.2,ml,7.0,104.7,0.109,0.1058,nn,nn00839211,2022-05-20T19:00:01.359Z,"5 km SW of Dayton, Nevada",earthquake,,10.0,0.0,1.0,reviewed,nn,nn
+2022-05-20T19:18:20.808Z,61.9368,-148.887,9.4,1.1,ml,,,,0.36,ak,ak0226funq4g,2022-05-20T19:20:04.268Z,"18 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-20T11:38:10.940Z,36.0986667,-117.796,8.8,0.72,ml,12.0,111.0,0.05126,0.07,ci,ci37499421,2022-05-20T19:20:00.181Z,"15km ENE of Coso Junction, CA",earthquake,0.21,0.33,0.157,4.0,reviewed,ci,ci
+2022-05-20T10:54:55.531Z,39.629,-119.3768,10.2,0.5,ml,7.0,175.28,0.082,0.126,nn,nn00839212,2022-05-20T19:12:25.612Z,"7 km W of Wadsworth, Nevada",earthquake,,3.2,0.45,3.0,reviewed,nn,nn
