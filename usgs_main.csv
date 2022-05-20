@@ -20898,3 +20898,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T13:42:34.600Z,33.9625,-116.7895,13.06,0.83,ml,22.0,93.0,0.07404,0.17,ci,ci40023127,2022-05-20T13:46:08.781Z,"5km N of Cabazon, CA",earthquake,0.37,0.74,0.243,22.0,automatic,ci,ci
 2022-05-20T13:38:06.610Z,33.425,-116.364,12.65,0.65,ml,16.0,106.0,0.07728,0.13,ci,ci40023111,2022-05-20T13:41:45.796Z,"19km N of Borrego Springs, CA",earthquake,0.35,0.8,0.156,17.0,automatic,ci,ci
 2022-05-20T14:37:26.970Z,36.1061667,-117.8836667,3.5,1.56,ml,18.0,62.0,0.02596,0.11,ci,ci40023143,2022-05-20T14:41:08.427Z,"9km NE of Coso Junction, CA",earthquake,0.19,0.34,0.217,19.0,automatic,ci,ci
+2022-05-20T14:40:55.641Z,59.9414,-151.8287,57.5,2.1,ml,,,,0.59,ak,ak0226frtcje,2022-05-20T14:47:36.477Z,"5 km W of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
