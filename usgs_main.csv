@@ -20901,3 +20901,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T14:40:55.641Z,59.9414,-151.8287,57.5,2.1,ml,,,,0.59,ak,ak0226frtcje,2022-05-20T14:47:36.477Z,"5 km W of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-05-20T14:51:09.512Z,59.9021,-152.9459,99.8,2.0,ml,,,,0.51,ak,ak0226frvgut,2022-05-20T14:56:02.163Z,"64 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-20T14:51:03.616Z,60.6964,-146.632,14.2,1.2,ml,,,,1.06,ak,ak0226frvleh,2022-05-20T14:55:56.481Z,"18 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-20T15:12:09.620Z,33.644165,-116.7013321,13.06,1.21,ml,18.0,174.0,0.06768,0.17,ci,ci40023175,2022-05-20T15:14:16.576Z,"10km NNW of Anza, CA",earthquake,0.62,1.1,0.314,12.0,automatic,ci,ci
+2022-05-20T15:10:45.790Z,35.6743317,-117.5145035,10.2,0.95,ml,9.0,106.0,0.09745,0.06,ci,ci40023151,2022-05-20T15:14:19.640Z,"14km SW of Searles Valley, CA",earthquake,0.45,1.54,0.019,4.0,automatic,ci,ci
+2022-05-20T15:06:52.045Z,60.156,-153.4161,127.3,2.4,ml,,,,0.77,ak,ak0226fs7hgh,2022-05-20T15:09:59.895Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
+2022-05-20T15:02:20.395Z,64.6935,-149.1626,18.7,0.6,ml,,,,0.3,ak,ak0226fs6k7r,2022-05-20T15:13:58.487Z,"10 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-20T00:22:46.620Z,44.5055,-110.5953333,3.4,1.61,ml,11.0,74.0,0.06869,0.14,uu,uu60498962,2022-05-20T15:10:15.620Z,"43 km ESE of West Yellowstone, Montana",earthquake,0.4,1.06,0.475,2.0,reviewed,uu,uu
