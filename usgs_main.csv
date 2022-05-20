@@ -20950,3 +20950,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T13:25:02.127Z,38.8785,-119.6411,0.0,1.1,ml,5.0,143.36,0.029,0.1392,nn,nn00839213,2022-05-20T19:21:43.812Z,"1 km N of Carter Springs, Nevada",earthquake,,6.5,0.3,3.0,reviewed,nn,nn
 2022-05-20T19:31:55.939Z,63.4566,-146.0381,10.5,0.9,ml,,,,0.4,ak,ak0226fuql55,2022-05-20T19:37:40.809Z,"46 km NNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-19T21:19:55.357Z,31.65711944,-104.4577192,6.157275391,2.1,ml,9.0,75.0,0.03846366122,0.2,tx,tx2022jttq,2022-05-20T19:30:43.519Z,"58 km S of Whites City, New Mexico",earthquake,1.838536955,1.313504356,0.1,7.0,reviewed,tx,tx
+2022-05-20T19:04:50.070Z,17.9081666666667,-66.901,13.56,1.96,md,6.0,234.0,,0.11,pr,pr71349588,2022-05-20T19:45:54.160Z,"7 km S of Guánica, Puerto Rico",earthquake,0.96,0.5,0.0437150595435896,6.0,reviewed,pr,pr
