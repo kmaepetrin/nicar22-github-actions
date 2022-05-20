@@ -20805,3 +20805,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T20:42:58.740Z,52.0631666666667,178.393,7.13,0.82,ml,4.0,347.0,,0.05,av,av91059268,2022-05-20T02:34:24.990Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.75,2.07,0.136617317059363,4.0,reviewed,av,av
 2022-05-19T20:40:20.780Z,53.8506666666667,-166.635333333333,9.78,2.34,ml,17.0,155.0,,0.12,av,av91567601,2022-05-20T01:28:35.410Z,"7 km WSW of Unalaska, Alaska",earthquake,0.42,0.27,0.297329629953824,23.0,reviewed,av,av
 2022-05-19T19:56:20.090Z,59.3621666666667,-153.433666666667,-1.17,-0.83,ml,4.0,262.0,,0.08,av,av91059258,2022-05-20T02:19:16.680Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.39,0.73,0.254817594629762,4.0,reviewed,av,av
+2022-05-20T03:32:03.290Z,33.4276667,-116.625,5.92,0.38,ml,17.0,84.0,0.06952,0.13,ci,ci40022895,2022-05-20T03:35:36.960Z,"15km SSE of Anza, CA",earthquake,0.34,0.66,0.159,12.0,automatic,ci,ci
+2022-05-20T03:23:18.840Z,33.0221667,-116.2915,4.64,1.04,ml,29.0,40.0,0.06812,0.2,ci,ci40022887,2022-05-20T03:27:05.645Z,"20km SW of Ocotillo Wells, CA",earthquake,0.28,0.73,0.123,21.0,automatic,ci,ci
+2022-05-20T03:04:56.191Z,61.3793,-147.6154,0.0,1.8,ml,,,,1.0,ak,ak0226fl1v5f,2022-05-20T03:20:20.843Z,"47 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
