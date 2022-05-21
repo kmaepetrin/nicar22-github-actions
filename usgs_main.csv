@@ -21081,3 +21081,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T08:11:13.040Z,40.5040016,-122.9645004,35.4,2.59,md,11.0,119.0,0.07229,0.24,nc,nc73736226,2022-05-21T08:19:11.113Z,"19km ESE of Hayfork, CA",earthquake,1.18,3.11,0.07,8.0,automatic,nc,nc
 2022-05-21T08:03:08.884Z,84.1853,-1.6539,10.0,4.2,mb,,113.0,5.636,0.91,us,us6000hmvd,2022-05-21T08:20:08.040Z,north of Svalbard,earthquake,11.9,1.9,0.121,19.0,reviewed,us,us
 2022-05-21T06:42:14.510Z,17.9115,-66.8811666666667,10.12,1.96,md,6.0,283.0,,0.09,pr,pr71349683,2022-05-21T08:18:10.220Z,"7 km SSE of Guánica, Puerto Rico",earthquake,1.3,0.93,0.120107197052908,5.0,reviewed,pr,pr
+2022-05-21T08:29:15.001Z,-4.728,102.6515,56.21,4.7,mb,,90.0,0.474,0.88,us,us6000hmvl,2022-05-21T08:44:16.040Z,"102 km SW of Pagar Alam, Indonesia",earthquake,7.6,6.9,0.106,27.0,reviewed,us,us
+2022-05-21T07:50:11.000Z,17.9576666666667,-67.0086666666667,10.45,1.96,md,5.0,209.0,,0.03,pr,pr71349708,2022-05-21T08:34:28.810Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.58,0.78,0.0137939616726659,5.0,reviewed,pr,pr
+2022-05-21T07:48:14.410Z,18.0348333333333,-66.8033333333333,14.75,2.41,md,23.0,89.0,,0.19,pr,pr71349703,2022-05-21T08:38:54.670Z,"2 km NW of Guayanilla, Puerto Rico",earthquake,0.34,0.55,0.134375768703549,11.0,reviewed,pr,pr
