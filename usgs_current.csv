@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-22T07:37:20.350Z,38.8358345,-122.786499,1.87,0.68,md,12,72,0.003953,0.02,nc,nc73736541,2022-05-22T07:45:10.574Z,"6km WNW of Cobb, CA",earthquake,0.3,0.51,0.14,2,automatic,nc,nc
+2022-05-22T07:51:12.990Z,33.4785,-116.4531667,12.27,0.58,ml,24,71,0.05032,0.16,ci,ci40023999,2022-05-22T07:54:50.168Z,"22km ESE of Anza, CA",earthquake,0.25,0.78,0.128,15,automatic,ci,ci
+2022-05-22T07:37:20.350Z,38.8358345,-122.786499,1.87,0.68,md,12,72,0.003953,0.02,nc,nc73736541,2022-05-22T07:54:15.636Z,"6km WNW of Cobb, CA",earthquake,0.3,0.51,0.14,2,automatic,nc,nc
 2022-05-22T07:06:27.797Z,-26.214,178.3915,589.53,6.3,mww,,16,4.461,0.97,us,us6000hn1e,2022-05-22T07:32:56.397Z,"south of the Fiji Islands",earthquake,9.6,4.6,0.045,48,reviewed,us,us
 2022-05-22T06:53:26.370Z,38.7718315,-122.7288361,1.13,2.01,md,33,59,0.01069,0.05,nc,nc73736526,2022-05-22T07:40:14.539Z,"2km ESE of The Geysers, CA",earthquake,0.24,0.29,0.04,9,automatic,nc,nc
 2022-05-22T06:32:23.290Z,19.11549949646,-155.424835205078,30.0499992370605,2.68,ml,44,182,,0.129999995,hv,hv73019662,2022-05-22T07:38:19.040Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.57,0.949999988,3.34,20,automatic,hv,hv
@@ -180,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T08:11:12.300Z,40.5215,-122.9758333,43.13,2.57,md,25,69,0.09071,0.09,nc,nc73736226,2022-05-22T06:30:22.040Z,"18km ESE of Hayfork, CA",earthquake,0.35,0.57,0.16,32,reviewed,nc,nc
 2022-05-21T08:03:08.884Z,84.1853,-1.6539,10,4.2,mb,,113,5.636,0.91,us,us6000hmvd,2022-05-21T08:20:08.040Z,"north of Svalbard",earthquake,11.9,1.9,0.121,19,reviewed,us,us
 2022-05-21T07:56:26.450Z,36.569,-121.1228333,8.84,1.77,md,31,96,0.04146,0.06,nc,nc73736221,2022-05-21T21:05:17.790Z,"4km NNE of Pinnacles, CA",earthquake,0.22,0.25,0.211,30,reviewed,nc,nc
-2022-05-21T07:50:11.000Z,17.9576666666667,-67.0086666666667,10.45,1.96,md,5,209,,0.03,pr,pr71349708,2022-05-21T08:34:28.810Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.58,0.78,0.0137939616726659,5,reviewed,pr,pr
-2022-05-21T07:48:14.410Z,18.0348333333333,-66.8033333333333,14.75,2.41,md,23,89,,0.19,pr,pr71349703,2022-05-21T14:26:04.757Z,"2 km NW of Guayanilla, Puerto Rico",earthquake,0.34,0.55,0.134375768703549,11,reviewed,pr,pr
