@@ -21312,3 +21312,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T08:41:06.671Z,-10.2217,153.1885,10.0,4.6,mb,,57.0,6.077,0.45,us,us6000hn39,2022-05-22T11:26:29.040Z,"279 km E of Samarai, Papua New Guinea",earthquake,6.7,1.9,0.129,23.0,reviewed,us,us
 2022-05-22T11:32:12.823Z,63.4633,-148.2211,8.1,1.3,ml,,,,0.88,ak,ak0226j11xoi,2022-05-22T11:36:15.134Z,"37 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-22T11:27:33.515Z,60.1635,-153.2433,139.7,1.9,ml,,,,0.53,ak,ak0226j10wpr,2022-05-22T11:35:23.567Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-22T11:34:01.246Z,31.6515,-104.3934,5.0,3.3,ml,,63.0,0.093,0.46,us,us6000hn3n,2022-05-22T11:41:02.040Z,"58 km S of Whites City, New Mexico",earthquake,2.6,1.9,0.043,71.0,reviewed,us,us
