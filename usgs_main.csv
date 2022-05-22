@@ -21350,3 +21350,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T15:39:11.840Z,38.7508316,-122.7340012,1.77,1.14,md,14.0,112.0,0.008447,0.04,nc,nc73736641,2022-05-22T15:40:45.111Z,"4km SSE of The Geysers, CA",earthquake,0.27,0.38,0.07,5.0,automatic,nc,nc
 2022-05-22T15:18:48.380Z,17.8985,-66.8585,15.43,2.39,md,22.0,220.0,,0.13,pr,pr71350048,2022-05-22T15:40:58.570Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.49,0.45,0.176292866128254,13.0,reviewed,pr,pr
 2022-05-22T15:17:32.310Z,33.2415,141.4509,16.84,6.0,mww,,52.0,1.378,0.85,us,us6000hn4d,2022-05-22T15:46:31.882Z,"235 km SSE of Katsuura, Japan",earthquake,6.3,3.9,0.05,38.0,reviewed,us,us
+2022-05-22T15:49:05.640Z,38.8138351,-122.7835007,1.5,1.18,md,28.0,57.0,0.002274,0.03,nc,nc73736661,2022-05-22T15:52:19.605Z,"5km NNW of The Geysers, CA",earthquake,0.18,0.31,0.06,5.0,automatic,nc,nc
