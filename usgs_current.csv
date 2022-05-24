@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T11:29:23.008Z,51.4556,-178.447,54.62,4.4,mb,,176,0.427,0.81,us,us6000hn9h,2022-05-23T18:56:17.049Z,"133 km WSW of Adak, Alaska",earthquake,8.4,8.2,0.039,188,reviewed,us,us
 2022-05-23T11:27:54.580Z,33.8686667,-116.196,9.1,0.9,ml,40,134,0.05968,0.2,ci,ci40024551,2022-05-23T23:42:21.580Z,"17km N of Indio, CA",earthquake,0.32,0.67,0.149,24,reviewed,ci,ci
 2022-05-23T11:24:25.230Z,38.838665,-122.8383331,2.01,0.86,md,8,163,0.002224,0.02,nc,nc73737036,2022-05-23T13:11:10.191Z,"10km NW of The Geysers, CA",earthquake,0.67,2.02,,1,automatic,nc,nc
-2022-05-23T10:55:19.263Z,37.38,-117.0897,2.9,1.1,ml,16,109.08,0.158,0.177,nn,nn00839380,2022-05-24T02:39:04.346Z,"38 km SSE of Goldfield, Nevada",earthquake,,3.5,0.97,7,reviewed,nn,nn
-2022-05-23T10:53:12.324Z,37.3777,-117.0866,0,0.3,ml,16,109.11,0.159,0.1619,nn,nn00839376,2022-05-24T02:39:02.923Z,"39 km SSE of Goldfield, Nevada",earthquake,,0,0.94,6,reviewed,nn,nn
