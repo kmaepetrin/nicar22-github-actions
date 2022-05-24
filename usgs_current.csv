@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-24T21:43:11.390Z,36.5375,-114.8997,7.8,1.9,ml,10,314.3,0.892,0.2118,nn,nn00839495,2022-05-24T21:46:50.872Z,"31 km WSW of Moapa Town, Nevada",earthquake,,1.7,1.02,6,automatic,nn,nn
 2022-05-24T21:37:05.035Z,37.9926,-118.6495,0,1.2,ml,9,247.12,0.283,0.146,nn,nn00839493,2022-05-24T21:41:00.070Z,"24 km NW of Benton, California",earthquake,,63.8,0.17,5,automatic,nn,nn
-2022-05-24T21:35:22.780Z,38.8146667,-122.7953339,1.81,0.34,md,8,168,0.006689,0.01,nc,nc73737601,2022-05-24T21:36:59.165Z,"5km NW of The Geysers, CA",earthquake,1.06,0.8,,1,automatic,nc,nc
+2022-05-24T21:35:22.780Z,38.8146667,-122.7953339,1.81,0.34,md,8,168,0.006689,0.01,nc,nc73737601,2022-05-24T21:46:10.896Z,"5km NW of The Geysers, CA",earthquake,1.06,0.8,,1,automatic,nc,nc
 2022-05-24T21:34:50.140Z,34.2383333,-117.0306667,0.28,0.85,ml,8,309,0.1644,0.19,ci,ci40025671,2022-05-24T21:38:36.757Z,"8km ENE of Running Springs, CA",earthquake,2.47,31.61,0.117,11,automatic,ci,ci
 2022-05-24T21:34:28.960Z,34.0585,-116.8343333,16.78,0.86,ml,20,107,0.156,0.33,ci,ci40025663,2022-05-24T21:38:16.060Z,"15km NNE of Banning, CA",earthquake,0.76,2.27,0.14,19,automatic,ci,ci
 2022-05-24T21:34:02.635Z,35.9436,-114.9737,15.1,1.8,ml,10,251.62,0.58,0.4776,nn,nn00839491,2022-05-24T21:39:11.762Z,"10 km S of Henderson, Nevada",earthquake,,1.2,0.09,7,automatic,nn,nn
@@ -78,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T11:39:23.303Z,63.8276,-148.4683,93.7,1.6,ml,,,,0.59,ak,ak0226mc65j6,2022-05-24T11:54:25.226Z,"24 km ENE of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-24T11:34:14.630Z,36.2166667,-117.9113333,3.12,1.26,ml,24,45,0.1089,0.14,ci,ci40025295,2022-05-24T15:28:31.448Z,"11km SE of Olancha, CA",earthquake,0.17,0.55,0.308,10,reviewed,ci,ci
 2022-05-24T11:34:09.290Z,36.2136667,-117.9113333,2.59,1.17,ml,21,108,0.1062,0.13,ci,ci37499709,2022-05-24T15:36:26.398Z,"11km SE of Olancha, CA",earthquake,0.23,0.9,0.295,7,reviewed,ci,ci
+2022-05-24T11:05:32.501Z,38.7372,-118.4582,0,0,ml,6,297.38,0.12,0.1381,nn,nn00839496,2022-05-24T21:45:48.910Z,"27 km ENE of Walker Lake, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2022-05-24T10:42:23.780Z,38.748333,-122.7378311,1.86,1.64,md,19,89,0.006831,0.03,nc,nc73737411,2022-05-24T13:09:15.769Z,"4km SSE of The Geysers, CA",earthquake,0.24,0.33,0.06,7,automatic,nc,nc
 2022-05-24T10:36:21.250Z,35.8736667,-117.6823333,7.41,0.48,ml,17,83,0.07849,0.09,ci,ci40025287,2022-05-24T18:04:18.306Z,"21km ESE of Little Lake, CA",earthquake,0.14,0.52,0.049,5,reviewed,ci,ci
 2022-05-24T10:31:12.920Z,36.0773333,-117.8765,2.98,0.47,ml,15,97,0.04382,0.08,ci,ci40025279,2022-05-24T15:23:43.378Z,"7km ENE of Coso Junction, CA",earthquake,0.18,0.33,0.333,4,reviewed,ci,ci
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T22:02:37.392Z,38.1758,-117.8447,8.6,1.3,ml,16,176.11,0.098,0.1407,nn,nn00839422,2022-05-24T02:39:44.712Z,"33 km SE of Mina, Nevada",earthquake,,1.7,0.29,5,reviewed,nn,nn
 2022-05-23T22:00:09.890Z,53.8693333333333,-166.746666666667,3.96,-0.51,ml,5,157,,0.07,av,av91059808,2022-05-24T05:39:57.600Z,"13 km W of Dutch Harbor, Alaska",earthquake,0.28,0.72,0.188216013517281,5,reviewed,av,av
 2022-05-23T21:59:38.528Z,38.1198,-118.1015,10.6,1.6,ml,19,132.82,0.114,0.143,nn,nn00839420,2022-05-24T02:39:43.552Z,"30 km S of Mina, Nevada",earthquake,,1.7,0.25,8,reviewed,nn,nn
-2022-05-23T21:49:50.720Z,39.79,-122.0033333,16.8,2.72,md,30,37,0.156,0.21,nc,nc73737211,2022-05-24T07:14:14.656Z,"5km N of Hamilton City, CA",earthquake,0.36,0.58,0.172,39,reviewed,nc,nc
