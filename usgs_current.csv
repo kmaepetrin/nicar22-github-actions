@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-24T06:34:19.870Z,63.0026,-150.6204,90.9,1.2,ml,,,,0.43,ak,ak0226m95wqh,2022-05-24T06:42:33.169Z,"56 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-24T06:26:19.170Z,38.8289986,-122.7990036,2.06,1.03,md,20,35,0.0103,0.02,nc,nc73737346,2022-05-24T06:37:10.417Z,"7km W of Cobb, CA",earthquake,0.23,0.46,0.14,2,automatic,nc,nc
+2022-05-24T06:48:10.503Z,60.5017,-152.425,86,1.1,ml,,,,0.54,ak,ak0226m98vx6,2022-05-24T06:50:52.082Z,"61 km WSW of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-24T06:34:19.870Z,63.0026,-150.6204,90.9,1.2,ml,,,,0.43,ak,ak0226m95wqh,2022-05-24T06:50:06.742Z,"56 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-24T06:26:19.170Z,38.8289986,-122.7990036,2.06,1.03,md,20,35,0.0103,0.02,nc,nc73737346,2022-05-24T06:47:23.490Z,"7km W of Cobb, CA",earthquake,0.23,0.46,0.14,2,automatic,nc,nc
 2022-05-24T06:17:57.040Z,38.831665,-122.8113327,3.91,0.85,md,8,106,0.008316,0.03,nc,nc73737341,2022-05-24T06:34:15.397Z,"8km NW of The Geysers, CA",earthquake,0.67,2.47,,1,automatic,nc,nc
+2022-05-24T06:15:39.930Z,17.9918333333333,-66.9965,7.75,1.35,md,5,146,,0.1,pr,pr71350443,2022-05-24T06:46:20.650Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.48,0.9,0.046080261639883,5,reviewed,pr,pr
 2022-05-24T06:14:34.490Z,33.6578333,-116.7718333,7.7,0.13,ml,15,73,0.0643,0.21,ci,ci40025175,2022-05-24T06:18:09.541Z,"10km SSW of Idyllwild, CA",earthquake,0.46,0.87,0.114,6,automatic,ci,ci
 2022-05-24T05:52:20.410Z,38.8288345,-122.7988358,2.02,1.03,md,21,35,0.01032,0.01,nc,nc73737336,2022-05-24T06:20:15.315Z,"7km W of Cobb, CA",earthquake,0.21,0.44,0.14,2,automatic,nc,nc
 2022-05-24T05:51:48.660Z,33.4615,-116.5628333,8.22,0.65,ml,30,47,0.04668,0.17,ci,ci40025159,2022-05-24T05:55:37.787Z,"15km SE of Anza, CA",earthquake,0.24,0.45,0.119,14,automatic,ci,ci
@@ -112,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T18:53:29.100Z,37.4796667,-118.8496667,2.41,0.42,md,10,241,0.1114,0.03,nc,nc73737186,2022-05-23T19:24:10.339Z,"18km WSW of Toms Place, CA",earthquake,1.07,3.95,0.073,8,reviewed,nc,nc
 2022-05-23T18:51:20.740Z,36.4925003,-121.060997,4.96,1.96,md,11,142,0.03723,0.05,nc,nc73737181,2022-05-23T23:03:10.650Z,"9km ESE of Pinnacles, CA",earthquake,0.33,0.89,0.28,7,automatic,nc,nc
 2022-05-23T18:50:19.640Z,33.026,-116.2896667,7.91,1.05,ml,43,40,0.07213,0.18,ci,ci40024799,2022-05-23T23:05:02.400Z,"20km SW of Ocotillo Wells, CA",earthquake,0.18,0.75,0.133,14,reviewed,ci,ci
-2022-05-23T18:45:15.312Z,14.1179,145.9341,81.7,5.1,mww,,38,1.16,0.5,us,us7000hbzi,2022-05-24T04:11:06.901Z,"99 km SSE of San Jose Village, Northern Mariana Islands",earthquake,9,5.5,0.068,21,reviewed,us,us
+2022-05-23T18:45:15.312Z,14.1179,145.9341,81.7,5.1,mww,,38,1.16,0.5,us,us7000hbzi,2022-05-24T06:55:28.137Z,"99 km SSE of San Jose Village, Northern Mariana Islands",earthquake,9,5.5,0.068,21,reviewed,us,us
 2022-05-23T18:41:38.980Z,54.1626666666667,-166.026333333333,20.63,-0.22,ml,8,144,,0.37,av,av91570791,2022-05-24T04:15:03.180Z,"16 km W of Akutan, Alaska",earthquake,2.45,1.63,0.316442412808559,8,reviewed,av,av
 2022-05-23T18:38:54.920Z,36.41316667,-96.88366667,5.52,0.02,ml,18,105,0.03869240723,0.08,ok,ok2022kawi,2022-05-23T18:48:31.066Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.29,8,reviewed,ok,ok
 2022-05-23T18:37:33.853Z,60.0037,-153.4612,105,1.1,ml,,,,0.71,ak,ak0226kssfns,2022-05-23T18:46:12.618Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -259,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T07:05:52.522Z,63.689,-145.4521,12.5,1.2,ml,,,,0.8,ak,ak0226km1s4o,2022-05-23T07:16:01.561Z,"23 km SSW of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-23T07:00:53.980Z,48.26533333333333,-122.60583333333334,25.97,0.98,ml,24,61,0.03006,0.24,uw,uw61834302,2022-05-23T17:07:41.090Z,"4 km SE of Oak Harbor, Washington",earthquake,0.41,0.7,0.1104660886001364,6,reviewed,uw,uw
 2022-05-23T06:57:48.210Z,44.7646667,-111.119,12.25,0.19,md,11,77,0.03273,0.11,uu,uu60499312,2022-05-23T14:54:40.710Z,"Idaho-Montana border region",earthquake,0.55,1.5,0.236,7,reviewed,uu,uu
-2022-05-23T06:48:01.964Z,66.2659,-147.0039,0,1.6,ml,,,,1.06,ak,ak0226klpis5,2022-05-23T06:55:32.963Z,"20 km ESE of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
