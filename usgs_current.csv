@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-26T07:58:09.960Z,33.9648323,-116.8235016,14.21,1.09,ml,33,45,0.07135,0.19,ci,ci40027055,2022-05-26T08:00:25.136Z,"6km NNW of Cabazon, CA",earthquake,0.34,0.68,0.219,7,automatic,ci,ci
 2022-05-26T07:40:04.540Z,34.0026667,-116.966,20.64,0.88,ml,22,71,0.05094,0.22,ci,ci40027031,2022-05-26T07:43:51.944Z,"8km ESE of Yucaipa, CA",earthquake,0.49,0.89,0.179,24,automatic,ci,ci
-2022-05-26T07:40:00.850Z,36.0026665,-120.8861694,9.44,1.43,md,23,82,0.02229,0.1,nc,nc73738101,2022-05-26T07:42:56.522Z,"3km SE of San Ardo, CA",earthquake,0.31,0.59,0.27,7,automatic,nc,nc
+2022-05-26T07:40:00.850Z,36.0026665,-120.8861694,9.44,1.43,md,23,82,0.02229,0.1,nc,nc73738101,2022-05-26T07:55:10.111Z,"3km SE of San Ardo, CA",earthquake,0.31,0.59,0.27,7,automatic,nc,nc
 2022-05-26T07:28:29.400Z,38.8305016,-122.800499,1.85,1.19,md,21,63,0.01031,0.02,nc,nc73738091,2022-05-26T07:52:16.094Z,"7km W of Cobb, CA",earthquake,0.2,0.4,0.19,4,automatic,nc,nc
 2022-05-26T07:25:08.130Z,38.8289986,-122.8098297,1.48,0.85,md,9,72,0.005599,0.01,nc,nc73738086,2022-05-26T07:41:23.034Z,"7km NW of The Geysers, CA",earthquake,0.36,1,,1,automatic,nc,nc
 2022-05-26T07:09:24.398Z,60.9606,-147.0217,22.5,1.3,ml,,,,0.6,ak,ak0226pkoonr,2022-05-26T07:19:13.222Z,"21 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -302,5 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T08:10:27.490Z,36.4506667,-92.6973333,11.6,2.07,md,6,115,0.1516,0.15,nm,nm60151343,2022-05-25T18:42:29.453Z,"11 km SW of Pontiac, Missouri",earthquake,1.69,2.59,0.061,5,reviewed,nm,nm
 2022-05-25T08:07:51.530Z,44.12,-115.1043333,6.45,1.91,ml,9,110,0.749,0.22,mb,mb80546929,2022-05-25T14:47:08.700Z,"17 km SW of Stanley, Idaho",earthquake,0.61,2.07,0.186,10,reviewed,mb,mb
 2022-05-25T08:07:21.639Z,62.4623,-149.5418,16.4,1.1,ml,,,,0.51,ak,ak0226nxqc4k,2022-05-25T08:21:54.612Z,"28 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-25T07:58:20.420Z,32.6011667,-115.5298333,4.84,2.02,ml,28,121,0.07799,0.25,ci,ci40026063,2022-05-25T17:01:15.960Z,"6km ENE of Progreso, B.C., MX",earthquake,0.55,1.25,0.219,25,reviewed,ci,ci
-2022-05-25T07:58:15.809Z,64.9897,-146.9174,7.9,0.9,ml,,,,0.51,ak,ak0226nxftl8,2022-05-25T08:13:39.287Z,"12 km N of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
