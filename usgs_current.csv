@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-26T07:25:08.130Z,38.8289986,-122.8098297,1.48,0.85,md,9,72,0.005599,0.01,nc,nc73738086,2022-05-26T07:26:42.514Z,"7km NW of The Geysers, CA",earthquake,0.36,1,,1,automatic,nc,nc
+2022-05-26T07:28:29.400Z,38.8305016,-122.800499,1.85,1.19,md,21,63,0.01031,0.02,nc,nc73738091,2022-05-26T07:31:12.650Z,"7km W of Cobb, CA",earthquake,0.2,0.4,0.19,4,automatic,nc,nc
+2022-05-26T07:25:08.130Z,38.8289986,-122.8098297,1.48,0.85,md,9,72,0.005599,0.01,nc,nc73738086,2022-05-26T07:34:11.124Z,"7km NW of The Geysers, CA",earthquake,0.36,1,,1,automatic,nc,nc
 2022-05-26T07:09:24.398Z,60.9606,-147.0217,22.5,1.3,ml,,,,0.6,ak,ak0226pkoonr,2022-05-26T07:19:13.222Z,"21 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-26T07:07:33.100Z,33.4315,-116.6321667,6.8,0.16,ml,19,88,0.06655,0.21,ci,ci40027023,2022-05-26T07:11:01.922Z,"14km SSE of Anza, CA",earthquake,0.46,0.87,0.199,4,automatic,ci,ci
 2022-05-26T06:56:58.520Z,17.8325,-66.8761666666667,6.75,2.56,md,15,258,,0.14,pr,pr71350778,2022-05-26T07:15:34.600Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.46,0.3,0.104462013074772,12,reviewed,pr,pr
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T04:52:12.172Z,65.0317,-148.7996,10.4,1.5,ml,,,,0.48,ak,ak0226pj5gih,2022-05-26T04:56:04.133Z,"29 km ESE of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-26T04:51:50.880Z,33.34,-116.2925,9.59,0.78,ml,24,109,0.02651,0.2,ci,ci40026959,2022-05-26T04:55:22.841Z,"12km NE of Borrego Springs, CA",earthquake,0.37,0.58,0.118,15,automatic,ci,ci
 2022-05-26T04:42:57.470Z,33.9551667,-116.8355,7.61,1.05,ml,41,62,0.08304,0.18,ci,ci40026943,2022-05-26T04:46:43.575Z,"5km NE of Banning, CA",earthquake,0.24,0.89,0.178,27,automatic,ci,ci
-2022-05-26T04:41:07.070Z,38.829834,-122.7948303,1.79,1.53,md,31,39,0.009252,0.04,nc,nc73738036,2022-05-26T04:56:18.047Z,"6km W of Cobb, CA",earthquake,0.18,0.31,0.06,7,automatic,nc,nc
+2022-05-26T04:41:07.070Z,38.829834,-122.7948303,1.79,1.53,md,31,39,0.009252,0.04,nc,nc73738036,2022-05-26T07:34:10.994Z,"6km W of Cobb, CA",earthquake,0.18,0.31,0.06,7,automatic,nc,nc
 2022-05-26T04:34:41.020Z,17.9435,-66.9151666666667,11.67,1.88,md,7,235,,0.06,pr,pr71350753,2022-05-26T05:13:16.490Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.63,0.6,0.366947337192961,7,reviewed,pr,pr
 2022-05-26T04:32:16.016Z,58.3621,-154.7161,1.6,0.8,ml,,,,0.51,ak,ak0226pj1ao1,2022-05-26T04:35:17.943Z,"89 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-26T04:24:58.500Z,19.4998340606689,-155.473007202148,2.09999990463257,2.04,ml,20,92,,0.209999993,hv,hv73023442,2022-05-26T04:30:28.310Z,"25 km WNW of Volcano, Hawaii",earthquake,0.45,1.97000003,0.45,4,automatic,hv,hv
@@ -305,6 +306,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T07:50:52.380Z,53.9228333333333,-166.678833333333,5.43,-0.65,ml,6,127,,0.09,av,av91060073,2022-05-25T22:32:33.160Z,"9 km WNW of Dutch Harbor, Alaska",earthquake,0.3,0.63,0.213834872237696,6,reviewed,av,av
 2022-05-25T07:40:42.148Z,60.0397,-142.4696,6.5,0.9,ml,,,,0.27,ak,ak0226nxc0qe,2022-05-25T07:45:50.053Z,"157 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-25T07:38:50.030Z,32.5803333,-115.5271667,5.37,1.79,ml,23,147,0.08636,0.2,ci,ci40026055,2022-05-25T16:52:37.925Z,"5km E of Progreso, B.C., MX",earthquake,0.5,0.72,0.161,25,reviewed,ci,ci
-2022-05-25T07:38:31.800Z,32.5963333,-115.533,8.29,1.14,ml,10,147,0.0824,0.18,ci,ci37418844,2022-05-25T16:56:59.917Z,"5km ENE of Progreso, B.C., MX",earthquake,0.65,1.41,0.09,4,reviewed,ci,ci
-2022-05-25T07:37:09.940Z,37.402,-118.604,3.14,1.07,md,15,106,0.2232,0.04,nc,nc73737681,2022-05-25T10:28:12.427Z,"2km SSW of Round Valley, CA",earthquake,0.28,3.65,0.217,12,reviewed,nc,nc
-2022-05-25T07:36:46.480Z,32.8621667,-116.1686667,8.25,0.83,ml,19,93,0.09242,0.13,ci,ci40026047,2022-05-25T16:48:44.220Z,"22km NW of Ocotillo, CA",earthquake,0.23,0.91,0.098,9,reviewed,ci,ci
