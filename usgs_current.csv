@@ -8,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T13:19:36.052Z,60.3428,-151.594,70.3,0.9,ml,,,,0.61,ak,ak0226rbusuj,2022-05-27T13:31:49.402Z,"16 km W of Cohoe, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-27T13:19:07.264Z,37.987,-118.666,0,1,ml,8,227.78,0.293,0.1306,nn,nn00839829,2022-05-27T13:23:16.968Z,"California-Nevada border region",earthquake,,996.8,0.25,5,automatic,nn,nn
 2022-05-27T13:13:22.710Z,33.6061667,-116.7223333,11.82,0.14,ml,18,66,0.04254,0.19,ci,ci40028199,2022-05-27T13:17:11.625Z,"7km NW of Anza, CA",earthquake,0.51,0.81,0.095,5,automatic,ci,ci
-2022-05-27T13:10:41.050Z,38.8154984,-122.8208313,2.47,0.85,md,10,101,0.009293,0.01,nc,nc73738626,2022-05-27T13:19:11.339Z,"7km NW of The Geysers, CA",earthquake,0.42,1.07,,1,automatic,nc,nc
-2022-05-27T13:09:50.540Z,38.8143349,-122.8201675,2.84,2.01,md,45,51,0.008908,0.05,nc,nc73738631,2022-05-27T13:19:11.474Z,"7km NW of The Geysers, CA",earthquake,0.19,0.26,0.2,10,automatic,nc,nc
+2022-05-27T13:10:41.050Z,38.8154984,-122.8208313,2.47,0.85,md,10,101,0.009293,0.01,nc,nc73738626,2022-05-27T13:57:14.528Z,"7km NW of The Geysers, CA",earthquake,0.42,1.07,,1,automatic,nc,nc
+2022-05-27T13:09:50.540Z,38.8143349,-122.8201675,2.84,2.01,md,45,51,0.008908,0.05,nc,nc73738631,2022-05-27T13:57:15.528Z,"7km NW of The Geysers, CA",earthquake,0.19,0.26,0.2,10,automatic,nc,nc
 2022-05-27T13:09:32.578Z,60.1124,-149.234,24.3,1.5,ml,,,,0.4,ak,ak0226rbsnex,2022-05-27T13:22:27.877Z,"10 km ESE of Bear Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-27T13:07:58.580Z,38.8144989,-122.8205032,2.75,0.25,md,11,107,0.008806,0.01,nc,nc73738621,2022-05-27T13:45:12.461Z,"7km NW of The Geysers, CA",earthquake,0.41,0.99,0.11,2,automatic,nc,nc
 2022-05-27T13:07:21.910Z,36.0996667,-117.8485,2.28,1.35,ml,14,72,0.0186,0.11,ci,ci40028191,2022-05-27T13:11:23.596Z,"11km NE of Coso Junction, CA",earthquake,0.24,0.2,0.177,20,automatic,ci,ci
