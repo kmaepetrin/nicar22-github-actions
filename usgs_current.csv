@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-28T23:38:58.610Z,19.1508331298828,-155.363006591797,28.3299999237061,1.74000001,md,30,222,,0.119999997,hv,hv73026252,2022-05-28T23:42:13.680Z,"13 km ESE of Pāhala, Hawaii",earthquake,1,1.13,0.870000005,3,automatic,hv,hv
 2022-05-28T23:35:10.700Z,19.1509990692139,-155.452499389648,32.2900009155273,1.74000001,md,34,173,,0.129999995,hv,hv73026242,2022-05-28T23:38:19.700Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.63,0.99000001,1.74000001,4,automatic,hv,hv
+2022-05-28T23:33:48.755Z,-31.4479,-179.5674,181.56,4.5,mb,,136,2.602,1.21,us,us7000hdcj,2022-05-28T23:49:17.040Z,"Kermadec Islands region",earthquake,13.2,12.9,0.124,19,reviewed,us,us
 2022-05-28T23:24:07.065Z,63.6219,-150.7678,4.4,2.8,ml,,,,0.97,ak,ak0226t5dhno,2022-05-28T23:27:23.490Z,"48 km E of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-28T23:08:22.867Z,64.9877,-147.4757,0,1.6,ml,,,,0.9,ak,ak0226t5a3hq,2022-05-28T23:25:18.635Z,"7 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-28T23:01:27.850Z,34.434,-119.4525,7.42,1.8,ml,10,155,0.1127,0.28,ci,ci40029583,2022-05-28T23:04:58.529Z,"7km ENE of Carpinteria, CA",earthquake,1,3.13,0.39,8,automatic,ci,ci
