@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T15:04:32.560Z,17.9536666666667,-66.847,12.01,1.95,md,7,253,,0.08,pr,pr71351178,2022-05-28T15:25:45.760Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,0.68,0.48,0.0249630196369686,3,reviewed,pr,pr
 2022-05-28T14:48:58.110Z,17.9766666666667,-66.9553333333333,9.96,1.7,md,6,171,,0.04,pr,pr71351173,2022-05-28T15:00:46.410Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.46,0.7,0.0934734617506709,4,reviewed,pr,pr
 2022-05-28T14:27:19.340Z,38.7936668,-122.7419968,-0.14,1.62,md,9,91,0.04403,0.05,nc,nc73738951,2022-05-28T15:00:15.391Z,"2km NE of The Geysers, CA",earthquake,0.26,0.77,0.11,10,automatic,nc,nc
-2022-05-28T14:19:04.629Z,23.4224,-45.0006,10,5.2,mb,,94,16.677,0.92,us,us7000hdaa,2022-05-28T14:37:18.040Z,"northern Mid-Atlantic Ridge",earthquake,7.2,1.9,0.044,167,reviewed,us,us
+2022-05-28T14:19:05.112Z,23.4466,-45.0394,10,5.7,mww,,68,16.653,1,us,us7000hdaa,2022-05-28T21:55:14.258Z,"northern Mid-Atlantic Ridge",earthquake,10.7,1.8,0.047,43,reviewed,us,us
 2022-05-28T14:15:31.028Z,60.7016,-149.3493,28.9,1.4,ml,,,,0.47,ak,ak0226szypou,2022-05-28T14:17:09.705Z,"20 km SSE of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-28T14:11:12.461Z,-12.2115,167.0339,209.09,5.6,mww,,54,3.22,0.82,us,us7000hda6,2022-05-28T21:14:26.336Z,"192 km NNW of Sola, Vanuatu",earthquake,9.6,4.8,0.044,50,reviewed,us,us
 2022-05-28T13:52:50.710Z,19.1461658477783,-155.476669311523,30.1299991607666,2.1099999,md,24,168,,0.119999997,hv,hv73025817,2022-05-28T13:56:00.550Z,"6 km S of Pāhala, Hawaii",earthquake,0.89,1.05999994,1.97000003,10,automatic,hv,hv
