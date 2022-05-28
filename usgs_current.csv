@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T22:21:13.640Z,-6.4738,103.5059,35,4.3,mb,,161,2.169,0.7,us,us7000hd6s,2022-05-27T23:07:22.040Z,"226 km WSW of Bandar Lampung, Indonesia",earthquake,4,2,0.143,14,reviewed,us,us
 2022-05-27T22:17:31.738Z,60.1287,-140.4604,0,1.3,ml,,,,0.87,ak,ak0226rh79it,2022-05-27T22:19:32.937Z,"76 km NNW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-27T22:10:34.290Z,17.982,-66.832,12.44,2.22,md,6,251,,0.09,pr,pr71351053,2022-05-27T22:44:20.640Z,"1 km SW of Indios, Puerto Rico",earthquake,0.82,0.44,0.0509190479767145,5,reviewed,pr,pr
-2022-05-27T21:49:36.362Z,35.07973862,-95.52883911,1.143350005,2.03,ml,16,102.9140167,0.1315017343,0.4134874821,ok,ok2022kikq,2022-05-28T00:14:31.395Z,"13 km ESE of Crowder, Oklahoma",earthquake,3.631484398,2.68494107,,13,automatic,ok,ok
