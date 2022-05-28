@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-28T22:41:00.112Z,56.7225,-156.504,0,2.1,ml,,,,1.14,ak,ak0226t4vorf,2022-05-28T22:51:08.027Z,"103 km SSE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-28T22:40:51.511Z,60.8861,-151.0312,24.6,1,ml,,,,0.54,ak,ak0226t4vl0j,2022-05-28T22:50:09.911Z,"19 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-28T22:41:00.294Z,56.7307,-156.4748,0,2.1,ml,,,,1.11,ak,ak0226t4vorf,2022-05-28T22:53:15.519Z,"103 km SSE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-28T22:40:51.511Z,60.8861,-151.0312,24.6,1,ml,,,,0.54,ak,ak0226t4vl0j,2022-05-28T22:52:29.667Z,"19 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-28T22:39:04.710Z,19.3726673126221,-155.033660888672,1.19000005722046,1.72,ml,26,185,,0.170000002,hv,hv73026212,2022-05-28T22:44:36.050Z,"14 km SE of Fern Forest, Hawaii",earthquake,0.58,0.419999987,3.56,6,automatic,hv,hv
 2022-05-28T22:32:43.260Z,36.1005,-117.7978333,9.27,0.72,ml,8,113,0.04922,0.09,ci,ci40029559,2022-05-28T22:36:16.664Z,"15km ENE of Coso Junction, CA",earthquake,0.26,0.5,0.092,4,automatic,ci,ci
 2022-05-28T22:00:51.959Z,59.7648,-153.057,92.3,0.2,ml,,,,0.22,ak,ak0226t4n0ej,2022-05-28T22:07:33.336Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
