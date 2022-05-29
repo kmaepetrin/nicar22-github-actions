@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-29T21:39:58.066Z,35.09483337,-95.51418304,5,2.51,ml,27,90.93688583,0.1131912991,0.8202899714,ok,ok2022kmbi,2022-05-29T21:41:33.083Z,"13 km WSW of Quinton, Oklahoma",earthquake,3.089783197,,,6,automatic,ok,ok
 2022-05-29T21:20:32.026Z,61.4877,-146.5282,36.5,1.4,ml,,,,0.72,ak,ak0226urp627,2022-05-29T21:31:57.589Z,"40 km NNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-29T21:13:23.768Z,3.9881,126.7947,35.02,4.9,mb,,103,3.245,0.62,us,us7000hdhk,2022-05-29T21:29:03.040Z,"215 km SE of Sarangani, Philippines",earthquake,9.2,7.1,0.083,45,reviewed,us,us
 2022-05-29T21:03:47.919Z,58.8347,-134.0829,0,3,ml,,,,1.14,ak,ak0226urlk4n,2022-05-29T21:07:15.988Z,"62 km NNE of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
