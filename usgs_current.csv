@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T19:19:05.400Z,61.7356,-148.1629,16.6,0.8,ml,,,,0.71,ak,ak0226we1dla,2022-05-30T19:21:59.916Z,"17 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-30T19:19:05.400Z,61.7356,-148.1629,16.6,0.8,ml,,,,0.71,ak,ak0226we1dla,2022-05-30T19:23:59.333Z,"17 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-30T18:45:48.036Z,36.7724,-116.2723,5.1,0.4,ml,15,68.53,0.057,0.1217,nn,nn00839946,2022-05-30T19:18:27.475Z,"45 km ESE of Beatty, Nevada",earthquake,,1.7,0.96,6,reviewed,nn,nn
-2022-05-30T18:44:13.910Z,37.3768349,-118.689003,11.72,2.37,md,26,54,0.1029,0.06,nc,nc73739391,2022-05-30T18:50:12.334Z,"9km WSW of Round Valley, CA",earthquake,0.27,1.15,0.2,27,automatic,nc,nc
+2022-05-30T18:44:13.910Z,37.3768349,-118.689003,11.72,2.37,md,26,54,0.1029,0.06,nc,nc73739391,2022-05-30T19:29:10.568Z,"9km WSW of Round Valley, CA",earthquake,0.27,1.15,0.2,27,automatic,nc,nc
 2022-05-30T18:39:38.613Z,58.6272,-153.7218,88.8,2.7,ml,,,,0.42,ak,ak0226wdkav9,2022-05-30T18:52:50.854Z,"79 km NW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-05-30T18:39:24.447Z,60.06,-153.3698,120.1,2.6,ml,,,,0.87,ak,ak0226wdk9og,2022-05-30T19:00:54.040Z,"51 km NE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-30T18:39:24.447Z,60.06,-153.3698,120.1,2.6,ml,,,,0.87,ak,ak0226wdk9og,2022-05-30T19:23:39.094Z,"51 km NE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T18:32:21.380Z,17.4096666666667,-67.7366666666667,30.69,2.98,md,12,253,,0.19,pr,pr71351523,2022-05-30T19:04:12.120Z,"85 km SW of Pole Ojea, Puerto Rico",earthquake,1.11,9.67,0.0761327771862779,8,reviewed,pr,pr
 2022-05-30T17:44:18.560Z,33.6761667,-116.7308333,16.53,0.79,ml,27,44,0.03757,0.19,ci,ci40030575,2022-05-30T17:48:00.027Z,"7km S of Idyllwild, CA",earthquake,0.38,0.57,0.127,16,automatic,ci,ci
 2022-05-30T17:21:11.628Z,19.3096,-67.882,10,2.7,ml,,213,0.921,1.23,us,us7000hdmt,2022-05-30T18:17:16.040Z,"97 km NE of Punta Cana, Dominican Republic",earthquake,5.1,2,0.061,35,reviewed,us,us
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T03:07:31.810Z,34.0685,-117.8366667,0.8,1.4,ml,8,144,0.1116,0.16,ci,ci40030223,2022-05-30T03:11:17.751Z,"4km SSE of Charter Oak, CA",earthquake,0.59,31.61,0.311,11,automatic,ci,ci
 2022-05-30T03:00:23.656Z,61.5856,-149.7568,50.1,0.9,ml,,,,0.38,ak,ak0226w4eepp,2022-05-30T03:12:04.684Z,"5 km SSE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-30T02:06:11.780Z,17.888,-66.8593333333333,12.87,2.05,md,8,238,,0.11,pr,pr71351383,2022-05-30T03:22:00.010Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.71,0.57,0.0629691271306946,8,reviewed,pr,pr
-2022-05-30T02:03:55.940Z,37.8886667,-78.0351667,5.46,2.3,md,10,95,0.1446,0.27,se,se60151743,2022-05-30T15:29:58.152Z,"15 km S of Louisa, Virginia",earthquake,0.78,1.96,0.071,10,reviewed,se,se
+2022-05-30T02:03:55.940Z,37.8886667,-78.0351667,5.46,2.3,md,10,95,0.1446,0.27,se,se60151743,2022-05-30T19:24:59.069Z,"15 km S of Louisa, Virginia",earthquake,0.78,1.96,0.071,10,reviewed,se,se
 2022-05-30T01:51:25.170Z,33.2518333,-116.2383333,7.49,0.84,ml,24,76,0.1254,0.24,ci,ci40030199,2022-05-30T01:54:58.242Z,"13km E of Borrego Springs, CA",earthquake,0.59,1.17,0.083,16,automatic,ci,ci
 2022-05-30T01:47:19.075Z,62.3447,-149.3997,52.9,2,ml,,,,0.24,ak,ak0226w3hlsv,2022-05-30T16:40:24.010Z,"31 km NE of Susitna North, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-05-30T01:33:46.107Z,59.7945,-152.2967,63.5,1,ml,,,,0.91,ak,ak0226w3env6,2022-05-30T01:50:00.205Z,"26 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
