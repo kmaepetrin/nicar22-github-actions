@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T11:47:34.232Z,66.2909,-157.4531,0,1.6,ml,,,,0.92,ak,ak0226w9fz17,2022-05-30T11:50:26.902Z,"68 km SSW of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-30T11:47:34.232Z,66.2909,-157.4531,0,1.6,ml,,,,0.92,ak,ak0226w9fz17,2022-05-30T11:52:33.987Z,"68 km SSW of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T11:44:56.120Z,19.1481666564941,-155.474838256836,32.9099998474121,1.77,ml,46,161,,0.100000001,hv,hv73027942,2022-05-30T11:50:26.410Z,"6 km S of Pāhala, Hawaii",earthquake,0.48,0.800000012,5.12,3,automatic,hv,hv
 2022-05-30T11:36:09.180Z,33.3443333,-116.3263333,13.57,0.7,ml,17,153,0.0228,0.21,ci,ci40030431,2022-05-30T11:39:50.482Z,"11km NNE of Borrego Springs, CA",earthquake,0.39,0.71,0.118,10,automatic,ci,ci
 2022-05-30T11:34:54.420Z,33.3535,-116.3561667,11.23,1.46,ml,58,34,0.03996,0.19,ci,ci40030423,2022-05-30T11:46:09.290Z,"11km N of Borrego Springs, CA",earthquake,0.22,0.55,0.153,26,automatic,ci,ci
