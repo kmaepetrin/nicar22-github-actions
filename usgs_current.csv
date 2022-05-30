@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T22:20:25.495Z,59.9378,-152.5432,83.9,2.1,ml,,,,0.58,ak,ak0226wftxnn,2022-05-30T22:23:42.395Z,"43 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-30T22:20:25.495Z,59.9378,-152.5432,83.9,2.1,ml,,,,0.58,ak,ak0226wftxnn,2022-05-30T22:38:43.040Z,"43 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-30T22:11:19.200Z,33.1681667,-116.4481667,10.33,0.76,ml,15,94,0.1031,0.22,ci,ci40030639,2022-05-30T22:14:50.118Z,"12km SW of Borrego Springs, CA",earthquake,0.58,1.01,0.1,9,automatic,ci,ci
 2022-05-30T22:08:17.568Z,38.0511,-118.0135,3.5,0.6,ml,8,241.66,0.098,0.1451,nn,nn00839950,2022-05-30T22:12:23.983Z,"38 km SSE of Mina, Nevada",earthquake,,1.4,0.17,3,automatic,nn,nn
 2022-05-30T22:08:00.320Z,33.9868333,-116.8231667,22.32,0.93,ml,19,83,0.1544,0.35,ci,ci40030631,2022-05-30T22:11:39.608Z,"8km NNW of Cabazon, CA",earthquake,1.1,1.93,0.41,16,automatic,ci,ci
@@ -80,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T11:12:03.670Z,35.5525,-117.415,10.57,1.32,ml,16,140,0.0495,0.22,ci,ci40030415,2022-05-30T11:15:33.942Z,"24km S of Trona, CA",earthquake,0.72,0.62,0.151,16,automatic,ci,ci
 2022-05-30T11:08:37.920Z,34.1761667,-116.7366667,-0.58,1.76,ml,58,39,0.1525,0.19,ci,ci40030407,2022-05-30T11:19:28.690Z,"14km SE of Big Bear City, CA",earthquake,0.2,0.46,0.185,26,automatic,ci,ci
 2022-05-30T11:08:12.860Z,18.0015,-66.9091666666667,19.04,1.61,md,5,125,,0.49,pr,pr71351448,2022-05-30T11:33:03.020Z,"1 km NNE of Fuig, Puerto Rico",earthquake,3.68,3.02,0.0985931806496001,3,reviewed,pr,pr
+2022-05-30T11:07:36.160Z,46.20066666666666,-122.18616666666667,2.27,0.9,ml,18,73,0.003376,0.11,uw,uw61837162,2022-05-30T22:33:30.270Z,"38 km NNE of Amboy, Washington",earthquake,0.44,0.32,0.13684328774481969,11,reviewed,uw,uw
 2022-05-30T10:59:26.519Z,58.1135,-153.2374,61.4,1.3,ml,,,,0.36,ak,ak0226w8x3ez,2022-05-30T11:11:06.563Z,"20 km WNW of Aleneva, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-05-30T10:58:43.314Z,59.8307,-147.7966,40.6,2,ml,,,,0.93,ak,ak0226w8wx6o,2022-05-30T11:10:42.451Z,"28 km SSE of Chenega, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-30T10:51:07.330Z,36.5463333,-121.168663,4.98,1.3,md,9,96,0.02868,0.33,nc,nc73739361,2022-05-30T11:50:11.644Z,"3km NW of Pinnacles, CA",earthquake,1.26,2.61,0.1,5,automatic,nc,nc
@@ -164,5 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T22:58:25.350Z,40.8323326,-123.2910004,24.8,2.87,md,19,93,0.1806,0.23,nc,nc73739276,2022-05-30T07:40:55.062Z,"31km ESE of Willow Creek, CA",earthquake,0.83,2.41,0.19,17,automatic,nc,nc
 2022-05-29T22:52:48.560Z,33.0283333,-116.4435,10.16,0.96,ml,18,103,0.1388,0.22,ci,ci40030111,2022-05-29T22:56:27.111Z,"16km ESE of Julian, CA",earthquake,0.53,1.06,0.088,19,automatic,ci,ci
 2022-05-29T22:50:16.990Z,34.2335,-117.4913333,8.93,1.32,ml,33,69,0.06684,0.21,ci,ci40030103,2022-05-29T23:01:13.570Z,"3km SSE of Lytle Creek, CA",earthquake,0.32,0.77,0.18,30,automatic,ci,ci
-2022-05-29T22:38:44.660Z,36.6633339,-121.2923355,3.06,1.31,md,6,180,0.04963,0.07,nc,nc73739271,2022-05-30T01:03:21.795Z,"14km S of Tres Pinos, CA",earthquake,0.72,1.62,0.14,6,automatic,nc,nc
-2022-05-29T22:37:47.560Z,33.5168333,-116.5511667,10.61,0.61,ml,16,107,0.04392,0.24,ci,ci40030095,2022-05-29T22:41:26.219Z,"12km ESE of Anza, CA",earthquake,0.58,0.82,0.264,11,automatic,ci,ci
