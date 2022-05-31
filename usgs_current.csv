@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-31T14:45:01.739Z,60.9881,-144.9331,0,1,ml,,,,1.56,ak,ak0226xyr4gk,2022-05-31T14:49:36.825Z,"64 km SSW of Chitina, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-31T14:41:37.000Z,51.162,-178.4319,7,5,Ml,34,212.39998300800136,0.6503803,1.2,at,at00rcr4td,2022-05-31T14:47:28.594Z,"147 km WSW of Adak, Alaska",earthquake,0,0,,20,reviewed,at,at
+2022-05-31T14:48:00.070Z,19.3955001831055,-155.504333496094,41.6100006103516,1.82,ml,34,52,,0.200000003,hv,hv73029347,2022-05-31T14:53:30.460Z,"21 km N of Pāhala, Hawaii",earthquake,0.57,0.800000012,4.29,7,automatic,hv,hv
+2022-05-31T14:45:01.739Z,60.9881,-144.9331,0,1,ml,,,,1.56,ak,ak0226xyr4gk,2022-05-31T14:54:54.748Z,"64 km SSW of Chitina, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-31T14:41:37.000Z,51.162,-178.4319,7,5,Ml,34,212.39998300800136,0.6503803,1.2,at,at00rcr4td,2022-05-31T14:56:55.941Z,"147 km WSW of Adak, Alaska",earthquake,0,0,,20,reviewed,at,at
 2022-05-31T14:40:31.539Z,38.15,-118.0553,16,0.7,ml,8,125.71,0.283,0.1801,nn,nn00839985,2022-05-31T14:44:26.299Z,"27 km S of Mina, Nevada",earthquake,,2.1,0.31,4,automatic,nn,nn
 2022-05-31T14:30:54.930Z,19.1506671905518,-155.500671386719,33.2999992370605,1.89999998,md,40,135,,0.119999997,hv,hv73029332,2022-05-31T14:36:12.980Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.62,1.01999998,0.589999974,9,automatic,hv,hv
 2022-05-31T14:11:08.220Z,33.9426667,-117.2315,13.22,0.97,ml,28,118,0.08371,0.37,ci,ci40030935,2022-05-31T14:15:00.979Z,"2km N of Moreno Valley, CA",earthquake,0.9,1.78,0.203,28,automatic,ci,ci
@@ -131,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T21:02:07.625Z,61.8535,-151.9372,110.8,1.4,ml,,,,0.39,ak,ak0226wf4lsr,2022-05-30T21:14:20.811Z,"32 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-30T20:56:49.910Z,34.1793333,-116.7363333,-0.47,1.8,ml,44,49,0.1556,0.22,ci,ci40030607,2022-05-30T21:00:46.494Z,"14km SE of Big Bear City, CA",earthquake,0.27,31.61,0.201,28,automatic,ci,ci
 2022-05-30T20:51:55.410Z,19.1770000457764,-155.486328125,28.9400005340576,1.79999995,md,32,142,,0.109999999,hv,hv73028347,2022-05-30T20:55:07.030Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.76,1.09000003,0.0199999996,5,automatic,hv,hv
+2022-05-30T20:44:18.429Z,35.083,-95.51033333,7.32,1.76,ml,48,98,0.1232758091,0.24,ok,ok2022knva,2022-05-31T14:57:18.733Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.6,0.21,11,reviewed,ok,ok
 2022-05-30T20:44:02.250Z,38.8279991,-122.8051682,2.1,1.43,md,8,124,0.02144,0.06,nc,nc73739401,2022-05-30T21:17:16.190Z,"7km NW of The Geysers, CA",earthquake,0.38,0.79,0.07,8,automatic,nc,nc
 2022-05-30T20:41:36.573Z,-31.0777,-66.3385,137.47,4.5,mb,,156,2.061,0.37,us,us7000hdnn,2022-05-30T21:21:48.040Z,"79 km S of Chamical, Argentina",earthquake,7.9,8.9,0.11,27,reviewed,us,us
 2022-05-30T20:30:58.920Z,47.542,-113.8698333,16.36,0.35,md,13,90,0.093,0.12,mb,mb80547449,2022-05-30T22:25:52.110Z,"12 km W of Condon, Montana",earthquake,0.46,0.39,0.178,7,reviewed,mb,mb
