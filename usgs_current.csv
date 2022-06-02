@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-02T09:48:22.200Z,33.0803333,-115.6045,7.96,1.9,ml,26,66,0.04552,0.22,ci,ci40032295,2022-06-02T09:52:09.924Z,"5km NNE of Westmorland, CA",earthquake,0.35,0.67,0.151,28,automatic,ci,ci
+2022-06-02T09:47:22.130Z,33.0895,-115.585,10.87,1.23,ml,14,113,0.03179,0.21,ci,ci40032287,2022-06-02T09:51:00.106Z,"7km NNE of Westmorland, CA",earthquake,0.51,0.8,0.303,17,automatic,ci,ci
 2022-06-02T09:29:57.149Z,60.2061,-152.4413,99.6,1.2,ml,,,,0.3,ak,ak022716rc6a,2022-06-02T09:32:40.600Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-02T09:26:31.230Z,33.0633333,-116.5045,14.44,0.71,ml,16,79,0.08009,0.22,ci,ci40032279,2022-06-02T09:30:05.427Z,"9km E of Julian, CA",earthquake,0.56,1.04,0.13,9,automatic,ci,ci
 2022-06-02T09:20:00.632Z,40.0119,-119.6971,5.5,1.5,ml,14,285.24,0.385,0.224,nn,nn00840145,2022-06-02T09:23:29.069Z,"10 km NW of Sutcliffe, Nevada",earthquake,,2,0.41,12,automatic,nn,nn
