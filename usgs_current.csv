@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T16:05:12.003Z,35.9934,27.5996,25.98,4.9,mb,,59,0.476,0.96,us,us7000hepi,2022-06-03T23:41:38.760Z,"34 km SW of Émponas, Greece",earthquake,4,2.6,0.037,229,reviewed,us,us
 2022-06-03T15:59:06.619Z,61.6282,-150.174,24,2.2,ml,,,,0.63,ak,ak02272y1lxb,2022-06-03T16:46:43.040Z,"15 km SSW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-03T15:56:29.090Z,33.3931667,-116.9615,14.6,0.83,ml,31,36,0.05897,0.17,ci,ci40033247,2022-06-03T20:49:21.244Z,"10km WNW of Palomar Observatory, CA",earthquake,0.2,0.5,0.102,15,reviewed,ci,ci
-2022-06-03T15:37:26.020Z,38.2776667,-119.3066667,11.41,2.17,md,27,88,0.1268,0.18,nc,nc73740316,2022-06-03T23:36:10.356Z,"7km WNW of Bridgeport, CA",earthquake,0.34,1.56,0.266,26,reviewed,nc,nc
+2022-06-03T15:37:26.020Z,38.2776667,-119.3066667,11.41,2.17,md,27,88,0.1268,0.18,nc,nc73740316,2022-06-03T23:52:16.446Z,"7km WNW of Bridgeport, CA",earthquake,0.34,1.56,0.266,26,reviewed,nc,nc
 2022-06-03T15:25:59.390Z,35.6913333,-117.472,2.4,0.61,ml,15,96,0.1049,0.15,ci,ci40033223,2022-06-03T20:27:14.133Z,"10km SW of Searles Valley, CA",earthquake,0.41,0.7,0.065,6,reviewed,ci,ci
 2022-06-03T15:24:24.750Z,35.682,-117.4821667,7.5,1.42,ml,28,86,0.09667,0.14,ci,ci40033215,2022-06-03T20:21:48.850Z,"12km SW of Searles Valley, CA",earthquake,0.17,0.69,0.104,16,reviewed,ci,ci
 2022-06-03T15:20:26.603Z,-21.2196,-70.1371,73.64,4.5,mb,,150,0.246,0.78,us,us7000hepb,2022-06-03T19:43:35.011Z,"96 km N of Tocopilla, Chile",earthquake,4.1,4.9,0.131,19,reviewed,us,us
@@ -218,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T00:12:12.610Z,37.5551667,-118.8286667,6.1,0.65,md,10,299,0.0348,0.02,nc,nc73740156,2022-06-03T23:19:16.256Z,"13km W of Toms Place, CA",earthquake,1.68,2.06,0.132,9,reviewed,nc,nc
 2022-06-03T00:09:46.254Z,38.187,-117.7799,3.6,1.3,ml,12,203.05,0.124,0.0671,nn,nn00840209,2022-06-03T00:13:48.077Z,"36 km SE of Mina, Nevada",earthquake,,1.9,0.17,7,automatic,nn,nn
 2022-06-02T23:57:45.790Z,33.3401667,-115.7896667,2.95,1.68,ml,39,72,0.05587,0.13,ci,ci40032823,2022-06-03T17:54:47.890Z,"5km WSW of Bombay Beach, CA",earthquake,0.22,0.57,0.159,24,reviewed,ci,ci
-2022-06-02T23:54:39.706Z,64.5618,-149.5056,1.4,1.2,ml,,,,0.97,ak,ak02271f8q76,2022-06-03T00:28:35.900Z,"19 km WSW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-02T23:51:35.444Z,38.1819,-117.8858,3.3,0.6,ml,12,177.12,0.072,0.1099,nn,nn00840207,2022-06-03T02:39:38.307Z,"30 km SE of Mina, Nevada",earthquake,,3.1,0.13,2,reviewed,nn,nn
