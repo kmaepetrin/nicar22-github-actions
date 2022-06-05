@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-05T11:45:53.451Z,61.5233,-150.0759,31.1,1.9,ml,,,,0.54,ak,ak022766no13,2022-06-05T11:53:04.725Z,"6 km W of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-05T11:54:41.096Z,60.7336,-151.1769,58.5,1.1,ml,,,,0.43,ak,ak022766pkj1,2022-06-05T11:59:16.453Z,"7 km NE of Nikiski, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2022-06-05T11:45:53.451Z,61.5233,-150.0759,31.1,1.9,ml,,,,0.54,ak,ak022766no13,2022-06-05T11:58:25.410Z,"6 km W of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-05T11:04:43.860Z,19.1821666666667,-68.0803333333333,78.88,3.43,md,12,249,,0.6,pr,pr71352498,2022-06-05T11:54:33.760Z,"74 km NNE of Punta Cana, Dominican Republic",earthquake,6.52,9.43,0.0676030187460541,7,reviewed,pr,pr
 2022-06-05T11:04:16.980Z,35.8616667,-117.659,12.19,0.62,ml,8,100,0.0678,0.12,ci,ci40034191,2022-06-05T11:07:49.333Z,"24km ESE of Little Lake, CA",earthquake,0.45,0.89,0.05,6,automatic,ci,ci
 2022-06-05T10:56:55.726Z,31.64,-104.4263,4.23,2.5,ml,,96,0.069,0.26,us,us7000hf4t,2022-06-05T11:14:39.040Z,"59 km S of Whites City, New Mexico",earthquake,1.7,1.9,0.057,40,reviewed,us,us
 2022-06-05T10:52:50.270Z,19.1896667480469,-155.392166137695,32.2700004577637,1.99000001,md,42,164,,0.109999999,hv,hv73034492,2022-06-05T10:56:01.110Z,"9 km E of Pāhala, Hawaii",earthquake,0.6,0.879999995,1.58000004,18,automatic,hv,hv
 2022-06-05T10:46:20.065Z,-28.319,-176.6689,10,4.9,mb,,87,1.445,0.6,us,us7000hf4w,2022-06-05T11:11:12.040Z,"Kermadec Islands region",earthquake,9.4,1.9,0.083,46,reviewed,us,us
 2022-06-05T10:33:22.448Z,34.3712,141.7013,10,4.4,mb,,114,2.01,0.54,us,us7000hf4r,2022-06-05T10:55:46.040Z,"153 km SE of Katsuura, Japan",earthquake,4.1,1.9,0.102,28,reviewed,us,us
 2022-06-05T10:24:08.827Z,61.4742,-150.6693,57.8,0.9,ml,,,,0.56,ak,ak022765xmya,2022-06-05T10:26:33.276Z,"11 km SW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-06-05T10:15:18.490Z,37.5458333,-118.8615,3.1,0.01,md,8,308,0.05108,0.01,nc,nc73740811,2022-06-05T11:25:15.122Z,"14km SE of Mammoth Lakes, CA",earthquake,3.81,2.25,0.07,6,reviewed,nc,nc
+2022-06-05T10:15:18.490Z,37.5458333,-118.8615,3.1,0.01,md,8,308,0.05108,0.01,nc,nc73740811,2022-06-05T11:58:13.320Z,"14km SE of Mammoth Lakes, CA",earthquake,3.81,2.25,0.07,6,reviewed,nc,nc
 2022-06-05T10:03:32.970Z,17.8308,-68.565,70,4.19,md,27,209,0.7073,0.31,pr,pr2022156001,2022-06-05T10:47:01.830Z,"60 km S of Boca de Yuma, Dominican Republic",earthquake,1.39,1.95,0.09,22,reviewed,pr,pr
 2022-06-05T09:34:09.090Z,33.8393333,-116.1895,8.86,0.83,ml,18,143,0.08693,0.28,ci,ci40034151,2022-06-05T09:44:44.555Z,"13km N of Indio, CA",earthquake,0.71,1.87,0.146,12,automatic,ci,ci
 2022-06-05T09:22:55.520Z,58.9423,-153.8019,11.7,2,ml,,,,0.61,ak,ak022765bvil,2022-06-05T09:34:21.450Z,"78 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
