@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-06T22:50:34.426Z,65.0459,-147.3781,14.4,1.5,ml,,,,0.99,ak,ak022780rtaq,2022-06-06T22:52:30.752Z,"14 km NE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-06T22:41:10.646Z,38.2432,-118.6626,0,1.2,ml,8,273.67,0.124,0.3726,nn,nn00840443,2022-06-06T22:45:21.815Z,"31 km S of Hawthorne, Nevada",earthquake,,12.4,0.25,6,automatic,nn,nn
+2022-06-06T22:26:45.430Z,36.0663333,-117.8483333,4.14,0.54,ml,9,144,0.05141,0.03,ci,ci40035103,2022-06-06T22:54:10.049Z,"9km ENE of Coso Junction, CA",earthquake,0.13,0.28,0.245,4,reviewed,ci,ci
 2022-06-06T22:24:42.980Z,19.2143325805664,-155.416000366211,33.5800018310547,2.81,ml,49,142,,0.129999995,hv,hv73036202,2022-06-06T22:30:14.350Z,"6 km E of Pāhala, Hawaii",earthquake,0.48,0.680000007,3.71,33,automatic,hv,hv
 2022-06-06T22:22:20.940Z,33.2431667,-116.6363333,10.55,0.44,ml,17,85,0.04484,0.15,ci,ci40035095,2022-06-06T22:25:55.932Z,"4km S of Warner Springs, CA",earthquake,0.36,0.56,0.161,9,automatic,ci,ci
 2022-06-06T22:10:51.796Z,37.3768,-117.1373,2.5,1.5,ml,18,134.42,0.124,0.2985,nn,nn00840436,2022-06-06T22:14:38.038Z,"37 km SSE of Goldfield, Nevada",earthquake,,1.9,0.85,13,automatic,nn,nn
