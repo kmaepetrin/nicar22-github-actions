@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-07T21:08:33.500Z,36.4355011,-120.4871674,6.32,1.6,md,8,125,0.2748,0.12,nc,nc73741201,2022-06-07T21:10:19.440Z,"17km E of New Idria, CA",earthquake,0.82,1.36,0.25,4,automatic,nc,nc
+2022-06-07T21:21:19.200Z,36.0751667,-117.8746667,0.73,0.95,ml,9,189,0.04526,0.19,ci,ci40035735,2022-06-07T21:24:47.896Z,"7km ENE of Coso Junction, CA",earthquake,0.95,0.58,0.081,6,automatic,ci,ci
+2022-06-07T21:08:33.500Z,36.4355011,-120.4871674,6.32,1.6,md,8,125,0.2748,0.12,nc,nc73741201,2022-06-07T21:19:10.866Z,"17km E of New Idria, CA",earthquake,0.82,1.36,0.25,4,automatic,nc,nc
 2022-06-07T21:04:47.312Z,60.4475,-149.1839,34.5,1.7,ml,,,,1.23,ak,ak02279nfw8r,2022-06-07T21:07:10.632Z,"10 km ENE of Crown Point, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2022-06-07T21:00:41.131Z,38.2653,-118.6112,0,1.1,ml,8,212.58,0.085,0.2586,nn,nn00840493,2022-06-07T21:04:45.228Z,"28 km S of Hawthorne, Nevada",earthquake,,3.3,0.32,6,automatic,nn,nn
-2022-06-07T20:58:42.780Z,33.0411667,-115.861,3.58,1.14,ml,18,78,0.08173,0.23,ci,ci40035727,2022-06-07T21:02:15.262Z,"22km W of Westmorland, CA",earthquake,0.46,0.92,0.152,18,automatic,ci,ci
+2022-06-07T20:58:42.850Z,33.0396667,-115.8696667,7.45,1.13,ml,33,56,0.08618,0.2,ci,ci40035727,2022-06-07T21:17:45.389Z,"23km W of Westmorland, CA",earthquake,0.25,0.72,0.113,13,reviewed,ci,ci
 2022-06-07T20:53:30.790Z,33.5071667,-116.4361667,6.01,1.12,ml,42,75,0.0184,0.14,ci,ci40035719,2022-06-07T21:07:02.360Z,"21km SW of La Quinta, CA",earthquake,0.15,0.35,0.136,25,reviewed,ci,ci
 2022-06-07T20:39:24.600Z,35.8643333,-117.701,5.85,0.61,ml,15,50,0.0761,0.08,ci,ci40035711,2022-06-07T21:08:25.496Z,"20km ESE of Little Lake, CA",earthquake,0.15,0.59,0.06,6,reviewed,ci,ci
 2022-06-07T20:37:27.564Z,6.6606,126.9224,68.04,5.1,mb,,93,1.394,0.69,us,us7000hfpp,2022-06-07T20:55:13.040Z,"67 km SE of Lukatan, Philippines",earthquake,5.8,6.8,0.043,177,reviewed,us,us
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T21:38:32.460Z,34.0251667,-117.454,-0.58,0.83,ml,21,83,0.005905,0.19,ci,ci40035079,2022-06-07T17:29:52.378Z,"3km ENE of Glen Avon, CA",quarry blast,0.41,31.61,0.121,9,reviewed,ci,ci
 2022-06-06T21:31:39.557Z,60.4103,-147.3881,19.8,2.1,ml,,,,0.67,ak,ak0227802bhf,2022-06-06T21:33:54.747Z,"51 km NE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-06T21:30:01.750Z,38.5945015,-122.7024994,1.85,2.06,md,21,57,0.09271,0.11,nc,nc73741046,2022-06-06T22:31:14.637Z,"10km NNE of Larkfield-Wikiup, CA",earthquake,0.28,4.13,0.11,23,automatic,nc,nc
-2022-06-06T21:23:49.945Z,43.5765,-28.9172,10,5.3,mww,,52,6.353,0.79,us,us7000hffl,2022-06-06T21:44:05.040Z,"northern Mid-Atlantic Ridge",earthquake,9.9,1.9,0.055,32,reviewed,us,us
