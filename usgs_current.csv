@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T08:19:44.043Z,53.0526,-166.4601,12.9,1.1,ml,,,,0.31,ak,ak02279fsh7h,2022-06-07T16:45:23.712Z,"91 km S of Unalaska, Alaska",earthquake,,64.4,,,reviewed,ak,ak
 2022-06-07T08:05:05.680Z,33.8733333,-116.8426667,14.6,1.7,ml,80,23,0.0547,0.15,ci,ci40035383,2022-06-07T16:30:41.560Z,"7km SSE of Banning, CA",earthquake,0.11,0.21,0.134,62,reviewed,ci,ci
 2022-06-07T07:52:00.615Z,38.5112,-119.5309,5.8,0.3,ml,6,194.66,0.073,0.0811,nn,nn00840508,2022-06-08T02:37:36.651Z,"4 km W of Walker, California",earthquake,,2,0.28,3,reviewed,nn,nn
-2022-06-07T07:46:42.340Z,45.62316666666667,-122.47883333333333,4.9,1.19,ml,17,191,0.01729,0.19,uw,uw61840192,2022-06-07T18:35:18.340Z,"2 km SSE of Mill Plain, Washington",earthquake,0.55,0.66,0.21458993202159615,8,reviewed,uw,uw
