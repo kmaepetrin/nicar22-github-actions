@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-08T22:48:21.530Z,35.5123329,-118.3863297,3.56,3.54,mlr,88,22,0.2021,0.2,ci,ci40036719,2022-06-08T22:50:43.632Z,"13km SE of Bodfish, CA",earthquake,0.17,0.86,0.228,16,automatic,ci,ci
 2022-06-08T22:28:41.310Z,19.2005004882812,-155.391494750977,32.4900016784668,1.89999998,md,43,162,,0.129999995,hv,hv73038492,2022-06-08T22:32:05.170Z,"9 km E of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.239999995,20,automatic,hv,hv
 2022-06-08T22:25:59.760Z,17.9455,-66.9566666666667,16.31,1.92,md,3,218,,0.04,pr,pr71353043,2022-06-08T22:33:56.490Z,"5 km WSW of Guánica, Puerto Rico",earthquake,2.47,0.93,0.0681294618740507,3,reviewed,pr,pr
 2022-06-08T22:21:41.730Z,19.4411659240723,-155.486663818359,6.94000005722046,1.74000001,md,25,68,,0.189999998,hv,hv73038487,2022-06-08T22:24:50.280Z,"26 km N of Pāhala, Hawaii",earthquake,0.48,0.709999979,0.870000005,8,automatic,hv,hv
@@ -210,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T05:00:41.810Z,38.4833,-117.9342,4.9,0.6,ml,13,169.32,0.181,0.0878,nn,nn00840553,2022-06-08T17:16:50.421Z,"18 km NE of Mina, Nevada",earthquake,,8.5,0.29,4,reviewed,nn,nn
 2022-06-08T04:55:12.840Z,38.8115005,-122.783165,2.41,2.37,md,50,38,0.002615,0.06,nc,nc73741376,2022-06-08T06:08:17.038Z,"4km NNW of The Geysers, CA",earthquake,0.16,0.24,0.17,30,automatic,nc,nc
 2022-06-08T04:39:19.564Z,8.5991,-71.3951,10,4.5,mb,,59,0.803,0.8,us,us7000hftl,2022-06-08T05:40:19.643Z,"17 km WNW of Ejido, Venezuela",earthquake,2.4,1.9,0.061,78,reviewed,us,us
-2022-06-08T04:38:06.030Z,37.4695,-121.7765,6.07,1.68,md,62,35,0.05016,0.07,nc,nc73741371,2022-06-08T20:12:14.035Z,"12km NNE of Alum Rock, CA",earthquake,0.12,0.33,0.173,46,reviewed,nc,nc
+2022-06-08T04:38:06.030Z,37.4695,-121.7765,6.07,1.68,md,62,35,0.05016,0.07,nc,nc73741371,2022-06-08T22:51:11.014Z,"12km NNE of Alum Rock, CA",earthquake,0.12,0.33,0.173,46,reviewed,nc,nc
 2022-06-08T04:32:36.910Z,47.65133333333333,-120.2595,5.4,0.32,md,6,120,0.02563,0.06,uw,uw61840517,2022-06-08T19:13:18.660Z,"4 km SW of Entiat, Washington",earthquake,0.35,0.45,0.34636946895234644,5,reviewed,uw,uw
 2022-06-08T04:22:41.627Z,63.1872,-144.4344,6.9,0.7,ml,,,,0.5,ak,ak0227b0ypwi,2022-06-08T04:24:26.758Z,"44 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T04:12:48.090Z,34.3186667,-116.8413333,5.89,1.1,ml,39,49,0.03145,0.13,ci,ci40035975,2022-06-08T16:14:06.394Z,"6km N of Big Bear City, CA",earthquake,0.16,0.33,0.086,22,reviewed,ci,ci
