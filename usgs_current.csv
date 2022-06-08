@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-08T11:45:50.960Z,35.9138333,-117.7115,1.68,0.66,ml,10,61,0.09175,0.11,ci,ci40036279,2022-06-08T11:49:24.452Z,"18km E of Little Lake, CA",earthquake,0.3,0.46,0.163,6,automatic,ci,ci
 2022-06-08T11:37:19.793Z,64.7823,-149.1878,0,1.8,ml,,,,0.97,ak,ak0227b57x6z,2022-06-08T11:39:58.790Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T11:30:54.389Z,58.2776,-150.8767,46.4,1.8,ml,,,,1.04,ak,ak0227b56hum,2022-06-08T11:33:28.926Z,"103 km ENE of Ouzinkie, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2022-06-08T11:23:09.970Z,35.8893333,-117.737,9.69,0.36,ml,7,173,0.08878,0.1,ci,ci40036271,2022-06-08T11:26:45.508Z,"16km ESE of Little Lake, CA",earthquake,1.06,1.76,0.052,2,automatic,ci,ci
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T10:05:28.710Z,17.9738333333333,-66.9806666666667,7.82,2.16,md,6,175,,0.06,pr,pr71352938,2022-06-08T10:23:03.490Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.57,0.42,0.0871594226210097,4,reviewed,pr,pr
 2022-06-08T10:04:35.200Z,19.2011661529541,-155.389663696289,31.5499992370605,2.29,ml,37,169,,0.140000001,hv,hv73037987,2022-06-08T10:10:05.450Z,"9 km E of Pāhala, Hawaii",earthquake,0.52,0.649999976,0.61,5,automatic,hv,hv
 2022-06-08T10:04:23.480Z,19.2490005493164,-155.398834228516,31.8400001525879,2.13,ml,15,175,,0.100000001,hv,hv73037982,2022-06-08T10:09:53.810Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.06,1.53999996,0.81,3,automatic,hv,hv
-2022-06-08T10:01:47.510Z,38.8373337,-122.8066635,2.32,0.51,md,17,55,0.01279,0.02,nc,nc73741446,2022-06-08T11:41:11.134Z,"7km WNW of Cobb, CA",earthquake,0.29,0.73,0.35,2,automatic,nc,nc
+2022-06-08T10:01:47.510Z,38.8373337,-122.8066635,2.32,0.51,md,17,55,0.01279,0.02,nc,nc73741446,2022-06-08T11:44:14.149Z,"7km WNW of Cobb, CA",earthquake,0.29,0.73,0.35,2,automatic,nc,nc
 2022-06-08T10:00:30.790Z,35.9203333,-117.7105,2.78,1.27,ml,16,65,0.08963,0.14,ci,ci40036159,2022-06-08T10:04:08.889Z,"18km E of Little Lake, CA",earthquake,0.22,0.37,0.154,16,automatic,ci,ci
 2022-06-08T10:00:15.940Z,35.9205,-117.7075,2.51,1.18,ml,16,65,0.0872,0.13,ci,ci40036151,2022-06-08T10:03:56.872Z,"18km E of Little Lake, CA",earthquake,0.2,0.35,0.148,16,automatic,ci,ci
 2022-06-08T09:55:07.700Z,34.3188333,-116.8426667,5.26,1.45,ml,37,47,0.03172,0.16,ci,ci40036143,2022-06-08T10:05:41.810Z,"6km N of Big Bear City, CA",earthquake,0.25,0.65,0.164,29,automatic,ci,ci
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T12:35:17.863Z,18.4869,145.6996,221.58,4.8,mb,,82,4.934,0.56,us,us7000hfjf,2022-06-07T12:57:42.040Z,"Pagan region, Northern Mariana Islands",earthquake,9.9,7.1,0.034,265,reviewed,us,us
 2022-06-07T12:27:49.631Z,39.3369,-119.9889,4.2,0.5,ml,6,144.68,0.058,0.1341,nn,nn00840513,2022-06-08T02:37:50.449Z,"6 km SSE of Floriston, California",earthquake,,4.1,0.02,2,reviewed,nn,nn
 2022-06-07T11:59:19.330Z,36.2668333,-120.4708333,6.41,1.07,md,23,132,0.1062,0.14,nc,nc73741146,2022-06-07T22:29:11.290Z,"17km NW of Coalinga, CA",earthquake,0.47,1.14,0.092,11,reviewed,nc,nc
-2022-06-07T11:46:52.919Z,59.5973,-152.9855,107.5,1.1,ml,,,,0.32,ak,ak02279hqknw,2022-06-07T11:48:57.975Z,"66 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-07T11:46:34.904Z,65.2986,-150.3298,0,1.2,ml,,,,0.99,ak,ak02279hqjb6,2022-06-07T11:48:37.024Z,"24 km SSW of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
