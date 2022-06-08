@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-08T10:42:11.010Z,19.1949996948242,-155.497833251953,34.4300003051758,2.03999996,md,43,78,,0.129999995,hv,hv73038017,2022-06-08T10:45:35.260Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.67,0.959999979,0.439999998,17,automatic,hv,hv
+2022-06-08T10:42:02.098Z,31.6539,-104.5171,5.23,3.7,mwr,,71,0.02,0.37,us,us7000hfvw,2022-06-08T10:57:57.735Z,"59 km SSW of Whites City, New Mexico",earthquake,2.1,1,0.073,18,reviewed,us,us
 2022-06-08T10:31:47.650Z,35.9175,-117.7071667,4.1,0.51,ml,8,108,0.08751,0.06,ci,ci40036207,2022-06-08T10:35:23.051Z,"18km E of Little Lake, CA",earthquake,0.25,0.74,0.116,4,automatic,ci,ci
 2022-06-08T10:21:13.950Z,34.3176667,-116.8418333,5.43,1.64,ml,49,29,0.03253,0.15,ci,ci40036199,2022-06-08T10:31:57.370Z,"6km N of Big Bear City, CA",earthquake,0.2,0.5,0.135,27,automatic,ci,ci
 2022-06-08T10:17:55.143Z,38.5097,-119.6023,1.7,0.8,ml,10,197.42,0.1,0.2305,nn,nn00840565,2022-06-08T10:21:01.177Z,"10 km SW of Coleville, California",earthquake,,3.4,0.15,5,automatic,nn,nn
