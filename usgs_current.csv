@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-09T19:22:57.347Z,61.9784,-151.9864,216.8,1.4,ml,,,,1.15,ak,ak0227cxflom,2022-06-09T19:25:20.317Z,"30 km W of Skwentna, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-06-09T19:19:06.600Z,33.4308333,-116.3685,15.43,0.86,ml,25,105,0.0842,0.24,ci,ci40037303,2022-06-09T19:22:43.990Z,"20km N of Borrego Springs, CA",earthquake,0.51,0.87,0.17,17,automatic,ci,ci
 2022-06-09T19:16:17.450Z,38.8165016,-122.8069992,1.7,0.64,md,17,48,0.00729,0.02,nc,nc73743381,2022-06-09T19:18:21.098Z,"6km NW of The Geysers, CA",earthquake,0.22,0.6,0.07,3,automatic,nc,nc
 2022-06-09T19:04:38.690Z,36.5864983,-121.4098358,1.63,1.12,md,8,135,0.01273,0.04,nc,nc73743376,2022-06-09T19:06:11.498Z,"9km NNE of Gonzales, CA",earthquake,0.73,0.21,0.11,6,automatic,nc,nc
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T19:41:52.650Z,34.1086667,-117.9291667,6.67,0.98,ml,13,142,0.0279,0.15,ci,ci40036599,2022-06-08T21:42:37.722Z,"1km ENE of Irwindale, CA",quarry blast,0.59,0.61,0.024,6,reviewed,ci,ci
 2022-06-08T19:37:29.300Z,17.923,-67.4286666666667,37.1,2.78,md,8,272,,0.28,pr,pr71353018,2022-06-08T19:51:50.670Z,"26 km WSW of Pole Ojea, Puerto Rico",earthquake,1.6,2.16,0.107555290697106,6,reviewed,pr,pr
 2022-06-08T19:30:25.180Z,31.60826545,-103.9943497,9.062280273,3.6,ml,18,63,0.089423629,0.2,tx,tx2022leec,2022-06-09T16:07:13.440Z,"37 km NNW of Toyah, Texas",earthquake,0.9513518688,1.7837870739999997,0.2,9,reviewed,tx,tx
-2022-06-08T19:26:51.990Z,36.4658318,-121.0094986,4.42,1.38,md,6,150,0.04047,0.07,nc,nc73741801,2022-06-08T22:27:17.860Z,"14km ESE of Pinnacles, CA",earthquake,0.59,1.39,0.12,7,automatic,nc,nc
