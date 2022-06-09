@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T10:01:28.260Z,35.9216667,-117.7073333,2.7,0.18,ml,10,74,0.08687,0.11,ci,ci37502285,2022-06-08T16:18:54.317Z,"18km E of Little Lake, CA",earthquake,0.25,0.36,0.404,3,reviewed,ci,ci
 2022-06-08T10:00:30.790Z,35.9203333,-117.7105,2.78,1.27,ml,16,65,0.08963,0.14,ci,ci40036159,2022-06-08T13:05:01.648Z,"18km E of Little Lake, CA",earthquake,0.22,0.37,0.154,16,reviewed,ci,ci
 2022-06-08T10:00:15.940Z,35.921,-117.7076667,4.68,1.2,ml,21,66,0.08725,0.09,ci,ci40036151,2022-06-08T18:12:18.270Z,"18km E of Little Lake, CA",earthquake,0.14,0.29,0.128,15,reviewed,ci,ci
-2022-06-08T09:55:07.700Z,34.3188333,-116.8426667,5.26,1.45,ml,37,47,0.03172,0.16,ci,ci40036143,2022-06-08T13:33:44.110Z,"6km N of Big Bear City, CA",earthquake,0.25,0.65,0.164,29,reviewed,ci,ci
