@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T22:08:14.460Z,17.9453333333333,-66.745,12.24,2.07,md,8,222,,0.18,pr,pr71353038,2022-06-08T22:19:43.500Z,"6 km SSW of Tallaboa, Puerto Rico",earthquake,0.83,1.23,0.116976048012169,5,reviewed,pr,pr
 2022-06-08T21:59:33.840Z,38.8378334,-122.8103333,1.92,0.89,md,23,62,0.01442,0.02,nc,nc73742351,2022-06-08T22:52:15.146Z,"8km WNW of Cobb, CA",earthquake,0.2,0.4,0.13,5,automatic,nc,nc
 2022-06-08T21:44:42.460Z,33.4568333,-116.4121667,13.52,0.72,ml,28,85,0.06735,0.14,ci,ci40036711,2022-06-08T23:38:46.100Z,"23km N of Borrego Springs, CA",earthquake,0.24,0.55,0.101,18,reviewed,ci,ci
-2022-06-08T21:39:35.189Z,35.5355,-96.76633333,8.1,0.99,ml,36,47,0.1178768685,0.14,ok,ok2022leij,2022-06-09T14:23:02.684Z,"9 km NW of Prague, Oklahoma",earthquake,,1.4,0.23,9,reviewed,ok,ok
+2022-06-08T21:39:35.189Z,35.5355,-96.76633333,8.1,0.99,ml,36,47,0.1178768685,0.14,ok,ok2022leij,2022-06-09T14:23:25.658Z,"9 km NW of Prague, Oklahoma",earthquake,,1.4,0.23,9,reviewed,ok,ok
 2022-06-08T21:37:31.560Z,12.9333,-87.2711,15.39,4.2,mb,,141,0.339,0.73,us,us7000hg16,2022-06-08T21:47:27.040Z,"14 km NW of Puerto Morazán, Nicaragua",earthquake,4,6.3,0.176,9,reviewed,us,us
 2022-06-08T21:35:40.289Z,52.332,-172.6238,158.6,1.8,ml,,,,0.51,ak,ak0227bb5ugy,2022-06-09T00:15:56.278Z,"108 km E of Atka, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-06-08T21:29:42.410Z,32.6038333,-117,3.2,1.43,ml,23,207,0.05905,0.18,ci,ci40036703,2022-06-08T23:31:23.762Z,"5km ESE of Chula Vista, CA",quarry blast,0.95,0.68,0.116,14,reviewed,ci,ci
@@ -136,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T20:35:39.920Z,36.2468333,-118.332,6.81,0.87,ml,11,97,0.2801,0.14,ci,ci37502333,2022-06-08T22:31:22.579Z,"30km W of Olancha, CA",earthquake,0.33,31.61,0.645,4,reviewed,ci,ci
 2022-06-08T20:35:04.040Z,33.4951667,-116.7468333,6.76,-0.11,ml,9,193,0.06681,0.1,ci,ci40036639,2022-06-08T21:51:45.441Z,"10km SW of Anza, CA",earthquake,0.38,0.52,0.089,3,reviewed,ci,ci
 2022-06-08T20:28:56.290Z,39.417,-110.2675,-3.22,2.16,ml,15,190,0.04518,0.24,uu,uu60500922,2022-06-08T21:03:35.110Z,"Utah",earthquake,0.98,2.2,0.158,11,reviewed,uu,uu
+2022-06-08T20:20:37.229Z,34.39466667,-96.816,0,1.54,ml,17,198,0.3491314885,0.3,ok,ok2022left,2022-06-09T14:32:36.367Z,"1 km SE of Mill Creek, Oklahoma",quarry blast,,0.9,0.2,4,reviewed,ok,ok
 2022-06-08T20:16:17.842Z,63.145,-149.7057,78.1,1.3,ml,,,,0.45,ak,ak0227bagbg8,2022-06-08T20:18:21.270Z,"46 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-08T20:14:05.850Z,36.5499992,-121.0981674,1.37,2.51,md,23,63,0.05508,0.07,nc,nc73741821,2022-06-09T06:41:08.068Z,"4km ENE of Pinnacles, CA",earthquake,0.23,0.83,0.15,25,automatic,nc,nc
 2022-06-08T20:12:09.482Z,59.4936,-151.8843,65.2,2.2,ml,,,,0.65,ak,ak0227baffxw,2022-06-08T20:13:28.852Z,"11 km WNW of Seldovia, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -201,7 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T15:44:20.652Z,61.6635,-149.5963,27.6,1.9,ml,,,,0.56,ak,ak0227b7n5ox,2022-06-08T15:46:11.161Z,"4 km N of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T15:43:49.630Z,34.3191667,-116.8425,6.73,1.23,ml,40,59,0.03136,0.13,ci,ci40036407,2022-06-08T23:26:38.160Z,"6km N of Big Bear City, CA",earthquake,0.16,0.42,0.164,22,reviewed,ci,ci
 2022-06-08T15:19:53.042Z,40.0712,-119.6926,14,0.1,ml,3,163.71,0.104,0.0119,nn,nn00840619,2022-06-09T04:08:11.744Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,8,0.36,2,reviewed,nn,nn
-2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-09T04:07:30.427Z,"26 km SW of Mina, Nevada",earthquake,,2.3,0.26,3,reviewed,nn,nn
+2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-09T04:07:30.427Z,"California-Nevada border region",earthquake,,2.3,0.26,3,reviewed,nn,nn
 2022-06-08T15:10:30.822Z,37.4215,-113.77,4.3,0.1,ml,3,166.13,0.08,0.0718,nn,nn00840618,2022-06-09T04:08:11.007Z,"11 km NW of Veyo, Utah",earthquake,,13.9,0.05,3,reviewed,nn,nn
 2022-06-08T15:08:53.260Z,19.2221660614014,-155.386840820312,31.3099994659424,1.86000001,md,38,158,,0.129999995,hv,hv73038167,2022-06-08T15:12:00.720Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,1,0.449999988,5,automatic,hv,hv
 2022-06-08T15:07:03.060Z,33.9793333,-116.9755,13.83,0.85,ml,27,71,0.07543,0.15,ci,ci40036383,2022-06-08T22:58:21.816Z,"6km N of Beaumont, CA",earthquake,0.23,0.7,0.095,17,reviewed,ci,ci
