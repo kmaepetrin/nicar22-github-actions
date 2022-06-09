@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T05:58:01.293Z,39.8884,-118.9572,10.6,0.8,ml,5,161.41,0.374,0.1142,nn,nn00840589,2022-06-09T04:07:50.899Z,"34 km E of Nixon, Nevada",earthquake,,18.5,0.11,3,reviewed,nn,nn
 2022-06-08T05:55:53.040Z,34.3201667,-116.843,6.16,1.27,ml,52,50,0.03062,0.15,ci,ci40036007,2022-06-08T16:26:46.970Z,"7km N of Big Bear City, CA",earthquake,0.15,0.39,0.18,26,reviewed,ci,ci
 2022-06-08T05:55:45.447Z,38.7707,-117.9697,10.6,1.4,ml,18,88.69,0.296,0.1244,nn,nn00840554,2022-06-08T16:08:44.263Z,"11 km SSW of Gabbs, Nevada",earthquake,,1.6,0.31,7,reviewed,nn,nn
-2022-06-08T05:51:10.670Z,60.9037,-151.4915,77,1.6,ml,,,,0.5,ak,ak0227b1qavv,2022-06-08T05:53:29.155Z,"26 km NNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
