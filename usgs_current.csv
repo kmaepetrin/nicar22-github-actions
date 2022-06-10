@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-10T10:51:30.090Z,19.1749992370605,-155.488662719727,31.1399993896484,1.70000005,md,40,147,,0.129999995,hv,hv73039957,2022-06-10T10:54:37.910Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.779999971,0.980000019,7,automatic,hv,hv
 2022-06-10T10:36:49.322Z,62.4847,-149.4286,53,1.9,ml,,,,0.35,ak,ak0227efp150,2022-06-10T10:38:47.569Z,"34 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-10T10:25:25.772Z,65.5478,-148.1746,0,1.4,ml,,,,0.96,ak,ak0227efmmg1,2022-06-10T10:27:59.920Z,"17 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-10T10:11:11.630Z,33.5415,-116.5513333,14.17,0.69,ml,23,36,0.06312,0.16,ci,ci40037823,2022-06-10T10:14:46.258Z,"11km E of Anza, CA",earthquake,0.26,0.47,0.146,19,automatic,ci,ci
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T19:55:00.710Z,33.1878333,-115.6083333,3.21,1.54,ml,20,107,0.01202,0.23,ci,ci40037335,2022-06-09T20:16:36.296Z,"10km SW of Niland, CA",earthquake,0.35,0.23,0.172,31,reviewed,ci,ci
 2022-06-09T19:53:15.580Z,33.8801667,-117.4998333,-0.66,1.13,ml,22,86,0.07744,0.14,ci,ci40037327,2022-06-09T20:22:03.332Z,"2km E of Home Gardens, CA",quarry blast,0.34,31.61,0.12,19,reviewed,ci,ci
 2022-06-09T19:45:42.370Z,19.2021675109863,-155.503494262695,34.6399993896484,2.23000002,md,38,185,,0.109999999,hv,hv73039357,2022-06-09T19:48:55.300Z,"2 km W of Pāhala, Hawaii",earthquake,0.65,0.850000024,1.77999997,18,automatic,hv,hv
-2022-06-09T19:38:43.059Z,64.9902,-147.4296,0,0.8,ml,,,,0.21,ak,ak0227cxj07w,2022-06-09T20:15:46.790Z,"Central Alaska",explosion,,0,,,reviewed,ak,ak
+2022-06-09T19:38:43.059Z,64.9902,-147.4296,0,0.8,ml,,,,0.21,ak,ak0227cxj07w,2022-06-09T20:15:46.790Z,"9 km ENE of Fox, Alaska",explosion,,0,,,reviewed,ak,ak
 2022-06-09T19:27:02.289Z,32.3391,101.9286,10,4.9,mb,,45,6.792,0.82,us,us7000hgaf,2022-06-09T20:12:42.040Z,"242 km NW of Tianpeng, China",earthquake,9.2,1.9,0.053,113,reviewed,us,us
 2022-06-09T19:23:14.103Z,62.2805,-150.913,67,1.2,ml,,,,0.3,ak,ak0227cxflom,2022-06-09T20:11:17.164Z,"25 km SSW of Petersville, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-06-09T19:19:06.700Z,33.4385,-116.3766667,14.37,0.76,ml,26,101,0.09407,0.12,ci,ci40037303,2022-06-09T20:02:30.903Z,"20km N of Borrego Springs, CA",earthquake,0.23,0.39,0.109,15,reviewed,ci,ci
@@ -198,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T11:13:03.670Z,35.8988333,-117.7385,8.24,0.33,ml,9,94,0.08171,0.06,ci,ci37502429,2022-06-09T15:14:33.506Z,"16km ESE of Little Lake, CA",earthquake,0.18,0.54,0.297,6,reviewed,ci,ci
 2022-06-09T11:12:48.150Z,35.8991667,-117.74,8.47,0.56,ml,12,61,0.08055,0.05,ci,ci40036991,2022-06-09T15:11:12.759Z,"16km ESE of Little Lake, CA",earthquake,0.13,0.38,0.25,4,reviewed,ci,ci
 2022-06-09T11:07:08.596Z,62.9381,-149.4023,70.1,1.5,ml,,,,0.35,ak,ak0227csktcb,2022-06-09T11:08:34.963Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-06-09T10:52:44.470Z,19.1783332824707,-155.497161865234,35.1800003051758,1.90999997,md,40,137,,0.109999999,hv,hv73038957,2022-06-09T10:55:47.830Z,"3 km SW of Pāhala, Hawaii",earthquake,0.6,1.11000001,1.66999996,6,automatic,hv,hv
-2022-06-09T10:52:36.200Z,61.6002,-146.4246,15.2,2.1,ml,,,,0.79,ak,ak0227cs9338,2022-06-09T10:54:46.864Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
