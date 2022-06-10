@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-10T19:34:03.020Z,38.8450012,-122.8241653,1.63,0.37,md,6,128,0.009666,0.01,nc,nc73743686,2022-06-10T19:35:39.473Z,"9km WNW of Cobb, CA",earthquake,0.71,1.15,,1,automatic,nc,nc
+2022-06-10T19:27:59.090Z,33.451,-116.404,9.05,1.16,ml,38,33,0.07445,0.21,ci,ci40038103,2022-06-10T19:31:41.087Z,"22km N of Borrego Springs, CA",earthquake,0.25,0.64,0.122,27,automatic,ci,ci
 2022-06-10T18:43:27.980Z,38.7915001,-122.793663,0.86,0.35,md,8,114,0.004792,0.01,nc,nc73743681,2022-06-10T19:15:15.989Z,"4km WNW of The Geysers, CA",earthquake,0.32,0.51,,1,automatic,nc,nc
 2022-06-10T18:34:41.890Z,38.7869987,-122.769165,1.9,0.63,md,15,81,0.01548,0.04,nc,nc73743676,2022-06-10T18:54:16.870Z,"2km NW of The Geysers, CA",earthquake,0.29,0.51,0.21,4,automatic,nc,nc
 2022-06-10T18:32:58.030Z,19.2406673431396,-155.398498535156,30.4099998474121,1.80999994,md,29,140,,0.129999995,hv,hv73040302,2022-06-10T18:36:02.920Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.65,0.889999986,1.37,6,automatic,hv,hv
-2022-06-10T18:04:36.420Z,38.8361664,-122.810997,1.91,1.29,md,18,55,0.01277,0.02,nc,nc73743666,2022-06-10T18:21:15.673Z,"8km WNW of Cobb, CA",earthquake,0.2,0.63,0.28,3,automatic,nc,nc
+2022-06-10T18:04:36.420Z,38.8361664,-122.810997,1.91,1.29,md,18,55,0.01277,0.02,nc,nc73743666,2022-06-10T19:34:15.106Z,"8km WNW of Cobb, CA",earthquake,0.2,0.63,0.28,3,automatic,nc,nc
 2022-06-10T17:54:34.098Z,62.3562,-149.7486,11.2,1.1,ml,,,,0.4,ak,ak0227ejyw35,2022-06-10T18:05:24.133Z,"19 km E of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-10T17:42:48.290Z,38.6141667,-112.5831667,2.03,0.96,md,6,193,0.1066,0.07,uu,uu60501087,2022-06-10T18:12:07.560Z,"24 km SSW of Kanosh, Utah",earthquake,1.45,4.22,0.549,3,reviewed,uu,uu
 2022-06-10T17:31:28.841Z,62.9979,-149.6999,38.7,1.1,ml,,,,0.58,ak,ak0227ejty7s,2022-06-10T17:34:05.740Z,"57 km SW of Cantwell, Alaska",earthquake,,12,,,automatic,ak,ak
