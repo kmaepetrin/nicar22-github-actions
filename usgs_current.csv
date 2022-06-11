@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:39:14.599Z,62.2464,-150.1415,11.8,1.7,ml,,,,0.65,ak,ak0227g1gnab,2022-06-11T07:41:38.437Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-11T07:29:54.223Z,-8.0129,-13.6184,10,5.6,mww,,45,0.738,0.59,us,us7000hgp6,2022-06-11T07:52:01.679Z,"87 km E of Georgetown, Saint Helena",earthquake,6.1,1.8,0.093,11,reviewed,us,us
 2022-06-11T07:21:25.860Z,38.7944984,-122.7303314,2.16,0.21,md,10,97,0.01231,0.02,nc,nc73743911,2022-06-11T07:30:10.229Z,"3km NE of The Geysers, CA",earthquake,0.39,0.89,0.17,2,automatic,nc,nc
 2022-06-11T07:16:10.490Z,38.8326683,-122.8073349,2.19,0.85,md,17,47,0.009504,0.02,nc,nc73743906,2022-06-11T07:24:10.329Z,"7km W of Cobb, CA",earthquake,0.27,0.62,,1,automatic,nc,nc
 2022-06-11T07:14:02.212Z,61.3192,-149.3746,72.9,1.4,ml,,,,1.23,ak,ak0227g1b586,2022-06-11T07:26:33.165Z,"10 km E of Eagle River, Alaska",earthquake,,1.6,,,automatic,ak,ak
