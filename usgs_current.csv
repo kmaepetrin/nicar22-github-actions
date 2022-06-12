@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-12T05:40:03.817Z,35.11499786,-95.56256104,2.78894639,1.91,ml,17,99.08476257,0.1157753393,0.4669206048,ok,ok2022lkks,2022-06-12T05:42:03.402Z,"9 km E of Crowder, Oklahoma",earthquake,3.532448946,2.412819183,,10,automatic,ok,ok
+2022-06-12T05:40:03.817Z,35.11499786,-95.56256104,2.78894639,2.06,ml,17,99.08476257,0.1157753393,0.4669206048,ok,ok2022lkks,2022-06-12T05:43:56.876Z,"9 km E of Crowder, Oklahoma",earthquake,3.532448946,2.412819183,,13,automatic,ok,ok
+2022-06-12T05:36:55.150Z,17.9736666666667,-66.8481666666667,16.91,2.38,md,4,205,,0.11,pr,pr71353683,2022-06-12T05:45:35.580Z,"Puerto Rico region",earthquake,0.74,0.77,0.217701413413459,2,reviewed,pr,pr
 2022-06-12T05:28:33.295Z,35.12364578,-95.55800629,2.906593323,1.84,ml,13,96.5330658,0.1068697646,0.2291980113,ok,ok2022lkki,2022-06-12T05:31:03.871Z,"10 km E of Crowder, Oklahoma",earthquake,3.895728904,2.885805046,,11,automatic,ok,ok
 2022-06-12T05:22:08.604Z,60.4718,-141.3074,0,2.3,ml,,,,0.87,ak,ak0227hnpgxo,2022-06-12T05:24:09.516Z,"135 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-12T05:16:57.070Z,17.9603333333333,-66.9628333333333,10.95,2.53,md,7,210,,0.07,pr,pr71353678,2022-06-12T05:38:24.070Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.44,0.75,0.0935615678781487,3,reviewed,pr,pr
@@ -173,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T08:48:41.035Z,36.75366592,-98.06389618,3.926615715,1.82,ml,23,138.4964256,0.09909325838,0.4148797934,ok,ok2022livl,2022-06-11T08:52:41.768Z,"7 km E of Nescatunga, Oklahoma",earthquake,3.020633137,2.148032536,,19,automatic,ok,ok
 2022-06-11T08:47:08.490Z,18.0306666666667,-66.7623333333333,13.34,2.57,md,23,122,,0.16,pr,pr71353508,2022-06-11T09:18:23.960Z,"1 km NNE of Magas Arriba, Puerto Rico",earthquake,0.25,0.28,0.169043930877139,6,reviewed,pr,pr
 2022-06-11T08:37:26.730Z,38.8344994,-122.7900009,2.09,0.86,md,17,55,0.003913,0.02,nc,nc73743926,2022-06-11T08:54:14.779Z,"6km WNW of Cobb, CA",earthquake,0.24,0.46,0.02,3,automatic,nc,nc
-2022-06-11T08:29:51.635Z,44.3602,-115.1917,10,2.3,ml,,62,0.928,0.84,us,us7000hgpk,2022-06-12T04:19:32.040Z,"25 km NW of Stanley, Idaho",earthquake,2.6,2,0.066,30,reviewed,us,us
+2022-06-11T08:29:51.635Z,44.3602,-115.1917,10,2.3,ml,,62,0.928,0.84,us,us7000hgpk,2022-06-12T04:19:32.040Z,"southern Idaho",earthquake,2.6,2,0.066,30,reviewed,us,us
 2022-06-11T08:24:07.178Z,32.40142822,-101.598347,13.5723877,2.9,ml,10,94,0.1974227172,0.1,tx,tx2022liuq,2022-06-11T22:18:24.963Z,"western Texas",earthquake,1.357160701,2.253064249,0.1,8,reviewed,tx,tx
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
 2022-06-11T08:03:09.090Z,19.1946659088135,-155.49299621582,36.0499992370605,1.76999998,md,40,68,,0.170000002,hv,hv73040862,2022-06-11T08:06:17.050Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.879999995,8,automatic,hv,hv
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T06:11:41.924Z,-7.8666,-13.6692,10,4.8,mb,,114,0.687,0.6,us,us7000hgqw,2022-06-12T04:25:44.040Z,"82 km E of Georgetown, Saint Helena",earthquake,7.1,1.9,0.1,31,reviewed,us,us
 2022-06-11T06:07:27.627Z,58.9036,-150.54,26,1.9,ml,,,,0.69,ak,ak0227g0odt5,2022-06-11T14:15:16.115Z,"86 km SSE of Halibut Cove, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2022-06-11T06:01:59.096Z,39.0345,-119.7081,10.5,1.2,ml,14,55.05,0.1,0.1313,nn,nn00840773,2022-06-11T06:05:15.705Z,"1 km SE of Johnson Lane, Nevada",earthquake,,0.6,0.39,11,automatic,nn,nn
-2022-06-11T05:46:33.679Z,56.0593,113.4042,10,4.3,mb,,83,7.245,0.7,us,us7000hgnz,2022-06-11T07:13:32.040Z,"9 km S of Severomuysk, Russia",earthquake,10.2,1.9,0.129,17,reviewed,us,us
