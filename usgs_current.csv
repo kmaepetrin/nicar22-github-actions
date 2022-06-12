@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-12T10:56:44.130Z,33.9319992,-117.0670013,12.82,1.18,ml,37,33,0.1347,0.22,ci,ci40038767,2022-06-12T10:59:01.390Z,"6km SSW of Calimesa, CA",earthquake,0.34,1.02,0.178,10,automatic,ci,ci
+2022-06-12T11:12:23.900Z,35.6728325,-121.1113358,5.74,1.37,md,8,122,0.03573,0.02,nc,nc73744366,2022-06-12T11:14:01.293Z,"8km ENE of San Simeon, CA",earthquake,0.62,0.89,0.02,5,automatic,nc,nc
+2022-06-12T10:56:44.010Z,33.9311667,-117.0706667,14.79,1.05,ml,28,43,0.07554,0.19,ci,ci40038767,2022-06-12T11:00:17.385Z,"6km SSW of Calimesa, CA",earthquake,0.28,0.64,0.186,30,automatic,ci,ci
 2022-06-12T10:35:12.920Z,35.5126667,-118.3901667,6.83,1.18,ml,15,100,0.1646,0.13,ci,ci40038759,2022-06-12T10:38:58.982Z,"12km SE of Bodfish, CA",earthquake,0.25,0.91,0.143,15,automatic,ci,ci
 2022-06-12T10:08:52.500Z,19.2133331298828,-155.371994018555,31.5200004577637,2.33,ml,41,162,,0.129999995,hv,hv73041872,2022-06-12T10:14:22.560Z,"11 km E of Pāhala, Hawaii",earthquake,0.49,0.639999986,0.11,3,automatic,hv,hv
 2022-06-12T10:01:05.780Z,33.4445,-116.3761667,0.79,1.09,ml,43,35,0.09905,0.18,ci,ci40038743,2022-06-12T10:12:06.160Z,"21km N of Borrego Springs, CA",earthquake,0.19,0.38,0.108,26,automatic,ci,ci
@@ -198,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T11:28:19.310Z,18.0323333333333,-66.7568333333333,10.94,2.07,md,6,160,,0.12,pr,pr71353543,2022-06-11T11:45:16.930Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,0.52,1.7,0.126323226831063,4,reviewed,pr,pr
 2022-06-11T11:25:29.870Z,32.3606667,-115.3091667,6.7,1.95,ml,16,108,0.05877,0.28,ci,ci40038327,2022-06-11T11:29:08.230Z,"11km W of Delta, B.C., MX",earthquake,0.74,1.56,0.168,21,automatic,ci,ci
 2022-06-11T11:15:23.390Z,33.7808333,-116.1248333,2.52,1.19,ml,30,138,0.08208,0.21,ci,ci40038319,2022-06-11T11:19:08.824Z,"11km NE of Indio, CA",earthquake,0.36,0.53,0.097,26,automatic,ci,ci
-2022-06-11T11:04:52.330Z,17.9953333333333,-66.8828333333333,15.26,2.17,md,7,91,,0.08,pr,pr71353533,2022-06-11T11:20:56.370Z,"2 km NNE of Maria Antonia, Puerto Rico",earthquake,0.65,0.75,0.0777645484056839,4,reviewed,pr,pr
