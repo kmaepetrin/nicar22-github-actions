@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-12T13:33:58.380Z,38.7613335,-122.7271652,1.62,1.25,md,16,108,0.00182,0.04,nc,nc73744391,2022-06-12T13:35:31.659Z,"3km SE of The Geysers, CA",earthquake,0.25,0.29,0.13,6,automatic,nc,nc
+2022-06-12T13:33:58.380Z,38.7613335,-122.7271652,1.62,1.25,md,16,108,0.00182,0.04,nc,nc73744391,2022-06-12T13:42:10.135Z,"3km SE of The Geysers, CA",earthquake,0.25,0.29,0.13,6,automatic,nc,nc
 2022-06-12T13:20:35.931Z,61.5096,-150.0873,34.2,0.9,ml,,,,0.65,ak,ak0227hsgkg5,2022-06-12T13:22:50.085Z,"7 km W of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-12T13:02:27.470Z,35.1803333,-118.6631667,8.2,1.24,ml,26,60,0.05479,0.14,ci,ci40038815,2022-06-12T13:06:09.262Z,"15km ESE of Arvin, CA",earthquake,0.26,0.8,0.16,25,automatic,ci,ci
 2022-06-12T13:00:57.020Z,19.1941661834717,-155.385665893555,31.7099990844727,2.1400001,md,44,163,,0.129999995,hv,hv73041987,2022-06-12T13:04:12.770Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.699999988,1.5,18,automatic,hv,hv
