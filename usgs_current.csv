@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T08:33:20.009Z,-55.6448,-29.9235,10,5,mww,,76,4.022,0.96,us,us7000hgw1,2022-06-12T08:53:29.040Z,"South Sandwich Islands region",earthquake,8.8,1.6,0.089,12,reviewed,us,us
 2022-06-12T08:23:30.530Z,38.833168,-122.8056641,1.91,1,md,20,49,0.01035,0.02,nc,nc73744341,2022-06-12T08:39:18.274Z,"7km W of Cobb, CA",earthquake,0.2,0.57,0.23,2,automatic,nc,nc
 2022-06-12T08:16:44.320Z,17.9641666666667,-66.7791666666667,18.13,2.56,md,6,213,,0.12,pr,pr71353723,2022-06-12T08:33:48.520Z,"5 km SE of Indios, Puerto Rico",earthquake,0.57,0.98,0.17048378857825,4,reviewed,pr,pr
 2022-06-12T08:11:43.460Z,36.1666679,-120.7683334,-0.43,1.66,md,10,130,0.05589,0.13,nc,nc73744336,2022-06-12T08:28:20.201Z,"20km NE of San Ardo, CA",earthquake,1.05,9.53,0.16,4,automatic,nc,nc
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T09:18:10.425Z,37.2675,-117.6192,0.7,1,ml,8,218.8,0.725,0.1961,nn,nn00840777,2022-06-11T09:21:34.480Z,"54 km S of Silver Peak, Nevada",earthquake,,0,0.78,5,automatic,nn,nn
 2022-06-11T09:16:56.040Z,33.2395,-116.1036667,6.12,1.35,ml,40,61,0.09943,0.21,ci,ci40038287,2022-06-11T09:27:43.410Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.26,1.46,0.196,28,automatic,ci,ci
 2022-06-11T08:59:13.252Z,63.0933,-151.7637,0,1.1,ml,,,,1.04,ak,ak0227g26d3x,2022-06-11T09:01:33.780Z,"49 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-11T08:55:26.590Z,33.9406667,-116.7135,14.43,0.44,ml,11,162,0.1118,0.1,ci,ci40038271,2022-06-11T08:59:03.319Z,"7km ENE of Cabazon, CA",earthquake,0.42,0.7,0.291,7,automatic,ci,ci
