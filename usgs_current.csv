@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-14T23:43:42.600Z,38.8408318,-122.8246689,1.52,1.11,md,19,91,0.00874,0.05,nc,nc73745436,2022-06-14T23:45:17.521Z,"9km WNW of Cobb, CA",earthquake,0.24,0.47,0.16,4,automatic,nc,nc
+2022-06-14T23:33:41.700Z,17.9198333333333,-66.7771666666667,6.97,3.2,md,26,185,,0.16,pr,pr71354133,2022-06-14T23:50:28.830Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.42,0.27,0.0691178410395166,16,reviewed,pr,pr
 2022-06-14T23:29:23.623Z,63.5063,-150.884,0,1.6,ml,,,,0.81,ak,ak0227l9jhze,2022-06-14T23:31:22.149Z,"41 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-14T23:28:19.310Z,34.316,-116.4425,6.2,1,ml,20,103,0.05532,0.16,ci,ci40040319,2022-06-14T23:39:11.227Z,"22km N of Yucca Valley, CA",earthquake,0.31,0.64,0.191,15,automatic,ci,ci
 2022-06-14T23:26:26.790Z,35.0263333,-117.6746667,0.28,1.64,ml,15,97,0.09343,0.29,ci,ci40040311,2022-06-14T23:30:09.310Z,"4km NW of Boron, CA",quarry blast,0.73,31.61,0.158,31,automatic,ci,ci
