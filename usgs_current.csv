@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-14T07:44:01.910Z,17.9743333333333,-66.9901666666667,8.78,1.77,md,6,174,,0.07,pr,pr71353998,2022-06-14T07:52:16.060Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.44,0.82,0.0315026281688884,3,reviewed,pr,pr
+2022-06-14T07:35:44.771Z,36.4812,71.1634,207.9,4.9,mb,,72,0.797,1,us,us7000hh92,2022-06-14T07:51:40.040Z,"39 km SW of Ashkāsham, Afghanistan",earthquake,6.8,5.4,0.038,219,reviewed,us,us
 2022-06-14T07:32:39.550Z,38.783165,-122.75,-0.05,0.86,md,9,112,0.01038,0.02,nc,nc73745201,2022-06-14T07:41:11.050Z,"1km NE of The Geysers, CA",earthquake,0.3,0.79,,1,automatic,nc,nc
 2022-06-14T07:29:51.840Z,33.8195,-116.9995,12.32,0.68,ml,19,86,0.1111,0.23,ci,ci40039855,2022-06-14T07:33:25.740Z,"6km NW of San Jacinto, CA",earthquake,0.41,1.16,0.086,15,automatic,ci,ci
 2022-06-14T07:01:36.560Z,18.0038333333333,-66.9991666666667,12.77,1.88,md,3,191,,0.05,pr,pr71353988,2022-06-14T07:39:48.640Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,2.23,1.17,0.0298048809060363,3,reviewed,pr,pr
