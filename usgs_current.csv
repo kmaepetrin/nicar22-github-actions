@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-15T08:48:43.960Z,35.5153351,-118.3953323,6.86,0.99,ml,16,70,0.1605,0.15,ci,ci40040487,2022-06-15T08:50:59.145Z,"12km SE of Bodfish, CA",earthquake,0.33,1.13,0.219,3,automatic,ci,ci
 2022-06-15T08:30:00.670Z,19.1978340148926,-155.383499145508,32.9799995422363,2.43,ml,39,163,,0.119999997,hv,hv73044427,2022-06-15T08:35:30.490Z,"10 km E of Pāhala, Hawaii",earthquake,0.71,0.860000014,3.68,6,automatic,hv,hv
 2022-06-15T08:29:33.470Z,19.121166229248,-155.473999023438,32,2.33,ml,18,179,,0.140000001,hv,hv73044422,2022-06-15T08:35:04.110Z,"9 km S of Pāhala, Hawaii",earthquake,1.02,1.63,4.15,5,automatic,hv,hv
 2022-06-15T08:27:12.720Z,33.5253333,-116.5218333,12.92,0.48,ml,11,202,0.03298,0.09,ci,ci40040479,2022-06-15T08:30:42.631Z,"14km ESE of Anza, CA",earthquake,0.6,0.5,0.272,3,automatic,ci,ci
