@@ -271,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T23:53:02.860Z,33.5156667,-116.4591667,7.76,0.26,ml,12,133,0.029,0.07,ci,ci40040935,2022-06-16T00:29:28.154Z,"20km ESE of Anza, CA",earthquake,0.22,0.49,0.131,6,reviewed,ci,ci
 2022-06-15T23:52:07.457Z,26.6556,54.2638,10,4.1,mb,,117,2.441,0.83,us,us7000hhnx,2022-06-16T00:04:29.040Z,"26 km ENE of Kīsh, Iran",earthquake,8.1,2,0.144,13,reviewed,us,us
 2022-06-15T23:47:17.504Z,63.1396,-150.5745,100,1.4,ml,,,,0.34,ak,ak0227mx6ow6,2022-06-15T23:49:31.489Z,"72 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-15T23:32:22.708Z,61.7145,-149.4568,36.4,1.4,ml,,,,0.82,ak,ak0227mx3hjy,2022-06-15T23:34:25.540Z,"9 km N of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
