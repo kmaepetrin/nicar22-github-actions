@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T15:11:14.530Z,51.7355,-177.187833333333,10.28,0.57,ml,4,302,,0.1,av,av91063258,2022-06-18T00:45:19.440Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.54,0.81,0.57366342347712,3,reviewed,av,av
 2022-06-17T15:07:40.196Z,64.0594,-151.5926,5.6,1.6,ml,,,,0.89,ak,ak0227q39e5f,2022-06-17T15:10:38.950Z,"40 km ENE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-17T15:05:08.580Z,34.34,-116.8965,-1.41,1.02,ml,14,119,0.05768,0.13,ci,ci40286128,2022-06-17T16:15:41.415Z,"10km NNW of Big Bear City, CA",quarry blast,0.45,31.61,0.098,5,reviewed,ci,ci
-2022-06-17T14:57:21.300Z,36.0001667,-120.5615,1.36,1.09,md,22,86,0.02219,0.06,nc,nc73746731,2022-06-18T03:55:10.870Z,"16km NW of Parkfield, CA",earthquake,0.2,0.37,0.301,12,reviewed,nc,nc
-2022-06-17T14:56:06.940Z,37.6383333,-118.8891667,-0.48,1.91,md,19,87,0.008583,0.06,nc,nc73746726,2022-06-17T18:45:09.645Z,"8km E of Mammoth Lakes, CA",earthquake,0.2,0.13,0.191,13,reviewed,nc,nc
