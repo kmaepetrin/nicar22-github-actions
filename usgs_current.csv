@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T18:56:00.540Z,37.6368332,-118.8841629,-0.38,1.22,md,10,131,0.01258,0.05,nc,nc73747716,2022-06-19T18:57:36.199Z,"8km E of Mammoth Lakes, CA",earthquake,0.33,0.45,0.11,10,automatic,nc,nc
+2022-06-19T18:54:17.650Z,36.8801651,-121.6151657,7.86,1.39,md,13,65,0.01909,0.04,nc,nc73747711,2022-06-19T18:55:51.235Z,"3km ESE of Aromas, CA",earthquake,0.31,0.64,0.21,13,automatic,nc,nc
+2022-06-19T18:51:45.896Z,59.7116,-151.4158,39.1,2.1,ml,,,,0.42,ak,ak0227tgdtwd,2022-06-19T18:54:01.608Z,"4 km NNE of Kachemak, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-19T18:41:33.100Z,38.7784996,-122.7245026,1.22,1.03,md,9,76,0.01066,0.04,nc,nc73747706,2022-06-19T18:50:10.116Z,"3km E of The Geysers, CA",earthquake,0.34,0.67,0.17,2,automatic,nc,nc
 2022-06-19T18:38:02.630Z,38.7758331,-122.7289963,1.29,1.23,md,24,71,0.009547,0.05,nc,nc73747701,2022-06-19T18:44:11.199Z,"2km E of The Geysers, CA",earthquake,0.24,0.35,0.13,7,automatic,nc,nc
 2022-06-19T18:34:38.030Z,38.7766685,-122.7276688,1.57,0.93,md,15,74,0.00965,0.03,nc,nc73747696,2022-06-19T18:44:11.079Z,"2km E of The Geysers, CA",earthquake,0.27,0.41,0.07,5,automatic,nc,nc
