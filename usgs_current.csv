@@ -191,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T09:53:09.110Z,38.8306667,-122.7445,0.98,0.4,md,15,171,0.01372,0.04,nc,nc73746996,2022-06-18T21:14:11.191Z,"2km WNW of Cobb, CA",earthquake,0.38,0.48,0.123,4,reviewed,nc,nc
 2022-06-18T09:42:36.809Z,52.1518,176.7653,87.7,2.7,ml,,,,0.47,ak,ak0227rnfnpq,2022-06-18T18:00:38.520Z,"255 km ESE of Attu Station, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2022-06-18T09:38:49.890Z,18.0036666666667,-66.826,14.79,2.43,md,6,162,,0.09,pr,pr71354808,2022-06-18T11:36:08.810Z,"1 km NW of Indios, Puerto Rico",earthquake,0.57,0.76,0.191333536657704,5,reviewed,pr,pr
-2022-06-18T09:27:02.591Z,38.1856,-117.8025,1.5,1.3,ml,14,188.41,0.132,0.1664,nn,nn00841138,2022-06-18T09:31:09.856Z,"35 km SE of Mina, Nevada",earthquake,,2.4,0.15,7,automatic,nn,nn
-2022-06-18T09:26:39.830Z,18.4946666666667,-66.1741666666667,80.66,3.01,md,13,214,,0.2,pr,pr71354803,2022-06-18T11:01:48.400Z,"5 km N of Levittown, Puerto Rico",earthquake,1.79,1.48,0.10331904131778,10,reviewed,pr,pr
