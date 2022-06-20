@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T08:32:23.210Z,37.6388321,-118.8853302,-0.57,2.15,md,15,99,0.01888,0.06,nc,nc73747996,2022-06-20T09:14:13.452Z,"8km E of Mammoth Lakes, CA",earthquake,0.4,0.26,0.18,15,automatic,nc,nc
 2022-06-20T08:32:04.450Z,38.8313332,-122.8138351,1.51,1.35,md,26,43,0.008454,0.04,nc,nc73747991,2022-06-20T09:14:13.585Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.06,6,automatic,nc,nc
 2022-06-20T08:30:04.470Z,37.6398315,-118.8901672,-0.75,1.95,md,16,96,0.006983,0.07,nc,nc73747986,2022-06-20T09:01:14.373Z,"8km E of Mammoth Lakes, CA",earthquake,0.34,0.19,0.23,16,automatic,nc,nc
-2022-06-20T08:29:03.120Z,37.6416664,-118.8861694,-0.51,1.91,md,12,155,0.02039,0.01,nc,nc73747981,2022-06-20T11:24:10.182Z,"8km E of Mammoth Lakes, CA",earthquake,0.33,0.19,0.12,13,automatic,nc,nc
+2022-06-20T08:29:03.120Z,37.6416664,-118.8861694,-0.51,1.91,md,12,155,0.02039,0.01,nc,nc73747981,2022-06-20T11:27:13.199Z,"8km E of Mammoth Lakes, CA",earthquake,0.33,0.19,0.12,13,automatic,nc,nc
 2022-06-20T08:28:04.630Z,36.145,-118.5048333,12.13,1.58,ml,7,191,0.3738,0.11,ci,ci40287696,2022-06-20T08:31:45.321Z,"44km N of Kernville, CA",earthquake,1.47,31.61,0.318,18,automatic,ci,ci
 2022-06-20T08:27:36.920Z,37.6401672,-118.8896637,-0.5,2.71,md,20,80,0.007086,0.05,nc,nc73747976,2022-06-20T11:01:13.054Z,"8km E of Mammoth Lakes, CA",earthquake,0.28,0.2,0.08,22,automatic,nc,nc
 2022-06-20T08:24:36.490Z,37.6419983,-118.8915024,-0.75,1.5,md,9,100,0.004862,0.05,nc,nc73747971,2022-06-20T10:56:11.162Z,"8km E of Mammoth Lakes, CA",earthquake,0.37,0.25,0.17,8,automatic,nc,nc
@@ -263,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T11:55:10.940Z,43.9766667,-110.3016667,7.79,1.46,ml,20,162,0.205,0.28,mb,mb80549249,2022-06-19T14:29:43.180Z,"47 km NNE of Kelly, Wyoming",earthquake,0.71,2.06,0.174,9,reviewed,mb,mb
 2022-06-19T11:49:20.228Z,-20.3489,-174.8098,39.12,5.5,mww,,42,6.788,0.52,us,us7000hiiy,2022-06-19T17:36:54.025Z,"75 km SW of Pangai, Tonga",earthquake,9.2,1.8,0.089,12,reviewed,us,us
 2022-06-19T11:34:02.117Z,60.6088,-151.782,74,2.6,ml,,,,0.57,ak,ak0227tc4238,2022-06-19T11:44:36.040Z,"25 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-19T11:31:50.380Z,37.6365,-118.897,4.36,0.84,md,19,91,0.007881,0.06,nc,nc73747541,2022-06-19T17:16:15.507Z,"7km E of Mammoth Lakes, CA",earthquake,0.26,0.43,0.196,16,reviewed,nc,nc
-2022-06-19T11:30:34.190Z,37.6375,-118.8946667,4.72,1.38,md,21,90,0.007094,0.04,nc,nc73747536,2022-06-19T19:34:15.408Z,"7km E of Mammoth Lakes, CA",earthquake,0.33,0.54,0.175,17,reviewed,nc,nc
-2022-06-19T11:29:02.040Z,61.6324,-147.361,26.1,1.5,ml,,,,0.69,ak,ak0227tc2zj0,2022-06-19T11:31:19.602Z,"24 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
