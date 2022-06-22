@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-22T07:37:39.825Z,64.4335,-147.4109,14.7,0.8,ml,,,,0.66,ak,ak0227y8d38e,2022-06-22T07:39:19.593Z,"26 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-22T07:27:31.860Z,61.0989,-150.5721,51.3,1.5,ml,,,,0.12,ak,ak0227y8axgi,2022-06-22T07:28:47.676Z,"20 km NNE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-22T07:07:12.590Z,19.1499996185303,-155.463668823242,32.3300018310547,2.1500001,md,38,170,,0.129999995,hv,hv73051547,2022-06-22T07:10:24.820Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.57,0.910000026,0.49000001,17,automatic,hv,hv
 2022-06-22T07:04:37.268Z,37.4271,-115.4451,15.2,1.8,ml,21,238.35,0.548,0.3704,nn,nn00841443,2022-06-22T07:08:06.518Z,"25 km WNW of Alamo, Nevada",earthquake,,0.8,0.6,16,automatic,nn,nn
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T05:01:18.927Z,-7.3324,120.4418,499.18,5.6,mww,,54,2.2,0.93,us,us7000hj75,2022-06-22T07:04:47.968Z,"141 km N of Ruteng, Indonesia",earthquake,9.7,5.3,0.059,28,reviewed,us,us
 2022-06-22T04:57:00.810Z,19.1574993133545,-155.485000610352,32.8499984741211,2.55,ml,41,127,,0.189999998,hv,hv73051472,2022-06-22T05:02:29.670Z,"5 km S of Pāhala, Hawaii",earthquake,0.6,1.12,4.07,13,automatic,hv,hv
 2022-06-22T04:50:23.195Z,0.6467,-77.9076,10,4.8,mb,,85,0.139,1.35,us,us7000hj70,2022-06-22T05:25:58.040Z,"4 km NE of El Ángel, Ecuador",earthquake,6.5,1.9,0.034,267,reviewed,us,us
-2022-06-22T04:42:44.769Z,64.5692,-149.4047,21,0.7,ml,,,,0.28,ak,ak0227y6lvdp,2022-06-22T04:47:05.166Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-22T04:42:44.769Z,64.5692,-149.4047,21,0.7,ml,,,,0.28,ak,ak0227y6lvdp,2022-06-22T04:47:05.166Z,"14 km WSW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-22T04:37:19.900Z,19.2196674346924,-155.411834716797,33.060001373291,2.25,ml,48,141,,0.119999997,hv,hv73051467,2022-06-22T04:42:50.870Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,3.02,9,automatic,hv,hv
 2022-06-22T04:29:40.610Z,38.8241653,-122.7991638,1.61,1.65,md,34,31,0.008557,0.02,nc,nc73749381,2022-06-22T07:23:20.174Z,"6km NW of The Geysers, CA",earthquake,0.16,0.27,0.05,7,automatic,nc,nc
 2022-06-22T04:25:54.211Z,-9.188,-109.6333,10,4.7,mb,,206,29.826,0.7,us,us7000hj73,2022-06-22T05:14:46.040Z,"central East Pacific Rise",earthquake,15.8,2,0.042,174,reviewed,us,us
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T02:50:12.720Z,17.978,-66.9228333333333,13.9,2.06,md,5,173,,0.08,pr,pr71355428,2022-06-22T03:32:14.690Z,"1 km SW of Fuig, Puerto Rico",earthquake,2.71,0.86,0.115776987840361,3,reviewed,pr,pr
 2022-06-22T02:48:34.000Z,17.9688333333333,-66.8076666666667,12.14,2.13,md,5,207,,0.11,pr,pr71355423,2022-06-22T03:40:21.520Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.86,0.61,0.216169848507,3,reviewed,pr,pr
 2022-06-22T02:40:40.040Z,37.6261673,-118.866333,0.35,1.51,md,10,123,0.02438,0.03,nc,nc73749346,2022-06-22T04:19:15.030Z,"10km E of Mammoth Lakes, CA",earthquake,0.4,0.83,0.07,9,automatic,nc,nc
-2022-06-22T02:38:26.690Z,19.1889991760254,-155.474334716797,32.9099998474121,1.73000002,md,28,104,,0.140000001,hv,hv73051362,2022-06-22T02:41:38.160Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.75,1.00999999,1.14999998,3,automatic,hv,hv
+2022-06-22T02:38:26.690Z,19.1889991760254,-155.474334716797,32.9099998474121,1.73000002,md,28,104,,0.140000001,hv,hv73051362,2022-06-22T02:41:38.160Z,"Island of Hawaii, Hawaii",earthquake,0.75,1.00999999,1.14999998,3,automatic,hv,hv
 2022-06-22T02:18:30.090Z,61.7655,-149.723,60.7,0.9,ml,,,,0.81,ak,ak0227y59tup,2022-06-22T02:20:50.827Z,"15 km NNE of Houston, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-22T02:06:47.160Z,19.2439994812012,-155.417831420898,35.6399993896484,1.88,md,25,192,,0.129999995,hv,hv73051342,2022-06-22T02:10:08.990Z,"7 km NE of Pāhala, Hawaii",earthquake,0.71,0.920000017,1.88,4,automatic,hv,hv
 2022-06-22T01:53:31.763Z,-5.2013,153.6172,69.25,5.4,mww,,100,1.762,0.72,us,us7000hj5z,2022-06-22T03:56:47.946Z,"177 km ESE of Kokopo, Papua New Guinea",earthquake,5.6,6.7,0.098,10,reviewed,us,us
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T07:50:32.130Z,19.1765003204346,-155.478500366211,33.2400016784668,2.44000006,md,45,75,,0.140000001,hv,hv73050657,2022-06-21T07:56:03.940Z,"2 km S of Pāhala, Hawaii",earthquake,0.53,0.699999988,1.67999995,28,automatic,hv,hv
 2022-06-21T07:50:08.530Z,18.6433333333333,-66.708,65.51,2.85,md,17,225,,0.26,pr,pr71355268,2022-06-21T08:31:38.720Z,"18 km N of Arecibo, Puerto Rico",earthquake,1.28,1.32,0.0916793311449968,7,reviewed,pr,pr
 2022-06-21T07:47:08.140Z,19.1671657562256,-155.473999023438,35.1500015258789,2.1099999,md,38,86,,0.109999999,hv,hv73050652,2022-06-21T07:50:19.470Z,"3 km S of Pāhala, Hawaii",earthquake,0.51,1,0.819999993,11,automatic,hv,hv
-2022-06-21T07:39:42.150Z,54.0127,-164.5388,55.2,1.4,ml,,,,0.43,ak,ak0227wku77y,2022-06-21T17:41:14.177Z,"82 km E of Akutan, Alaska",earthquake,,3.5,,,reviewed,ak,ak
