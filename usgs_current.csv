@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T13:30:05.100Z,44.7958333,-110.8013333,7.52,0.74,md,13,211,0.0358,0.16,uu,uu60503062,2022-06-22T14:26:53.390Z,"Wyoming",earthquake,0.72,0.78,0.129,6,reviewed,uu,uu
 2022-06-22T13:26:40.030Z,38.7876663,-122.767334,2.24,0.73,md,19,79,0.01424,0.02,nc,nc73749511,2022-06-22T13:52:15.497Z,"2km NW of The Geysers, CA",earthquake,0.26,0.51,0.41,4,automatic,nc,nc
 2022-06-22T13:18:37.080Z,33.4898333,-116.7763333,2.03,0.43,ml,15,101,0.03013,0.22,ci,ci40289040,2022-06-22T13:22:10.228Z,"10km ENE of Aguanga, CA",earthquake,0.37,0.42,0.092,11,automatic,ci,ci
+2022-06-22T13:13:34.770Z,35.0405,-116.9728333,4.4,1.37,ml,17,99,0.166,0.14,ci,ci40289024,2022-06-22T15:01:09.003Z,"16km NNE of Barstow, CA",earthquake,0.26,0.85,0.059,5,reviewed,ci,ci
 2022-06-22T13:02:35.738Z,58.2605,-134.0007,13.6,2.4,ml,,,,0.6,ak,ak0227ybq6hh,2022-06-22T13:04:20.117Z,"25 km E of Juneau, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-22T13:01:56.150Z,32.6515,-115.7278333,8.01,1.29,ml,15,71,0.002487,0.25,ci,ci40289000,2022-06-22T13:05:26.788Z,"16km WNW of Progreso, B.C., MX",earthquake,0.67,1.07,0.297,13,automatic,ci,ci
 2022-06-22T12:31:35.970Z,32.6515,-115.7365,8.77,1.54,ml,18,92,0.008807,0.22,ci,ci40288992,2022-06-22T12:35:20.429Z,"16km WNW of Progreso, B.C., MX",earthquake,0.53,0.7,0.192,20,automatic,ci,ci
@@ -212,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T15:15:13.090Z,35.899,-117.712,9.88,1.23,ml,24,49,0.09944,0.12,ci,ci40288584,2022-06-21T21:32:41.093Z,"18km ESE of Little Lake, CA",earthquake,0.16,0.32,0.222,12,reviewed,ci,ci
 2022-06-21T15:14:16.583Z,62.6206,-149.6587,68.5,0.8,ml,,,,0.29,ak,ak0227wpg7va,2022-06-21T18:14:02.094Z,"29 km NE of Chase, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-06-21T15:11:50.520Z,19.1468334197998,-155.482498168945,33.1500015258789,1.83000004,md,30,166,,0.189999998,hv,hv73050877,2022-06-21T15:14:52.780Z,"6 km S of Pāhala, Hawaii",earthquake,0.84,0.980000019,0.910000026,3,automatic,hv,hv
-2022-06-21T15:04:43.212Z,38.2469,-118.3537,9.6,-0.1,ml,7,232.3,0.119,0.051,nn,nn00841431,2022-06-22T02:40:05.062Z,"26 km SW of Mina, Nevada",earthquake,,5.3,0,1,reviewed,nn,nn
-2022-06-21T14:57:12.560Z,60.0378333333333,-153.070666666667,-0.61,-0.82,ml,4,186,,0.05,av,av91605041,2022-06-22T06:39:38.600Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.3,2.41,0.511222472354534,4,reviewed,av,av
