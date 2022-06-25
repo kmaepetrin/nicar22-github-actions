@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-25T15:34:57.000Z,35.884,-117.6776667,4.56,0.68,ml,8,167,0.09424,0.12,ci,ci40291296,2022-06-25T15:38:28.737Z,"21km ESE of Little Lake, CA",earthquake,0.43,0.73,0.182,6,automatic,ci,ci
 2022-06-25T15:29:31.850Z,33.5658333,-116.6536667,5.98,0.58,ml,13,95,0.05795,0.31,ci,ci40291288,2022-06-25T15:33:07.365Z,"2km ENE of Anza, CA",earthquake,0.88,1.8,0.031,5,automatic,ci,ci
-2022-06-25T15:25:42.580Z,38.8349991,-122.8126678,1.32,0.85,md,13,73,0.01176,0.04,nc,nc73750871,2022-06-25T15:34:11.052Z,"8km W of Cobb, CA",earthquake,0.28,0.51,,1,automatic,nc,nc
+2022-06-25T15:25:42.580Z,38.8349991,-122.8126678,1.32,0.85,md,13,73,0.01176,0.04,nc,nc73750871,2022-06-25T15:42:12.098Z,"8km W of Cobb, CA",earthquake,0.28,0.51,,1,automatic,nc,nc
 2022-06-25T15:15:23.690Z,35.4058333,-118.6443333,3.69,1.89,ml,32,51,0.1224,0.2,ci,ci40291280,2022-06-25T15:26:47.700Z,"24km SW of Bodfish, CA",earthquake,0.27,1.44,0.222,26,automatic,ci,ci
 2022-06-25T15:13:09.132Z,64.5005,-152.6578,1.4,1.2,ml,,,,0.59,ak,ak02283ble01,2022-06-25T15:15:38.839Z,"70 km NNW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-25T15:10:05.740Z,19.0935001373291,-155.313507080078,11.5600004196167,2.79,ml,20,235,,0.379999995,hv,hv73055252,2022-06-25T15:15:36.750Z,"21 km SE of Pāhala, Hawaii",earthquake,3.98,1.54999995,2.82,10,automatic,hv,hv
@@ -257,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T16:19:11.940Z,38.7876663,-122.7681656,2.11,0.55,md,12,101,0.01453,0.02,nc,nc73750476,2022-06-24T18:28:09.684Z,"2km NW of The Geysers, CA",earthquake,0.31,0.79,0.24,3,automatic,nc,nc
 2022-06-24T16:18:00.390Z,34.3355,-116.8895,0.13,1.11,ml,17,69,0.05283,0.12,ci,ci40290624,2022-06-24T17:25:18.922Z,"9km NNW of Big Bear City, CA",quarry blast,0.25,0.59,0.069,6,reviewed,ci,ci
 2022-06-24T16:13:01.060Z,19.1635,-155.470833333333,35.1,1.86,md,36,92,,0.12,hv,hv73054347,2022-06-24T22:10:28.420Z,"4 km S of Pāhala, Hawaii",earthquake,0.49,0.66,0.162154321898003,20,reviewed,hv,hv
-2022-06-24T15:47:48.700Z,38.7678337,-122.9253311,1.91,1.42,md,17,159,0.05941,0.05,nc,nc73750471,2022-06-24T18:20:15.502Z,"9km ESE of Cloverdale, CA",earthquake,0.53,1.37,0.19,6,automatic,nc,nc
-2022-06-24T15:41:51.599Z,59.8057,-153.0546,103.7,2.2,ml,,,,0.23,ak,ak02281o84tz,2022-06-24T16:07:45.040Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
