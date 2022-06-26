@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-26T18:44:14.940Z,38.7854996,-122.7378311,1.78,0.76,md,11,85,0.002419,0.02,nc,nc73751416,2022-06-26T18:45:48.294Z,"2km ENE of The Geysers, CA",earthquake,0.35,0.76,0.15,2,automatic,nc,nc
+2022-06-26T18:44:14.940Z,38.7854996,-122.7378311,1.78,0.76,md,11,85,0.002419,0.02,nc,nc73751416,2022-06-26T18:53:11.131Z,"2km ENE of The Geysers, CA",earthquake,0.35,0.76,0.15,2,automatic,nc,nc
 2022-06-26T18:35:51.600Z,38.762001,-122.7243347,1.88,0.33,md,10,135,0.000579,0.01,nc,nc73751411,2022-06-26T18:45:11.083Z,"3km WSW of Anderson Springs, CA",earthquake,0.63,0.76,0.06,3,automatic,nc,nc
 2022-06-26T18:20:14.188Z,64.4879,-150.6595,1.5,1,ml,,,,0.78,ak,ak022850yjpm,2022-06-26T18:22:25.016Z,"57 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-26T18:14:17.350Z,35.9729996,-120.5248337,10.51,2.12,md,38,59,0.02177,0.06,nc,nc73751401,2022-06-26T18:46:17.215Z,"12km NW of Parkfield, CA",earthquake,0.19,0.25,0.11,32,automatic,nc,nc
@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-25T19:10:36.467Z,-58.6246,-25.0482,24.81,4.5,mb,,79,15.912,0.64,us,us7000hk85,2022-06-25T21:28:55.040Z,"South Sandwich Islands region",earthquake,12.4,5.7,0.091,36,reviewed,us,us
 2022-06-25T19:00:30.653Z,-18.1961,-177.9868,584.11,4.3,mb,,115,3.796,0.83,us,us7000hk84,2022-06-25T21:14:02.040Z,"285 km E of Levuka, Fiji",earthquake,10.4,7.4,0.068,62,reviewed,us,us
 2022-06-25T19:00:08.700Z,38.8284988,-122.8010025,0.74,0.46,md,11,73,0.008728,0.03,nc,nc73750931,2022-06-25T19:08:10.813Z,"7km W of Cobb, CA",earthquake,0.28,0.76,0.39,2,automatic,nc,nc
-2022-06-25T18:48:25.648Z,59.2688,-151.8336,54,1.5,ml,,,,0.42,ak,ak02283dl85g,2022-06-25T18:50:07.418Z,"9 km S of Port Graham, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-06-25T18:48:03.130Z,37.6373333,-118.879,0.65,-0.43,md,5,151,0.01582,0.03,nc,nc73750921,2022-06-25T19:01:52.751Z,"9km E of Mammoth Lakes, CA",earthquake,0.69,1.05,0.2,4,reviewed,nc,nc
