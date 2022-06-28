@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-28T23:25:07.010Z,19.2056674957275,-155.469497680664,33.3699989318848,3.46,ml,47,96,,0.119999997,hv,hv73059517,2022-06-28T23:31:07.060Z,"1 km ENE of Pāhala, Hawaii",earthquake,0.44,0.639999986,3.6,35,automatic,hv,hv
-2022-06-28T23:22:25.060Z,33.2256667,-117.1133333,0.42,0.62,ml,8,119,0.1767,0.17,ci,ci40293280,2022-06-28T23:26:07.442Z,"7km W of Valley Center, CA",earthquake,0.54,31.61,0.279,4,automatic,ci,ci
+2022-06-28T23:25:06.920Z,19.2036666666667,-155.469166666667,35.08,3.74,ml,58,97,,0.12,hv,hv73059517,2022-06-28T23:41:18.831Z,"0 km E of Pāhala, Hawaii",earthquake,0.38,0.47,0.128285555067543,41,reviewed,hv,hv
 2022-06-28T23:20:07.918Z,63.0292,-151.0182,23.1,1.1,ml,,,,1.29,ak,ak02288f0e8n,2022-06-28T23:21:54.614Z,"60 km NNW of Petersville, Alaska",earthquake,,3.8,,,automatic,ak,ak
-2022-06-28T23:18:36.190Z,35.0408333,-117.662,0.29,1.73,ml,20,61,0.1099,0.23,ci,ci40293272,2022-06-28T23:22:28.595Z,"5km NNW of Boron, CA",quarry blast,0.48,31.61,0.158,28,automatic,ci,ci
+2022-06-28T23:18:35.960Z,35.0446667,-117.67,-0.79,1.78,ml,23,59,0.1121,0.14,ci,ci40293272,2022-06-28T23:42:24.713Z,"5km NNW of Boron, CA",quarry blast,0.33,31.61,0.134,28,reviewed,ci,ci
 2022-06-28T23:07:20.836Z,62.9082,-148.3811,0,1.4,ml,,,,0.88,ak,ak02288exmxf,2022-06-28T23:09:45.032Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-28T23:04:26.250Z,34.157,-116.428,10.41,0.83,ml,16,113,0.04373,0.14,ci,ci40293264,2022-06-28T23:22:02.593Z,"5km N of Yucca Valley, CA",earthquake,0.35,0.54,0.153,10,reviewed,ci,ci
+2022-06-28T22:50:31.700Z,18.7986666666667,-67.3031666666667,28.72,2.76,md,8,272,,0.2,pr,pr71356553,2022-06-28T23:37:38.250Z,"40 km NNW of San Antonio, Puerto Rico",earthquake,1.16,3.14,0.170100901275934,6,reviewed,pr,pr
 2022-06-28T22:42:08.080Z,33.0125,-115.601,5.79,1.21,ml,24,52,0.03028,0.2,ci,ci40293256,2022-06-28T23:18:11.327Z,"3km SE of Westmorland, CA",earthquake,0.34,0.54,0.095,14,reviewed,ci,ci
 2022-06-28T22:32:51.286Z,65.9806,-147.8791,10.2,1.1,ml,,,,0.74,ak,ak02288ehmkn,2022-06-28T22:36:30.806Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-28T22:24:06.290Z,17.9565,-67.1136666666667,10.49,1.97,md,4,279,,0.02,pr,pr71356548,2022-06-28T22:47:54.330Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,1.47,0.65,0.15547256232771,3,reviewed,pr,pr
@@ -279,6 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T00:13:05.570Z,64.885,-148.9328,12.7,0.7,ml,,,,0.51,ak,ak0228819x4t,2022-06-28T00:15:53.490Z,"32 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-27T23:47:03.740Z,39.424,-110.2728333,-3.37,1.56,ml,8,207,0.04048,0.2,uu,uu60503637,2022-06-28T15:47:12.560Z,"17 km SE of Sunnyside, Utah",earthquake,1.48,3.39,0.149,6,reviewed,uu,uu
 2022-06-27T23:46:12.880Z,35.0298333,-117.679,-0.82,1.42,ml,24,58,0.09627,0.16,ci,ci40292656,2022-06-28T18:48:26.975Z,"4km NW of Boron, CA",quarry blast,0.41,31.61,0.104,24,reviewed,ci,ci
-2022-06-27T23:41:25.030Z,39.4288333,-110.3005,-1.55,1.36,ml,7,184,0.01963,0.14,uu,uu60503632,2022-06-28T15:38:56.710Z,"15 km SSE of Sunnyside, Utah",earthquake,1.57,1.21,0.132,4,reviewed,uu,uu
-2022-06-27T23:39:47.860Z,19.1736660003662,-155.494506835938,35.0200004577637,1.94000006,md,26,92,,0.150000006,hv,hv73058377,2022-06-27T23:42:51.890Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.59,0.930000007,0.569999993,9,automatic,hv,hv
-2022-06-27T23:36:12.690Z,19.3383331298828,-155.194000244141,2.88000011444092,1.82,ml,37,78,,0.140000001,hv,hv73058367,2022-06-27T23:41:43.330Z,"12 km SSE of Volcano, Hawaii",earthquake,0.37,0.860000014,0.17,4,automatic,hv,hv
