@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-29T11:29:31.200Z,33.397,-116.4275,11.21,0.62,ml,30,66,0.1045,0.2,ci,ci40293592,2022-06-29T11:33:09.252Z,"16km NNW of Borrego Springs, CA",earthquake,0.34,0.8,0.081,11,automatic,ci,ci
+2022-06-29T11:35:26.874Z,38.4785,-117.9139,1,1.4,ml,10,150.03,0.433,0.3859,nn,nn00841921,2022-06-29T11:38:56.775Z,"19 km ENE of Mina, Nevada",earthquake,,16.9,0.28,8,automatic,nn,nn
+2022-06-29T11:29:31.200Z,33.397,-116.4275,11.21,0.62,ml,30,66,0.1045,0.2,ci,ci40293592,2022-06-29T11:37:23.158Z,"16km NNW of Borrego Springs, CA",earthquake,0.34,0.8,0.081,11,automatic,ci,ci
 2022-06-29T11:29:09.400Z,33.394,-116.4271667,11.93,0.91,ml,37,59,0.1033,0.23,ci,ci40293584,2022-06-29T11:32:43.710Z,"16km NNW of Borrego Springs, CA",earthquake,0.31,0.71,0.166,27,automatic,ci,ci
 2022-06-29T11:28:57.510Z,33.3918333,-116.4146667,12.86,0.31,ml,17,73,0.0927,0.1,ci,ci40293576,2022-06-29T11:32:32.218Z,"16km NNW of Borrego Springs, CA",earthquake,0.29,0.55,0.062,7,automatic,ci,ci
 2022-06-29T11:25:54.650Z,19.2228336334229,-155.377838134766,31.25,2.44,ml,47,154,,0.119999997,hv,hv73059997,2022-06-29T11:34:35.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.589999974,3.17,15,automatic,hv,hv
