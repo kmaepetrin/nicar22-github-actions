@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-01T22:43:50.392Z,26.8649,55.185,10,4.2,mb,45,97,2.12,0.83,us,us6000hz9h,2022-07-01T23:00:48.040Z,"45 km NE of Bandar-e Lengeh, Iran",earthquake,6,1.9,0.089,35,reviewed,us,us
 2022-07-01T22:36:43.081Z,38.1555,-118.2341,0,1.4,ml,18,87.46,0.201,0.3013,nn,nn00842094,2022-07-01T22:40:45.524Z,"28 km SSW of Mina, Nevada",earthquake,,5.2,0.23,11,automatic,nn,nn
 2022-07-01T22:21:55.690Z,38.8276672,-122.8011703,2.79,0.51,md,10,159,0.008159,0.02,nc,nc73753331,2022-07-01T22:54:10.663Z,"7km W of Cobb, CA",earthquake,0.62,0.89,0.35,2,automatic,nc,nc
 2022-07-01T22:07:46.799Z,26.8128,55.1631,10,4.3,mb,35,90,2.082,0.79,us,us6000hz98,2022-07-01T22:50:37.397Z,"39 km NE of Bandar-e Lengeh, Iran",earthquake,5.3,1.9,0.106,25,reviewed,us,us
 2022-07-01T22:02:12.020Z,44.4573333,-115.2065,3.98,1.94,ml,9,82,0.847,0.2,mb,mb80550239,2022-07-01T22:38:43.450Z,"34 km NW of Stanley, Idaho",earthquake,0.63,1.78,0.195,10,reviewed,mb,mb
 2022-07-01T21:47:51.697Z,26.8814,55.2295,10,5,mb,147,54,2.118,0.66,us,us6000hz94,2022-07-01T22:42:43.569Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,7,1.8,0.04,196,reviewed,us,us
-2022-07-01T21:32:07.965Z,26.9415,55.2266,10,6.1,mww,128,24,2.174,0.9,us,us6000hz8x,2022-07-01T22:54:33.924Z,"54 km NE of Bandar-e Lengeh, Iran",earthquake,6.6,1.8,0.065,23,reviewed,us,us
+2022-07-01T21:32:07.965Z,26.9415,55.2266,10,6.1,mww,128,24,2.174,0.9,us,us6000hz8x,2022-07-01T23:09:53.618Z,"54 km NE of Bandar-e Lengeh, Iran",earthquake,6.6,1.8,0.065,23,reviewed,us,us
 2022-07-01T21:31:05.851Z,61.804,-151.8186,99.9,1.9,ml,,,,0.42,ak,ak0228dchx7o,2022-07-01T21:32:54.356Z,"30 km SW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-07-01T21:17:07.610Z,33.3046667,-117.4985,4.12,1.47,ml,49,156,0.1073,0.21,ci,ci40295024,2022-07-01T21:20:54.195Z,"14km NW of Camp Pendleton South, CA",earthquake,0.55,1.55,0.135,28,automatic,ci,ci
 2022-07-01T21:15:08.530Z,39.9244995,-123.1074982,4.62,1.71,md,8,138,0.6343,0.12,nc,nc73753326,2022-07-01T22:16:13.431Z,"19km NE of Covelo, CA",earthquake,2.45,11.07,,1,automatic,nc,nc
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T13:03:02.451Z,37.4483,-116.008,0,0,ml,5,293.85,0.233,0.1608,nn,nn00842072,2022-07-01T19:11:31.559Z,"31 km SW of Rachel, Nevada",earthquake,,0,0.01,3,reviewed,nn,nn
 2022-07-01T12:56:40.432Z,2.7889,128.8023,26.51,4.8,mb,59,116,2.464,0.63,us,us6000hz3h,2022-07-01T13:13:39.040Z,"146 km NE of Tobelo, Indonesia",earthquake,8.8,6.1,0.06,87,reviewed,us,us
 2022-07-01T12:53:07.010Z,38.8190002,-122.770668,0.89,0.95,md,12,151,0.009701,0.03,nc,nc73753196,2022-07-01T14:06:10.383Z,"4km W of Cobb, CA",earthquake,0.42,0.72,0.25,2,automatic,nc,nc
-2022-07-01T12:46:42.800Z,34.155,-80.7233333,3.83,2.11,md,10,111,0.02963,0.26,se,se60155358,2022-07-01T18:00:07.015Z,"6 km ESE of Elgin, South Carolina",earthquake,2.93,1.48,0.081,9,reviewed,se,se
+2022-07-01T12:46:42.800Z,34.155,-80.7233333,3.83,2.11,md,10,111,0.02963,0.26,se,se60155358,2022-07-01T22:59:57.165Z,"6 km ESE of Elgin, South Carolina",earthquake,2.93,1.48,0.081,9,reviewed,se,se
 2022-07-01T12:25:42.410Z,35.896,-117.7121667,3.74,1.24,ml,17,116,0.0972,0.27,ci,ci40294808,2022-07-01T12:29:10.975Z,"18km ESE of Little Lake, CA",earthquake,0.54,1.24,0.175,16,automatic,ci,ci
 2022-07-01T12:25:01.358Z,62.7773,-148.3074,53.6,1.6,ml,,,,0.55,ak,ak0228d73q53,2022-07-01T12:27:41.975Z,"75 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-01T12:14:35.300Z,38.8310013,-122.8021698,1.73,1.12,md,24,43,0.009788,0.02,nc,nc73753191,2022-07-01T13:40:11.248Z,"7km W of Cobb, CA",earthquake,0.19,0.4,0.22,4,automatic,nc,nc
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T23:37:42.910Z,39.4333333,-110.3135,-1.1,1.82,md,8,192,0.01287,0.07,uu,uu60504142,2022-07-01T15:32:37.690Z,"14 km SSE of Sunnyside, Utah",earthquake,0.85,0.41,0.188,6,reviewed,uu,uu
 2022-06-30T23:17:31.520Z,44.0623333,-110.2425,12.11,1.27,md,8,142,0.1239,0.09,uu,uu60504132,2022-07-01T15:00:38.610Z,"57 km NNE of Kelly, Wyoming",earthquake,0.92,2.48,0.311,4,reviewed,uu,uu
 2022-06-30T23:14:31.660Z,39.4281667,-110.298,-1.86,1.46,ml,8,183,0.02138,0.15,uu,uu60504127,2022-07-01T15:26:56.410Z,"15 km SSE of Sunnyside, Utah",earthquake,1.78,1.58,0.121,4,reviewed,uu,uu
-2022-06-30T23:00:47.590Z,19.2520008087158,-155.379837036133,30.1299991607666,1.99000001,md,21,138,,0.180000007,hv,hv73061187,2022-06-30T23:03:58.110Z,"11 km ENE of Pāhala, Hawaii",earthquake,1.05,0.819999993,0.99000001,3,automatic,hv,hv
-2022-06-30T23:00:07.300Z,39.4303333,-110.3025,-1.47,1.55,md,6,197,0.01858,0.13,uu,uu60504122,2022-07-01T15:12:59.700Z,"15 km SSE of Sunnyside, Utah",earthquake,2.01,1.29,0.147,6,reviewed,uu,uu
