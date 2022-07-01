@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-01T05:50:01.710Z,33.8540001,-116.7891693,10.65,1.26,ml,25,110,0.02147,0.16,ci,ci40294680,2022-07-01T05:52:07.247Z,"7km S of Cabazon, CA",earthquake,0.37,0.59,0.568,3,automatic,ci,ci
-2022-07-01T05:27:56.720Z,37.196167,-118.2568359,11.86,3.45,ml,25,172,0.04027,0.04,nc,nc73753116,2022-07-01T05:50:11.572Z,"4km NE of Big Pine, CA",earthquake,0.65,0.37,0.339,27,automatic,nc,nc
+2022-07-01T05:56:25.544Z,60.7379,-151.9931,78.9,1,ml,,,,0.69,ak,ak0228d34dvy,2022-07-01T05:58:57.895Z,"38 km W of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-07-01T05:54:19.742Z,62.2058,-149.9994,20,1.5,ml,,,,0.36,ak,ak0228d33y3a,2022-07-01T05:55:45.925Z,"9 km WNW of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-01T05:53:21.240Z,38.7724991,-122.7258301,1.22,1.73,md,20,131,0.01369,0.05,nc,nc73753121,2022-07-01T05:54:54.181Z,"3km ESE of The Geysers, CA",earthquake,0.29,0.41,0.05,4,automatic,nc,nc
+2022-07-01T05:50:01.600Z,33.8558333,-116.7921667,11.26,0.57,ml,19,126,0.0226,0.2,ci,ci40294680,2022-07-01T05:53:33.483Z,"7km S of Cabazon, CA",earthquake,0.39,0.96,0.128,15,automatic,ci,ci
+2022-07-01T05:27:56.810Z,37.1925,-118.2695,11.63,3.24,ml,32,101,0.03959,0.08,nc,nc73753116,2022-07-01T05:59:54.639Z,"4km NNE of Big Pine, CA",earthquake,0.38,0.46,0.291,48,reviewed,nc,nc
 2022-07-01T05:27:55.180Z,19.2866668701172,-155.410171508789,32.6699981689453,2.04999995,md,38,110,,0.159999996,hv,hv73061417,2022-07-01T05:31:13.600Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.829999983,0.980000019,16,automatic,hv,hv
 2022-07-01T05:25:37.990Z,38.8451653,-122.8391647,1.39,0.86,md,20,97,0.007167,0.02,nc,nc73753111,2022-07-01T05:42:12.519Z,"10km WNW of Cobb, CA",earthquake,0.22,0.39,0.01,3,automatic,nc,nc
 2022-07-01T05:25:04.150Z,33.9558333,-117.1446667,13.96,0.82,ml,18,97,0.1066,0.22,ci,ci40294664,2022-07-01T05:28:37.224Z,"8km ENE of Moreno Valley, CA",earthquake,0.44,1.07,0.153,17,automatic,ci,ci
@@ -168,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T12:13:33.119Z,54.3091,-161.5076,25.5,2.2,ml,,,,0.65,ak,ak0228bjhv6n,2022-06-30T15:10:42.602Z,"98 km SSE of King Cove, Alaska",earthquake,,2.6,,,reviewed,ak,ak
 2022-06-30T12:12:46.886Z,37.8279,-116.0323,0,1.6,ml,15,154.03,0.291,0.2099,nn,nn00842004,2022-07-01T02:40:27.646Z,"32 km NW of Rachel, Nevada",earthquake,,0,0.49,9,reviewed,nn,nn
 2022-06-30T12:08:45.180Z,44.8026667,-110.7981667,7.42,0.26,md,8,215,0.03992,0.09,uu,uu60504047,2022-06-30T15:48:33.610Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.72,1.21,0.192,6,reviewed,uu,uu
+2022-06-30T12:00:25.090Z,54.5591666666667,-163.31,10.78,2.2,ml,9,210,,0.13,av,av91064568,2022-07-01T05:58:21.440Z,"33 km S of False Pass, Alaska",earthquake,0.8,1.04,0.221024840351674,9,reviewed,av,av
 2022-06-30T11:58:52.407Z,38.1751,-118.1641,9.4,1.2,ml,19,129.66,0.143,0.1107,nn,nn00842001,2022-07-01T02:40:25.748Z,"24 km SSW of Mina, Nevada",earthquake,,2.4,0.25,7,reviewed,nn,nn
 2022-06-30T11:44:44.490Z,51.862,-177.824166666667,5.05,-0.04,ml,4,242,,0.11,av,av91064563,2022-07-01T05:25:24.240Z,"81 km W of Adak, Alaska",earthquake,0.74,1.15,0.20454125853765,4,reviewed,av,av
 2022-06-30T11:43:36.860Z,19.2453327178955,-155.396835327148,30.1100006103516,1.80999994,md,29,135,,0.129999995,hv,hv73060782,2022-06-30T11:46:49.990Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.73,1.14999998,1.35000002,6,automatic,hv,hv
@@ -245,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T06:13:20.320Z,37.983,-118.7385,15.41,1.29,md,17,107,0.3251,0.04,nc,nc73752816,2022-07-01T02:39:57.637Z,"34km E of Lee Vining, CA",earthquake,0.33,1.37,0.14,8,reviewed,nc,nc
 2022-06-30T06:07:13.977Z,43.4894,17.6111,47.97,4.5,mb,101,20,1.296,0.65,us,us6000hyqe,2022-06-30T14:49:13.369Z,"11 km N of Široki Brijeg, Bosnia and Herzegovina",earthquake,5.4,6.9,0.052,109,reviewed,us,us
 2022-06-30T06:04:24.350Z,36.406,-120.9821667,10.55,1.47,md,33,73,0.07846,0.09,nc,nc73752811,2022-06-30T19:04:10.755Z,"20km SE of Pinnacles, CA",earthquake,0.22,0.48,0.177,28,reviewed,nc,nc
-2022-06-30T05:59:33.410Z,44.3301667,-114.2145,7.4,0.9,ml,5,236,0.137,0.25,mb,mb80550139,2022-06-30T14:09:32.800Z,"16 km ENE of Clayton, Idaho",earthquake,1.9,4.93,0.211,8,reviewed,mb,mb
-2022-06-30T05:55:53.206Z,60.8701,-151.2273,36.2,1.6,ml,,,,0.73,ak,ak0228bfkvw8,2022-06-30T05:57:54.131Z,"20 km N of Nikiski, Alaska",earthquake,,7,,,automatic,ak,ak
