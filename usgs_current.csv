@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-01T11:28:27.070Z,63.2577,-148.5884,76.4,2.9,ml,,,,0.41,ak,ak0228d6izno,2022-07-01T11:30:03.417Z,"23 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-01T11:28:27.070Z,63.2577,-148.5884,76.4,2.9,ml,,,,0.41,ak,ak0228d6izno,2022-07-01T11:38:40.040Z,"23 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-01T11:23:24.110Z,33.3778333,-116.8841667,6.44,0.99,ml,41,28,0.03013,0.24,ci,ci40294784,2022-07-01T11:27:02.006Z,"3km NW of Palomar Observatory, CA",earthquake,0.26,0.6,0.116,26,automatic,ci,ci
 2022-07-01T11:19:23.150Z,33.3803333,-116.8826667,6.99,0.68,ml,21,69,0.03148,0.18,ci,ci40294776,2022-07-01T11:22:59.539Z,"3km NNW of Palomar Observatory, CA",earthquake,0.29,0.62,0.11,18,automatic,ci,ci
 2022-07-01T11:16:36.050Z,38.8366661,-122.7921677,2.23,0.85,md,9,76,0.002249,0.01,nc,nc73753181,2022-07-01T11:33:12.519Z,"6km WNW of Cobb, CA",earthquake,0.38,1.12,,1,automatic,nc,nc
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T11:58:52.407Z,38.1751,-118.1641,9.4,1.2,ml,19,129.66,0.143,0.1107,nn,nn00842001,2022-07-01T02:40:25.748Z,"24 km SSW of Mina, Nevada",earthquake,,2.4,0.25,7,reviewed,nn,nn
 2022-06-30T11:44:44.490Z,51.862,-177.824166666667,5.05,-0.04,ml,4,242,,0.11,av,av91064563,2022-07-01T05:25:24.240Z,"81 km W of Adak, Alaska",earthquake,0.74,1.15,0.20454125853765,4,reviewed,av,av
 2022-06-30T11:43:36.860Z,19.2453327178955,-155.396835327148,30.1100006103516,1.80999994,md,29,135,,0.129999995,hv,hv73060782,2022-06-30T11:46:49.990Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.73,1.14999998,1.35000002,6,automatic,hv,hv
-2022-06-30T11:37:28.340Z,46.41416666666667,-119.276,4.85,1.1500000000000001,ml,16,120,0.01748,0.22,uw,uw61847837,2022-06-30T19:30:49.590Z,"13 km NNE of West Richland, Washington",earthquake,0.51,31.61,0.2101811264405592,17,reviewed,uw,uw
