@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-02T11:07:53.440Z,33.6040001,-116.7331696,14.76,1.16,ml,14,63,0.02779,0.11,ci,ci40295376,2022-07-02T11:09:58.864Z,"8km NW of Anza, CA",earthquake,0.57,0.92,0.445,8,automatic,ci,ci
+2022-07-02T10:56:19.890Z,33.608,-116.738,14.62,0.11,ml,16,69,0.04249,0.24,ci,ci40295368,2022-07-02T10:59:52.590Z,"8km NW of Anza, CA",earthquake,0.82,1.09,0.086,5,automatic,ci,ci
 2022-07-02T10:44:27.930Z,33.6041667,-116.7378333,12.54,0.84,ml,29,71,0.02429,0.16,ci,ci40295360,2022-07-02T10:48:08.609Z,"8km NW of Anza, CA",earthquake,0.26,0.47,0.148,27,automatic,ci,ci
 2022-07-02T10:32:42.720Z,38.8344994,-122.8040009,1.92,0.36,md,10,106,0.01136,0,nc,nc73753466,2022-07-02T10:40:10.677Z,"7km W of Cobb, CA",earthquake,0.34,0.92,,1,automatic,nc,nc
 2022-07-02T10:31:55.393Z,61.4767,-149.9025,34,1,ml,,,,0.21,ak,ak0228ethlw3,2022-07-02T10:33:36.188Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-02T10:29:29.760Z,38.8336678,-122.8030014,1.81,1.8,md,30,33,0.01096,0.03,nc,nc73753461,2022-07-02T10:37:10.661Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.05,9,automatic,nc,nc
+2022-07-02T10:29:29.760Z,38.8336678,-122.8030014,1.81,1.8,md,30,33,0.01096,0.03,nc,nc73753461,2022-07-02T11:03:15.820Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.05,9,automatic,nc,nc
 2022-07-02T10:28:05.770Z,33.7578333,-116.8213333,1.9,1.1,ml,17,138,0.07815,0.34,ci,ci40295352,2022-07-02T10:31:50.436Z,"7km E of Valle Vista, CA",earthquake,0.88,1.69,0.281,31,automatic,ci,ci
 2022-07-02T10:24:43.150Z,36.8134995,-121.5441666,5.53,2.3,md,39,47,0.03303,0.18,nc,nc73753456,2022-07-02T10:53:23.756Z,"4km S of San Juan Bautista, CA",earthquake,0.33,0.63,0.14,36,automatic,nc,nc
 2022-07-02T10:16:33.320Z,33.6065,-116.7395,12.04,0.15,ml,16,60,0.02418,0.16,ci,ci40295344,2022-07-02T10:20:07.079Z,"8km NW of Anza, CA",earthquake,0.44,0.61,0.1,6,automatic,ci,ci
@@ -99,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T23:46:25.770Z,54.5125,-164.745666666667,26.32,0.51,ml,5,165,,0.18,av,av91064693,2022-07-02T05:42:39.200Z,"79 km ENE of Akutan, Alaska",earthquake,1.39,0.8,0.301195535963707,5,reviewed,av,av
 2022-07-01T23:35:44.630Z,19.1555004119873,-155.456161499023,32.6699981689453,2.04999995,md,24,169,,0.129999995,hv,hv73062147,2022-07-01T23:39:04.520Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.59,1.05999994,1.04999995,11,automatic,hv,hv
 2022-07-01T23:33:58.330Z,19.1595001220703,-155.470993041992,35.9599990844727,1.90999997,md,16,164,,0.150000006,hv,hv73062142,2022-07-01T23:37:17.640Z,"4 km S of Pāhala, Hawaii",earthquake,0.92,1.36000001,1.90999997,4,automatic,hv,hv
-2022-07-01T23:25:14.133Z,26.8992,55.3207,10,6,mwb,364,21,2.102,0.68,us,us6000hz9v,2022-07-02T10:50:00.658Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.7,0.028,126,reviewed,us,us
+2022-07-01T23:25:14.133Z,26.8992,55.3207,10,6,mwb,364,21,2.102,0.68,us,us6000hz9v,2022-07-02T11:07:50.392Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.7,0.028,126,reviewed,us,us
 2022-07-01T23:24:14.319Z,26.9249,55.2468,10,5.7,mwb,122,24,2.151,0.91,us,us6000hz9p,2022-07-02T06:56:56.439Z,"54 km NE of Bandar-e Lengeh, Iran",earthquake,7.2,1.8,0.036,74,reviewed,us,us
 2022-07-01T23:21:45.588Z,-16.6414,-169.7488,10,5,mb,31,57,10.476,0.63,us,us6000hz9r,2022-07-02T05:32:00.428Z,"267 km S of Ta`ū, American Samoa",earthquake,5.6,1.8,0.108,27,reviewed,us,us
 2022-07-01T23:13:44.113Z,26.8954,55.3149,10,4.2,mb,63,94,2.1,0.62,us,us6000hz9l,2022-07-02T02:03:50.040Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.4,1.8,0.076,48,reviewed,us,us
