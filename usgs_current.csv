@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T16:28:09.824Z,62.3196,-152.0279,100,1.4,ml,,,,0.38,ak,ak0228ex1guu,2022-07-02T16:30:32.768Z,"49 km NW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-02T16:12:57.080Z,38.8156662,-122.815834,3.48,0.35,md,8,93,0.008933,0.02,nc,nc73753551,2022-07-02T17:02:09.872Z,"7km NW of The Geysers, CA",earthquake,0.56,2.52,,1,automatic,nc,nc
 2022-07-02T16:09:47.400Z,33.2498333,-116.1011667,3.26,0.82,ml,15,58,0.1093,0.24,ci,ci40295512,2022-07-02T16:13:29.158Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.4,0.9,0.098,17,automatic,ci,ci
-2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-02T19:25:47.379Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
+2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-02T19:37:56.219Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
 2022-07-02T15:57:24.440Z,40.2391663,-124.6981659,0,2.67,md,15,268,0.3272,0.18,nc,nc73753546,2022-07-02T16:37:10.738Z,"36km WSW of Petrolia, CA",earthquake,2.79,5.87,0.06,9,automatic,nc,nc
 2022-07-02T15:53:11.760Z,18.0405,-66.6536666666667,19.26,2.6,md,31,59,,0.11,pr,pr71357188,2022-07-02T18:03:55.966Z,"4 km NW of Ponce, Puerto Rico",earthquake,0.26,0.18,0.180032858086994,17,reviewed,pr,pr
 2022-07-02T15:45:47.650Z,17.9573333333333,-66.8363333333333,16.2,2.57,md,33,192,,0.23,pr,pr71357178,2022-07-02T18:24:34.040Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.64,0.41,0.209253090155948,20,reviewed,pr,pr
