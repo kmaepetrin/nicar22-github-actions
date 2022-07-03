@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T13:13:37.649Z,60.731,-147.3107,19.7,1.4,ml,,,,0.59,ak,ak0228gipcxw,2022-07-03T13:16:17.883Z,"37 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-03T13:11:05.071Z,62.1101,-149.0304,42.1,1.3,ml,,,,0.31,ak,ak0228giouzv,2022-07-03T13:12:46.792Z,"39 km NNW of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-03T13:09:50.100Z,38.8406677,-122.8228302,2.02,0.88,md,18,100,0.0101,0.01,nc,nc73753881,2022-07-03T13:31:15.126Z,"9km WNW of Cobb, CA",earthquake,0.26,0.56,0.02,3,automatic,nc,nc
-2022-07-03T13:03:29.080Z,37.7953339,-122.1904984,9.37,1.83,md,25,106,0.01788,0.08,nc,nc73753876,2022-07-03T14:42:11.509Z,"3km E of Oakland, CA",earthquake,0.25,0.57,0.23,23,automatic,nc,nc
+2022-07-03T13:03:29.080Z,37.7953339,-122.1904984,9.37,1.83,md,25,106,0.01788,0.08,nc,nc73753876,2022-07-03T14:50:00.798Z,"3km E of Oakland, CA",earthquake,0.25,0.57,0.23,23,automatic,nc,nc
 2022-07-03T12:52:32.910Z,33.6908333,-116.728,15.43,1.02,ml,13,77,0.02333,0.14,ci,ci40295808,2022-07-03T12:56:02.574Z,"6km S of Idyllwild, CA",earthquake,0.48,0.55,0.348,11,automatic,ci,ci
 2022-07-03T12:35:35.329Z,61.836,-146.8836,29.2,1.4,ml,,,,0.73,ak,ak0228gi8mws,2022-07-03T12:37:24.356Z,"18 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-03T12:34:21.090Z,38.7885017,-122.7686691,2.55,0.46,md,10,98,0.01398,0.02,nc,nc73753871,2022-07-03T13:07:15.986Z,"2km NW of The Geysers, CA",earthquake,0.38,1,0.4,2,automatic,nc,nc
