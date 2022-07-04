@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-04T13:45:06.970Z,33.3451667,-115.733,1.12,2.17,ml,47,63,0.01963,0.19,ci,ci40296320,2022-07-04T13:55:51.810Z,"0km S of Bombay Beach, CA",earthquake,0.25,31.61,0.136,27,automatic,ci,ci
+2022-07-04T14:03:29.720Z,38.769165,-122.7103348,1.12,0.68,md,8,135,0.008698,0.09,nc,nc73754316,2022-07-04T14:05:07.267Z,"2km WSW of Anderson Springs, CA",earthquake,0.42,0.55,0.16,2,automatic,nc,nc
+2022-07-04T14:02:29.770Z,36.7701683,-121.3303299,8.69,1.66,md,11,185,0.06392,0.08,nc,nc73754311,2022-07-04T14:04:07.145Z,"2km SSW of Tres Pinos, CA",earthquake,0.91,0.92,0.23,8,automatic,nc,nc
+2022-07-04T14:00:41.599Z,61.7171,-149.9397,26.6,1.9,ml,,,,0.81,ak,ak0228i6rd1b,2022-07-04T14:02:59.240Z,"6 km ESE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-07-04T13:45:06.970Z,33.3451667,-115.733,1.12,2.17,ml,47,63,0.01963,0.19,ci,ci40296320,2022-07-04T14:03:04.823Z,"0km S of Bombay Beach, CA",earthquake,0.25,31.61,0.136,27,automatic,ci,ci
 2022-07-04T13:40:02.290Z,36.4333344,-121.0043335,8.89,1.34,md,8,107,0.04848,0.06,nc,nc73754296,2022-07-04T13:56:14.978Z,"17km SE of Pinnacles, CA",earthquake,0.51,0.9,0.14,4,automatic,nc,nc
-2022-07-04T13:39:57.300Z,33.3446667,-115.7326667,1.2,2.39,ml,48,64,0.02009,0.19,ci,ci40296312,2022-07-04T13:50:43.500Z,"1km S of Bombay Beach, CA",earthquake,0.22,0.54,0.125,27,automatic,ci,ci
+2022-07-04T13:39:57.300Z,33.3446667,-115.7326667,1.2,2.39,ml,48,64,0.02009,0.19,ci,ci40296312,2022-07-04T14:00:03.366Z,"1km S of Bombay Beach, CA",earthquake,0.22,0.54,0.125,27,automatic,ci,ci
 2022-07-04T13:31:26.910Z,33.2823333,-115.9526667,5.57,1.06,ml,26,81,0.1106,0.3,ci,ci40296304,2022-07-04T13:43:30.800Z,"2km S of Salton City, CA",earthquake,0.51,1.78,0.16,22,automatic,ci,ci
 2022-07-04T13:30:04.680Z,38.8129997,-122.8198318,2.53,0.86,md,23,52,0.008387,0.02,nc,nc73754291,2022-07-04T13:46:14.915Z,"7km NW of The Geysers, CA",earthquake,0.22,0.42,0.29,4,automatic,nc,nc
 2022-07-04T13:22:13.642Z,13.4071,-90.0533,55.18,4.2,mb,47,198,0.559,1.13,us,us6000hzr5,2022-07-04T13:45:20.040Z,"31 km SW of Acajutla, El Salvador",earthquake,7.1,10.9,0.103,26,reviewed,us,us
@@ -34,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T09:39:18.137Z,56.6595,-169.36,36.5,3.9,ml,,,,1.07,ak,ak0228i40i5y,2022-07-04T10:23:30.125Z,"13 km ENE of Saint George, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-07-04T09:32:33.742Z,10.3633,94.3069,10,4.7,mb,29,175,2.001,0.73,us,us6000hzq2,2022-07-04T09:52:06.040Z,"223 km SE of Port Blair, India",earthquake,9.8,1.9,0.118,22,reviewed,us,us
 2022-07-04T09:28:59.813Z,38.4851,-117.9292,0,1.3,ml,10,148.81,0.444,0.4473,nn,nn00842201,2022-07-04T09:32:29.989Z,"18 km NE of Mina, Nevada",earthquake,,36,0.4,6,automatic,nn,nn
-2022-07-04T09:17:43.107Z,56.6337,-169.0876,9.42,5.3,mww,114,29,3.029,0.42,us,us6000hzpv,2022-07-04T13:27:47.765Z,"28 km E of Saint George, Alaska",earthquake,6.7,1.2,0.035,77,reviewed,us,us
+2022-07-04T09:17:43.107Z,56.6337,-169.0876,9.42,5.3,mww,114,29,3.029,0.42,us,us6000hzpv,2022-07-04T14:06:53.907Z,"28 km E of Saint George, Alaska",earthquake,6.7,1.2,0.035,77,reviewed,us,us
 2022-07-04T09:13:39.100Z,36.1558333,-117.9238333,2.46,1.44,ml,17,78,0.06764,0.2,ci,ci40296240,2022-07-04T09:17:08.474Z,"12km N of Coso Junction, CA",earthquake,0.41,0.62,0.164,13,automatic,ci,ci
 2022-07-04T09:08:22.250Z,19.1310005187988,-155.37516784668,30.1499996185303,1.75999999,md,27,192,,0.119999997,hv,hv73064577,2022-07-04T09:11:31.790Z,"Island of Hawaii, Hawaii",earthquake,0.87,1.04999995,1.75999999,4,automatic,hv,hv
 2022-07-04T09:07:04.327Z,10.3222,94.1963,10,5.6,mb,52,95,1.946,0.92,us,us6000hzpu,2022-07-04T11:10:32.828Z,"217 km SE of Port Blair, India",earthquake,4.8,1.8,0.07,72,reviewed,us,us
