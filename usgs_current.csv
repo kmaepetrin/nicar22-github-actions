@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-05T14:29:53.060Z,38.7943344,-122.7975006,0,0.93,md,17,57,0.007412,0.06,nc,nc73754826,2022-07-05T14:31:29.568Z,"4km WNW of The Geysers, CA",earthquake,0.21,0.48,0.04,4,automatic,nc,nc
+2022-07-05T14:24:13.290Z,38.7953339,-122.796669,0.37,0.98,md,16,79,0.007169,0.05,nc,nc73754821,2022-07-05T14:25:48.938Z,"4km WNW of The Geysers, CA",earthquake,0.21,0.45,0.24,2,automatic,nc,nc
+2022-07-05T14:23:11.600Z,38.7949982,-122.7953339,0,2.21,md,38,62,0.006073,0.05,nc,nc73754816,2022-07-05T14:30:10.975Z,"4km WNW of The Geysers, CA",earthquake,0.14,0.25,0.14,15,automatic,nc,nc
+2022-07-05T14:21:57.120Z,38.7948341,-122.7976685,0.63,0.74,md,7,131,0.007749,0.03,nc,nc73754806,2022-07-05T14:30:10.817Z,"4km WNW of The Geysers, CA",earthquake,0.45,0.64,0.11,2,automatic,nc,nc
 2022-07-05T14:08:35.939Z,61.5767,-151.4371,29.6,0.9,ml,,,,0.64,ak,ak0228jucetl,2022-07-05T14:10:31.884Z,"46 km S of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-05T13:47:57.480Z,35.7155,-117.5523333,10.73,0.98,ml,14,216,0.1066,0.15,ci,ci40297104,2022-07-05T13:51:29.534Z,"15km WSW of Searles Valley, CA",earthquake,0.78,0.52,0.188,9,automatic,ci,ci
 2022-07-05T13:35:17.654Z,63.1435,-148.215,67,1,ml,,,,1.23,ak,ak0228jtwq51,2022-07-05T13:37:28.346Z,"46 km SE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -237,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T14:38:08.154Z,61.7183,-149.9531,44.5,1.2,ml,,,,0.6,ak,ak0228i6zfnz,2022-07-04T14:40:12.492Z,"5 km SE of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-04T14:32:18.915Z,31.64281111,-104.4330956,8.856616211,2.2,ml,37,68,0.06322067437,0.3,tx,tx2022mzhi,2022-07-05T10:26:12.372Z,"59 km S of Whites City, New Mexico",earthquake,1.008488061,1.337357249,0.1,25,reviewed,tx,tx
 2022-07-04T14:32:15.300Z,47.43533333333333,-122.906,15.32,0.61,ml,15,125,0.1399,0.2,uw,uw61849427,2022-07-04T17:47:44.110Z,"6 km WSW of Belfair, Washington",earthquake,0.51,1.13,0.15844241410181636,11,reviewed,uw,uw
-2022-07-04T14:28:09.590Z,37.3565,-118.5506667,9.94,1.39,md,25,90,0.01058,0.05,nc,nc73754336,2022-07-04T21:28:10.691Z,"8km SSE of Round Valley, CA",earthquake,0.26,0.44,0.146,23,reviewed,nc,nc
-2022-07-04T14:25:32.549Z,62.9994,-148.2205,50.8,0.6,ml,,,,1.2,ak,ak0228i6wp5b,2022-07-04T14:31:58.529Z,"57 km SE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-04T14:25:06.990Z,37.361,-118.5526667,9.44,1.91,md,15,107,0.01151,0.07,nc,nc73754331,2022-07-04T20:13:13.282Z,"7km SE of Round Valley, CA",earthquake,0.4,0.73,0.352,16,reviewed,nc,nc
