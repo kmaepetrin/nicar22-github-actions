@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-08T10:31:43.360Z,38.8330002,-122.8166656,1.32,0.85,md,10,88,0.01089,0.01,nc,nc73756291,2022-07-08T10:41:11.478Z,"8km NW of The Geysers, CA",earthquake,0.32,0.81,,1,automatic,nc,nc
+2022-07-08T10:31:43.360Z,38.8330002,-122.8166656,1.32,0.85,md,10,88,0.01089,0.01,nc,nc73756291,2022-07-08T10:55:12.706Z,"8km NW of The Geysers, CA",earthquake,0.32,0.81,,1,automatic,nc,nc
 2022-07-08T10:29:53.020Z,33.2313347,-116.1084976,8.95,3.12,ml,119,20,0.0904,0.22,ci,ci40299688,2022-07-08T10:53:30.330Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.17,0.69,0.228,19,automatic,ci,ci
 2022-07-08T10:19:04.010Z,17.9935,-66.954,14.1,1.84,md,4,171,,0.02,pr,pr71358138,2022-07-08T10:41:51.620Z,"4 km W of Fuig, Puerto Rico",earthquake,0.65,1.29,0.13410598803474,4,reviewed,pr,pr
 2022-07-08T09:50:48.670Z,37.5675011,-118.9258347,9.07,0.73,md,10,225,0.06125,0.02,nc,nc73756271,2022-07-08T10:08:12.299Z,"9km SSE of Mammoth Lakes, CA",earthquake,1.07,1.61,0.13,10,automatic,nc,nc
@@ -231,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T11:21:57.460Z,19.4123333333333,-155.6415,0.18,2.34,ml,44,90,,0.21,hv,hv73067772,2022-07-08T00:09:46.312Z,"23 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.76,0.102099927211762,18,reviewed,hv,hv
 2022-07-07T11:21:07.020Z,37.581,-118.8625,4.67,0.56,md,17,161,0.02802,0.03,nc,nc73755841,2022-07-07T16:17:12.981Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.38,0.73,0.212,15,reviewed,nc,nc
 2022-07-07T11:07:23.128Z,63.0956,-150.345,97.9,1.1,ml,,,,0.09,ak,ak0228n3mkag,2022-07-07T11:08:55.532Z,"70 km NNE of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-07-07T10:56:56.450Z,37.2713333,-121.6485,3.33,0.95,md,22,41,0.02319,0.07,nc,nc73755826,2022-07-07T19:06:16.877Z,"16km N of Morgan Hill, CA",earthquake,0.16,0.33,0.132,22,reviewed,nc,nc
-2022-07-07T10:56:01.558Z,59.8558,-138.2004,5,2.7,ml,23,122,1.033,0.91,us,us6000i0if,2022-07-08T08:07:35.040Z,"92 km ENE of Yakutat, Alaska",earthquake,3.6,2,0.066,30,reviewed,us,us
-2022-07-07T10:54:07.878Z,61.6385,-146.4155,29.1,1.4,ml,,,,0.55,ak,ak0228n3b65v,2022-07-07T10:55:44.768Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
