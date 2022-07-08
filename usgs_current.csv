@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-08T19:34:26.490Z,32.9131667,-116.3075,7.96,1.01,ml,21,86,0.04146,0.17,ci,ci40300088,2022-07-08T19:38:03.615Z,"23km ENE of Pine Valley, CA",earthquake,0.28,0.65,0.208,14,automatic,ci,ci
 2022-07-08T19:17:48.237Z,58.4814,-153.3313,65.3,2.9,ml,,,,0.16,ak,ak0228ovzkpz,2022-07-08T19:19:44.985Z,"53 km NNW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-07-08T19:16:36.262Z,61.6244,-141.0041,0,2.9,ml,,,,0.86,ak,ak0228ovzc2y,2022-07-08T19:18:43.643Z,"104 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-08T19:05:35.638Z,62.918,-148.3048,0.2,2,ml,,,,0.73,ak,ak0228ovwz5n,2022-07-08T19:08:00.698Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -13,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T18:23:47.429Z,59.1168,-138.046,0,2.1,ml,,,,1.13,ak,ak0228ovffcm,2022-07-08T18:25:59.868Z,"107 km ESE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-08T18:17:07.220Z,38.8416672,-122.8261642,2.01,0.86,md,8,101,0.007903,0.01,nc,nc73756411,2022-07-08T18:42:14.466Z,"9km WNW of Cobb, CA",earthquake,0.63,1.29,,1,automatic,nc,nc
 2022-07-08T18:16:07.193Z,38.1525,-118.1239,11.7,0.8,ml,10,161.46,0.119,0.1389,nn,nn00842436,2022-07-08T18:21:16.176Z,"26 km S of Mina, Nevada",earthquake,,1.1,0.26,6,automatic,nn,nn
+2022-07-08T18:10:30.262Z,52.0251,-174.8079,13.2,1.3,ml,,,,0.91,ak,ak0228ovcl82,2022-07-08T19:38:46.227Z,"45 km WSW of Atka, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-08T18:06:23.950Z,19.5026666666667,-155.660166666667,4.61,2.14,ml,15,108,,0.11,hv,hv73069472,2022-07-08T18:16:55.310Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.85,0.0819874501766487,8,reviewed,hv,hv
 2022-07-08T18:04:31.880Z,33.8171667,-117.4868333,2.2,1.61,ml,50,34,0.03483,0.23,ci,ci40299976,2022-07-08T18:16:20.053Z,"8km SSE of Home Gardens, CA",quarry blast,0.31,0.46,0.204,28,automatic,ci,ci
 2022-07-08T18:03:32.524Z,58.1271,-142.6674,10,3.2,ml,108,135,2.019,0.46,us,us6000i0zc,2022-07-08T18:50:41.040Z,"231 km SW of Yakutat, Alaska",earthquake,1.7,2,0.041,78,reviewed,us,us
@@ -167,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T04:29:14.394Z,61.8249,-151.1784,71.4,1.7,ml,,,,0.27,ak,ak0228on4kmn,2022-07-08T04:31:15.713Z,"21 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-08T04:26:42.929Z,2.6763,122.8015,503.75,4.2,mb,61,82,2.547,0.66,us,us6000i0rx,2022-07-08T04:43:37.040Z,"238 km N of Gorontalo, Indonesia",earthquake,12,9.8,0.072,53,reviewed,us,us
 2022-07-08T04:24:12.562Z,61.9245,-149.3117,17.6,2.7,ml,,,,0.85,ak,ak0228on3hzk,2022-07-08T05:12:03.040Z,"20 km N of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-08T04:23:20.930Z,19.4533333333333,-155.5985,-1.54,1.18,md,9,79,,0.17,hv,hv73068787,2022-07-08T19:31:40.860Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.32,0.0554558438397743,5,reviewed,hv,hv
 2022-07-08T04:12:12.870Z,37.5683333,-118.9256667,8.46,1.1,md,19,135,0.06042,0.05,nc,nc73756166,2022-07-08T19:24:11.686Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.33,0.69,0.146,16,reviewed,nc,nc
 2022-07-08T04:11:24.280Z,17.9906666666667,-66.841,17.96,2.58,md,17,153,,0.12,pr,pr71358098,2022-07-08T04:46:10.810Z,"2 km W of Indios, Puerto Rico",earthquake,0.41,0.33,0.044698785496986,5,reviewed,pr,pr
 2022-07-08T04:00:26.100Z,36.8293333,-121.5595,6.12,1.13,md,24,85,0.03433,0.1,nc,nc73756156,2022-07-08T13:19:10.500Z,"3km SW of San Juan Bautista, CA",earthquake,0.25,0.35,0.17,19,reviewed,nc,nc
@@ -251,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T20:01:08.300Z,39.426,-110.3023333,-1.3,1.47,ml,8,197,0.01774,0.15,uu,uu60504862,2022-07-07T20:43:46.720Z,"15 km SSE of Sunnyside, Utah",earthquake,1.27,0.79,0.092,5,reviewed,uu,uu
 2022-07-07T19:43:05.440Z,34.3785,-96.85633333,0,1.65,ml,32,81,0.2231562091,0.4,ok,ok2022nfec,2022-07-08T14:03:44.272Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.6,0.26,5,reviewed,ok,ok
 2022-07-07T19:42:18.421Z,61.0409,-152.5902,134.3,1.3,ml,,,,0.28,ak,ak0228n8litu,2022-07-07T19:43:59.753Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-07-07T19:33:51.790Z,33.242,-116.104,3.41,1.06,ml,27,54,0.126,0.26,ci,ci40299296,2022-07-07T19:37:30.906Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.37,1.5,0.136,23,automatic,ci,ci
