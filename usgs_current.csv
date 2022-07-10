@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T11:47:29.566Z,48.3583,8.8938,10,4,mb,36,62,0.377,0.87,us,us6000i17d,2022-07-10T10:53:52.682Z,"2 km S of Rangendingen, Germany",earthquake,4.5,1.9,0.212,7,reviewed,us,us
 2022-07-09T11:41:11.360Z,34.3203333,-118.456,2.44,0.75,ml,14,89,0.1137,0.18,ci,ci40300528,2022-07-09T11:44:55.861Z,"2km NNW of Sylmar, CA",earthquake,0.44,1.1,0.261,15,automatic,ci,ci
 2022-07-09T11:33:47.020Z,17.9481666666667,-66.9121666666667,13.18,2.64,md,34,189,,0.12,pr,pr71358288,2022-07-09T12:22:05.690Z,"2 km S of Guánica, Puerto Rico",earthquake,0.34,0.19,0.209781845987063,19,reviewed,pr,pr
-2022-07-09T11:33:01.730Z,46.48866666666667,-122.3615,14.61,0.41000000000000003,ml,9,151,0.1489,0.08,uw,uw61851212,2022-07-10T03:49:34.250Z,"10 km SW of Morton, Washington",earthquake,0.82,1.65,0.0993607468101072,6,reviewed,uw,uw
-2022-07-09T11:31:07.134Z,65.2711,-144.5635,0.1,1.5,ml,,,,0.67,ak,ak0228qeud89,2022-07-09T11:34:52.995Z,"35 km SSE of Central, Alaska",earthquake,,0.7,,,automatic,ak,ak
