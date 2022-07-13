@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-13T14:09:46.920Z,37.6124992,-122.5001678,8.66,1.48,md,16,99,0.02606,0.05,nc,nc73758226,2022-07-13T14:11:20.952Z,"1km W of Pacifica, CA",earthquake,0.33,0.41,0.25,9,automatic,nc,nc
+2022-07-13T14:09:19.740Z,37.6116676,-122.5021667,8.78,2.27,md,50,102,0.02518,0.05,nc,nc73758221,2022-07-13T14:10:56.099Z,"1km W of Pacifica, CA",earthquake,0.18,0.26,0.17,42,automatic,nc,nc
 2022-07-13T13:25:35.220Z,38.7956657,-122.81633,3.38,0.56,md,10,97,0.01269,0.02,nc,nc73758216,2022-07-13T13:42:13.027Z,"6km WNW of The Geysers, CA",earthquake,0.49,1.44,0.35,2,automatic,nc,nc
 2022-07-13T13:13:50.350Z,38.8381653,-122.836998,1.35,0.37,md,11,117,0.001254,0.01,nc,nc73758211,2022-07-13T13:53:15.096Z,"10km NW of The Geysers, CA",earthquake,0.27,0.66,,1,automatic,nc,nc
 2022-07-13T13:02:42.136Z,64.3405,-148.3372,17.3,1,ml,,,,0.77,ak,ak0228x20hcl,2022-07-13T13:04:34.055Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -60,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T05:28:15.398Z,55.7979,-150.5607,10,2.5,ml,,,,0.95,ak,ak0228wxel4f,2022-07-13T07:59:54.365Z,"227 km SSE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2022-07-13T05:21:53.779Z,60.2653,-140.2604,0,1.9,ml,,,,0.97,ak,ak0228wxd40h,2022-07-13T05:24:33.986Z,"85 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-13T05:19:51.938Z,62.3304,-149.5918,51.6,2,ml,,,,0.48,ak,ak0228wxcoft,2022-07-13T05:22:30.569Z,"23 km NE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-13T05:18:47.470Z,39.5556667,-111.4053333,4.63,2.97,ml,31,55,0.1771,0.15,uu,uu60505517,2022-07-13T13:51:16.446Z,"4 km ENE of Mount Pleasant, Utah",earthquake,0.24,1.65,0.104,28,reviewed,uu,uu
+2022-07-13T05:18:47.470Z,39.5556667,-111.4053333,4.63,2.97,ml,31,55,0.1771,0.15,uu,uu60505517,2022-07-13T13:58:29.911Z,"4 km ENE of Mount Pleasant, Utah",earthquake,0.24,1.65,0.104,28,reviewed,uu,uu
 2022-07-13T05:15:50.266Z,56.1031,-150.1556,10,3.8,ml,31,211,2.061,0.73,us,us6000i212,2022-07-13T07:51:29.963Z,"Gulf of Alaska",earthquake,6.1,2,0.05,52,reviewed,us,us
 2022-07-13T05:10:56.640Z,44.8295,-110.8716667,3.31,1.32,ml,17,174,0.04384,0.11,uu,uu60505507,2022-07-13T13:53:48.330Z,"21 km SW of Mammoth, Wyoming",earthquake,0.76,0.64,0.246,5,reviewed,uu,uu
 2022-07-13T05:10:14.910Z,38.8351669,-122.7968369,2.03,0.36,md,11,75,0.006016,0.01,nc,nc73758131,2022-07-13T05:28:13.086Z,"7km WNW of Cobb, CA",earthquake,0.32,1.15,,1,automatic,nc,nc
@@ -99,12 +101,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T00:59:54.941Z,58.1121,-155.3591,3,0.8,ml,,,,0.13,ak,ak0228wum3b8,2022-07-13T07:26:42.866Z,"80 km NW of Karluk, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-07-13T00:52:35.740Z,38.8354988,-122.8061676,1.97,0.98,md,16,53,0.01247,0.02,nc,nc73758071,2022-07-13T01:16:18.564Z,"7km WNW of Cobb, CA",earthquake,0.25,0.55,0.27,2,automatic,nc,nc
 2022-07-13T00:50:48.990Z,38.8339996,-122.8044968,1.93,1.94,md,36,31,0.01145,0.04,nc,nc73758066,2022-07-13T03:03:14.174Z,"7km W of Cobb, CA",earthquake,0.17,0.27,0.09,11,automatic,nc,nc
+2022-07-13T00:34:28.720Z,39.4286667,-110.3033333,-1.49,1.33,ml,7,197,0.01746,0.09,uu,uu60505457,2022-07-13T13:59:29.750Z,"15 km SSE of Sunnyside, Utah",earthquake,1.26,0.85,0.047,3,reviewed,uu,uu
 2022-07-13T00:27:19.298Z,-22.0741,-113.3655,10,4.8,mb,76,179,37.644,1.08,us,us6000i1zf,2022-07-13T01:21:16.040Z,"Easter Island region",earthquake,19.7,2,0.062,82,reviewed,us,us
 2022-07-13T00:20:38.087Z,38.6319,-116.1867,1.6,1.9,ml,8,247.58,1.316,0.2833,nn,nn00842770,2022-07-13T00:27:25.442Z,"99 km S of Eureka, Nevada",earthquake,,5.3,1.09,6,automatic,nn,nn
 2022-07-13T00:19:53.949Z,-22.5726,-113.9263,10,4.7,mb,57,230,38.599,0.48,us,us6000i1zh,2022-07-13T01:14:28.040Z,"Easter Island region",earthquake,20.9,2,0.073,57,reviewed,us,us
-2022-07-13T00:15:54.629Z,63.274,-151.146,9.7,1.5,ml,,,,0.48,ak,ak0228wucnra,2022-07-13T00:17:47.530Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-13T00:15:54.629Z,63.274,-151.146,9.7,1.5,ml,,,,0.48,ak,ak0228wucnra,2022-07-13T00:17:47.530Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-13T00:10:56.100Z,38.8198333,-122.7818333,2.19,0.49,md,33,50,0.006626,0.03,nc,nc73758061,2022-07-13T04:56:13.878Z,"5km W of Cobb, CA",earthquake,0.14,0.23,0.12,5,reviewed,nc,nc
 2022-07-13T00:09:09.570Z,36.104,-117.8461667,2.13,1.77,ml,18,77,0.01527,0.17,ci,ci40302736,2022-07-13T00:12:42.371Z,"11km NE of Coso Junction, CA",earthquake,0.32,0.34,0.183,19,automatic,ci,ci
+2022-07-12T23:49:08.880Z,34.1715,-117.3155,6.55,1.24,ml,45,40,0.03613,0.19,ci,ci40302704,2022-07-13T14:06:58.546Z,"3km NE of Muscoy, CA",earthquake,0.18,0.42,0.098,28,reviewed,ci,ci
 2022-07-12T23:42:05.560Z,38.7608337,-122.741333,2.45,1.72,md,6,201,0.04867,0.01,nc,nc73758051,2022-07-13T02:38:14.032Z,"2km SE of The Geysers, CA",earthquake,2.37,3.83,0.89,2,automatic,nc,nc
 2022-07-12T23:39:19.391Z,56.946,-149.7902,10,2.8,ml,17,239,1.73,0.5,us,us6000i1za,2022-07-13T00:38:17.040Z,"167 km ESE of Chiniak, Alaska",earthquake,4.7,2,0.053,46,reviewed,us,us
 2022-07-12T23:36:11.462Z,-16.7826,-71.3095,10,5.5,mww,131,99,1.829,0.86,us,us6000i1yw,2022-07-13T13:29:49.454Z,"14 km WSW of La Capilla, Peru",earthquake,5.1,1.8,0.048,41,reviewed,us,us
@@ -218,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T14:33:42.670Z,33.5863333,-116.8031667,7.75,0.42,ml,23,70,0.03343,0.08,ci,ci40302400,2022-07-12T20:47:40.638Z,"12km WNW of Anza, CA",earthquake,0.17,0.3,0.143,6,reviewed,ci,ci
 2022-07-12T14:24:35.230Z,37.63,-118.8735,0.4,0.56,md,12,119,0.01382,0.05,nc,nc73757811,2022-07-12T17:09:16.540Z,"9km E of Mammoth Lakes, CA",earthquake,0.28,0.39,0.331,10,reviewed,nc,nc
 2022-07-12T14:23:30.070Z,19.4213333333333,-155.326333333333,5.76,0.77,md,19,123,,0.08,hv,hv73073392,2022-07-12T20:51:47.840Z,"9 km WSW of Volcano, Hawaii",earthquake,0.31,0.54,0.108264383023639,4,reviewed,hv,hv
-2022-07-12T14:06:08.611Z,60.938,-150.9664,51.9,1.2,ml,,,,0.56,ak,ak0228vf3cp9,2022-07-12T14:09:22.939Z,"15 km W of Point Possession, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-07-12T14:01:50.700Z,37.6286667,-118.8733333,0.25,0.59,md,17,123,0.0127,0.05,nc,nc73757806,2022-07-12T16:22:10.193Z,"9km E of Mammoth Lakes, CA",earthquake,0.32,0.35,0.324,13,reviewed,nc,nc
