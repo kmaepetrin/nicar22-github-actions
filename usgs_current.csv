@@ -1,13 +1,19 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-14T21:36:48.920Z,19.246166229248,-155.40283203125,30.5499992370605,1.82000005,md,15,149,,0.100000001,hv,hv73075322,2022-07-14T21:39:48.900Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.91,1.33000004,0.779999971,3,automatic,hv,hv
+2022-07-14T21:35:53.450Z,33.4216667,-116.3866667,9.73,0.51,ml,15,91,0.08749,0.22,ci,ci40063263,2022-07-14T21:39:40.022Z,"18km N of Borrego Springs, CA",earthquake,0.5,1.37,0.071,7,automatic,ci,ci
+2022-07-14T21:35:19.570Z,33.8886667,-116.2441667,7.57,0.77,ml,20,94,0.09357,0.23,ci,ci40063255,2022-07-14T21:39:09.724Z,"16km ENE of Thousand Palms, CA",earthquake,0.41,1.44,0.097,12,automatic,ci,ci
+2022-07-14T21:35:09.690Z,35.8286667,-117.6665,7.85,0.79,ml,11,81,0.05753,0.09,ci,ci40063247,2022-07-14T21:38:44.713Z,"23km N of Ridgecrest, CA",earthquake,0.23,0.7,0.108,8,automatic,ci,ci
+2022-07-14T21:33:11.724Z,38.6772,-117.1542,16,1.3,ml,9,227.37,0.741,0.599,nn,nn00842912,2022-07-14T21:37:39.676Z,"59 km S of Kingston, Nevada",earthquake,,2.6,0.1,7,automatic,nn,nn
 2022-07-14T21:26:12.059Z,61.1174,-147.2346,14.9,1.9,ml,,,,0.99,ak,ak0228yugdjp,2022-07-14T21:28:18.781Z,"41 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-14T21:23:23.360Z,64.81,-149.458,18.2,1.5,ml,,,,0.54,ak,ak0228yufr9s,2022-07-14T21:25:58.226Z,"28 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-14T21:21:54.700Z,33.2736667,-115.9831667,2.69,1.76,ml,51,44,0.1,0.24,ci,ci40063239,2022-07-14T21:25:34.799Z,"4km SW of Salton City, CA",earthquake,0.29,0.85,0.176,26,automatic,ci,ci
+2022-07-14T21:21:54.700Z,33.2736667,-115.9831667,2.69,1.76,ml,51,44,0.1,0.24,ci,ci40063239,2022-07-14T21:33:06.860Z,"4km SW of Salton City, CA",earthquake,0.29,0.85,0.176,26,automatic,ci,ci
 2022-07-14T21:17:26.725Z,38.1771,-117.8615,3.5,1.2,ml,10,178.53,0.086,0.1999,nn,nn00842909,2022-07-14T21:21:29.212Z,"32 km SE of Mina, Nevada",earthquake,,0.9,0.39,6,automatic,nn,nn
+2022-07-14T20:55:46.800Z,17.9801666666667,-66.7555,13.84,2.69,md,28,154,,0.24,pr,pr71359518,2022-07-14T21:33:56.810Z,"4 km SSE of Magas Arriba, Puerto Rico",earthquake,0.52,0.27,0.29079312769253,13,reviewed,pr,pr
 2022-07-14T20:49:58.469Z,63.1672,-149.1922,4.4,1,ml,,,,0.79,ak,ak0228ytzz00,2022-07-14T20:52:21.686Z,"27 km SSW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-14T20:45:30.250Z,34.8575,-116.3455,5.11,2.43,ml,19,70,0.02933,0.13,ci,ci40063223,2022-07-14T20:56:32.900Z,"23km NW of Ludlow, CA",earthquake,0.25,0.57,0.195,26,automatic,ci,ci
 2022-07-14T20:38:37.880Z,33.2836667,-115.956,6.12,0.98,ml,15,154,0.1114,0.27,ci,ci40063215,2022-07-14T20:42:21.898Z,"2km S of Salton City, CA",earthquake,0.98,3.22,0.134,14,automatic,ci,ci
 2022-07-14T20:27:20.070Z,37.64,-118.897,2.36,0.9,md,13,90,0.004388,0.09,nc,nc73758661,2022-07-14T21:06:16.321Z,"7km E of Mammoth Lakes, CA",earthquake,0.37,0.44,0.23,11,reviewed,nc,nc
-2022-07-14T20:25:15.420Z,34.2206667,-117.5941667,13.03,2.85,ml,89,22,0.05632,0.22,ci,ci40063207,2022-07-14T21:27:21.959Z,"10km WSW of Lytle Creek, CA",earthquake,0.2,0.49,0.124,24,automatic,ci,ci
+2022-07-14T20:25:15.420Z,34.2206667,-117.5941667,13.03,2.85,ml,89,22,0.05632,0.22,ci,ci40063207,2022-07-14T21:37:58.406Z,"10km WSW of Lytle Creek, CA",earthquake,0.2,0.49,0.124,24,automatic,ci,ci
 2022-07-14T20:24:59.960Z,62.1449,-144.9306,23.9,1.4,ml,,,,1.18,ak,ak0228ytuln0,2022-07-14T20:35:53.318Z,"25 km NE of Silver Springs, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2022-07-14T20:12:01.490Z,37.7736664,-120.3356705,21.23,2.88,ml,10,219,0.1784,0.28,nc,nc73758646,2022-07-14T20:34:15.291Z,"11km NE of Don Pedro Reservoir, CA",earthquake,2.02,1.82,0.361,18,automatic,nc,nc
 2022-07-14T20:03:27.666Z,58.9362,-153.0273,65,1.8,ml,,,,0.23,ak,ak0228ytq1oe,2022-07-14T20:05:19.989Z,"78 km SW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -21,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T19:25:01.920Z,36.4319992,-121.0096664,9.99,1.87,md,18,73,0.01055,0.1,nc,nc73758636,2022-07-14T19:58:14.959Z,"16km SE of Pinnacles, CA",earthquake,0.3,0.8,0.15,15,automatic,nc,nc
 2022-07-14T19:19:34.990Z,33.2763333,-115.9781667,3.41,1.35,ml,41,48,0.1026,0.23,ci,ci40063151,2022-07-14T19:35:03.622Z,"3km SW of Salton City, CA",earthquake,0.27,0.76,0.144,27,automatic,ci,ci
 2022-07-14T19:19:01.520Z,38.7253,-116.087,0,1.7,ml,4,155.85,1.394,0.0707,nn,nn00842890,2022-07-14T20:02:43.890Z,"88 km S of Eureka, Nevada",earthquake,,23.3,0.14,3,reviewed,nn,nn
-2022-07-14T19:16:58.881Z,10.7013,-62.597,108.55,5.4,mb,117,31,1.696,0.86,us,us6000i2g9,2022-07-14T21:20:19.135Z,"35 km WNW of Güiria, Venezuela",earthquake,8.3,5.9,0.021,786,reviewed,us,us
+2022-07-14T19:16:58.881Z,10.7013,-62.597,108.55,5.4,mb,117,31,1.696,0.86,us,us6000i2g9,2022-07-14T21:32:22.300Z,"35 km WNW of Güiria, Venezuela",earthquake,8.3,5.9,0.021,786,reviewed,us,us
 2022-07-14T19:12:26.280Z,33.2748333,-115.9771667,3.03,1.14,ml,30,95,0.1011,0.28,ci,ci40063143,2022-07-14T19:16:00.042Z,"3km SW of Salton City, CA",earthquake,0.55,1.05,0.152,28,automatic,ci,ci
 2022-07-14T18:59:04.991Z,62.9668,-148.8589,16.7,1.3,ml,,,,0.47,ak,ak0228ysv4tf,2022-07-14T19:01:16.367Z,"47 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-07-14T18:54:56.070Z,33.279,-115.9806667,2.36,2.47,ml,28,111,0.1053,0.24,ci,ci40063135,2022-07-14T20:17:17.815Z,"3km SW of Salton City, CA",earthquake,0.54,1.45,0.19,5,automatic,ci,ci
