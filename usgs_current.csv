@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T09:19:48.620Z,35.527832,-120.7409973,0.41,1.21,md,7,144,0.1378,0.09,nc,nc73758526,2022-07-14T09:37:12.167Z,"4km SW of Templeton, CA",earthquake,0.74,6.58,0.01,6,automatic,nc,nc
 2022-07-14T09:15:05.500Z,32.6393333,-115.7306667,7.89,1.61,ml,18,72,0.0106,0.21,ci,ci40303576,2022-07-14T09:18:47.159Z,"15km WNW of Progreso, B.C., MX",earthquake,0.6,1.15,0.271,21,automatic,ci,ci
 2022-07-14T09:11:30.380Z,33.4491667,-116.6356667,7.38,0.28,ml,18,87,0.04968,0.15,ci,ci40303568,2022-07-14T09:15:03.118Z,"12km SSE of Anza, CA",earthquake,0.35,0.59,0.052,4,automatic,ci,ci
-2022-07-14T09:10:19.420Z,37.3251648,-122.2046661,8.37,1.81,md,20,65,0.03714,0.13,nc,nc73758521,2022-07-14T09:44:10.208Z,"7km SSE of Portola Valley, CA",earthquake,0.37,0.56,0.05,15,automatic,nc,nc
+2022-07-14T09:10:19.420Z,37.3251648,-122.2046661,8.37,1.81,md,20,65,0.03714,0.13,nc,nc73758521,2022-07-14T09:56:02.158Z,"7km SSE of Portola Valley, CA",earthquake,0.37,0.56,0.05,15,automatic,nc,nc
 2022-07-14T08:51:14.630Z,17.9478333333333,-66.8038333333333,11.81,2.19,md,12,219,,0.22,pr,pr71359423,2022-07-14T09:41:33.430Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.8,0.68,0.229488197605658,11,reviewed,pr,pr
 2022-07-14T08:51:08.755Z,60.1609,-153.0876,113,1.1,ml,,,,0.23,ak,ak0228ymv3bv,2022-07-14T08:52:18.746Z,"68 km E of Port Alsworth, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-14T08:50:16.620Z,33.322,-116.3188333,11.81,0.69,ml,19,136,0.041,0.2,ci,ci40303560,2022-07-14T08:53:47.755Z,"9km NE of Borrego Springs, CA",earthquake,0.47,0.77,0.144,11,automatic,ci,ci
