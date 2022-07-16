@@ -207,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T19:37:21.087Z,-44.5696,-79.7528,10,6.4,mww,109,108,5.671,0.97,us,us6000i2v0,2022-07-16T06:31:49.166Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.05,38,reviewed,us,us
 2022-07-15T19:35:52.390Z,44.3723333,-110.7811667,2.65,1.31,ml,8,96,0.08817,0.08,uu,uu60505927,2022-07-15T20:08:07.110Z,"41 km SE of West Yellowstone, Montana",earthquake,0.32,1.42,0.286,2,reviewed,uu,uu
 2022-07-15T19:33:58.650Z,54.5678333333333,-163.313833333333,12.57,1.01,ml,6,241,,0.19,av,av91066163,2022-07-16T07:04:46.810Z,"32 km S of False Pass, Alaska",earthquake,1.18,0.96,0.229172056512864,6,reviewed,av,av
-2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
+2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"14 km SSE of Sunnyside, Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
 2022-07-15T18:45:09.250Z,38.786335,-122.7245026,1.5,1.1,md,16,84,0.01004,0.04,nc,nc73758966,2022-07-15T20:40:16.667Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.5,0.1,4,automatic,nc,nc
 2022-07-15T18:42:06.416Z,57.3486,-154.6531,38.6,2,ml,,,,0.71,ak,ak02290gau71,2022-07-15T18:44:37.259Z,"Kodiak Island region, Alaska",earthquake,,11.5,,,automatic,ak,ak
 2022-07-15T18:36:54.935Z,59.8095,-153.2234,115,1.6,ml,,,,0.3,ak,ak02290g9np1,2022-07-15T21:09:24.040Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T15:28:47.140Z,19.3148333333333,-155.251833333333,5.8,1.66,md,41,90,,0.12,hv,hv73076012,2022-07-16T03:12:34.020Z,"14 km S of Volcano, Hawaii",earthquake,0.26,0.53,0.252755337457047,17,reviewed,hv,hv
 2022-07-15T15:24:24.630Z,44.2858333,-114.8275,3.87,1.82,ml,7,124,0.574,0.28,mb,mb80551479,2022-07-15T21:55:02.910Z,"11 km NE of Stanley, Idaho",earthquake,0.71,18.64,0.133,8,reviewed,mb,mb
 2022-07-15T15:15:35.240Z,34.164,-80.72,3.25,1.62,md,5,144,0.0339,0.24,se,se60156643,2022-07-16T13:31:34.560Z,"6 km E of Elgin, South Carolina",earthquake,1.51,1.93,0.149,4,reviewed,se,se
-2022-07-15T14:55:36.870Z,35.7021667,-117.5653333,10.4,0.49,ml,7,149,0.1163,0.03,ci,ci40063887,2022-07-15T14:59:06.884Z,"14km NE of Ridgecrest, CA",earthquake,0.29,0.57,0.134,7,automatic,ci,ci
