@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-16T21:36:41.387Z,31.7279,-104.1037,5,2.5,ml,37,62,0.215,0.4,us,us6000i33u,2022-07-16T21:47:43.040Z,"47 km W of Mentone, Texas",earthquake,1.7,1.9,0.06,60,reviewed,us,us
 2022-07-16T20:58:07.813Z,59.9948,-153.0984,92.3,1.2,ml,,,,0.9,ak,ak0229254hil,2022-07-16T20:59:58.106Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-16T20:44:03.049Z,36.5,31.0622,62.63,4,mb,25,125,0.96,0.6,us,us6000i33n,2022-07-16T21:03:19.040Z,"40 km SSW of Boğazkent, Turkey",earthquake,4.1,12.4,0.182,8,reviewed,us,us
 2022-07-16T20:36:43.260Z,38.8354988,-122.8111649,1.62,0.85,md,8,105,0.01212,0.01,nc,nc73759406,2022-07-16T20:38:20.372Z,"8km W of Cobb, CA",earthquake,0.53,1.57,,1,automatic,nc,nc
@@ -196,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T02:31:06.177Z,38.5778,-119.4449,7.8,1.3,ml,8,90.19,0.059,0.0736,nn,nn00843012,2022-07-16T02:38:43.373Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.41,5,automatic,nn,nn
 2022-07-16T02:23:20.580Z,48.288833333333336,-121.864,3.48,1.53,ml,11,113,0.1027,0.14,uw,uw61862591,2022-07-16T15:33:44.830Z,"5 km ENE of Oso, Washington",earthquake,0.37,14.33,0.19301581338544205,7,reviewed,uw,uw
 2022-07-16T02:15:55.620Z,38.8351669,-122.8078308,2.02,0.83,md,22,51,0.01188,0.02,nc,nc73759111,2022-07-16T03:37:17.124Z,"8km W of Cobb, CA",earthquake,0.21,0.44,0.29,3,automatic,nc,nc
-2022-07-16T02:09:58.770Z,36.7338333,-121.3698333,4.58,0.54,md,10,171,0.03231,0.02,nc,nc73759106,2022-07-16T21:19:10.508Z,"8km SW of Tres Pinos, CA",earthquake,0.41,0.81,0.196,9,reviewed,nc,nc
+2022-07-16T02:09:58.770Z,36.7338333,-121.3698333,4.58,0.54,md,10,171,0.03231,0.02,nc,nc73759106,2022-07-16T21:42:12.650Z,"8km SW of Tres Pinos, CA",earthquake,0.41,0.81,0.196,9,reviewed,nc,nc
 2022-07-16T01:59:07.520Z,41.0041,78.0472,10,4.3,mb,31,73,1.291,1.2,us,us6000i2xu,2022-07-16T02:22:43.040Z,"145 km SSE of Kadzhi-Say, Kyrgyzstan",earthquake,5.2,1.8,0.148,13,reviewed,us,us
 2022-07-16T01:51:04.106Z,-28.8664,-175.914,10,5,mb,46,68,12.377,0.86,us,us6000i2xq,2022-07-16T02:06:47.040Z,"Kermadec Islands region",earthquake,11.9,1.9,0.12,22,reviewed,us,us
 2022-07-16T01:33:50.260Z,35.7125,-117.558,11.78,1.04,ml,11,157,0.1079,0.13,ci,ci40064167,2022-07-16T01:37:25.206Z,"15km NE of Ridgecrest, CA",earthquake,0.37,0.8,0.253,9,automatic,ci,ci
