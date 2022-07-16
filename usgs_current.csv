@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-16T09:19:58.530Z,60.544,-147.8427,17.1,1.8,ml,,,,0.57,ak,ak02291ycgul,2022-07-16T09:22:07.590Z,"52 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-16T09:12:22.997Z,38.7272,-116.0797,0,1.7,ml,8,155.99,1.388,0.286,nn,nn00843042,2022-07-16T09:18:05.321Z,"87 km S of Eureka, Nevada",earthquake,,18.9,0.11,7,automatic,nn,nn
 2022-07-16T08:57:48.370Z,17.9458333333333,-67.1135,11.89,2.61,md,17,266,,0.16,pr,pr71359813,2022-07-16T09:10:37.620Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.61,0.33,0.124280454723924,8,reviewed,pr,pr
 2022-07-16T08:54:31.247Z,38.7259,-116.054,0.3,2,ml,12,60.97,1.369,0.313,nn,nn00843039,2022-07-16T08:58:16.824Z,"87 km S of Eureka, Nevada",earthquake,,9.2,0.78,11,automatic,nn,nn
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T08:18:50.406Z,-10.3446,-78.4174,64.39,4.6,mb,52,153,2.248,0.59,us,us6000i2zk,2022-07-16T08:36:17.040Z,"42 km SW of Huarmey, Peru",earthquake,10.3,8.7,0.077,50,reviewed,us,us
 2022-07-16T08:16:19.722Z,38.5509,-119.4884,8.3,1.4,ml,12,153.64,0.043,0.169,nn,nn00843031,2022-07-16T08:20:16.632Z,"2 km SE of Coleville, California",earthquake,,0.6,0.25,10,automatic,nn,nn
 2022-07-16T08:08:43.930Z,38.8003349,-122.7513351,2.15,0.86,md,8,100,0.006552,0.01,nc,nc73759231,2022-07-16T08:33:18.866Z,"3km N of The Geysers, CA",earthquake,0.35,0.98,,1,automatic,nc,nc
-2022-07-16T08:05:54.530Z,36.0136681,-120.5796661,0.45,0.88,md,11,109,0.03517,0.06,nc,nc73759226,2022-07-16T08:22:20.792Z,"18km NW of Parkfield, CA",earthquake,0.36,0.88,0.23,3,automatic,nc,nc
+2022-07-16T08:05:54.530Z,36.0136681,-120.5796661,0.45,0.88,md,11,109,0.03517,0.06,nc,nc73759226,2022-07-16T09:27:20.175Z,"18km NW of Parkfield, CA",earthquake,0.36,0.88,0.23,3,automatic,nc,nc
 2022-07-16T07:56:48.469Z,54.0504,-162.898,23.92,3,ml,16,193,0.862,0.59,us,us6000i2zh,2022-07-16T08:16:23.040Z,"95 km SSE of False Pass, Alaska",earthquake,3.6,14.8,0.085,18,reviewed,us,us
 2022-07-16T07:51:37.710Z,33.2373333,-116.107,7.06,1.22,ml,35,52,0.09611,0.27,ci,ci40064351,2022-07-16T07:55:10.301Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.3,1.16,0.18,28,automatic,ci,ci
 2022-07-16T07:50:50.280Z,-12.0564,165.4902,9.37,5.3,mww,89,92,3.759,0.51,us,us6000i2zg,2022-07-16T08:09:28.040Z,"151 km SSW of Lata, Solomon Islands",earthquake,9.5,4.2,0.08,15,reviewed,us,us
@@ -149,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T19:37:21.087Z,-44.5696,-79.7528,10,6.4,mww,109,108,5.671,0.97,us,us6000i2v0,2022-07-16T06:31:49.166Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.05,38,reviewed,us,us
 2022-07-15T19:35:52.390Z,44.3723333,-110.7811667,2.65,1.31,ml,8,96,0.08817,0.08,uu,uu60505927,2022-07-15T20:08:07.110Z,"41 km SE of West Yellowstone, Montana",earthquake,0.32,1.42,0.286,2,reviewed,uu,uu
 2022-07-15T19:33:58.650Z,54.5678333333333,-163.313833333333,12.57,1.01,ml,6,241,,0.19,av,av91066163,2022-07-16T07:04:46.810Z,"32 km S of False Pass, Alaska",earthquake,1.18,0.96,0.229172056512864,6,reviewed,av,av
-2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"14 km SSE of Sunnyside, Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
+2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
 2022-07-15T18:45:09.250Z,38.786335,-122.7245026,1.5,1.1,md,16,84,0.01004,0.04,nc,nc73758966,2022-07-15T20:40:16.667Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.5,0.1,4,automatic,nc,nc
 2022-07-15T18:42:06.416Z,57.3486,-154.6531,38.6,2,ml,,,,0.71,ak,ak02290gau71,2022-07-15T18:44:37.259Z,"Kodiak Island region, Alaska",earthquake,,11.5,,,automatic,ak,ak
 2022-07-15T18:36:54.935Z,59.8095,-153.2234,115,1.6,ml,,,,0.3,ak,ak02290g9np1,2022-07-15T21:09:24.040Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
