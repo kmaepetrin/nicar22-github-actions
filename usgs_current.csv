@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-17T19:21:33.006Z,38.6507,-116.2879,11.8,2.3,ml,12,199.91,1.253,0.3987,nn,nn00843125,2022-07-17T19:25:39.503Z,"91 km SE of Kingston, Nevada",earthquake,,1.9,0.78,7,automatic,nn,nn
 2022-07-17T19:07:29.780Z,18.0068333333333,-66.8913333333333,13.73,2.12,md,8,97,,0.11,pr,pr71359998,2022-07-17T19:20:18.650Z,"2 km WSW of Palomas, Puerto Rico",earthquake,0.61,0.35,0.0514725585318274,7,reviewed,pr,pr
 2022-07-17T19:06:05.180Z,38.8243332,-122.8033371,2.56,1.2,md,25,33,0.005345,0.01,nc,nc73759936,2022-07-17T19:15:10.519Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.05,6,automatic,nc,nc
 2022-07-17T19:02:05.089Z,38.6169,-116.2339,16,1.8,ml,8,194.79,1.276,0.2778,nn,nn00843124,2022-07-17T19:07:17.014Z,"97 km SE of Kingston, Nevada",earthquake,,2.1,0.24,4,automatic,nn,nn
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T18:53:55.900Z,17.997,-66.8868333333333,15.08,2.48,md,9,99,,0.1,pr,pr71359993,2022-07-17T19:12:32.160Z,"2 km N of Maria Antonia, Puerto Rico",earthquake,0.4,0.55,0.0856245505893711,6,reviewed,pr,pr
 2022-07-17T18:50:04.030Z,33.2673333,-115.974,3.2,0.96,ml,21,92,0.09364,0.31,ci,ci40065431,2022-07-17T18:53:42.972Z,"4km SSW of Salton City, CA",earthquake,0.86,1.18,0.178,17,automatic,ci,ci
 2022-07-17T18:48:04.670Z,33.281,-115.9896667,1.04,0.86,ml,17,87,0.1077,0.34,ci,ci40065423,2022-07-17T18:51:40.451Z,"4km WSW of Salton City, CA",earthquake,0.89,31.61,0.188,12,automatic,ci,ci
-2022-07-17T18:47:03.740Z,38.8173332,-122.8239975,2.39,0.9,md,22,51,0.009372,0.02,nc,nc73759911,2022-07-17T18:59:11.422Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.2,4,automatic,nc,nc
+2022-07-17T18:47:03.740Z,38.8173332,-122.8239975,2.39,0.9,md,22,51,0.009372,0.02,nc,nc73759911,2022-07-17T19:25:12.594Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.2,4,automatic,nc,nc
 2022-07-17T18:46:47.950Z,38.8173332,-122.8246689,2.29,0.8,md,19,51,0.009158,0.03,nc,nc73759906,2022-07-17T19:13:12.505Z,"7km NW of The Geysers, CA",earthquake,0.27,0.44,0.31,4,automatic,nc,nc
 2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T18:44:36.781Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,automatic,ci,ci
 2022-07-17T18:18:39.240Z,33.2726669,-115.9781647,6.18,3.38,ml,111,21,0.09891,0.23,ci,ci40065399,2022-07-17T19:08:19.292Z,"4km SW of Salton City, CA",earthquake,0.2,1.14,0.303,19,automatic,ci,ci
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T10:59:47.230Z,33.875,-116.8341667,14.52,0.43,ml,16,86,0.05142,0.19,ci,ci40065159,2022-07-17T11:03:15.147Z,"6km SW of Cabazon, CA",earthquake,0.46,0.95,0.116,9,automatic,ci,ci
 2022-07-17T10:59:19.480Z,38.8193333,-122.8263333,2.37,0.43,md,12,114,0.007773,0.01,nc,nc73759711,2022-07-17T17:56:09.991Z,"8km NW of The Geysers, CA",earthquake,0.48,0.91,0.128,3,reviewed,nc,nc
 2022-07-17T10:46:15.471Z,38.1291,-117.9444,10.1,1.2,ml,8,165.46,0.016,0.3879,nn,nn00843100,2022-07-17T10:49:43.732Z,"32 km SSE of Mina, Nevada",earthquake,,0.4,0.87,5,automatic,nn,nn
-2022-07-17T10:41:43.560Z,33.4196667,-118.009,9.99,3.55,ml,98,96,0.2078,0.26,ci,ci40065151,2022-07-17T19:19:41.139Z,"23km SSW of Newport Beach, CA",earthquake,0.24,0.64,0.143,222,reviewed,ci,ci
+2022-07-17T10:41:43.560Z,33.4196667,-118.009,9.99,3.55,ml,98,96,0.2078,0.26,ci,ci40065151,2022-07-17T19:24:49.808Z,"23km SSW of Newport Beach, CA",earthquake,0.24,0.64,0.143,222,reviewed,ci,ci
 2022-07-17T10:40:12.741Z,12.3232,120.7494,10,4.4,mb,45,108,7.064,0.41,us,us6000i37v,2022-07-17T11:39:54.040Z,"27 km WSW of Adela, Philippines",earthquake,10.1,1.9,0.094,33,reviewed,us,us
 2022-07-17T10:25:39.860Z,38.8313332,-122.7963333,1.55,1.99,md,35,38,0.008474,0.03,nc,nc73759696,2022-07-17T12:36:10.179Z,"6km W of Cobb, CA",earthquake,0.16,0.24,0.06,10,automatic,nc,nc
 2022-07-17T10:24:04.940Z,38.8441658,-122.8198318,1.89,0.86,md,10,100,0.01083,0.02,nc,nc73759691,2022-07-17T10:56:14.426Z,"9km WNW of Cobb, CA",earthquake,0.39,0.88,,1,automatic,nc,nc
@@ -286,5 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T19:38:52.760Z,37.4998322,-121.8233337,4.71,1.43,md,13,84,0.04259,0.04,nc,nc73759371,2022-07-16T21:28:10.564Z,"11km NE of Milpitas, CA",earthquake,0.28,0.43,0.2,9,automatic,nc,nc
 2022-07-16T19:38:11.864Z,62.9084,-151.3337,12,1.4,ml,,,,0.54,ak,ak022924erwi,2022-07-16T19:40:49.096Z,"54 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-16T19:32:28.797Z,38.6568,-116.0538,0,2.1,ml,8,102.55,1.385,0.2865,nn,nn00843060,2022-07-16T19:36:20.623Z,"90 km WSW of Preston, Nevada",earthquake,,11.8,0.22,5,automatic,nn,nn
-2022-07-16T19:27:19.424Z,26.5509,54.283,10,4,mb,20,62,2.357,0.94,us,us6000i33d,2022-07-16T21:26:02.040Z,"26 km E of Kīsh, Iran",earthquake,6.7,1.9,0.156,11,reviewed,us,us
-2022-07-16T19:25:07.090Z,33.4923333,-116.7561667,6.18,0.3,ml,15,135,0.07452,0.11,ci,ci40064735,2022-07-17T13:42:51.730Z,"10km SW of Anza, CA",earthquake,0.31,0.71,0.072,8,reviewed,ci,ci
