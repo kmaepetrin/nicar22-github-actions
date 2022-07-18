@@ -248,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T11:55:32.937Z,56.292,-155.0405,35,3.1,ml,33,270,1.525,0.88,us,us6000i380,2022-07-17T12:06:59.040Z,"90 km SW of Akhiok, Alaska",earthquake,8.4,2,0.066,30,reviewed,us,us
 2022-07-17T11:49:54.600Z,38.8269997,-122.8131638,2.09,0.92,md,25,57,0.004334,0.02,nc,nc73759746,2022-07-17T12:29:23.024Z,"7km NW of The Geysers, CA",earthquake,0.19,0.35,0.26,4,automatic,nc,nc
 2022-07-17T11:48:39.860Z,18.846,-155.221666666667,9.7,1.76,md,21,286,,0.08,hv,hv73077877,2022-07-17T12:28:25.400Z,"44 km ESE of Naalehu, Hawaii",earthquake,1.16,0.57,0.189174233679885,10,reviewed,hv,hv
-2022-07-17T11:43:10.930Z,33.2333333,-116.1,7.47,1.43,ml,46,49,0.09611,0.2,ci,ci40065183,2022-07-17T14:13:36.850Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,0.82,0.112,28,reviewed,ci,ci
-2022-07-17T11:42:51.830Z,37.5766667,-118.8671667,3.42,0.58,md,17,166,0.03305,0.04,nc,nc73759741,2022-07-17T16:21:11.404Z,"12km SE of Mammoth Lakes, CA",earthquake,0.36,0.8,0.106,13,reviewed,nc,nc
