@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-20T14:32:27.700Z,35.9568329,-120.5090027,9.86,1.6,md,21,61,0.01055,0.09,nc,nc73760976,2022-07-20T14:34:05.165Z,"10km NW of Parkfield, CA",earthquake,0.39,0.5,0.16,13,automatic,nc,nc
+2022-07-20T14:49:59.541Z,60.6996,-147.4125,12,2.5,ml,,,,0.59,ak,ak02298nngeq,2022-07-20T14:51:56.870Z,"44 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-20T14:32:27.700Z,35.9568329,-120.5090027,9.86,1.6,md,21,61,0.01055,0.09,nc,nc73760976,2022-07-20T14:50:10.859Z,"10km NW of Parkfield, CA",earthquake,0.39,0.5,0.16,13,automatic,nc,nc
+2022-07-20T14:17:12.910Z,39.4316667,-110.3158333,-1.12,1.43,ml,8,192,0.01042,0.1,uu,uu60506447,2022-07-20T14:51:09.610Z,"Utah",earthquake,1.27,0.41,0.09,5,reviewed,uu,uu
 2022-07-20T14:05:48.510Z,33.3183333,-116.2996667,10.22,0.87,ml,16,134,0.0447,0.19,ci,ci40066719,2022-07-20T14:09:27.622Z,"10km NE of Borrego Springs, CA",earthquake,0.39,0.7,0.193,17,automatic,ci,ci
 2022-07-20T14:04:20.520Z,19.2243328094482,-155.391326904297,33.4799995422363,1.75,md,27,155,,0.140000001,hv,hv73081842,2022-07-20T14:07:40.310Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.970000029,0.75,3,automatic,hv,hv
 2022-07-20T13:52:19.429Z,36.69783333,-97.68216667,7.33,2.02,ml,86,53,0,0.22,ok,ok2022ocmb,2022-07-20T14:04:39.112Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,0.5,0.21,32,reviewed,ok,ok
