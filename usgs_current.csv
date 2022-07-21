@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T15:07:57.840Z,51.724,179.951,7.54,1.77,ml,6,267,,0.09,av,av91066638,2022-07-21T08:14:34.470Z,"236 km W of Adak, Alaska",earthquake,0.86,0.52,0.299845084852735,6,reviewed,av,av
 2022-07-20T14:56:50.850Z,39.4271667,-110.2985,-1.58,1.43,ml,6,199,0.02083,0.14,uu,uu60506457,2022-07-20T16:01:04.550Z,"15 km SSE of Sunnyside, Utah",earthquake,2.14,1.66,0.099,4,reviewed,uu,uu
 2022-07-20T14:56:15.311Z,59.7916,-153.5227,149.2,1.5,ml,,,,0.14,ak,ak02298nov0b,2022-07-20T14:58:01.580Z,"32 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-20T14:50:43.200Z,51.7401666666667,179.977333333333,11.11,2.51,ml,19,127,,0.16,av,av91639491,2022-07-21T07:45:05.730Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.74,1.43,0.251341533970868,22,reviewed,av,av
-2022-07-20T14:49:59.541Z,60.6996,-147.4125,12,2.5,ml,,,,0.59,ak,ak02298nngeq,2022-07-20T14:51:56.870Z,"44 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
