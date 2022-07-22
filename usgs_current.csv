@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-22T22:29:22.760Z,19.191333770752,-155.389495849609,29.9899997711182,2.13000011,md,38,163,,0.129999995,hv,hv73084672,2022-07-22T22:32:37.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.77,0.949999988,0.519999981,17,automatic,hv,hv
-2022-07-22T22:16:13.530Z,38.7946663,-122.7631683,1.2,0.45,md,9,74,0.006534,0.01,nc,nc73761726,2022-07-22T22:24:09.981Z,"2km NNW of The Geysers, CA",earthquake,0.35,0.7,0.4,2,automatic,nc,nc
+2022-07-22T22:38:48.570Z,31.8465,-116.2241667,19.38,2.92,ml,7,134,0.2829,0.2,ci,ci40068103,2022-07-22T22:42:34.334Z,"35km ENE of Maneadero, B.C., MX",earthquake,0.75,2.51,0.182,26,automatic,ci,ci
+2022-07-22T22:29:22.760Z,19.191333770752,-155.389495849609,29.9899997711182,2.2,ml,38,163,,0.129999995,hv,hv73084672,2022-07-22T22:34:54.240Z,"9 km E of Pāhala, Hawaii",earthquake,0.77,0.949999988,4.67,4,automatic,hv,hv
+2022-07-22T22:16:13.530Z,38.7946663,-122.7631683,1.2,0.45,md,9,74,0.006534,0.01,nc,nc73761726,2022-07-22T22:42:16.087Z,"2km NNW of The Geysers, CA",earthquake,0.35,0.7,0.4,2,automatic,nc,nc
 2022-07-22T22:15:15.240Z,38.793335,-122.7614975,1.01,2.58,md,52,46,0.007412,0.04,nc,nc73761716,2022-07-22T22:26:43.967Z,"2km NNW of The Geysers, CA",earthquake,0.13,0.19,0.07,35,automatic,nc,nc
 2022-07-22T22:12:46.190Z,19.4796657562256,-155.591339111328,-1.69000005722046,2.79,ml,38,75,,0.239999995,hv,hv73084662,2022-07-22T22:23:31.040Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.280000001,3.14,23,automatic,hv,hv
 2022-07-22T22:04:52.499Z,63.8826,-148.7373,113.7,1.2,ml,,,,0.36,ak,ak0229c37yju,2022-07-22T22:08:05.916Z,"11 km ENE of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -208,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T22:56:10.960Z,38.7623329,-122.7253342,2.08,1.12,md,16,55,0.0008263,0.03,nc,nc73761436,2022-07-22T00:08:11.000Z,"3km ESE of The Geysers, CA",earthquake,0.31,0.41,0.16,5,automatic,nc,nc
 2022-07-21T22:52:34.162Z,60.1664,-153.2752,162,2,ml,,,,0.62,ak,ak0229afyuxk,2022-07-21T23:08:10.040Z,"57 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-07-21T22:47:22.060Z,35.6565,-117.4966667,2.87,0.82,ml,18,87,0.07528,0.13,ci,ci40067511,2022-07-21T23:31:39.573Z,"15km SW of Searles Valley, CA",earthquake,0.31,0.59,0.106,8,reviewed,ci,ci
-2022-07-21T22:42:15.183Z,37.9252,-118.4412,14.1,1.6,ml,16,89.3,0.33,0.1106,nn,nn00843373,2022-07-22T02:40:25.376Z,"California-Nevada border region",earthquake,,2,0.18,7,reviewed,nn,nn
-2022-07-21T22:40:43.330Z,38.0833333,-118.844,8.55,1.94,md,36,56,0.3155,0.09,nc,nc73761431,2022-07-22T11:40:11.175Z,"20km SE of Bodie, CA",earthquake,0.26,2.74,0.248,29,reviewed,nc,nc
-2022-07-21T22:36:28.600Z,38.8238335,-122.7981644,1.89,0.35,md,9,92,0.009313,0.01,nc,nc73761426,2022-07-21T23:24:11.723Z,"6km NW of The Geysers, CA",earthquake,0.33,0.8,,1,automatic,nc,nc
