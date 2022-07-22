@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-22T06:03:25.540Z,35.6746667,-117.4906667,1.06,1.03,ml,10,250,0.1654,0.15,ci,ci40067703,2022-07-22T06:06:56.638Z,"13km SW of Searles Valley, CA",earthquake,1.12,1.06,0.076,10,automatic,ci,ci
+2022-07-22T05:53:36.122Z,-23.8018,-179.5514,527.94,4.4,mb,24,127,5.63,0.76,us,us7000hsla,2022-07-22T06:11:45.040Z,"south of the Fiji Islands",earthquake,13.8,11.2,0.123,19,reviewed,us,us
 2022-07-22T05:45:39.128Z,61.7259,-150.7768,61,1.4,ml,,,,0.46,ak,ak0229btccig,2022-07-22T05:47:34.585Z,"24 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-22T05:32:46.368Z,58.2323,-155.9347,150.9,1.9,ml,,,,0.46,ak,ak0229bt9krg,2022-07-22T05:45:02.040Z,"66 km SE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-22T05:29:47.790Z,35.873,-117.7241667,8.42,1.26,ml,16,104,0.07231,0.18,ci,ci40067695,2022-07-22T05:33:13.040Z,"18km ESE of Little Lake, CA",earthquake,0.4,1.07,0.182,15,automatic,ci,ci
@@ -231,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T06:44:16.060Z,34.0306667,-117.2221667,16.44,2.14,ml,105,25,0.08997,0.15,ci,ci40067111,2022-07-21T17:38:45.450Z,"4km ESE of Loma Linda, CA",earthquake,0.11,0.24,0.147,100,reviewed,ci,ci
 2022-07-21T06:40:34.903Z,63.9023,-149.4467,124.8,1.2,ml,,,,0.42,ak,ak0229a6dd9n,2022-07-21T16:37:56.706Z,"20 km SW of Ferry, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-07-21T06:37:39.810Z,17.9881666666667,-66.738,13.91,1.98,md,10,167,,0.18,pr,pr71360498,2022-07-21T06:45:33.680Z,"2 km WSW of Tallaboa, Puerto Rico",earthquake,1.07,0.49,0.167729556139793,9,reviewed,pr,pr
-2022-07-21T06:06:02.160Z,38.69,-122.7998333,6.05,0.98,md,33,97,0.03917,0.04,nc,nc73761171,2022-07-21T10:07:16.766Z,"10km SSW of The Geysers, CA",earthquake,0.26,0.32,0.033,8,reviewed,nc,nc
-2022-07-21T06:00:53.344Z,31.6815264,-104.4167688,1.915454102,3.1,ml,10,95,0.07277044444,0.1,tx,tx2022odsa,2022-07-21T07:18:02.438Z,"54 km S of Whites City, New Mexico",earthquake,0.8936330841,1.655880925,0.1,8,reviewed,tx,tx
