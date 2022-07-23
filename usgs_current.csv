@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T16:01:37.805Z,-17.3962,-173.5705,10,4.8,mb,26,126,3.871,1.08,us,us7000hsre,2022-07-22T16:52:41.040Z,"145 km NNE of Neiafu, Tonga",earthquake,10.2,1.9,0.095,34,reviewed,us,us
 2022-07-22T15:57:59.660Z,44.6688333,-110.4666667,5.36,0.87,md,8,128,0.05429,0.07,uu,uu60506717,2022-07-22T16:09:22.770Z,"38 km SSE of Mammoth, Wyoming",earthquake,0.75,1.43,0.432,3,reviewed,uu,uu
 2022-07-22T15:18:57.800Z,33.7043333,-116.7128333,17.16,0.27,ml,13,96,0.006906,0.07,ci,ci40067903,2022-07-22T22:08:01.185Z,"4km S of Idyllwild, CA",earthquake,0.37,0.28,0.071,3,reviewed,ci,ci
-2022-07-22T15:11:45.400Z,35.6943333,-117.5186667,11.12,1.6,ml,31,63,0.125,0.13,ci,ci40067895,2022-07-22T22:02:02.930Z,"13km SW of Searles Valley, CA",earthquake,0.15,0.33,0.128,20,reviewed,ci,ci
