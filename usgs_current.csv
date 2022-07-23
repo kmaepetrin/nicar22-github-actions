@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-23T23:35:42.010Z,38.8406677,-122.8383331,1.76,0.86,md,18,98,0.003041,0.02,nc,nc73762126,2022-07-23T23:37:18.536Z,"10km NW of The Geysers, CA",earthquake,0.28,0.43,,2,automatic,nc,nc
+2022-07-23T23:35:42.010Z,38.8406677,-122.8383331,1.76,0.86,md,18,98,0.003041,0.02,nc,nc73762126,2022-07-23T23:45:10.768Z,"10km NW of The Geysers, CA",earthquake,0.28,0.43,,2,automatic,nc,nc
 2022-07-23T23:25:38.050Z,38.8351669,-122.7983322,2.21,2.13,md,35,41,0.007029,0.04,nc,nc73762121,2022-07-23T23:35:23.696Z,"7km WNW of Cobb, CA",earthquake,0.18,0.3,0.1,11,automatic,nc,nc
 2022-07-23T22:57:59.750Z,19.1679992675781,-155.469833374023,29.7099990844727,1.97000003,md,28,85,,0.140000001,hv,hv73085702,2022-07-23T23:01:06.150Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.910000026,1.78999996,6,automatic,hv,hv
 2022-07-23T22:05:47.690Z,19.2035007476807,-155.459167480469,35.060001373291,2.13000011,md,44,109,,0.109999999,hv,hv73085662,2022-07-23T22:08:54.360Z,"2 km E of Pāhala, Hawaii",earthquake,0.59,0.839999974,0.159999996,19,automatic,hv,hv
@@ -156,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T02:20:47.080Z,19.1875,-155.386001586914,31.4300003051758,1.82000005,md,31,180,,0.129999995,hv,hv73084837,2022-07-23T02:23:57.530Z,"9 km E of Pāhala, Hawaii",earthquake,0.92,1.12,0.230000004,5,automatic,hv,hv
 2022-07-23T01:52:32.880Z,19.5925,-63.847,132,4.3,md,16,325,2.2682,0.51,pr,pr2022204001,2022-07-23T09:36:37.102Z,"171 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,8.67,14.18,0.04,3,reviewed,pr,pr
 2022-07-23T01:41:12.240Z,38.8395004,-122.8363342,1.39,0.37,md,8,121,0.001125,0.01,nc,nc73761791,2022-07-23T01:58:13.244Z,"10km NW of The Geysers, CA",earthquake,0.41,0.83,,1,automatic,nc,nc
-2022-07-23T01:41:04.680Z,39.4656667,-121.4761667,0.59,4.24,mw,18,62,0.0151,0.11,nc,nc73761796,2022-07-23T23:19:14.354Z,"5km S of Oroville East, CA",earthquake,0.37,1.2,,4,reviewed,nc,nc
+2022-07-23T01:41:04.680Z,39.4656667,-121.4761667,0.59,4.24,mw,18,62,0.0151,0.11,nc,nc73761796,2022-07-23T23:43:18.328Z,"5km S of Oroville East, CA",earthquake,0.37,1.2,,4,reviewed,nc,nc
 2022-07-23T01:19:05.119Z,58.0922,-153.4429,58.1,3.3,ml,,,,0.48,ak,ak0229decbdg,2022-07-23T01:36:25.040Z,"31 km W of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-23T01:17:36.310Z,19.2409992218018,-155.162338256836,39.6500015258789,2.2,ml,45,200,,0.119999997,hv,hv73084807,2022-07-23T01:25:18.040Z,"23 km SSE of Volcano, Hawaii",earthquake,0.53,0.569999993,4.31,10,automatic,hv,hv
 2022-07-23T01:15:31.110Z,18.0788333333333,-66.1503333333333,16.66,2.14,md,5,148,,0.11,pr,pr71360718,2022-07-23T02:07:36.620Z,"4 km SSE of Cayey, Puerto Rico",earthquake,0.43,0.85,0.185327771158269,2,reviewed,pr,pr
@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T00:13:02.110Z,33.605,-117.0866667,10.31,1.08,ml,8,115,0.07851,0.23,ci,ci40068151,2022-07-23T00:16:41.053Z,"8km NE of Murrieta Hot Springs, CA",earthquake,1.1,1.86,0.451,20,automatic,ci,ci
 2022-07-23T00:11:11.010Z,38.8400002,-122.8028336,0.84,0.85,md,10,66,0.009882,0.01,nc,nc73761766,2022-07-23T00:33:15.734Z,"7km WNW of Cobb, CA",earthquake,0.36,1.26,,1,automatic,nc,nc
 2022-07-22T23:51:42.025Z,62.6263,-143.3255,0.1,2.4,ml,,,,1,ak,ak0229c43fx6,2022-07-23T00:16:25.040Z,"32 km NNW of Nabesna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-22T23:49:33.830Z,54.1888333333333,-166.059666666667,7.13,0.17,ml,8,249,,0.09,av,av91642786,2022-07-23T19:51:39.450Z,"19 km WNW of Akutan, Alaska",earthquake,0.39,0.35,0.297131674830685,8,reviewed,av,av
