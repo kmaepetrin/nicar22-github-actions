@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-23T07:06:24.930Z,33.702,-116.721,17.04,1.02,ml,40,53,0.01077,0.17,ci,ci40068255,2022-07-23T07:10:04.779Z,"4km S of Idyllwild, CA",earthquake,0.23,0.4,0.144,25,automatic,ci,ci
 2022-07-23T07:04:01.740Z,35.7186667,-117.5773333,9.77,1.64,ml,21,66,0.09825,0.18,ci,ci40068247,2022-07-23T07:07:39.398Z,"14km NE of Ridgecrest, CA",earthquake,0.36,0.82,0.17,22,automatic,ci,ci
-2022-07-23T07:00:48.320Z,36.8601685,-121.3113327,8.15,1.82,md,22,67,0.1453,0.08,nc,nc73761881,2022-07-23T07:12:11.902Z,"7km NE of Ridgemark, CA",earthquake,0.29,1.07,0.14,19,automatic,nc,nc
+2022-07-23T07:00:48.320Z,36.8601685,-121.3113327,8.15,1.82,md,22,67,0.1453,0.08,nc,nc73761881,2022-07-23T07:32:12.028Z,"7km NE of Ridgemark, CA",earthquake,0.29,1.07,0.14,19,automatic,nc,nc
 2022-07-23T06:43:38.160Z,19.2273330688477,-155.397003173828,30.0400009155273,1.80999994,md,35,150,,0.129999995,hv,hv73085012,2022-07-23T06:46:41.740Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.63,0.589999974,1.36000001,6,automatic,hv,hv
 2022-07-23T06:29:38.890Z,38.8383331,-122.8098297,1.88,1.59,md,29,67,0.01492,0.02,nc,nc73761876,2022-07-23T06:59:15.841Z,"8km WNW of Cobb, CA",earthquake,0.19,0.34,0.05,6,automatic,nc,nc
 2022-07-23T06:27:19.800Z,19.1628341674805,-155.492172241211,33.9199981689453,2.08,ml,37,119,,0.140000001,hv,hv73085002,2022-07-23T06:32:49.350Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,0.870000005,0.91,3,automatic,hv,hv
