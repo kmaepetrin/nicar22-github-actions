@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-29T10:27:08.231Z,39.4026,-120.5932,11.2,1.4,ml,10,272.62,0.411,0.3117,nn,nn00843826,2022-07-29T10:30:25.381Z,"13 km ESE of Graniteville, California",earthquake,,1.1,0.24,9,automatic,nn,nn
 2022-07-29T10:19:23.523Z,61.5184,-149.9693,31.3,1.1,ml,,,,0.55,ak,ak0229ngxc68,2022-07-29T10:21:12.633Z,"0 km WSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-29T10:12:15.997Z,35.98862076,-97.95253754,4.096273899,1.85,ml,16,89.83872986,0.04479571432,0.2082054324,ok,ok2022osqi,2022-07-29T10:14:29.500Z,"3 km WNW of Dover, Oklahoma",earthquake,3.043750142,3.394282389,,12,automatic,ok,ok
 2022-07-29T10:08:13.590Z,33.3461667,-116.3311667,10.78,1.07,ml,44,50,0.02423,0.19,ci,ci40071639,2022-07-29T10:11:39.930Z,"11km NNE of Borrego Springs, CA",earthquake,0.25,0.45,0.108,27,automatic,ci,ci
 2022-07-29T10:07:59.850Z,33.3496667,-116.3301667,11.3,0.79,ml,29,67,0.02137,0.24,ci,ci40071631,2022-07-29T10:11:37.151Z,"11km NNE of Borrego Springs, CA",earthquake,0.41,0.75,0.147,18,automatic,ci,ci
+2022-07-29T09:58:47.191Z,20.9058,99.8449,10,4.8,mb,44,107,0.446,0.92,us,us6000i6fi,2022-07-29T10:26:31.040Z,"50 km N of Tachilek, Myanmar",earthquake,7.3,1.9,0.06,86,reviewed,us,us
 2022-07-29T09:17:45.230Z,35.5048333,-118.3913333,7.71,0.96,ml,16,66,0.1926,0.13,ci,ci40071623,2022-07-29T09:21:18.103Z,"13km SE of Bodfish, CA",earthquake,0.24,1.5,0.139,8,automatic,ci,ci
 2022-07-29T08:49:48.467Z,64.6796,-146.889,6.5,0.9,ml,,,,0.63,ak,ak0229nfwyda,2022-07-29T08:52:34.325Z,"8 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-29T08:43:02.300Z,36.7651672,-121.3590012,4.69,1.42,md,7,216,0.05846,0.26,nc,nc73763991,2022-07-29T08:59:24.430Z,"4km SW of Tres Pinos, CA",earthquake,4.97,4.45,0.17,4,automatic,nc,nc
@@ -181,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T10:53:22.914Z,60.4918,-152.196,78.2,1.5,ml,,,,0.4,ak,ak0229ltl9ty,2022-07-28T10:56:56.103Z,"50 km WSW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-28T10:51:30.178Z,31.63009001,-104.1157846,6.208691406,2.2,ml,12,60,0.2425775206,0.2,tx,tx2022oqwd,2022-07-28T17:10:32.905Z,"46 km NW of Toyah, Texas",earthquake,1.960979172,3.57583218,0.1,6,reviewed,tx,tx
 2022-07-28T10:50:09.160Z,33.0455,-116.4326667,9.39,0.89,ml,45,66,0.03205,0.19,ci,ci40071031,2022-07-28T15:52:17.792Z,"16km ESE of Julian, CA",earthquake,0.21,0.48,0.127,12,reviewed,ci,ci
-2022-07-28T10:41:12.070Z,19.1948337554932,-155.462005615234,34.1699981689453,1.91999996,md,40,154,,0.140000001,hv,hv73090457,2022-07-28T10:44:23.040Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.57,0.790000021,1.27999997,3,automatic,hv,hv
-2022-07-28T10:32:42.453Z,36.8537,-116.2548,8.2,-0.2,ml,9,106.4,0.045,0.0689,nn,nn00843790,2022-07-28T19:29:47.098Z,"45 km E of Beatty, Nevada",earthquake,,1.5,0.43,7,reviewed,nn,nn
-2022-07-28T10:22:46.190Z,35.8555,-117.6885,7.59,1.36,ml,26,57,0.07776,0.12,ci,ci40071015,2022-07-28T15:43:23.560Z,"22km ESE of Little Lake, CA",earthquake,0.17,0.48,0.141,13,reviewed,ci,ci
