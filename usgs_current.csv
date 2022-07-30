@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T08:49:32.763Z,63.1625,-148.7817,67.2,1.6,ml,,,,0.41,ak,ak0229p3g9ng,2022-07-30T08:51:26.701Z,"26 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-30T08:49:09.570Z,38.7903328,-122.7611694,1.67,0.85,md,10,77,0.01991,0.02,nc,nc73764326,2022-07-30T08:50:44.107Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.94,,1,automatic,nc,nc
 2022-07-30T08:30:37.858Z,63.0585,-151.0715,112.5,1.4,ml,,,,0.32,ak,ak0229p3c7ft,2022-07-30T08:32:51.176Z,"62 km SSE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-07-30T08:12:36.420Z,33.4891667,-116.7595,6.92,0.19,ml,15,139,0.07826,0.13,ci,ci40072247,2022-07-30T08:16:13.770Z,"11km SW of Anza, CA",earthquake,0.35,0.8,0.091,5,automatic,ci,ci
 2022-07-30T08:10:50.920Z,38.7983322,-122.7506638,1.83,1.09,md,18,97,0.007432,0.02,nc,nc73764321,2022-07-30T08:27:17.218Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.5,0.09,4,automatic,nc,nc
