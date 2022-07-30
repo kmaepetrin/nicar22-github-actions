@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T20:26:28.944Z,-2.4113,122.6774,10,4.5,mb,34,57,3.899,0.96,us,us6000i6n0,2022-07-30T14:54:34.040Z,"161 km S of Luwuk, Indonesia",earthquake,6.6,1.9,0.115,22,reviewed,us,us
 2022-07-29T20:19:03.058Z,32.7547,142.5141,10,4.3,mb,19,277,2.299,0.88,us,us6000i6mk,2022-07-29T21:04:12.040Z,"Izu Islands, Japan region",earthquake,12.7,2,0.201,7,reviewed,us,us
 2022-07-29T20:04:09.636Z,60.0342,-152.2239,67.6,1,ml,,,,0.26,ak,ak0229nmsfer,2022-07-29T20:06:54.519Z,"29 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-07-29T19:51:01.920Z,47.39183333333333,-117.85916666666667,-0.67,2.39,ml,8,163,0.3631,0.12,uw,uw61866951,2022-07-30T05:13:48.429Z,"13 km NE of Sprague, Washington",explosion,1.45,31.61,0.10101375886498731,6,reviewed,uw,uw
