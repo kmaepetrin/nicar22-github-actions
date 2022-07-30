@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-30T21:42:09.210Z,38.8313332,-122.819664,1.36,0.36,md,8,100,0.01091,0.02,nc,nc73764471,2022-07-30T21:43:45.786Z,"8km NW of The Geysers, CA",earthquake,0.5,0.77,,1,automatic,nc,nc
+2022-07-30T21:42:09.210Z,38.8313332,-122.819664,1.36,0.36,md,8,100,0.01091,0.02,nc,nc73764471,2022-07-30T21:50:10.649Z,"8km NW of The Geysers, CA",earthquake,0.5,0.77,,1,automatic,nc,nc
 2022-07-30T21:34:30.017Z,35.01385117,-97.83815002,2.091114521,2.31,ml,40,47.94913483,0.07403426617,0.7846949494,ok,ok2022ovij,2022-07-30T21:37:31.797Z,"9 km ESE of Chickasha, Oklahoma",earthquake,1.937526817,1.56697852,,30,automatic,ok,ok
 2022-07-30T21:22:03.014Z,38.1768,-117.8097,3.9,1.3,ml,9,192.31,0.124,0.1912,nn,nn00843873,2022-07-30T21:25:32.334Z,"35 km SE of Mina, Nevada",earthquake,,2,0.38,6,automatic,nn,nn
 2022-07-30T21:03:22.107Z,63.097,-151.3326,0,1.4,ml,,,,0.78,ak,ak0229pax0r6,2022-07-30T21:06:45.464Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
