@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T10:19:31.000Z,34.0163333,-117.1026667,14.48,1.58,ml,62,29,0.02073,0.17,ci,ci40072775,2022-07-31T10:30:05.890Z,"6km NW of Calimesa, CA",earthquake,0.2,0.36,0.126,25,automatic,ci,ci
 2022-07-31T10:18:10.250Z,40.7130013,-122.2546692,17.27,2.23,md,7,182,0.182,0.13,nc,nc73764631,2022-07-31T11:53:43.689Z,"8km NNW of Bella Vista, CA",earthquake,1.54,2.04,0.12,8,automatic,nc,nc
 2022-07-31T10:11:44.478Z,62.5268,-149.3686,20.7,0.9,ml,,,,0.16,ak,ak0229qryd1r,2022-07-31T10:14:02.039Z,"38 km ENE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-07-31T10:09:41.100Z,40.7083321,-122.2779999,18.2,1.95,md,8,131,0.09637,0.06,nc,nc73764626,2022-07-31T10:26:16.298Z,"8km ENE of Shasta Lake, CA",earthquake,0.75,1.07,0.15,5,automatic,nc,nc
+2022-07-31T10:09:41.100Z,40.7083321,-122.2779999,18.2,1.95,md,8,131,0.09637,0.06,nc,nc73764626,2022-07-31T11:57:10.585Z,"8km ENE of Shasta Lake, CA",earthquake,0.75,1.07,0.15,5,automatic,nc,nc
 2022-07-31T09:59:38.320Z,33.2851667,-115.984,1.02,0.79,ml,17,101,0.1115,0.24,ci,ci40072767,2022-07-31T10:03:11.614Z,"3km WSW of Salton City, CA",earthquake,0.62,31.61,0.145,9,automatic,ci,ci
 2022-07-31T09:47:37.870Z,34.253,-118.5843333,16.1,1.87,ml,53,44,0.03162,0.23,ci,ci40072759,2022-07-31T09:58:33.850Z,"2km ESE of Chatsworth, CA",earthquake,0.32,0.52,0.152,26,automatic,ci,ci
 2022-07-31T09:38:05.210Z,36.8931656,-121.4136658,11.73,1.48,md,12,212,0.1036,0.14,nc,nc73764621,2022-07-31T11:34:15.462Z,"5km NNW of Hollister, CA",earthquake,1.84,2.11,0.23,9,automatic,nc,nc
