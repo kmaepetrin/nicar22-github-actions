@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-01T17:50:35.110Z,35.2333333,-118.496,5.31,1.14,ml,14,94,0.08446,0.22,ci,ci40073455,2022-08-01T17:54:10.210Z,"12km NNW of Tehachapi, CA",earthquake,0.67,1.96,0.199,13,automatic,ci,ci
 2022-08-01T17:41:42.300Z,63.0614,-149.2615,66.7,1.9,ml,,,,0.48,ak,ak0229sju62u,2022-08-01T17:43:59.189Z,"39 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-01T17:18:56.120Z,36.4356651,-121.0176697,8.3,1.7,md,10,73,0.03794,0.13,nc,nc73765131,2022-08-01T17:32:11.541Z,"16km SE of Pinnacles, CA",earthquake,0.5,1.11,0.11,7,automatic,nc,nc
+2022-08-01T17:10:16.021Z,11.2878,125.4548,88.87,4.9,mb,105,110,4.193,0.81,us,us6000i77g,2022-08-01T17:53:29.244Z,"10 km WNW of General MacArthur, Philippines",earthquake,9.5,6.9,0.041,192,reviewed,us,us
 2022-08-01T17:07:07.270Z,38.8213348,-122.8006668,2.69,0.35,md,16,57,0.007631,0.02,nc,nc73765126,2022-08-01T17:20:10.575Z,"6km NW of The Geysers, CA",earthquake,0.24,0.66,0.28,2,automatic,nc,nc
 2022-08-01T17:07:01.190Z,38.8219986,-122.8011703,2.95,0.84,md,10,101,0.007093,0.01,nc,nc73765121,2022-08-01T17:46:15.630Z,"6km NW of The Geysers, CA",earthquake,0.4,1.13,,1,automatic,nc,nc
 2022-08-01T17:02:52.935Z,28.3323,142.8311,10,4.7,mb,130,135,5.428,0.74,us,us6000i77e,2022-08-01T17:34:32.040Z,"Bonin Islands, Japan region",earthquake,10.4,1.8,0.044,158,reviewed,us,us
@@ -95,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-01T04:26:02.900Z,18.017,-65.378,17.25,2.87,md,6,225,,0.12,pr,pr71361923,2022-08-01T04:53:12.850Z,"13 km SE of Esperanza, Puerto Rico",earthquake,1.33,0.98,0.060458588494384,4,reviewed,pr,pr
 2022-08-01T04:19:02.760Z,37.5678333,-118.848,3.87,0.5,md,16,253,0.02676,0.05,nc,nc73764981,2022-08-01T16:31:18.103Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.8,0.79,0.143,14,reviewed,nc,nc
 2022-08-01T04:17:17.940Z,33.4946667,-116.7526667,6.4,0.49,ml,25,59,0.07171,0.22,ci,ci40073255,2022-08-01T04:20:51.300Z,"10km SW of Anza, CA",earthquake,0.3,1.03,0.099,15,automatic,ci,ci
-2022-08-01T04:13:19.759Z,60.4653,-147.3269,19.8,2.5,ml,,,,0.4,ak,ak0229sbxhfr,2022-08-01T04:59:11.040Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-01T04:13:19.759Z,60.4653,-147.3269,19.8,2.5,ml,,,,0.4,ak,ak0229sbxhfr,2022-08-01T04:59:11.040Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-01T04:08:17.449Z,52.2306,-168.0618,10,4.9,mwr,116,134,0.886,0.95,us,us6000i73d,2022-08-01T04:38:30.040Z,"95 km SE of Nikolski, Alaska",earthquake,5.9,1.8,0.083,14,reviewed,us,us
 2022-08-01T03:50:58.600Z,17.9741666666667,-66.916,11.97,1.91,md,6,180,,0.12,pr,pr71361908,2022-08-01T04:08:39.370Z,"0 km WNW of Guánica, Puerto Rico",earthquake,0.71,0.95,0.160305340753217,6,reviewed,pr,pr
 2022-08-01T03:41:23.895Z,63.9683,-22.3592,10,4.2,mb,26,134,0.902,0.6,us,us6000i73e,2022-08-01T04:52:15.040Z,"1 km SE of Vogar, Iceland",earthquake,4.9,1.9,0.104,26,reviewed,us,us
