@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-03T18:45:00.320Z,34.4596672,-117.8058319,5.42,3.34,ml,117,20,0.03271,0.2,ci,ci40074431,2022-08-03T18:51:58.506Z,"4km SSW of Llano, CA",earthquake,0.19,0.76,0.257,16,automatic,ci,ci
+2022-08-03T18:57:17.460Z,35.0546684,-118.3454971,0.35,1.35,ml,21,62,0.064,0.17,ci,ci40074447,2022-08-03T18:59:40.049Z,"13km SE of Tehachapi, CA",earthquake,0.37,0.95,0.341,5,automatic,ci,ci
+2022-08-03T18:55:10.940Z,34.4471667,-117.8038333,6.41,0.81,ml,15,78,0.0361,0.27,ci,ci40074439,2022-08-03T18:58:37.043Z,"5km SSW of Llano, CA",earthquake,0.61,0.75,0.138,12,automatic,ci,ci
+2022-08-03T18:45:00.320Z,34.4596672,-117.8058319,5.42,3.34,ml,117,20,0.03271,0.2,ci,ci40074431,2022-08-03T18:57:18.040Z,"4km SSW of Llano, CA",earthquake,0.19,0.76,0.257,16,automatic,ci,ci
 2022-08-03T18:43:40.821Z,61.0389,-147.9647,23,1.5,ml,,,,0.63,ak,ak0229vviq02,2022-08-03T18:45:39.197Z,"48 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-03T18:09:12.450Z,44.6956667,-110.0081667,13.29,1.1,md,6,192,0.07131,0.11,uu,uu60508222,2022-08-03T18:21:11.810Z,"34 km S of Silver Gate, Montana",earthquake,0.88,0.86,0.163,3,reviewed,uu,uu
 2022-08-03T18:03:55.658Z,34.6731,22.129,37.366,4.4,mb,33,208,2.349,0.29,us,us6000i7t0,2022-08-03T18:52:15.040Z,"154 km WSW of Palaióchora, Greece",earthquake,10.51,9.566,0.155,13,reviewed,us,us
@@ -85,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T09:28:26.180Z,19.4748333333333,-155.662166666667,3.43,0.93,md,14,126,,0.09,hv,hv73097252,2022-08-03T17:49:05.340Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.83,0.0726843561648198,6,reviewed,hv,hv
 2022-08-03T09:28:04.610Z,34.5748333,-120.7581667,-0.13,1.87,ml,21,229,0.2815,0.27,ci,ci40074191,2022-08-03T14:55:14.758Z,"28km WSW of Lompoc, CA",earthquake,1.13,2.53,0.103,13,reviewed,ci,ci
 2022-08-03T09:23:19.100Z,36.3563333,-119.776,15.77,2.25,md,36,73,0.2763,0.13,nc,nc73763475,2022-08-03T13:54:11.037Z,"6km N of Lemoore, CA",earthquake,0.31,0.57,0.284,63,reviewed,nc,nc
+2022-08-03T09:21:46.790Z,19.4148333333333,-155.619333333333,-0.67,0.77,md,12,104,,0.1,hv,hv73097247,2022-08-03T18:59:18.550Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.22,0.189241759168404,7,reviewed,hv,hv
 2022-08-03T09:17:52.000Z,33.6023333,-116.8046667,6.46,0.56,ml,22,51,0.03494,0.11,ci,ci40074175,2022-08-03T13:46:40.953Z,"13km WNW of Anza, CA",earthquake,0.21,0.35,0.147,14,reviewed,ci,ci
 2022-08-03T09:06:38.060Z,39.4231667,-110.313,-1.52,1.3,ml,12,179,0.009418,0.11,uu,uu60508172,2022-08-03T13:34:29.040Z,"15 km SSE of Sunnyside, Utah",earthquake,0.93,0.47,0.07,5,reviewed,uu,uu
 2022-08-03T08:56:24.390Z,19.4546666666667,-155.6055,-0.43,1.87,ml,16,89,,0.1,hv,hv73097202,2022-08-03T09:09:01.190Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.24,0.0529028000981748,5,reviewed,hv,hv
@@ -301,5 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T19:19:33.966Z,7.2218,126.9495,41.298,5.4,mww,121,44,1.368,1.03,us,us6000i7j6,2022-08-02T21:22:53.348Z,"42 km E of Santiago, Philippines",earthquake,6.56,4.354,0.063,24,reviewed,us,us
 2022-08-02T19:04:09.230Z,38.8178329,-122.7646637,1.88,0.21,md,9,110,0.01327,0.02,nc,nc73763215,2022-08-02T19:50:17.235Z,"4km W of Cobb, CA",earthquake,0.39,0.79,0.16,2,automatic,nc,nc
 2022-08-02T19:02:55.660Z,65.0171,-147.4906,0,0.8,ml,,,,1.49,ak,ak0229u8c1we,2022-08-02T19:04:20.899Z,"8 km NE of Fox, Alaska",earthquake,,7,,,automatic,ak,ak
-2022-08-02T18:59:48.460Z,37.6443333,-119.0228333,0.96,0.83,md,10,68,0.005197,0.05,nc,nc73763210,2022-08-02T22:59:26.426Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.44,0.73,0.359,8,reviewed,nc,nc
-2022-08-02T18:59:48.360Z,39.4283333,-110.2961667,-2.06,2.14,ml,14,199,0.02281,0.17,uu,uu60508017,2022-08-02T20:01:06.940Z,"15 km SSE of Sunnyside, Utah",earthquake,0.83,0.99,0.135,10,reviewed,uu,uu
