@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-04T19:33:57.420Z,33.3213348,-116.3355026,11.49,0.96,ml,17,103,0.04631,0.14,ci,ci40075247,2022-08-04T19:36:10.259Z,"8km NNE of Borrego Springs, CA",earthquake,0.45,0.78,0.091,3,automatic,ci,ci
+2022-08-04T19:30:07.340Z,38.770668,-122.7181702,1.75,1.28,md,12,106,0.01046,0.04,nc,nc73764150,2022-08-04T19:34:56.941Z,"2km WSW of Anderson Springs, CA",earthquake,0.32,0.49,0.14,6,automatic,nc,nc
 2022-08-04T19:19:43.290Z,33.9985,-116.984,15.86,0.93,ml,16,93,0.06211,0.14,ci,ci40075239,2022-08-04T19:23:11.863Z,"6km E of Calimesa, CA",earthquake,0.34,0.84,0.149,27,automatic,ci,ci
 2022-08-04T19:16:21.040Z,34.298,-117.1035,0.1,1.06,ml,11,228,0.1555,0.41,ci,ci40075231,2022-08-04T19:19:51.237Z,"10km NE of Lake Arrowhead, CA",earthquake,3.39,31.61,0.434,11,automatic,ci,ci
 2022-08-04T19:15:36.500Z,32.5918333,-117.0033333,2.35,1.5,ml,21,250,0.06374,0.24,ci,ci40075223,2022-08-04T19:19:17.838Z,"6km SE of Chula Vista, CA",quarry blast,1.99,0.67,0.237,13,automatic,ci,ci
@@ -51,13 +53,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T14:22:05.920Z,33.748,-116.0091667,3.13,1.16,ml,30,119,0.1125,0.19,ci,ci40074991,2022-08-04T14:25:37.015Z,"17km NE of Thermal, CA",earthquake,0.27,0.64,0.132,27,automatic,ci,ci
 2022-08-04T14:12:43.970Z,35.5185,-118.352,0.07,1.19,ml,19,61,0.1736,0.22,ci,ci40074975,2022-08-04T14:23:07.680Z,"15km ESE of Bodfish, CA",earthquake,0.38,0.71,0.155,14,automatic,ci,ci
 2022-08-04T14:12:33.310Z,65.6886,-145.4694,5.5,1.1,ml,,,,0.79,ak,ak0229xghoar,2022-08-04T14:15:12.175Z,"33 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-04T14:05:25.657Z,38.2024,-117.7431,8.7,0.8,ml,10,205.3,0.129,0.1753,nn,nn00844170,2022-08-04T14:09:14.357Z,"38 km ESE of Mina, Nevada",earthquake,,1.8,0.11,6,automatic,nn,nn
+2022-08-04T14:05:25.956Z,38.194,-117.754,9,0.8,ml,15,201.97,0.123,0.1058,nn,nn00844170,2022-08-04T19:36:24.380Z,"37 km SE of Mina, Nevada",earthquake,,3.1,0.12,4,reviewed,nn,nn
 2022-08-04T14:00:32.618Z,64.5022,-148.8679,16.6,0.9,ml,,,,0.15,ak,ak0229xgf3nh,2022-08-04T14:02:40.612Z,"12 km ESE of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-04T13:46:35.290Z,19.1721668243408,-155.480163574219,33.3699989318848,2.3900001,md,48,153,,0.109999999,hv,hv73098607,2022-08-04T13:49:55.170Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.899999976,1.63999999,23,automatic,hv,hv
 2022-08-04T13:38:30.740Z,38.8358345,-122.8063354,2.08,0.8,md,17,59,0.01275,0.01,nc,nc73764025,2022-08-04T15:38:15.181Z,"7km WNW of Cobb, CA",earthquake,0.26,0.49,0.26,3,automatic,nc,nc
 2022-08-04T13:37:29.570Z,38.8359985,-122.8061676,2.09,0.89,md,20,55,0.01259,0.01,nc,nc73764020,2022-08-04T15:13:14.013Z,"7km WNW of Cobb, CA",earthquake,0.25,0.47,0.19,4,automatic,nc,nc
 2022-08-04T13:31:16.590Z,33.6901667,-116.8085,13.28,0.61,ml,18,103,0.08138,0.17,ci,ci40074943,2022-08-04T15:40:00.944Z,"10km WSW of Idyllwild, CA",earthquake,0.46,0.62,0.133,11,reviewed,ci,ci
-2022-08-04T13:28:56.004Z,38.1473,-118.1874,2.9,1.1,ml,11,138,0.167,0.2563,nn,nn00844168,2022-08-04T13:32:06.246Z,"27 km SSW of Mina, Nevada",earthquake,,10.8,0.29,7,automatic,nn,nn
+2022-08-04T13:28:56.475Z,38.1712,-118.1637,12.8,1.1,ml,15,130.5,0.143,0.107,nn,nn00844168,2022-08-04T19:30:10.477Z,"24 km S of Mina, Nevada",earthquake,,2.1,0.29,5,reviewed,nn,nn
 2022-08-04T13:28:45.660Z,38.7869987,-122.7368317,1.31,0.6,md,10,87,0.02247,0.01,nc,nc73764015,2022-08-04T14:48:15.859Z,"2km ENE of The Geysers, CA",earthquake,0.52,2.84,0.28,2,automatic,nc,nc
 2022-08-04T13:28:36.280Z,33.6815,-116.8063333,15.01,0.51,ml,14,107,0.08234,0.23,ci,ci40074935,2022-08-04T13:32:04.330Z,"10km SW of Idyllwild, CA",earthquake,0.71,1.13,0.114,11,automatic,ci,ci
 2022-08-04T13:22:39.400Z,47.25866666666667,-121.97183333333334,21.54,3.06,ml,81,72,0.07154,0.31,uw,uw61860022,2022-08-04T19:25:39.110Z,"6 km SSE of Black Diamond, Washington",earthquake,0.31,0.64,0.2098432584228882,67,reviewed,uw,uw
