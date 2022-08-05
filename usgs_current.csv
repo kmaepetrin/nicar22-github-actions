@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-05T21:48:46.720Z,19.1708335876465,-155.460494995117,32.8800010681152,2.83999991,md,48,163,,0.100000001,hv,hv73100117,2022-08-05T21:51:58.110Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.56,0.730000019,1.32000005,40,automatic,hv,hv
+2022-08-05T21:48:46.720Z,19.1708335876465,-155.460494995117,32.8800010681152,2.31,ml,48,163,,0.100000001,hv,hv73100117,2022-08-05T21:54:16.980Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.56,0.730000019,4.16,20,automatic,hv,hv
 2022-08-05T21:34:29.530Z,34.0393333,-116.9723333,12.78,1.23,ml,28,67,0.02829,0.21,ci,ci40076087,2022-08-05T21:38:06.301Z,"7km E of Yucaipa, CA",earthquake,0.29,0.79,0.184,28,automatic,ci,ci
 2022-08-05T21:23:46.850Z,17.9781666666667,-66.8356666666667,17.13,2.32,md,7,198,,0.08,pr,pr71363008,2022-08-05T21:44:38.400Z,"2 km SW of Indios, Puerto Rico",earthquake,0.46,0.58,0.0460700455117422,4,reviewed,pr,pr
 2022-08-05T21:07:16.589Z,63.4881,-147.769,16.4,1.4,ml,,,,0.51,ak,ak0229z85y5m,2022-08-05T21:09:27.897Z,"59 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T14:10:36.100Z,18.0248333333333,-66.748,16.72,3.03,md,7,177,,0.12,pr,pr71362923,2022-08-05T16:29:35.969Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.53,1.17,0.144994786825493,6,reviewed,pr,pr
 2022-08-05T14:04:47.787Z,65.0706,-148.7249,13.5,0.6,ml,,,,0.19,ak,ak0229z3zc6l,2022-08-05T14:07:14.401Z,"30 km ESE of Minto, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-05T13:53:17.116Z,68.7322,-145.9198,4.8,1.9,ml,,,,1.05,ak,ak0229z3oca6,2022-08-05T13:55:50.705Z,"69 km NNW of Arctic Village, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-05T13:52:06.200Z,19.2665004730225,-155.426666259766,-0.209999993443489,2.28,ml,40,112,,0.25,hv,hv73099742,2022-08-05T13:57:36.580Z,"8 km NE of Pāhala, Hawaii",earthquake,0.43,0.289999992,0.26,3,automatic,hv,hv
+2022-08-05T13:52:06.110Z,19.2616666666667,-155.430333333333,0.15,2.26,md,31,69,,0.13,hv,hv73099742,2022-08-05T21:59:24.800Z,"8 km NE of Pāhala, Hawaii",earthquake,0.28,0.19,0.179215309770948,18,reviewed,hv,hv
 2022-08-05T13:49:37.750Z,17.957,-66.8381666666667,13.85,2.59,md,5,315,,0.07,pr,pr71362913,2022-08-05T14:59:24.510Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.83,0.29,0.0407027760851078,4,reviewed,pr,pr
 2022-08-05T13:38:32.070Z,34.0608333,-116.325,10.11,0.81,ml,14,65,0.05456,0.15,ci,ci40075679,2022-08-05T13:42:07.058Z,"8km S of Joshua Tree, CA",earthquake,0.34,0.74,0.098,13,automatic,ci,ci
 2022-08-05T13:30:52.950Z,35.1105,-95.53216667,7.03,1.83,ml,70,53,0.1052793406,0.22,ok,ok2022pfrk,2022-08-05T13:45:07.580Z,"12 km E of Crowder, Oklahoma",earthquake,,0.6,0.22,12,reviewed,ok,ok
