@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T18:55:56.350Z,34.9995,-118.1923333,0.28,1.3,ml,18,52,0.1228,0.32,ci,ci40075975,2022-08-05T18:59:33.429Z,"6km SSW of Mojave, CA",earthquake,0.55,31.61,0.131,30,automatic,ci,ci
 2022-08-05T18:51:03.330Z,39.4316667,-110.3261667,-0.88,1.4,ml,5,156,0.007602,0.04,uu,uu60508617,2022-08-05T20:20:07.430Z,"14 km SSE of Sunnyside, Utah",earthquake,0.93,0.23,0.044,2,reviewed,uu,uu
 2022-08-05T18:47:16.523Z,61.5021,-149.9366,49.5,1.1,ml,,,,0.42,ak,ak0229z6m7z8,2022-08-05T18:50:38.341Z,"2 km SSE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-08-05T18:33:39.247Z,57.635,-153.4823,55.3,1.4,ml,,,,0.24,ak,ak0229z6j8n0,2022-08-05T20:14:35.559Z,"31 km ENE of Larsen Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2022-08-05T18:33:39.247Z,57.635,-153.4823,55.3,1.4,ml,,,,0.24,ak,ak0229z6j8n0,2022-08-05T20:14:35.559Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-08-05T18:11:02.916Z,63.1671,-150.0775,81.4,1.1,ml,,,,0.46,ak,ak0229z6eh6s,2022-08-05T18:13:22.362Z,"61 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-05T18:05:31.130Z,36.0581667,-117.6905,3.76,0.95,ml,12,129,0.1221,0.24,ci,ci40075951,2022-08-05T18:09:00.979Z,"23km E of Coso Junction, CA",earthquake,0.6,1.69,0.102,9,automatic,ci,ci
 2022-08-05T18:02:52.510Z,35.9971657,-120.5563354,0.99,0.81,md,9,88,0.02013,0.04,nc,nc73764615,2022-08-05T18:17:30.226Z,"16km NW of Parkfield, CA",earthquake,0.28,0.45,0.26,5,automatic,nc,nc
@@ -258,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T20:54:01.775Z,37.3812,-117.1343,7.6,1,ml,7,135.04,0.129,0.1985,nn,nn00844192,2022-08-04T22:35:55.021Z,"37 km SSE of Goldfield, Nevada",earthquake,,5,0.78,5,reviewed,nn,nn
 2022-08-04T20:51:16.180Z,19.4516666666667,-155.599833333333,-1.01,1.48,md,11,81,,0.1,hv,hv73098877,2022-08-04T21:58:31.640Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.33,0.120202562286759,6,reviewed,hv,hv
 2022-08-04T20:45:33.430Z,39.4325,-110.3183333,-1.05,1.2,ml,6,191,0.009891,0.07,uu,uu60508457,2022-08-04T21:42:14.310Z,"14 km SSE of Sunnyside, Utah",earthquake,1.18,0.29,0.068,3,reviewed,uu,uu
-2022-08-04T20:44:12.140Z,39.4823333,-122.9381667,7.17,1.98,md,24,55,0.1828,0.12,nc,nc73764170,2022-08-05T01:21:15.840Z,"8km NNE of Lake Pillsbury, CA",earthquake,0.24,1.23,0.13,27,reviewed,nc,nc
-2022-08-04T20:43:55.440Z,18.9686660766602,-155.432159423828,16.1000003814697,1.8,ml,22,283,,0.300000012,hv,hv73098872,2022-08-04T20:49:26.210Z,"19 km SE of Naalehu, Hawaii",earthquake,1.65,22.8700008,4.74,3,automatic,hv,hv
-2022-08-04T20:37:10.810Z,39.4318333,-110.3258333,-0.87,1.55,md,6,158,0.007744,0.03,uu,uu60508447,2022-08-04T21:39:06.660Z,"14 km SSE of Sunnyside, Utah",earthquake,0.89,0.2,0.228,6,reviewed,uu,uu
