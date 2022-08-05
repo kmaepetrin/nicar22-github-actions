@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-05T23:32:04.011Z,61.8033,-151.0485,63.6,1.6,ml,,,,0.51,ak,ak0229z9i5ap,2022-08-05T23:34:02.497Z,"27 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-05T23:12:09.620Z,65.9468,-150.8081,9.2,1.2,ml,,,,0.47,ak,ak0229z9dveq,2022-08-05T23:15:10.773Z,"57 km NNW of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-05T23:10:44.422Z,65.0162,-147.4923,0,1.4,ml,,,,1.19,ak,ak0229z9dinu,2022-08-05T23:13:07.140Z,"8 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-05T22:56:31.370Z,33.527,-116.7363333,2.79,-0.11,ml,7,201,0.03831,0.04,ci,ci40076111,2022-08-05T23:37:34.067Z,"7km WSW of Anza, CA",earthquake,0.42,0.18,0.17,4,reviewed,ci,ci
 2022-08-05T22:56:07.310Z,38.8248329,-122.7935028,3.37,0.84,md,15,66,0.01302,0.02,nc,nc73764705,2022-08-05T23:29:22.187Z,"6km W of Cobb, CA",earthquake,0.35,1.41,,1,automatic,nc,nc
 2022-08-05T22:54:00.490Z,38.8341675,-122.8073349,2.3,0.85,md,13,52,0.01097,0.01,nc,nc73764700,2022-08-05T23:17:27.118Z,"7km W of Cobb, CA",earthquake,0.32,1.17,,1,automatic,nc,nc
 2022-08-05T22:52:55.720Z,39.4298333,-110.3101667,-1.21,1.68,ml,13,179,0.01291,0.13,uu,uu60508642,2022-08-05T23:06:05.650Z,"15 km SSE of Sunnyside, Utah",earthquake,0.82,0.3,0.091,5,reviewed,uu,uu
@@ -260,5 +262,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T00:14:43.374Z,60.5653,-152.0071,81.2,1.5,ml,,,,0.27,ak,ak0229yvpej5,2022-08-05T00:16:19.495Z,"38 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-05T00:13:25.849Z,61.6611,-150.1083,31.2,1.8,ml,,,,0.74,ak,ak0229yvp5go,2022-08-05T00:15:30.289Z,"10 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-04T23:55:09.740Z,18.0258333333333,-66.8433333333333,14.39,1.98,md,5,280,,0.05,pr,pr71362688,2022-08-05T00:19:46.240Z,"1 km SE of Yauco, Puerto Rico",earthquake,0.62,0.45,0.0698288147993897,5,reviewed,pr,pr
+2022-08-04T23:53:44.070Z,38.8156667,-122.786,1.46,0.54,md,20,65,0.004798,0.04,nc,nc73764325,2022-08-05T23:42:10.263Z,"5km NNW of The Geysers, CA",earthquake,0.23,0.27,0.027,4,reviewed,nc,nc
 2022-08-04T23:46:10.960Z,39.4283333,-110.308,-1.33,1.4,ml,8,195,0.0139,0.15,uu,uu60508502,2022-08-05T15:14:11.400Z,"15 km SSE of Sunnyside, Utah",earthquake,1.64,0.79,0.115,5,reviewed,uu,uu
-2022-08-04T23:41:49.040Z,35.5191667,-118.3908333,4.82,1.66,ml,30,46,0.1784,0.18,ci,ci40075391,2022-08-05T16:00:37.408Z,"12km SE of Bodfish, CA",earthquake,0.25,1.84,0.257,29,reviewed,ci,ci
