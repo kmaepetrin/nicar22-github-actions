@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-06T18:45:30.390Z,35.6778333,-117.463,11.06,1.8,ml,24,90,0.09114,0.18,ci,ci40076591,2022-08-06T18:49:07.033Z,"11km SSW of Searles Valley, CA",earthquake,0.35,0.61,0.149,26,automatic,ci,ci
+2022-08-06T18:53:02.589Z,61.431,-151.2828,63.9,1.6,ml,,,,0.39,ak,ak022a0u6toy,2022-08-06T18:54:51.352Z,"34 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-06T18:45:30.390Z,35.6778333,-117.463,11.06,1.8,ml,24,90,0.09114,0.18,ci,ci40076591,2022-08-06T18:56:29.110Z,"11km SSW of Searles Valley, CA",earthquake,0.35,0.61,0.149,26,automatic,ci,ci
 2022-08-06T18:18:45.490Z,36.7696648,-121.2808304,9.63,2.74,md,50,73,0.06666,0.1,nc,nc73764870,2022-08-06T18:49:17.127Z,"4km ESE of Tres Pinos, CA",earthquake,0.2,0.38,0.08,66,automatic,nc,nc
 2022-08-06T18:14:18.736Z,38.5206,-119.506,7.5,1,ml,8,187.35,0.056,0.0765,nn,nn00844322,2022-08-06T18:17:39.014Z,"2 km WNW of Walker, California",earthquake,,0.7,0.09,4,automatic,nn,nn
 2022-08-06T17:45:11.197Z,58.9663,-152.824,60.7,1.7,ml,,,,0.35,ak,ak022a0tjp0v,2022-08-06T17:47:15.322Z,"67 km SW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -187,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T19:04:41.300Z,33.8785,-117.0348333,-0.89,1.12,ml,30,119,0.06218,0.21,ci,ci40075983,2022-08-05T22:32:36.059Z,"8km SW of Beaumont, CA",quarry blast,0.42,31.61,0.103,20,reviewed,ci,ci
 2022-08-05T19:04:00.000Z,36.544,-89.6638333,10,1.78,md,38,36,0.01458,0.09,nm,nm60403372,2022-08-06T13:42:13.570Z,"southeastern Missouri",earthquake,0.15,0.31,0.14,23,reviewed,nm,nm
 2022-08-05T19:00:22.370Z,36.692,-121.3558333,1.46,1.28,md,14,106,0.01715,0.07,nc,nc73764640,2022-08-06T09:37:10.523Z,"11km SSW of Tres Pinos, CA",earthquake,0.55,0.56,0.185,9,reviewed,nc,nc
-2022-08-05T18:55:56.050Z,34.9933333,-118.1886667,-0.8,1.32,ml,27,47,0.1189,0.22,ci,ci40075975,2022-08-05T20:48:59.926Z,"7km SSW of Mojave, CA",quarry blast,0.37,31.61,0.099,25,reviewed,ci,ci
-2022-08-05T18:51:03.330Z,39.4316667,-110.3261667,-0.88,1.4,ml,5,156,0.007602,0.04,uu,uu60508617,2022-08-05T20:20:07.430Z,"14 km SSE of Sunnyside, Utah",earthquake,0.93,0.23,0.044,2,reviewed,uu,uu
