@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-09T07:05:03.697Z,38.5895,-119.4363,10.6,1.2,ml,10,136.49,0.085,0.361,nn,nn00844521,2022-08-09T07:08:10.349Z,"6 km ENE of Coleville, California",earthquake,,0.8,0.16,8,automatic,nn,nn
+2022-08-09T06:59:13.920Z,38.174,-117.8959,10.3,1.5,ml,9,178.39,0.061,0.1487,nn,nn00844520,2022-08-09T07:02:39.673Z,"30 km SE of Mina, Nevada",earthquake,,0.4,0.11,7,automatic,nn,nn
+2022-08-09T06:57:16.160Z,38.840168,-122.8238297,1.62,0.37,md,7,91,0.009239,0.01,nc,nc73765845,2022-08-09T07:03:10.931Z,"9km WNW of Cobb, CA",earthquake,0.36,0.86,,1,automatic,nc,nc
+2022-08-09T06:55:46.900Z,33.7685,-116.9165,16.13,0.54,ml,6,244,0.08144,0.18,ci,ci40078031,2022-08-09T06:59:14.417Z,"3km NW of Valle Vista, CA",earthquake,2.65,1.46,0.228,10,automatic,ci,ci
 2022-08-09T06:49:39.110Z,35.1336667,-118.9755,15.48,1.26,ml,16,152,0.1194,0.19,ci,ci40078023,2022-08-09T06:53:10.310Z,"15km SSW of Lamont, CA",earthquake,0.59,1.21,0.142,16,automatic,ci,ci
 2022-08-09T06:46:51.820Z,33.8175,-116.9278333,12.53,0.35,ml,8,164,0.1252,0.14,ci,ci40078015,2022-08-09T06:50:18.603Z,"5km NE of San Jacinto, CA",earthquake,1.1,1.8,0.157,6,automatic,ci,ci
 2022-08-09T06:39:42.570Z,33.2331667,-116.7316667,10.94,0.52,ml,20,52,0.02288,0.13,ci,ci40078007,2022-08-09T06:43:13.626Z,"3km ESE of Lake Henshaw, CA",earthquake,0.24,0.45,0.157,9,automatic,ci,ci
@@ -106,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T22:20:40.150Z,18.596,-68.7211666666667,88.91,3.43,md,10,327,,0.27,pr,pr71364158,2022-08-08T23:23:44.090Z,"Mona Passage",earthquake,3.55,1.62,0.0824371251445259,7,reviewed,pr,pr
 2022-08-08T22:19:04.300Z,38.5904999,-119.4601669,5.96,2.48,md,8,145,0.047,0.02,nc,nc73765675,2022-08-09T02:40:21.961Z,"9km NNE of Walker, CA",earthquake,0.42,0.54,0.21,9,automatic,nc,nc
 2022-08-08T22:06:47.440Z,19.4113330841064,-155.337661743164,4.67000007629395,1.86000001,md,21,74,,0.150000006,hv,hv73103292,2022-08-08T22:10:03.780Z,"11 km WSW of Volcano, Hawaii",earthquake,0.32,1.32000005,1.19000006,10,automatic,hv,hv
-2022-08-08T22:03:02.834Z,38.5937,-119.4383,6.2,1.7,ml,15,64.86,0.064,0.1283,nn,nn00844442,2022-08-09T02:40:19.725Z,"California-Nevada border region",earthquake,,2,0.35,6,reviewed,nn,nn
+2022-08-08T22:03:02.834Z,38.5937,-119.4383,6.2,1.7,ml,15,64.86,0.064,0.1283,nn,nn00844442,2022-08-09T02:40:19.725Z,"6 km ENE of Coleville, California",earthquake,,2,0.35,6,reviewed,nn,nn
 2022-08-08T21:49:35.556Z,38.5902,-119.4414,7.2,1.5,ml,21,63.83,0.062,0.1162,nn,nn00844438,2022-08-09T02:40:17.946Z,"6 km ENE of Coleville, California",earthquake,,1.4,0.31,6,reviewed,nn,nn
 2022-08-08T21:47:47.528Z,38.582,-119.4455,8.1,1.5,ml,17,64.51,0.058,0.1245,nn,nn00844436,2022-08-09T02:40:15.856Z,"5 km ENE of Coleville, California",earthquake,,1.3,0.41,6,reviewed,nn,nn
 2022-08-08T21:36:04.472Z,42.607,-111.4719,5,2.6,ml,21,85,0.316,0.45,us,us6000i96z,2022-08-09T04:39:23.267Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.04,1.855,0.041,78,reviewed,us,us
@@ -273,6 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T07:21:13.560Z,17.8678333333333,-66.9031666666667,13.54,3.25,md,34,219,,0.13,pr,pr71363768,2022-08-08T08:23:58.760Z,"11 km S of Guánica, Puerto Rico",earthquake,0.34,0.21,0.133865402786677,21,reviewed,pr,pr
 2022-08-08T07:18:28.085Z,-59.3288,-25.8186,36.747,5,mb,51,177,7.732,0.65,us,us6000i90n,2022-08-08T07:38:43.040Z,"South Sandwich Islands region",earthquake,14.12,8.628,0.071,64,reviewed,us,us
 2022-08-08T07:14:34.610Z,37.5351667,-119.0041667,4.55,0.27,md,13,154,0.07692,0.08,nc,nc73765355,2022-08-08T12:28:17.080Z,"12km S of Mammoth Lakes, CA",earthquake,0.38,1.41,0.311,12,reviewed,nc,nc
-2022-08-08T07:09:53.860Z,38.7546654,-122.7324982,2.54,0.36,md,6,142,0.009138,0.05,nc,nc73765350,2022-08-08T09:22:17.872Z,"3km SE of The Geysers, CA",earthquake,1.08,0.71,0.04,2,automatic,nc,nc
-2022-08-08T07:06:50.100Z,18.223,-68.3301,55,3.64,md,15,166,0.2954,0.54,pr,pr2022220003,2022-08-08T10:30:37.318Z,"34 km ESE of Boca de Yuma, Dominican Republic",earthquake,3.09,3.65,0.23,12,reviewed,pr,pr
-2022-08-08T07:06:23.550Z,35.06316667,-95.899,6,1.75,ml,92,74,0.2762457912,0.28,ok,ok2022pkrg,2022-08-08T12:30:55.489Z,"14 km NNE of Arpelar, Oklahoma",earthquake,,0.8,0.22,22,reviewed,ok,ok
