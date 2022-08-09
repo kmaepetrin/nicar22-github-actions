@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-09T05:53:36.060Z,38.822834,-122.786499,2.34,0.84,md,8,95,0.01058,0.01,nc,nc73765840,2022-08-09T05:55:14.576Z,"6km W of Cobb, CA",earthquake,0.73,1.71,,1,automatic,nc,nc
 2022-08-09T05:47:11.420Z,36.0643333,-117.3621667,-0.25,1.39,ml,11,200,0.1845,0.18,ci,ci40077983,2022-08-09T05:50:39.215Z,"33km N of Searles Valley, CA",earthquake,0.74,31.61,0.184,12,automatic,ci,ci
 2022-08-09T05:39:31.038Z,38.5928,-119.4204,1.7,1.2,ml,14,76.06,0.078,0.2637,nn,nn00844513,2022-08-09T05:42:39.788Z,"8 km ENE of Coleville, California",earthquake,,7.4,0.27,10,automatic,nn,nn
 2022-08-09T05:22:08.840Z,35.1525,-119.0008333,13.17,1.77,ml,24,127,0.1422,0.24,ci,ci40077975,2022-08-09T05:33:11.500Z,"14km SSW of Lamont, CA",earthquake,0.65,1.27,0.132,27,automatic,ci,ci
@@ -277,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T06:09:14.480Z,35.0655,-95.90083333,5.89,1.66,ml,69,119,0.437314184,0.26,ok,ok2022pkpj,2022-08-08T12:56:37.622Z,"14 km NNE of Arpelar, Oklahoma",earthquake,,1.4,0.2,16,reviewed,ok,ok
 2022-08-08T06:01:34.210Z,61.586,-146.5107,34.5,1.3,ml,,,,0.69,ak,ak022a3xt8ml,2022-08-08T06:03:45.830Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-08T06:01:03.440Z,33.541,-116.6968333,14.9,0.46,ml,12,111,0.04164,0.27,ci,ci40077327,2022-08-08T06:04:39.878Z,"3km SW of Anza, CA",earthquake,0.96,0.97,0.077,9,automatic,ci,ci
-2022-08-08T05:57:11.482Z,38.1926,-117.8577,9.3,1.7,ml,18,85.92,0.096,0.1408,nn,nn00844389,2022-08-09T02:39:20.611Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.38,6,reviewed,nn,nn
-2022-08-08T05:52:17.550Z,17.9603333333333,-66.9641666666667,9.04,2.01,md,25,191,,0.12,pr,pr71363738,2022-08-08T06:09:03.210Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.34,0.48,0.0768826766792692,13,reviewed,pr,pr
