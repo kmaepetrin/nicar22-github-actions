@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-10T09:04:18.080Z,35.8666667,-117.6696667,7.29,0.7,ml,13,122,0.07759,0.09,ci,ci40078951,2022-08-10T15:33:25.322Z,"23km ESE of Little Lake, CA",earthquake,0.21,0.48,0.311,3,reviewed,ci,ci
 2022-08-10T09:03:07.140Z,17.9915,-66.9001666666667,12.9,2.13,md,5,154,,0.05,pr,pr71364793,2022-08-10T11:23:48.960Z,"1 km ENE of Fuig, Puerto Rico",earthquake,0.67,0.81,0.0995105143437041,5,reviewed,pr,pr
 2022-08-10T08:59:01.680Z,35.5791667,-120.8926667,4.56,0.9,md,29,72,0.05965,0.1,nc,nc73766230,2022-08-10T19:50:32.181Z,"15km N of Cayucos, CA",earthquake,0.2,0.48,0.207,14,reviewed,nc,nc
-2022-08-10T08:37:09.708Z,38.5898,-119.4511,6.8,0.8,ml,11,92.59,0.054,0.1312,nn,nn00844659,2022-08-10T08:40:23.946Z,"5 km ENE of Coleville, California",earthquake,,1.2,0.18,8,automatic,nn,nn
