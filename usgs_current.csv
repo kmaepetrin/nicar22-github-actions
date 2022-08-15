@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T11:04:16.998Z,60.023,-152.8167,103.6,1.9,ml,,,,0.65,ak,ak022ady13d9,2022-08-14T15:34:57.087Z,"61 km W of Happy Valley, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-08-14T10:59:40.710Z,34.3408333,-116.8185,3.53,2.09,ml,68,27,0.01031,0.17,ci,ci40325288,2022-08-14T14:16:25.990Z,"9km NNE of Big Bear City, CA",earthquake,0.19,0.51,0.179,26,reviewed,ci,ci
 2022-08-14T10:59:32.440Z,19.2501,-66.236,21,3.46,md,21,224,0.8268,0.28,pr,pr2022226000,2022-08-14T11:57:19.950Z,"87 km N of Brenas, Puerto Rico",earthquake,0.89,18.88,0.09,17,reviewed,pr,pr
-2022-08-14T10:50:27.670Z,33.0341667,-116.4305,6.16,1.04,ml,34,79,0.1331,0.21,ci,ci40325280,2022-08-14T14:16:42.311Z,"17km ESE of Julian, CA",earthquake,0.29,1.18,0.213,26,reviewed,ci,ci
