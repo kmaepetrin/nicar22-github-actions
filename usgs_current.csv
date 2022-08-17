@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-17T15:45:34.700Z,38.7773323,-122.7263336,1.46,0.67,md,8,102,0.01004,0.02,nc,nc73769080,2022-08-17T15:47:09.447Z,"3km E of The Geysers, CA",earthquake,0.89,1.9,0.16,2,automatic,nc,nc
+2022-08-17T15:50:40.360Z,38.8351669,-122.7868347,1.88,0.36,md,7,102,0.004242,0.01,nc,nc73769085,2022-08-17T15:52:14.596Z,"6km WNW of Cobb, CA",earthquake,0.68,1.64,,1,automatic,nc,nc
+2022-08-17T15:45:34.700Z,38.7773323,-122.7263336,1.46,0.67,md,8,102,0.01004,0.02,nc,nc73769080,2022-08-17T15:56:11.803Z,"3km E of The Geysers, CA",earthquake,0.89,1.9,0.16,2,automatic,nc,nc
 2022-08-17T15:25:03.590Z,19.2586669921875,-155.376831054688,32.5099983215332,2.24,ml,46,138,,0.109999999,hv,hv73112357,2022-08-17T15:30:34.000Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.59,0.670000017,0.07,3,automatic,hv,hv
 2022-08-17T15:18:30.120Z,38.8359985,-122.7873306,1.52,0.85,md,9,74,0.003366,0.02,nc,nc73769070,2022-08-17T15:50:14.766Z,"6km WNW of Cobb, CA",earthquake,0.38,1.11,,1,automatic,nc,nc
 2022-08-17T15:15:07.670Z,33.227,-116.0763333,8.72,0.96,ml,31,70,0.09839,0.24,ci,ci40327072,2022-08-17T15:18:39.050Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.43,1.23,0.144,20,automatic,ci,ci
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T12:19:23.350Z,38.8393326,-122.8248367,2.12,1.19,md,24,90,0.008351,0.02,nc,nc73769050,2022-08-17T14:09:10.153Z,"9km WNW of Cobb, CA",earthquake,0.21,0.39,0.12,6,automatic,nc,nc
 2022-08-17T12:19:01.490Z,38.474,-112.8526667,0.07,-0.7,md,8,177,0.02602,0.08,uu,uu60510222,2022-08-17T14:07:34.300Z,"16 km ENE of Milford, Utah",earthquake,0.59,31.61,0.674,2,reviewed,uu,uu
 2022-08-17T12:17:04.259Z,33.2439,141.8489,10,4.3,mb,24,139,1.711,0.54,us,us6000ibjq,2022-08-17T12:40:44.040Z,"253 km SSE of Katsuura, Japan",earthquake,9.86,1.918,0.148,13,reviewed,us,us
-2022-08-17T12:16:41.920Z,37.6054993,-118.8906631,3.59,1.34,md,16,166,0.02272,0.02,nc,nc73769045,2022-08-17T13:44:10.989Z,"8km ESE of Mammoth Lakes, CA",earthquake,0.53,0.7,0.12,16,automatic,nc,nc
+2022-08-17T12:16:41.960Z,37.6071667,-118.8931667,3.12,1.38,md,22,117,0.0204,0.05,nc,nc73769045,2022-08-17T15:58:44.586Z,"8km ESE of Mammoth Lakes, CA",earthquake,0.23,0.39,0.109,16,reviewed,nc,nc
 2022-08-17T12:11:02.550Z,38.8274994,-122.8075027,1.54,1.1,md,23,38,0.004564,0.01,nc,nc73769040,2022-08-17T13:15:10.809Z,"7km NW of The Geysers, CA",earthquake,0.19,0.37,0.09,4,automatic,nc,nc
 2022-08-17T11:57:57.990Z,19.1911659240723,-155.395172119141,33.2400016784668,2.1500001,md,48,171,,0.119999997,hv,hv73112232,2022-08-17T12:01:11.870Z,"Island of Hawaii, Hawaii",earthquake,0.45,0.529999971,1.46000004,18,automatic,hv,hv
 2022-08-17T11:19:56.118Z,32.77313232,-100.6486995,8.290161133,3.1,ml,17,69,0.06212967558,0.2,tx,tx2022qbld,2022-08-17T15:22:01.553Z,"18 km NE of Hermleigh, Texas",earthquake,1.140486535,1.39096062,0.1,12,reviewed,tx,tx
@@ -76,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T06:21:50.110Z,39.4273333,-110.297,-2.14,1.51,ml,8,183,0.022,0.15,uu,uu60510187,2022-08-17T15:43:35.170Z,"15 km SSE of Sunnyside, Utah",earthquake,1.63,1.85,0.11,4,reviewed,uu,uu
 2022-08-17T06:11:07.760Z,33.4838333,-116.508,12.07,1.21,ml,51,50,0.07594,0.19,ci,ci40326824,2022-08-17T06:22:07.720Z,"17km ESE of Anza, CA",earthquake,0.22,0.43,0.213,27,automatic,ci,ci
 2022-08-17T06:10:48.560Z,33.4895,-116.5023333,13.73,0.91,ml,37,59,0.07192,0.18,ci,ci40326816,2022-08-17T14:22:35.520Z,"18km ESE of Anza, CA",earthquake,0.25,0.48,0.169,27,reviewed,ci,ci
-2022-08-17T05:45:33.040Z,38.6032,-119.4458,0,1.3,ml,18,76.83,0.06,0.3825,nn,nn00845201,2022-08-17T05:49:03.838Z,"California-Nevada border region",earthquake,,0.5,0.24,12,automatic,nn,nn
+2022-08-17T05:45:33.040Z,38.6032,-119.4458,0,1.3,ml,18,76.83,0.06,0.3825,nn,nn00845201,2022-08-17T05:49:03.838Z,"6 km ESE of Topaz, California",earthquake,,0.5,0.24,12,automatic,nn,nn
 2022-08-17T05:42:16.160Z,39.4273333,-110.2901667,-2.82,1.66,md,7,201,0.02725,0.14,uu,uu60030814,2022-08-17T15:40:57.080Z,"16 km SSE of Sunnyside, Utah",earthquake,1.71,3.3,0.218,6,reviewed,uu,uu
 2022-08-17T05:41:37.890Z,39.427,-110.2876667,-3.33,1.4,md,8,202,0.02914,0.15,uu,uu60510182,2022-08-17T15:39:52.600Z,"16 km SSE of Sunnyside, Utah",earthquake,1.65,3.27,0.121,7,reviewed,uu,uu
 2022-08-17T05:38:19.264Z,-4.9175,102.9018,61.634,4.6,mb,35,158,0.556,0.44,us,us6000ibif,2022-08-17T08:26:35.040Z,"105 km SSW of Pagar Alam, Indonesia",earthquake,8.52,6.642,0.119,21,reviewed,us,us
@@ -123,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T00:59:44.274Z,63.615,-147.509,0,1.2,ml,,,,0.93,ak,ak022aiqf7qz,2022-08-17T01:02:26.037Z,"70 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-17T00:57:13.530Z,35.24,-118.4693333,7.66,0.87,ml,13,109,0.06479,0.17,ci,ci40326736,2022-08-17T15:32:03.387Z,"12km N of Tehachapi, CA",earthquake,0.4,0.58,0.11,6,reviewed,ci,ci
 2022-08-17T00:53:01.240Z,33.9263333,-116.7775,14.2,3.19,ml,148,16,0.0137,0.19,ci,ci40326728,2022-08-17T15:28:06.600Z,"1km NE of Cabazon, CA",earthquake,0.09,0.19,0.221,43,reviewed,ci,ci
-2022-08-17T00:52:24.670Z,33.9335,-116.7743333,14.83,1.37,ml,48,32,0.1015,0.19,ci,ci40326720,2022-08-17T01:02:38.122Z,"2km NNE of Cabazon, CA",earthquake,0.23,0.58,0.123,26,automatic,ci,ci
+2022-08-17T00:52:24.620Z,33.9331667,-116.7756667,15.5,1.38,ml,52,44,0.1009,0.16,ci,ci40326720,2022-08-17T15:58:15.425Z,"2km NNE of Cabazon, CA",earthquake,0.15,0.38,0.151,24,reviewed,ci,ci
 2022-08-17T00:47:37.054Z,62.4633,-152.0093,78.9,1.4,ml,,,,0.5,ak,ak022aiqcmll,2022-08-17T00:50:13.605Z,"61 km NNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-17T00:44:47.230Z,-4.1786,127.5033,250.089,4.4,mb,33,59,4.899,0.56,us,us6000ibgy,2022-08-17T01:06:52.040Z,"92 km SW of Ambon, Indonesia",earthquake,9.65,8.592,0.096,31,reviewed,us,us
 2022-08-17T00:43:58.449Z,32.76947021,-100.6637052,5.893595378,3.8,ml,33,56,0.07506329067,0.3,tx,tx2022qaqd,2022-08-17T06:58:30.751Z,"17 km NNE of Hermleigh, Texas",earthquake,1.017413573,1.419164736,0.2,19,reviewed,tx,tx
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T16:13:28.750Z,44.7793333,-110.807,3.97,0.51,md,8,197,0.03226,0.08,uu,uu60510067,2022-08-16T16:26:19.290Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,0.84,0.162,5,reviewed,uu,uu
 2022-08-16T16:06:57.270Z,61.9405,-141.1171,1.6,1.2,ml,,,,0.47,ak,ak022ahc3gyy,2022-08-16T16:29:13.355Z,"81 km S of Alcan Border, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-08-16T16:04:51.719Z,34.8895,-97.25883333,7.93,1.23,ml,23,107,0.1412722776,0.27,ok,ok2022pzza,2022-08-17T13:19:33.979Z,"5 km ESE of Wayne, Oklahoma",earthquake,,1.4,0.16,11,reviewed,ok,ok
-2022-08-16T15:54:13.520Z,39.431,-110.3088333,-1.23,1.33,ml,9,195,0.01436,0.1,uu,uu60510062,2022-08-16T16:11:21.730Z,"14 km SSE of Sunnyside, Utah",earthquake,0.96,0.32,0.045,3,reviewed,uu,uu
