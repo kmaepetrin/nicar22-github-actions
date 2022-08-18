@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-18T09:50:28.400Z,33.4788322,-116.4516678,9.92,1,ml,29,72,0.04946,0.12,ci,ci40327592,2022-08-18T09:52:33.575Z,"22km ESE of Anza, CA",earthquake,0.29,0.73,0.257,10,automatic,ci,ci
+2022-08-18T09:55:25.320Z,32.7668333,-115.418,2.19,1.82,ml,13,178,0.0454,0.29,ci,ci40327600,2022-08-18T09:59:13.573Z,"6km SW of Holtville, CA",earthquake,1.05,1.36,0.203,28,automatic,ci,ci
+2022-08-18T09:50:28.500Z,33.479,-116.4521667,8.98,0.8,ml,29,72,0.0495,0.18,ci,ci40327592,2022-08-18T09:54:00.619Z,"22km ESE of Anza, CA",earthquake,0.26,0.62,0.159,24,automatic,ci,ci
 2022-08-18T09:49:14.600Z,19.156665802002,-155.464004516602,31.8999996185303,2.00999999,md,45,100,,0.119999997,hv,hv73113357,2022-08-18T09:52:29.720Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.61,0.850000024,0.25,13,automatic,hv,hv
 2022-08-18T09:28:58.510Z,33.3218333,-116.323,9.42,0.97,ml,40,70,0.04196,0.21,ci,ci40327584,2022-08-18T09:32:34.647Z,"9km NNE of Borrego Springs, CA",earthquake,0.3,0.68,0.146,27,automatic,ci,ci
 2022-08-18T09:25:59.700Z,33.6433333,-116.762,13.12,1.06,ml,43,45,0.04954,0.17,ci,ci40327576,2022-08-18T09:36:33.850Z,"12km SSW of Idyllwild, CA",earthquake,0.22,0.41,0.207,26,automatic,ci,ci
