@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-18T11:32:53.711Z,61.5078,-150.7517,63.1,1.5,ml,,,,0.35,ak,ak022akkckaj,2022-08-18T11:35:29.030Z,"13 km WSW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2022-08-18T11:29:57.850Z,18.9874992370605,-155.431671142578,33.6800003051758,2.76,ml,47,225,,0.129999995,hv,hv73113412,2022-08-18T11:35:28.360Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.55,0.930000007,0.63,4,automatic,hv,hv
 2022-08-18T11:12:59.610Z,33.4841667,-116.4523333,12.03,1.24,ml,51,59,0.04502,0.21,ci,ci40327640,2022-08-18T11:24:00.660Z,"22km ESE of Anza, CA",earthquake,0.23,0.45,0.143,25,automatic,ci,ci
 2022-08-18T11:12:54.290Z,33.4648333,-116.569,-0.45,0.52,ml,18,177,0.09427,0.27,ci,ci40327632,2022-08-18T11:16:30.313Z,"14km SE of Anza, CA",earthquake,0.72,31.61,0.188,6,automatic,ci,ci
 2022-08-18T10:54:52.776Z,63.2184,-151.3263,0,1.1,ml,,,,0.91,ak,ak022akjvud9,2022-08-18T10:57:06.253Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
