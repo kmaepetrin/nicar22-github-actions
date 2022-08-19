@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T18:48:31.251Z,60.1817,-141.3085,0,1.4,ml,,,,0.61,ak,ak022amc5bqt,2022-08-19T18:50:41.630Z,"113 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-19T18:40:27.556Z,61.9487,-151.3089,84.8,1.6,ml,,,,0.45,ak,ak022amc3lqb,2022-08-19T18:43:25.545Z,"6 km SE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-19T18:37:05.010Z,33.4945,-116.4761667,17.74,0.66,ml,18,65,0.05108,0.34,ci,ci40328480,2022-08-19T18:40:40.475Z,"20km ESE of Anza, CA",earthquake,0.75,1.28,0.115,12,automatic,ci,ci
-2022-08-19T18:24:32.679Z,-26.9204,26.7159,5,4.7,mb,68,52,2.126,0.86,us,us6000ic78,2022-08-19T19:28:35.643Z,"7 km NNE of Orkney, South Africa",earthquake,5.76,1.005,0.081,52,reviewed,us,us
+2022-08-19T18:24:32.679Z,-26.9204,26.7159,5,4.7,mb,68,52,2.126,0.86,us,us6000ic78,2022-08-19T19:33:37.085Z,"7 km NNE of Orkney, South Africa",earthquake,5.76,1.005,0.081,52,reviewed,us,us
 2022-08-19T18:21:02.220Z,34.39316667,-96.879,0,1.58,ml,41,86,0.3383336074,0.32,ok,ok2022qfqa,2022-08-19T18:27:14.896Z,"4 km WSW of Mill Creek, Oklahoma",quarry blast,,0.5,0.21,20,reviewed,ok,ok
 2022-08-19T18:18:56.081Z,40.0237,-119.6349,8.3,2.2,ml,16,103.63,0.164,0.1596,nn,nn00845456,2022-08-19T19:11:24.028Z,"8 km NNW of Sutcliffe, Nevada",earthquake,,1.4,0.37,9,reviewed,nn,nn
 2022-08-19T18:17:31.103Z,-8.8821,119.2939,122.09,4.6,mb,65,72,1.501,0.96,us,us6000ic76,2022-08-19T19:15:40.040Z,"38 km SW of Komodo, Indonesia",earthquake,6.37,6.697,0.077,54,reviewed,us,us
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-18T20:09:05.530Z,35.6695,-117.505,5.27,-0.08,ml,2,184,0.08986,0.06,ci,ci40327936,2022-08-18T21:15:23.133Z,"14km SW of Searles Valley, CA",earthquake,6.08,31.61,0.105,1,reviewed,ci,ci
 2022-08-18T19:46:51.180Z,39.4241667,-110.2966667,-1.89,1.46,ml,10,184,0.02202,0.16,uu,uu60510397,2022-08-18T20:05:14.280Z,"Utah",earthquake,0.98,0.95,0.049,5,reviewed,uu,uu
 2022-08-18T19:45:30.898Z,60.1672,-152.8933,121.4,1.1,ml,,,,0.32,ak,ak022akp6roh,2022-08-18T19:47:18.639Z,"69 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-18T19:34:46.440Z,36.206501,-120.3733368,9.52,1.32,md,8,178,0.1104,0.03,nc,nc73769485,2022-08-18T22:47:14.012Z,"7km N of Coalinga, CA",earthquake,0.63,1.05,0.01,3,automatic,nc,nc
