@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T18:18:56.081Z,40.0237,-119.6349,8.3,2.2,ml,16,103.63,0.164,0.1596,nn,nn00845456,2022-08-19T19:11:24.028Z,"8 km NNW of Sutcliffe, Nevada",earthquake,,1.4,0.37,9,reviewed,nn,nn
 2022-08-19T18:17:31.103Z,-8.8821,119.2939,122.09,4.6,mb,65,72,1.501,0.96,us,us6000ic76,2022-08-19T19:15:40.040Z,"38 km SW of Komodo, Indonesia",earthquake,6.37,6.697,0.077,54,reviewed,us,us
 2022-08-19T18:07:04.883Z,60.6885,-145.2186,10.3,1.4,ml,,,,0.73,ak,ak022ambwhby,2022-08-19T22:13:28.929Z,"33 km ENE of Cordova, Alaska",earthquake,,2.7,,,reviewed,ak,ak
-2022-08-19T18:00:55.010Z,36.8021667,-121.5406667,6.75,2.07,md,59,40,0.03233,0.17,nc,nc73769720,2022-08-20T09:30:16.225Z,"5km S of San Juan Bautista, CA",earthquake,0.25,0.44,0.181,56,reviewed,nc,nc
-2022-08-19T17:59:51.290Z,34.0231667,-117.2146667,14.61,0.84,ml,14,92,0.1368,0.09,ci,ci40328456,2022-08-19T18:11:10.518Z,"5km SW of Redlands, CA",earthquake,0.25,0.55,0.043,5,reviewed,ci,ci
