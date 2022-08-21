@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-21T11:02:38.330Z,33.3433342,-116.3616638,11.38,2.79,ml,109,29,0.01718,0.18,ci,ci40329176,2022-08-21T11:04:49.389Z,"10km N of Borrego Springs, CA",earthquake,0.17,0.38,0.292,20,automatic,ci,ci
+2022-08-21T11:02:38.300Z,33.3448333,-116.3596667,10.78,2.61,ml,80,29,0.04541,0.19,ci,ci40329176,2022-08-21T11:13:30.940Z,"10km N of Borrego Springs, CA",earthquake,0.17,0.37,0.213,25,automatic,ci,ci
 2022-08-21T10:57:29.690Z,33.8863333,-116.1743333,0.38,0.99,ml,17,77,0.09758,0.21,ci,ci40329168,2022-08-21T11:00:58.969Z,"19km NNE of Indio, CA",earthquake,0.33,31.61,0.202,26,automatic,ci,ci
 2022-08-21T10:48:28.474Z,65.5312,-144.7453,0,1.6,ml,,,,0.84,ak,ak022apigjof,2022-08-21T10:50:55.325Z,"5 km SSE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-21T10:46:16.260Z,34.4376667,-117.9123333,11.26,0.59,ml,9,64,0.03734,0.12,ci,ci40329160,2022-08-21T10:49:50.374Z,"8km S of Pearblossom, CA",earthquake,0.4,0.63,0.086,8,automatic,ci,ci
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T08:54:43.455Z,38.4954,-117.9028,1.7,0.5,ml,8,234.42,0.207,0.2123,nn,nn00845537,2022-08-21T09:01:15.359Z,"21 km ENE of Mina, Nevada",earthquake,,0,0.54,4,automatic,nn,nn
 2022-08-21T08:47:16.628Z,62.8764,-148.2044,61.2,1.5,ml,,,,0.62,ak,ak022aph9fu6,2022-08-21T08:49:42.423Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-21T08:31:02.310Z,38.8336678,-122.8113327,2.08,0.57,md,20,51,0.0103,0.01,nc,nc73770340,2022-08-21T08:48:11.534Z,"8km W of Cobb, CA",earthquake,0.24,0.47,0.28,3,automatic,nc,nc
-2022-08-21T08:02:45.216Z,38.1764,-117.9477,5.7,0.7,ml,11,150.25,0.037,0.0822,nn,nn00845536,2022-08-21T08:07:45.917Z,"27 km SSE of Mina, Nevada",earthquake,,0.5,0.49,6,automatic,nn,nn
+2022-08-21T08:02:45.216Z,38.1764,-117.9477,5.7,0.7,ml,11,150.25,0.037,0.0822,nn,nn00845536,2022-08-21T08:07:45.917Z,"Nevada",earthquake,,0.5,0.49,6,automatic,nn,nn
 2022-08-21T07:56:04.038Z,65.6839,-154.9224,1.3,1.5,ml,,,,0.65,ak,ak022apgpwpf,2022-08-21T07:58:39.853Z,"50 km SW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-21T07:50:35.670Z,36.7190018,-121.3590012,2.3,1.84,md,20,145,0.01528,0.12,nc,nc73770325,2022-08-21T10:09:12.041Z,"9km SSW of Tres Pinos, CA",earthquake,0.45,0.5,0.2,12,automatic,nc,nc
 2022-08-21T07:49:09.490Z,18.1656,-65.7015,14,3.71,md,28,138,0.1492,0.24,pr,pr2022233000,2022-08-21T10:35:05.792Z,"4 km E of Punta Santiago, Puerto Rico",earthquake,0.91,0.94,0.13,20,reviewed,pr,pr
@@ -195,7 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T11:28:21.814Z,60.2836,-143.3153,0,1.6,ml,,,,0.78,ak,ak022anvebz9,2022-08-20T11:30:33.254Z,"129 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-20T11:26:44.310Z,33.289,-116.2831667,4.38,1.15,ml,44,35,0.07645,0.23,ci,ci40328776,2022-08-20T11:30:15.729Z,"9km ENE of Borrego Springs, CA",earthquake,0.28,0.76,0.163,25,automatic,ci,ci
 2022-08-20T11:25:35.470Z,35.9346667,-117.666,1.68,1.34,ml,15,138,0.124,0.23,ci,ci40328768,2022-08-20T11:29:08.752Z,"22km E of Little Lake, CA",earthquake,0.48,0.57,0.128,17,automatic,ci,ci
-2022-08-20T11:20:51.420Z,36.7863333,-121.4135,6.46,1.02,md,19,86,0.03505,0.09,nc,nc73769990,2022-08-20T18:45:12.486Z,"5km SW of Ridgemark, CA",earthquake,0.32,0.39,0.232,17,reviewed,nc,nc
-2022-08-20T11:19:35.320Z,38.8121681,-122.8219986,3.24,0.74,md,10,61,0.006505,0.01,nc,nc73769985,2022-08-20T12:49:10.326Z,"7km NW of The Geysers, CA",earthquake,0.44,0.92,0.11,2,automatic,nc,nc
-2022-08-20T11:14:03.880Z,52.0475,178.342666666667,3.47,2.69,ml,7,320,,0.09,av,av91665476,2022-08-20T19:08:41.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.05,1.39,0.208219794616828,9,reviewed,av,av
-2022-08-20T11:06:11.093Z,60.2984,-143.3006,1.3,2.8,ml,,,,0.69,ak,ak022anv9ldh,2022-08-20T11:47:30.040Z,"128 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
