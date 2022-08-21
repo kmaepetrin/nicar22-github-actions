@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-21T07:25:31.080Z,33.2336667,-116.7413333,8.15,1.87,ml,69,23,0.01479,0.23,ci,ci40329104,2022-08-21T07:30:34.193Z,"2km ESE of Lake Henshaw, CA",earthquake,0.22,0.64,0.173,25,automatic,ci,ci
-2022-08-21T07:15:27.430Z,38.8411674,-122.8225021,1.53,0.86,md,15,89,0.01046,0.02,nc,nc73770310,2022-08-21T07:23:11.165Z,"9km WNW of Cobb, CA",earthquake,0.25,0.68,,1,automatic,nc,nc
+2022-08-21T07:25:31.080Z,33.2336667,-116.7413333,8.15,1.87,ml,69,23,0.01479,0.23,ci,ci40329104,2022-08-21T07:36:27.130Z,"2km ESE of Lake Henshaw, CA",earthquake,0.22,0.64,0.173,25,automatic,ci,ci
+2022-08-21T07:15:27.430Z,38.8411674,-122.8225021,1.53,0.86,md,15,89,0.01046,0.02,nc,nc73770310,2022-08-21T07:37:13.139Z,"9km WNW of Cobb, CA",earthquake,0.25,0.68,,1,automatic,nc,nc
 2022-08-21T07:13:02.800Z,33.7421667,-116.0378333,2.02,0.52,ml,7,172,0.09703,0.14,ci,ci40329096,2022-08-21T07:16:36.055Z,"14km ENE of Coachella, CA",earthquake,0.5,0.73,0.067,7,automatic,ci,ci
 2022-08-21T07:10:54.360Z,61.2438,-150.2383,37.6,1.7,ml,,,,0.94,ak,ak022apgg4rb,2022-08-21T07:13:35.524Z,"18 km W of Anchorage, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-08-21T06:51:26.840Z,19.1655006408691,-155.494338989258,36.3300018310547,2.5,md,41,114,,0.109999999,hv,hv73116382,2022-08-21T07:13:58.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.71,1.05999994,0.25,17,automatic,hv,hv
