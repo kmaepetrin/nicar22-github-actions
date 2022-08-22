@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-22T11:45:53.866Z,60.0038,-153.4637,149.567,2.6,ml,33,76,0.541,0.56,us,us6000icr5,2022-08-22T11:54:05.040Z,"43 km ENE of Pedro Bay, Alaska",earthquake,3.19,7.798,0.041,78,reviewed,us,us
 2022-08-22T11:42:38.870Z,31.9456667,-116.0733333,19.45,2.16,ml,8,152,0.1217,0.22,ci,ci40329688,2022-08-22T11:46:13.284Z,"52km E of Ensenada, B.C., MX",earthquake,1.11,1.31,0.084,14,automatic,ci,ci
 2022-08-22T11:37:55.910Z,19.2129993438721,-155.386001586914,30.6499996185303,1.77999997,md,26,164,,0.200000003,hv,hv73117607,2022-08-22T11:41:07.680Z,"9 km E of Pāhala, Hawaii",earthquake,0.74,1.32000005,1.77999997,4,automatic,hv,hv
 2022-08-22T11:37:20.930Z,38.1685,-116.1471,8.7,1.3,ml,10,248.11,0.969,0.1654,nn,nn00845588,2022-08-22T11:41:52.090Z,"68 km NNW of Rachel, Nevada",earthquake,,1.1,0.19,4,automatic,nn,nn
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-22T08:36:32.661Z,-9.0889,115.5827,140.865,5.5,mww,120,75,1.542,0.57,us,us6000icp4,2022-08-22T11:34:09.642Z,"49 km SE of Nusa Dua, Indonesia",earthquake,6.74,5.943,0.086,13,reviewed,us,us
 2022-08-22T08:30:33.201Z,62.9894,-150.705,102.9,2.5,ml,,,,0.61,ak,ak022ar4p6dw,2022-08-22T08:32:42.598Z,"55 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-22T07:54:58.127Z,-0.9625,-24.6462,10,5.1,mb,109,37,12.228,0.52,us,us6000icp1,2022-08-22T08:21:03.040Z,"central Mid-Atlantic Ridge",earthquake,4.53,1.759,0.029,399,reviewed,us,us
-2022-08-22T07:50:50.470Z,37.3003349,-89.5651703,2.04,2.04,md,10,123,0.07423,0.12,nm,nm60405567,2022-08-22T10:41:58.785Z,"4 km W of Cape Girardeau, Missouri",earthquake,0.45,13.21,,1,reviewed,nm,nm
+2022-08-22T07:50:50.470Z,37.3003349,-89.5651703,2.04,2.04,md,10,123,0.07423,0.12,nm,nm60405567,2022-08-22T11:56:01.219Z,"4 km W of Cape Girardeau, Missouri",earthquake,0.45,13.21,,1,reviewed,nm,nm
 2022-08-22T07:48:37.488Z,38.1588,-117.9789,11.4,0.8,ml,12,118.76,0.025,0.086,nn,nn00845586,2022-08-22T07:52:21.023Z,"28 km SSE of Mina, Nevada",earthquake,,0.4,0.22,7,automatic,nn,nn
 2022-08-22T07:46:17.030Z,35.9685,-117.6451667,4.57,0.97,ml,8,235,0.1335,0.08,ci,ci40329568,2022-08-22T07:49:46.875Z,"24km E of Little Lake, CA",earthquake,1.12,0.76,0.106,11,automatic,ci,ci
 2022-08-22T07:36:18.910Z,17.9513333333333,-67.0133333333333,8.73,2.66,md,13,223,,0.09,pr,pr71367353,2022-08-22T08:01:13.110Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.4,0.7,0.11415502008866,9,reviewed,pr,pr
