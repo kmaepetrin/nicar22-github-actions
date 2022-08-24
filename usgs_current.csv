@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-24T21:57:03.548Z,36.8742,-116.0318,2.9,0.6,ml,14,81.81,0.061,0.335,nn,nn00845777,2022-08-24T21:59:57.593Z,"46 km NW of Indian Springs, Nevada",earthquake,,0.6,0.91,8,automatic,nn,nn
 2022-08-24T21:48:34.932Z,61.9172,-149.6192,35,1.6,ml,,,,0.77,ak,ak022aunmdb9,2022-08-24T21:50:35.381Z,"27 km NW of Fishhook, Alaska",earthquake,,7,,,automatic,ak,ak
 2022-08-24T21:41:44.561Z,31.61428826,-104.1030481,6.74855957,2.2,ml,18,61,0.08370305257,0.2,tx,tx2022qpad,2022-08-24T21:52:01.166Z,"44 km NW of Toyah, Texas",earthquake,0.7761285355,1.14343883,0.2,10,reviewed,tx,tx
 2022-08-24T21:40:44.470Z,35.7018333,-117.514,6.03,0.97,ml,10,101,0.1226,0.13,ci,ci40331112,2022-08-24T21:44:17.422Z,"12km SW of Searles Valley, CA",earthquake,0.45,1.76,0.167,9,automatic,ci,ci
@@ -50,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T15:24:03.790Z,34.31,-118.6206667,8.18,1.04,ml,4,154,0.03392,0.12,ci,ci40330896,2022-08-24T18:48:51.533Z,"6km NNW of Chatsworth, CA",earthquake,0.57,1.23,0.113,2,reviewed,ci,ci
 2022-08-24T15:19:08.160Z,46.8355,-121.901,10.45,1.01,ml,20,88,0.03344,0.11,uw,uw61865717,2022-08-24T18:48:51.460Z,"13 km NE of Ashford, Washington",earthquake,0.29,0.47,0.19069031839117528,15,reviewed,uw,uw
 2022-08-24T15:17:44.597Z,63.1031,-149.3588,66.8,1.4,ml,,,,0.55,ak,ak022aujv58b,2022-08-24T15:19:59.121Z,"38 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-24T15:14:03.202Z,38.1481,-118.0271,9.8,0.2,ml,13,144.98,0.054,0.1055,nn,nn00845755,2022-08-24T20:07:28.827Z,"27 km SSE of Mina, Nevada",earthquake,,1.6,0.36,3,reviewed,nn,nn
+2022-08-24T15:14:03.202Z,38.1481,-118.0271,9.8,0.2,ml,13,144.98,0.054,0.1055,nn,nn00845755,2022-08-24T20:07:28.827Z,"California-Nevada border region",earthquake,,1.6,0.36,3,reviewed,nn,nn
 2022-08-24T15:03:32.820Z,38.7965012,-122.7991638,0.67,0.84,md,7,97,0.008715,0.02,nc,nc73771370,2022-08-24T15:20:10.076Z,"4km WNW of The Geysers, CA",earthquake,0.33,0.62,,1,automatic,nc,nc
 2022-08-24T15:03:01.590Z,38.796833,-122.7978363,-0.47,1.17,md,19,75,0.02118,0.03,nc,nc73771365,2022-08-24T17:39:12.911Z,"4km WNW of The Geysers, CA",earthquake,0.17,0.68,0.04,4,automatic,nc,nc
 2022-08-24T14:59:48.700Z,38.7965,-122.798,0.12,1.61,md,46,47,0.008548,0.05,nc,nc73771360,2022-08-24T20:47:14.063Z,"4km WNW of The Geysers, CA",earthquake,0.11,0.2,0.143,17,reviewed,nc,nc
