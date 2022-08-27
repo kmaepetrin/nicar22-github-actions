@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-27T17:54:22.900Z,33.5965,-116.803,8.09,0.4,ml,8,167,0.03259,0.06,ci,ci40332760,2022-08-27T17:57:57.852Z,"13km WNW of Anza, CA",earthquake,0.54,0.44,0.172,7,automatic,ci,ci
 2022-08-27T17:51:16.791Z,59.4559,-152.7852,77.4,1.8,ml,,,,0.37,ak,ak022azjv9k0,2022-08-27T17:52:35.807Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-27T17:28:07.330Z,38.8008347,-122.7785034,2.42,0.25,md,14,71,0.01061,0.04,nc,nc73772455,2022-08-27T17:39:10.762Z,"3km NW of The Geysers, CA",earthquake,0.31,0.59,0.15,4,automatic,nc,nc
 2022-08-27T17:20:39.310Z,36.0181667,-120.8516667,8.89,0.79,md,30,55,0.0312,0.08,nc,nc73772445,2022-08-27T17:45:10.665Z,"5km E of San Ardo, CA",earthquake,0.21,0.4,0.122,15,reviewed,nc,nc
@@ -206,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-26T18:19:05.540Z,19.4373333333333,-155.575333333333,-0.7,1.2,md,7,103,,0.07,hv,hv73122417,2022-08-26T19:15:19.220Z,"27 km NNW of Pāhala, Hawaii",earthquake,0.47,0.61,0.0155849191002099,4,reviewed,hv,hv
 2022-08-26T18:06:37.020Z,44.8001667,-110.801,5.34,0.79,md,8,233,0.03718,0.07,uu,uu60511632,2022-08-26T19:26:59.740Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.9,0.67,0.266,6,reviewed,uu,uu
 2022-08-26T18:06:21.738Z,59.7734,-153.0129,103,0.9,ml,,,,0.33,ak,ak022axwnqe5,2022-08-26T18:08:14.881Z,"61 km E of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-08-26T18:00:50.282Z,-24.1962,-67.168,234.854,4,ml,26,144,1.547,0.84,us,us7000i2r8,2022-08-26T22:02:32.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,5.79,12.395,0.066,30,reviewed,us,us
-2022-08-26T18:00:23.634Z,13.5809,-90.9082,55.085,4.4,mb,106,130,1.027,0.78,us,us7000i2r9,2022-08-26T18:46:58.040Z,"near the coast of Guatemala",earthquake,4.73,7.323,0.039,202,reviewed,us,us
-2022-08-26T17:58:11.948Z,31.56547248,-104.0092061,8.702368164,2.3,ml,22,54,0.0490221303,0.2,tx,tx2022qsju,2022-08-26T19:44:20.507Z,"western Texas",earthquake,0.9108269645,1.015937389,0.1,7,reviewed,tx,tx
