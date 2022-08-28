@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-28T21:55:12.700Z,38.8235016,-122.7861633,0.7,0.67,md,13,48,0.01109,0.01,nc,nc73772850,2022-08-28T21:56:47.340Z,"6km W of Cobb, CA",earthquake,0.24,0.47,0.13,2,automatic,nc,nc
 2022-08-28T21:38:09.750Z,33.5936667,-116.641,5.47,0.4,ml,13,78,0.03782,0.29,ci,ci40333408,2022-08-28T21:41:46.616Z,"5km NE of Anza, CA",earthquake,0.96,2.11,0.339,5,automatic,ci,ci
 2022-08-28T21:31:56.210Z,31.70759241,-104.1014379,7.468383789,3,ml,26,53,0.06246043851,0.2,tx,tx2022qwhw,2022-08-28T21:46:49.385Z,"47 km W of Mentone, Texas",earthquake,0.6579318589,0.793849411,0.1,14,reviewed,tx,tx
 2022-08-28T21:27:33.643Z,63.1249,-151.4675,9,1.5,ml,,,,0.41,ak,ak022b19n95g,2022-08-28T21:29:14.062Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
