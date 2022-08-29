@@ -108,6 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T11:02:02.672Z,31.70853181,-104.0965967,7.674047852000001,2.7,ml,19,49,0.05941110415,0.2,tx,tx2022qxio,2022-08-29T19:23:40.354Z,"47 km W of Mentone, Texas",earthquake,1.112025949,1.13787456,0.1,7,reviewed,tx,tx
 2022-08-29T11:01:11.511Z,-1.0396,98.6624,19.552,4.5,mb,36,175,2.569,0.31,us,us7000i3bu,2022-08-29T11:33:53.040Z,"168 km WSW of Pariaman, Indonesia",earthquake,9.57,5.722,0.118,21,reviewed,us,us
 2022-08-29T10:58:37.926Z,0.0193,123.8654,107.63,4.9,mb,38,33,1.519,0.77,us,us7000i3bt,2022-08-29T11:18:37.040Z,"106 km ESE of Gorontalo, Indonesia",earthquake,7.92,7.468,0.098,33,reviewed,us,us
+2022-08-29T10:56:09.327Z,37.6861,-113.9897,16.5,0.3,ml,5,148.73,0.248,0.1986,nn,nn00846093,2022-08-29T23:52:07.862Z,"26 km WNW of Enterprise, Utah",earthquake,,3.1,0.02,3,reviewed,nn,nn
 2022-08-29T10:50:19.764Z,62.137,-147.9671,31.4,1.6,ml,,,,0.43,ak,ak022b2qrqe0,2022-08-29T10:51:46.290Z,"40 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-29T10:48:28.990Z,38.833168,-122.793335,1.59,0.85,md,10,50,0.005731,0.02,nc,nc73773090,2022-08-29T11:35:11.222Z,"6km WNW of Cobb, CA",earthquake,0.38,0.99,,1,automatic,nc,nc
 2022-08-29T10:36:06.810Z,44.7731667,-110.801,2.11,0.2,md,7,189,0.03837,0.1,uu,uu60512462,2022-08-29T17:59:41.980Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.67,7.52,0.26,5,reviewed,uu,uu
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T00:23:13.130Z,19.2530002593994,-155.380828857422,32.6100006103516,1.83000004,md,31,140,,0.119999997,hv,hv73124597,2022-08-29T00:26:30.010Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.75,0.649999976,0.910000026,3,automatic,hv,hv
 2022-08-29T00:12:57.020Z,35.6426667,-118.3196667,8.39,1.01,ml,30,77,0.05853,0.13,ci,ci40333504,2022-08-29T15:18:39.871Z,"14km E of Lake Isabella, CA",earthquake,0.18,0.39,0.223,10,reviewed,ci,ci
 2022-08-29T00:10:39.210Z,17.9813333333333,-66.8328333333333,11.94,2.52,md,10,189,,0.15,pr,pr71368518,2022-08-29T00:31:13.570Z,"2 km SW of Indios, Puerto Rico",earthquake,0.55,0.4,0.0669183754304434,7,reviewed,pr,pr
-2022-08-28T23:54:39.950Z,35.645,-118.3231667,8.26,0.63,ml,19,86,0.0552,0.16,ci,ci40333496,2022-08-29T15:10:35.684Z,"14km ESE of Wofford Heights, CA",earthquake,0.3,0.48,0.094,6,reviewed,ci,ci
-2022-08-28T23:53:59.240Z,53.8563333333333,-166.643666666667,7.99,0.51,ml,5,149,,0.09,av,av91671006,2022-08-29T19:57:07.150Z,"7 km WSW of Unalaska, Alaska",earthquake,0.45,0.74,0.297896142206474,6,reviewed,av,av
