@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-29T18:40:48.800Z,19.3961658477783,-155.445831298828,7.55999994277954,1.89,ml,40,62,,0.159999996,hv,hv73125262,2022-08-29T18:46:19.410Z,"21 km N of Pāhala, Hawaii",earthquake,0.34,0.620000005,3.5,12,automatic,hv,hv
-2022-08-29T18:26:17.390Z,33.3246667,-116.3463333,9.18,1.27,ml,48,47,0.04857,0.2,ci,ci40333920,2022-08-29T18:37:32.320Z,"8km NNE of Borrego Springs, CA",earthquake,0.25,0.54,0.204,27,automatic,ci,ci
-2022-08-29T18:10:50.683Z,-32.7298,-179.055,31.796,5.8,mww,75,54,5.283,1.3,us,us7000i3gq,2022-08-29T18:45:36.537Z,"south of the Kermadec Islands",earthquake,10.69,4.741,0.069,20,reviewed,us,us
+2022-08-29T18:26:17.200Z,33.3236667,-116.346,11.16,1.27,ml,54,33,0.01796,0.18,ci,ci40333920,2022-08-29T18:58:56.780Z,"8km NNE of Borrego Springs, CA",earthquake,0.19,0.33,0.138,21,reviewed,ci,ci
+2022-08-29T18:10:50.683Z,-32.7298,-179.055,31.796,5.8,mww,75,54,5.283,1.3,us,us7000i3gq,2022-08-29T18:56:28.040Z,"south of the Kermadec Islands",earthquake,10.69,4.741,0.069,20,reviewed,us,us
 2022-08-29T18:08:31.335Z,39.8525,-118.3946,9,1.2,ml,8,129.14,0.245,0.3149,nn,nn00846069,2022-08-29T18:12:49.016Z,"36 km S of Lovelock, Nevada",earthquake,,1.6,0.08,3,automatic,nn,nn
 2022-08-29T17:43:16.930Z,67.0661,-154.0393,3.8,1.5,ml,,,,0.84,ak,ak022b2uw9e3,2022-08-29T17:45:34.749Z,"81 km NW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-29T17:37:35.321Z,63.5333,-147.4439,2.7,0.9,ml,,,,0.39,ak,ak022b2uv0is,2022-08-29T17:40:12.571Z,"76 km ESE of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T16:26:59.222Z,-6.8783,127.0085,400.937,4.2,mb,23,54,3.941,0.72,us,us7000i3ff,2022-08-29T16:57:29.040Z,"181 km N of Lospalos, Timor Leste",earthquake,9.89,10.439,0.136,15,reviewed,us,us
 2022-08-29T16:23:19.458Z,50.3675,90.7167,11.67,4.4,mb,40,146,5.102,0.39,us,us7000i3fe,2022-08-29T17:32:48.040Z,"19 km E of Mugur-Aksy, Russia",earthquake,11.34,5.913,0.1,29,reviewed,us,us
 2022-08-29T16:19:16.030Z,35.644,-118.3226667,8.49,1.41,ml,30,37,0.05627,0.13,ci,ci40333848,2022-08-29T18:34:26.450Z,"14km ENE of Lake Isabella, CA",earthquake,0.17,0.38,0.249,15,reviewed,ci,ci
-2022-08-29T16:15:28.674Z,31.6562,-104.3826,5,2.5,ml,18,112,0.102,0.44,us,us7000i3f8,2022-08-29T16:36:15.040Z,"57 km S of Whites City, New Mexico",earthquake,0.65,1.852,0.051,50,reviewed,us,us
+2022-08-29T16:15:28.972Z,31.6763212,-104.4046083,7.648339844,2.5,ml,18,55,0.08234191236,0.2,tx,tx2022qxsx,2022-08-29T19:01:14.040Z,"55 km S of Whites City, New Mexico",earthquake,1.19980404,1.205216784,0,6,reviewed,tx,tx
 2022-08-29T16:07:20.850Z,19.1693325042725,-155.45832824707,33.4599990844727,2.27999997,md,42,132,,0.109999999,hv,hv73125172,2022-08-29T16:10:33.350Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.57,0.970000029,1.09000003,20,automatic,hv,hv
 2022-08-29T15:59:19.490Z,33.5988333,-116.6225,13,0.41,ml,14,79,0.02212,0.05,ci,ci40333840,2022-08-29T18:29:31.701Z,"7km NE of Anza, CA",earthquake,0.18,0.35,0.071,3,reviewed,ci,ci
 2022-08-29T15:51:08.192Z,32.26593018,-101.9156107,7.165242513,2.9,ml,16,70,0.02858249549,0.2,tx,tx2022qxsd,2022-08-29T16:21:18.040Z,"19 km NW of Stanton, Texas",earthquake,1.328896335,1.820259246,0.1,12,reviewed,tx,tx
@@ -140,6 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T03:45:05.030Z,44.7828333,-110.8006667,4.27,0.57,ml,11,208,0.03591,0.09,uu,uu60512392,2022-08-29T18:42:18.960Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.69,0.76,0.37,2,reviewed,uu,uu
 2022-08-29T03:42:21.260Z,44.7775,-110.8018333,4.48,1.59,ml,18,94,0.03631,0.15,uu,uu60512387,2022-08-29T18:49:06.340Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.34,0.53,0.222,5,reviewed,uu,uu
 2022-08-29T03:40:50.540Z,17.9988333333333,-66.9101666666667,14.16,2.41,md,10,82,,0.08,pr,pr71368538,2022-08-29T03:56:56.930Z,"1 km NNE of Fuig, Puerto Rico",earthquake,0.5,0.36,0.0710682180554527,5,reviewed,pr,pr
+2022-08-29T03:39:48.750Z,44.7836667,-110.806,5.04,0.33,md,9,207,0.03203,0.07,uu,uu60512382,2022-08-29T19:01:12.900Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.67,0.89,0.132,5,reviewed,uu,uu
 2022-08-29T03:37:02.980Z,35.6435,-118.3216667,7.57,1.29,ml,17,77,0.05707,0.14,ci,ci40333600,2022-08-29T13:40:26.190Z,"14km ENE of Lake Isabella, CA",earthquake,0.32,0.55,0.192,19,reviewed,ci,ci
 2022-08-29T03:29:13.966Z,-1.0077,98.6416,17.631,5.9,mww,113,34,2.532,0.98,us,us7000i38s,2022-08-29T08:18:19.695Z,"170 km WSW of Pariaman, Indonesia",earthquake,6.71,3.934,0.08,15,reviewed,us,us
 2022-08-29T03:28:42.517Z,63.5649,-147.4927,0,1.2,ml,,,,0.76,ak,ak022b2mh15n,2022-08-29T03:31:07.828Z,"72 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -245,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T19:35:14.865Z,62.1537,-149.7641,13.2,1.4,ml,,,,0.74,ak,ak022b18i27y,2022-08-28T19:37:55.683Z,"4 km E of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-28T19:04:54.334Z,61.5465,-149.863,36,1.6,ml,,,,0.29,ak,ak022b18bi2h,2022-08-28T19:06:54.440Z,"5 km ENE of Big Lake, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-08-28T19:02:33.240Z,19.2041664123535,-155.429336547852,32.7000007629395,2.00999999,md,41,145,,0.119999997,hv,hv73124357,2022-08-28T19:05:46.870Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.769999981,0.920000017,11,automatic,hv,hv
-2022-08-28T18:58:01.172Z,63.4984,-148.0996,2.1,1.2,ml,,,,0.31,ak,ak022b181j11,2022-08-28T19:00:05.646Z,"44 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-28T18:54:52.016Z,61.9954,-150.7422,60.4,1.3,ml,,,,0.36,ak,ak022b180s35,2022-08-28T18:56:45.396Z,"34 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-08-28T18:54:15.522Z,39.529,-98.4895,5,2.7,mb_lg,10,133,1.118,0.43,us,us7000i35v,2022-08-28T23:54:31.351Z,"5 km WNW of Cawker City, Kansas",earthquake,2.46,1.99,0.052,96,reviewed,us,us
