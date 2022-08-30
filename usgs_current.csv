@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-30T15:45:04.900Z,69.6691,-168.3787,10,3.7,mb,19,233,2.562,0.4,us,us7000i3qd,2022-08-30T15:57:28.040Z,"161 km NNW of Point Hope, Alaska",earthquake,4.84,2.018,0.506,2,reviewed,us,us
 2022-08-30T15:31:24.610Z,19.171667098999,-155.475830078125,35.3800010681152,2.02999997,md,40,83,,0.119999997,hv,hv73126267,2022-08-30T15:34:36.400Z,"3 km S of Pāhala, Hawaii",earthquake,0.59,0.829999983,1.16999996,17,automatic,hv,hv
 2022-08-30T15:21:34.400Z,44.7913333,-110.806,5.22,0.84,md,7,224,0.03183,0.07,uu,uu60512692,2022-08-30T15:47:06.500Z,"Wyoming",earthquake,0.72,0.83,0.305,5,reviewed,uu,uu
 2022-08-30T15:19:43.550Z,33.887,-116.208,8.42,1.05,ml,26,70,0.04795,0.22,ci,ci40334480,2022-08-30T15:23:15.953Z,"18km ENE of Thousand Palms, CA",earthquake,0.35,0.84,0.161,27,automatic,ci,ci
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T13:58:20.859Z,4.3776,62.5979,10,5.3,mww,59,86,11.463,0.89,us,us7000i3nv,2022-08-30T15:21:18.040Z,"Carlsberg Ridge",earthquake,10.77,1.87,0.08,15,reviewed,us,us
 2022-08-30T13:52:24.237Z,62.479,-146.4757,114.2,2.4,ml,,,,0.32,ak,ak022b4g3th3,2022-08-30T13:55:07.839Z,"22 km N of Lake Louise, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2022-08-30T13:50:32.750Z,35.7061667,-117.502,9.72,1.11,ml,14,105,0.1341,0.17,ci,ci40334440,2022-08-30T13:54:05.919Z,"11km SW of Searles Valley, CA",earthquake,0.42,1.12,0.108,10,automatic,ci,ci
-2022-08-30T13:46:16.340Z,33.3855,-116.4128333,10.79,0.5,ml,20,66,0.08941,0.22,ci,ci40334424,2022-08-30T13:49:47.674Z,"15km NNW of Borrego Springs, CA",earthquake,0.38,0.77,0.109,12,automatic,ci,ci
+2022-08-30T13:46:16.280Z,33.3871667,-116.4176667,11.26,0.5,ml,26,65,0.09375,0.22,ci,ci40334424,2022-08-30T15:58:01.170Z,"15km NNW of Borrego Springs, CA",earthquake,0.33,0.79,0.111,9,reviewed,ci,ci
 2022-08-30T13:42:35.458Z,13.4106,-91.2806,35,4.4,mb,90,190,1.349,0.52,us,us7000i3nn,2022-08-30T14:24:25.040Z,"75 km SW of Puerto San José, Guatemala",earthquake,8.02,1.967,0.039,189,reviewed,us,us
 2022-08-30T13:22:08.180Z,18.6678333333333,-66.8953333333333,10.17,2.91,md,13,235,,0.37,pr,pr71368708,2022-08-30T13:53:19.280Z,"21 km NNW of Camuy, Puerto Rico",earthquake,0.97,1.39,0.0810195974066494,5,reviewed,pr,pr
 2022-08-30T13:01:25.170Z,44.7848333,-110.8103333,5.05,0.64,ml,6,209,0.02882,0.01,uu,uu60512672,2022-08-30T15:42:26.730Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.76,0.78,0.425,2,reviewed,uu,uu
@@ -243,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T16:19:16.030Z,35.644,-118.3226667,8.49,1.41,ml,30,37,0.05627,0.13,ci,ci40333848,2022-08-29T18:34:26.450Z,"14km ENE of Lake Isabella, CA",earthquake,0.17,0.38,0.249,15,reviewed,ci,ci
 2022-08-29T16:15:28.972Z,31.6763212,-104.4046083,7.648339844,2.5,ml,18,55,0.08234191236,0.2,tx,tx2022qxsx,2022-08-29T19:01:14.040Z,"55 km S of Whites City, New Mexico",earthquake,1.19980404,1.205216784,0,6,reviewed,tx,tx
 2022-08-29T16:07:20.850Z,19.1693325042725,-155.45832824707,33.4599990844727,2.27999997,md,42,132,,0.109999999,hv,hv73125172,2022-08-29T16:10:33.350Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.57,0.970000029,1.09000003,20,automatic,hv,hv
-2022-08-29T15:59:19.490Z,33.5988333,-116.6225,13,0.41,ml,14,79,0.02212,0.05,ci,ci40333840,2022-08-29T18:29:31.701Z,"7km NE of Anza, CA",earthquake,0.18,0.35,0.071,3,reviewed,ci,ci
