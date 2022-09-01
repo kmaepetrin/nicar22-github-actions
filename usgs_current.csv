@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-09-01T20:31:57.650Z,35.8921667,-117.7111667,7.61,1.12,ml,14,66,0.09415,0.16,ci,ci40094527,2022-09-01T20:35:43.907Z,"18km ESE of Little Lake, CA",earthquake,0.35,0.96,0.107,13,automatic,ci,ci
-2022-09-01T20:31:03.520Z,33.8333333,-117.4961667,2,1.66,ml,35,46,0.04545,0.23,ci,ci40094519,2022-09-01T20:34:44.792Z,"6km SSE of Home Gardens, CA",quarry blast,0.32,0.55,0.187,33,automatic,ci,ci
+2022-09-01T20:31:03.170Z,33.8433333,-117.494,-0.52,1.7,ml,54,33,0.04828,0.24,ci,ci40094519,2022-09-01T20:56:28.450Z,"5km SSE of Home Gardens, CA",quarry blast,0.31,31.61,0.199,43,reviewed,ci,ci
 2022-09-01T20:01:19.380Z,38.824501,-122.8280029,2.23,0.95,md,25,42,0.005661,0.02,nc,nc73774405,2022-09-01T20:18:13.403Z,"8km NW of The Geysers, CA",earthquake,0.19,0.35,0.08,5,automatic,nc,nc
 2022-09-01T19:54:08.550Z,19.2253341674805,-155.428161621094,32.0200004577637,1.83000004,md,35,128,,0.119999997,hv,hv73128457,2022-09-01T19:57:30.340Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.7,0.810000002,1.40999997,11,automatic,hv,hv
 2022-09-01T19:41:23.810Z,38.8199997,-122.7874985,2.24,0.84,md,8,89,0.008581,0.01,nc,nc73774400,2022-09-01T19:56:13.266Z,"6km NNW of The Geysers, CA",earthquake,0.71,1.64,,1,automatic,nc,nc
@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T03:51:06.610Z,35.6471667,-118.3215,7.73,1.19,ml,30,40,0.05386,0.15,ci,ci40093919,2022-09-01T15:03:02.416Z,"14km ESE of Wofford Heights, CA",earthquake,0.2,0.41,0.132,12,reviewed,ci,ci
 2022-09-01T03:41:23.490Z,18.969,-65.0263333333333,46.82,3.19,md,5,275,,0.4,pr,pr71369058,2022-09-01T04:03:27.420Z,"70 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.91,14.52,0.0702874602373484,4,reviewed,pr,pr
 2022-09-01T03:37:56.960Z,32.9905,-115.4828333,6.32,1.08,ml,8,243,0.09591,0.2,ci,ci40093911,2022-09-01T15:06:03.193Z,"5km ENE of Brawley, CA",earthquake,0.95,1.82,0.35,2,reviewed,ci,ci
-2022-09-01T03:36:55.070Z,18.0195,-66.8281,17,3.35,md,25,114,0.0677,0.17,pr,pr2022244000,2022-09-01T15:28:19.675Z,"2 km SE of Yauco, Puerto Rico",earthquake,0.4,0.38,0.23,24,reviewed,pr,pr
+2022-09-01T03:36:55.070Z,18.0195,-66.8281,17,3.35,md,25,114,0.0677,0.17,pr,pr2022244000,2022-09-01T15:28:19.675Z,"Puerto Rico",earthquake,0.4,0.38,0.23,24,reviewed,pr,pr
 2022-09-01T03:21:56.831Z,63.1218,-144.4517,0,1.1,ml,,,,1.08,ak,ak022b7l1lpu,2022-09-01T03:24:40.100Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-01T03:21:02.096Z,16.4727,-99.1062,25.902,4.1,mb,25,293,1.201,1.52,us,us7000i46w,2022-09-01T05:15:52.040Z,"20 km SW of Copala, Mexico",earthquake,5.52,8.979,0.069,58,reviewed,us,us
 2022-09-01T03:20:25.270Z,39.4288333,-110.3105,-1.21,1.6,ml,11,194,0.01226,0.1,uu,uu60513072,2022-09-01T15:31:02.740Z,"Utah",earthquake,0.96,0.37,0.108,3,reviewed,uu,uu
