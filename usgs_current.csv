@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-02T19:07:10.750Z,19.2478332519531,-155.395172119141,30.1700000762939,1.95000005,md,42,134,,0.119999997,hv,hv73129312,2022-09-02T19:10:25.290Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.720000029,0.550000012,13,automatic,hv,hv
 2022-09-02T18:28:47.344Z,-17.6505,173.5642,10,4.9,mb,56,89,4.28,0.51,us,us7000i4r9,2022-09-02T18:58:14.040Z,"Fiji region",earthquake,8.55,1.824,0.082,52,reviewed,us,us
 2022-09-02T18:13:45.353Z,62.7405,-149.7349,68.1,1.6,ml,,,,0.62,ak,ak022b9hgpon,2022-09-02T18:16:59.109Z,"37 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-02T18:09:38.830Z,33.8995,-116.2753333,2.47,0.78,ml,13,95,0.08863,0.21,ci,ci40095207,2022-09-02T18:13:11.028Z,"14km NE of Thousand Palms, CA",earthquake,0.36,0.52,0.154,17,automatic,ci,ci
@@ -82,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T10:16:21.699Z,35.313,-97.89233333,5.05,1.38,ml,92,33,0.07918446131,0.38,ok,ok2022repb,2022-09-02T12:32:03.553Z,"4 km E of Minco, Oklahoma",earthquake,,0.7,0.24,43,reviewed,ok,ok
 2022-09-02T10:15:13.380Z,31.4446667,-115.7306667,20.79,2.81,ml,9,121,0.06999,0.06,ci,ci40094967,2022-09-02T18:42:12.980Z,"85km ESE of Maneadero, B.C., MX",earthquake,0.31,0.38,0.12,20,reviewed,ci,ci
 2022-09-02T10:09:02.270Z,40.486,-111.3341667,12.78,0.96,md,21,88,0.01554,0.14,uu,uu60513272,2022-09-02T15:52:01.800Z,"7 km ENE of Daniel, Utah",earthquake,0.45,0.65,0.136,14,reviewed,uu,uu
-2022-09-02T10:02:44.480Z,38.5758333,-119.4453333,2.98,1.89,md,10,92,0.05928,0.07,nc,nc73774605,2022-09-02T19:02:58.547Z,"7km NNE of Walker, CA",earthquake,0.52,0.93,0.196,8,reviewed,nc,nc
+2022-09-02T10:02:44.480Z,38.5758333,-119.4453333,2.98,1.89,md,10,92,0.05928,0.07,nc,nc73774605,2022-09-02T19:10:10.744Z,"7km NNE of Walker, CA",earthquake,0.52,0.93,0.196,8,reviewed,nc,nc
 2022-09-02T10:02:44.113Z,38.6042,-119.4467,2,1.6,ml,12,136.94,0.06,0.13,nn,nn00846304,2022-09-02T10:06:35.538Z,"6 km ESE of Topaz, California",earthquake,,1.9,0.12,8,automatic,nn,nn
 2022-09-02T10:01:19.610Z,38.7711678,-122.7136688,1.02,0.48,md,6,194,0.01164,0.03,nc,nc73774600,2022-09-02T10:21:11.581Z,"2km WSW of Anderson Springs, CA",earthquake,1.03,1.33,0.07,2,automatic,nc,nc
 2022-09-02T09:55:11.040Z,34.4301667,-120.0073333,5.88,1.38,ml,20,98,0.1002,0.19,ci,ci40094959,2022-09-02T18:25:31.446Z,"14km W of Isla Vista, CA",earthquake,0.48,1.42,0.157,12,reviewed,ci,ci
@@ -270,7 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T19:46:28.592Z,44.6788,-67.6355,5,2.6,mb_lg,13,154,0.13,0.52,us,us7000i4ff,2022-09-02T18:43:23.176Z,"4 km SE of Centerville, Maine",earthquake,1.8,1.985,0.161,10,reviewed,us,us
 2022-09-01T19:41:23.810Z,38.8199997,-122.7874985,2.24,0.84,md,8,89,0.008581,0.01,nc,nc73774400,2022-09-01T21:37:12.851Z,"6km NNW of The Geysers, CA",earthquake,0.71,1.64,,1,automatic,nc,nc
 2022-09-01T19:37:13.408Z,19.827,121.2405,41.645,4.4,mb,38,127,2.98,0.73,us,us7000i4f1,2022-09-01T21:15:12.040Z,"102 km SW of Basco, Philippines",earthquake,10.67,7.949,0.112,23,reviewed,us,us
-2022-09-01T19:23:34.070Z,33.502,-116.7818333,7.69,0.3,ml,19,101,0.07336,0.1,ci,ci40094447,2022-09-01T20:20:36.406Z,"10km NE of Aguanga, CA",earthquake,0.24,0.55,0.105,8,reviewed,ci,ci
-2022-09-01T19:21:07.460Z,35.8903333,-117.7151667,7.34,0.96,ml,17,49,0.09105,0.17,ci,ci40094439,2022-09-01T20:29:56.443Z,"18km ESE of Little Lake, CA",earthquake,0.29,0.82,0.234,7,reviewed,ci,ci
-2022-09-01T19:14:51.620Z,48.084666666666664,-121.94883333333334,-0.49,1.92,ml,6,118,0.009364,0.11,uw,uw61867937,2022-09-02T15:21:20.150Z,"1 km E of Granite Falls, Washington",explosion,0.55,31.61,0.46288637288704826,5,reviewed,uw,uw
-2022-09-01T19:12:53.320Z,38.8400002,-122.8118362,1.49,0.86,md,14,59,0.01664,0.03,nc,nc73774395,2022-09-01T21:12:13.725Z,"8km WNW of Cobb, CA",earthquake,0.26,0.68,,1,automatic,nc,nc
