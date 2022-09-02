@@ -243,7 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T13:50:36.000Z,35.079,-96.19,23.64,1.44,ml,50,65,0.2114585046,0.33,ok,ok2022rdaq,2022-09-01T14:01:27.615Z,"5 km E of Horntown, Oklahoma",earthquake,,1,0.19,17,reviewed,ok,ok
 2022-09-01T13:44:18.458Z,38.1896,-117.8851,4.2,0.5,ml,8,177.56,0.077,0.1116,nn,nn00846253,2022-09-01T13:47:50.145Z,"29 km SE of Mina, Nevada",earthquake,,3.6,0.36,2,automatic,nn,nn
 2022-09-01T13:41:07.777Z,61.3608,-150.1172,31.3,1.7,ml,,,,0.46,ak,ak022b7r44bd,2022-09-01T13:43:22.169Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-01T13:36:22.150Z,36.549,-121.0965,1.6,4,mw,62,64,0.04243,0.09,nc,nc73774300,2022-09-02T00:24:31.935Z,"5km ENE of Pinnacles, CA",earthquake,0.12,0.26,,4,reviewed,nc,nc
-2022-09-01T13:30:38.440Z,19.4218330383301,-155.612838745117,-3.75,2.9,ml,38,66,,0.300000012,hv,hv73128127,2022-09-01T16:19:19.359Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.25,3.53,28,automatic,hv,hv
-2022-09-01T13:25:31.530Z,19.0874996185303,-155.348999023438,32.0299987792969,2.1400001,md,40,204,,0.170000002,hv,hv73128117,2022-09-01T13:29:15.460Z,"18 km SE of Pāhala, Hawaii",earthquake,0.77,1.21000004,1.33000004,16,automatic,hv,hv
-2022-09-01T13:22:10.560Z,37.139,-121.524,7.27,0.95,md,22,57,0.07354,0.1,nc,nc73774295,2022-09-02T08:42:11.980Z,"10km NE of San Martin, CA",earthquake,0.26,0.6,0.212,20,reviewed,nc,nc
