@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-05T09:55:56.860Z,38.6705017,-122.7285004,6.73,1.19,md,15,219,0.04607,0.05,nc,nc73775695,2022-09-05T09:57:32.561Z,"12km SSW of Anderson Springs, CA",earthquake,0.7,0.98,0.11,7,automatic,nc,nc
 2022-09-05T09:39:52.736Z,57.7938,-153.7782,35.8,1.2,ml,,,,0.26,ak,ak022beavfwp,2022-09-05T09:42:13.220Z,"Kodiak Island region, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-09-05T09:30:25.500Z,19.1633338928223,-155.475494384766,35.310001373291,1.87,md,40,103,,0.109999999,hv,hv73131757,2022-09-05T09:33:49.140Z,"Hawaii region, Hawaii",earthquake,0.56,0.879999995,1.03999996,11,automatic,hv,hv
 2022-09-05T09:25:48.560Z,32.9388333,-115.548,6.25,1.49,ml,14,93,0.03876,0.23,ci,ci40096543,2022-09-05T09:29:28.918Z,"5km SSW of Brawley, CA",earthquake,0.45,1.22,0.211,24,automatic,ci,ci
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T19:53:58.958Z,32.3287,142.4125,10,5.1,mww,25,201,2.327,1.26,us,us7000i56h,2022-09-04T20:09:25.040Z,"Izu Islands, Japan region",earthquake,11.34,1.976,0.098,10,reviewed,us,us
 2022-09-04T19:28:39.830Z,18.0256666666667,-66.8746666666667,19.95,2.03,md,5,240,,0.18,pr,pr71369808,2022-09-04T19:45:57.070Z,"1 km N of Palomas, Puerto Rico",earthquake,1.51,1.13,0.0302744698305464,3,reviewed,pr,pr
 2022-09-04T19:23:28.485Z,59.5287,-152.9048,93.8,1.4,ml,,,,0.29,ak,ak022bct6y4w,2022-09-04T19:25:56.548Z,"59 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-04T19:20:05.000Z,36.5703333,-121.1231667,9.81,1.99,md,36,67,0.05012,0.07,nc,nc73775430,2022-09-05T09:53:11.223Z,"5km NNE of Pinnacles, CA",earthquake,0.19,0.27,0.145,56,reviewed,nc,nc
+2022-09-04T19:20:05.000Z,36.5703333,-121.1231667,9.81,1.99,md,36,67,0.05012,0.07,nc,nc73775430,2022-09-05T10:00:11.259Z,"5km NNE of Pinnacles, CA",earthquake,0.19,0.27,0.145,56,reviewed,nc,nc
 2022-09-04T19:16:42.700Z,35.9233322,-120.7028351,10.27,1.8,md,31,79,,0.03,nc,nc73775425,2022-09-04T20:10:12.336Z,"11km NE of Bradley, CA",earthquake,0.27,0.68,0.07,17,automatic,nc,nc
 2022-09-04T19:09:45.000Z,36.5518341,-121.1266632,2.49,1.34,md,8,103,0.05128,0.26,nc,nc73775420,2022-09-04T20:00:13.275Z,"3km NNE of Pinnacles, CA",earthquake,0.81,2.32,0.12,7,automatic,nc,nc
 2022-09-04T19:09:12.510Z,36.5870018,-121.126503,10.2,1.68,md,7,155,0.04981,0.1,nc,nc73775415,2022-09-04T22:44:11.264Z,"6km NNE of Pinnacles, CA",earthquake,0.73,1.38,0.09,7,automatic,nc,nc
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T10:10:15.040Z,38.0893333,-118.8523333,8.79,1.18,md,22,107,0.1601,0.05,nc,nc73775305,2022-09-04T12:45:13.571Z,"20km SE of Bodie, CA",earthquake,0.35,1.86,0.111,16,reviewed,nc,nc
 2022-09-04T10:03:46.330Z,18.5751,-68.9045,121,3.94,md,21,104,0.5267,0.44,pr,pr2022247001,2022-09-04T11:53:47.285Z,"7 km E of Guaymate, Dominican Republic",earthquake,1.88,1.5,0.16,18,reviewed,pr,pr
 2022-09-04T10:02:42.158Z,38.5006,-119.5278,6.8,1.1,ml,8,268.69,0.07,0.1655,nn,nn00846372,2022-09-04T10:07:06.161Z,"4 km WSW of Walker, California",earthquake,,0.9,0.29,3,automatic,nn,nn
-2022-09-04T09:55:09.450Z,19.1613330841064,-155.489166259766,30.3999996185303,1.84000003,md,36,121,,0.129999995,hv,hv73130867,2022-09-04T09:58:22.970Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.6,0.829999983,0.340000004,5,automatic,hv,hv
