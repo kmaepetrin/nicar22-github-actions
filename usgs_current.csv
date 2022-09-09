@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T05:32:05.382Z,61.8296,-148.5013,8.8,1.4,ml,,,,0.69,ak,ak022bkulhsq,2022-09-09T05:34:00.937Z,"4 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-09T05:23:37.630Z,17.8993333333333,-66.8653333333333,16.56,2.47,md,11,234,,0.13,pr,pr71370673,2022-09-09T05:41:48.290Z,"Puerto Rico region",earthquake,0.59,0.44,0.0121266158066644,6,reviewed,pr,pr
 2022-09-09T05:20:36.480Z,18.8555,-65.486,17.61,3.27,md,7,249,,0.13,pr,pr71370663,2022-09-09T05:49:44.980Z,"58 km NNE of Luquillo, Puerto Rico",earthquake,1.18,2.8,0.0158543464535148,4,reviewed,pr,pr
-2022-09-09T05:18:04.680Z,37.409,-118.5691667,12.89,1.35,md,24,71,0.05594,0.05,nc,nc73779586,2022-09-09T08:59:12.800Z,"3km ESE of Round Valley, CA",earthquake,0.37,0.9,0.164,20,reviewed,nc,nc
+2022-09-09T05:18:04.680Z,37.409,-118.5691667,12.89,1.35,md,24,71,0.05594,0.05,nc,nc73779586,2022-09-09T10:00:11.175Z,"3km ESE of Round Valley, CA",earthquake,0.37,0.9,0.164,20,reviewed,nc,nc
 2022-09-09T05:11:31.711Z,61.8031,-149.6875,34.4,1.7,ml,,,,0.6,ak,ak022bkuh1sj,2022-09-09T05:13:00.709Z,"19 km ENE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-09T05:01:08.921Z,38.7792,-117.9594,0,1,ml,9,186.53,0.291,0.2732,nn,nn00846658,2022-09-09T05:04:52.897Z,"Nevada",earthquake,,55.5,0.45,6,automatic,nn,nn
 2022-09-09T04:57:40.300Z,40.477,-121.5161667,3.74,1.85,md,12,146,0.01286,0.09,nc,nc73779581,2022-09-09T07:20:11.204Z,"14km NNE of Mineral, CA",earthquake,0.32,0.35,0.209,22,reviewed,nc,nc
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-08T10:07:56.590Z,33.638,-116.7548333,15.43,0.65,ml,28,62,0.04487,0.15,ci,ci40097839,2022-09-08T13:35:45.413Z,"12km SSW of Idyllwild, CA",earthquake,0.23,0.42,0.175,20,reviewed,ci,ci
 2022-09-08T10:03:15.469Z,61.1826,-148.1442,20.5,1.1,ml,,,,0.26,ak,ak022bj9v4ca,2022-09-08T10:04:58.287Z,"51 km SE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-08T10:03:08.930Z,38.828167,-122.8069992,2.18,0.85,md,14,51,0.005336,0.01,nc,nc73776835,2022-09-08T10:18:11.387Z,"7km NW of The Geysers, CA",earthquake,0.29,0.69,,1,automatic,nc,nc
-2022-09-08T09:55:24.020Z,38.8288345,-122.8041687,1.59,0.74,md,14,79,0.007126,0.02,nc,nc73776830,2022-09-08T10:12:11.357Z,"7km W of Cobb, CA",earthquake,0.31,0.51,0.24,3,automatic,nc,nc
