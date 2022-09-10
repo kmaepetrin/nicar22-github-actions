@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-10T18:07:54.114Z,38.2032,-117.7426,3.5,1.2,ml,13,160.56,0.129,0.1237,nn,nn00846739,2022-09-10T18:11:14.175Z,"38 km ESE of Mina, Nevada",earthquake,,2.2,0.14,8,automatic,nn,nn
+2022-09-10T18:04:36.000Z,19.2253341674805,-155.354339599609,37.5,2.18000007,md,36,220,,0.100000001,hv,hv73136522,2022-09-10T18:07:45.500Z,"13 km E of Pāhala, Hawaii",earthquake,0.85,0.930000007,1.42999995,10,automatic,hv,hv
+2022-09-10T17:59:54.668Z,61.5466,-151.2253,4.1,1.4,ml,,,,0.95,ak,ak022bmpfxoq,2022-09-10T18:02:10.183Z,"37 km W of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-10T17:43:29.040Z,35.6555,-117.4926667,6.18,1.12,ml,14,106,0.07319,0.18,ci,ci40098599,2022-09-10T17:46:58.909Z,"15km SSW of Searles Valley, CA",earthquake,0.42,1.37,0.156,13,automatic,ci,ci
 2022-09-10T17:39:25.376Z,38.5729,-119.458,8.9,1.1,ml,9,117.81,0.05,0.0832,nn,nn00846738,2022-09-10T17:43:43.859Z,"4 km E of Coleville, California",earthquake,,3.7,0.55,5,automatic,nn,nn
 2022-09-10T17:27:23.670Z,17.9281666666667,-66.9056666666667,12.22,1.92,md,4,224,,0.07,pr,pr71371043,2022-09-10T17:39:42.340Z,"Puerto Rico region",earthquake,0.66,0.56,0.0169124203127639,2,reviewed,pr,pr
@@ -11,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T16:05:28.660Z,33.3603333,-116.2261667,2.51,0.89,ml,23,78,0.1688,0.22,ci,ci40098583,2022-09-10T16:09:13.966Z,"17km SW of Oasis, CA",earthquake,0.35,1.3,0.122,20,automatic,ci,ci
 2022-09-10T16:00:00.197Z,64.7579,-149.1886,0,2.2,ml,,,,0.8,ak,ak022bmo92uq,2022-09-10T16:02:04.882Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-10T15:59:09.210Z,64.7385,-149.2069,17.9,1.4,ml,,,,0.84,ak,ak022bmo8yyx,2022-09-10T16:01:56.854Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-10T15:58:11.642Z,47.7015,7.3371,9.161,4.3,mb,49,71,0.916,0.75,us,us6000iiqi,2022-09-10T17:54:23.412Z,"Switzerland",earthquake,3.95,5.862,0.239,6,reviewed,us,us
+2022-09-10T15:58:11.642Z,47.7015,7.3371,9.161,4.3,mb,49,71,0.916,0.75,us,us6000iiqi,2022-09-10T18:10:04.822Z,"1 km ENE of Flaxlanden, France",earthquake,3.95,5.862,0.239,6,reviewed,us,us
 2022-09-10T15:54:31.031Z,47.8964,144.5202,476.807,4.5,mb,94,56,1.519,0.39,us,us6000iiqh,2022-09-10T16:12:35.040Z,"144 km ENE of Dolinsk, Russia",earthquake,10.25,7.265,0.03,331,reviewed,us,us
 2022-09-10T15:34:59.487Z,-22.2033,-66.2824,255.015,4.5,mb,40,43,1.905,0.66,us,us6000iiqa,2022-09-10T15:51:10.040Z,"71 km W of La Quiaca, Argentina",earthquake,8.43,7.652,0.101,29,reviewed,us,us
 2022-09-10T14:46:14.030Z,17.9036666666667,-66.8538333333333,16.52,2.16,md,9,231,,0.07,pr,pr71371018,2022-09-10T15:19:00.368Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.150308801508439,7,reviewed,pr,pr
@@ -185,7 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T18:24:08.780Z,36.5605,-121.153,6.91,1.83,md,24,116,0.02838,0.08,nc,nc73779826,2022-09-10T07:51:13.164Z,"3km NNW of Pinnacles, CA",earthquake,0.24,0.49,0.126,24,reviewed,nc,nc
 2022-09-09T18:19:06.534Z,-58.3395,-25.4816,83.82,5,mww,113,44,7.345,0.71,us,us6000iihu,2022-09-10T17:28:23.040Z,"South Sandwich Islands region",earthquake,10.54,4.467,0.093,11,reviewed,us,us
 2022-09-09T18:17:57.690Z,47.8645,-122.72566666666667,-0.04,1.85,ml,10,56,0.1136,0.52,uw,uw61879016,2022-09-10T01:05:18.140Z,"7 km SSW of Port Ludlow, Washington",explosion,0.92,31.61,0.22437295805888435,9,reviewed,uw,uw
-2022-09-09T18:11:39.971Z,38.1472,-117.9731,9.2,0.6,ml,9,161.12,0.013,0.1047,nn,nn00846687,2022-09-09T18:15:07.350Z,"Nevada",earthquake,,0.7,0.25,4,automatic,nn,nn
-2022-09-09T18:08:27.972Z,60.4759,-153.3036,91.4,2.1,ml,,,,1.12,ak,ak022bl2717x,2022-09-09T18:12:19.450Z,"63 km ENE of Port Alsworth, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-09-09T18:01:04.520Z,61.4305,-152.094333333333,8.88,0.59,ml,8,163,,0.11,av,av91678081,2022-09-10T10:31:34.890Z,"63 km WNW of Beluga, Alaska",earthquake,0.44,1.51,0.355181516998792,9,reviewed,av,av
-2022-09-09T18:00:09.316Z,39.5832,-119.0738,12.4,1.4,ml,7,114.17,0.272,0.1245,nn,nn00846684,2022-09-09T19:59:25.515Z,"Nevada",earthquake,,7.7,0.16,4,reviewed,nn,nn
