@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-10T14:31:38.060Z,33.0456667,-116.3573333,9.45,1.24,ml,42,52,0.1704,0.18,ci,ci40098575,2022-09-10T14:35:11.470Z,"23km E of Julian, CA",earthquake,0.25,0.8,0.136,28,automatic,ci,ci
+2022-09-10T14:31:38.060Z,33.0456667,-116.3573333,9.45,1.24,ml,42,52,0.1704,0.18,ci,ci40098575,2022-09-10T14:42:00.160Z,"23km E of Julian, CA",earthquake,0.25,0.8,0.136,28,automatic,ci,ci
 2022-09-10T14:17:55.174Z,61.3084,-152.2262,0,0.5,ml,,,,0.13,ak,ak022bmnemu5,2022-09-10T14:20:15.999Z,"64 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-10T14:17:48.220Z,19.1606674194336,-155.507507324219,37.9700012207031,1.71000004,md,31,156,,0.109999999,hv,hv73136397,2022-09-10T14:20:57.100Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.58,1.08000004,0.970000029,3,automatic,hv,hv
 2022-09-10T14:11:11.480Z,35.6946667,-117.4896667,1.37,1,ml,10,164,0.1493,0.13,ci,ci40098567,2022-09-10T14:14:43.106Z,"11km SW of Searles Valley, CA",earthquake,0.41,0.72,0.068,9,automatic,ci,ci
