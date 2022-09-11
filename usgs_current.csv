@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-11T22:41:24.940Z,19.1469993591309,-155.485336303711,31.9200000762939,2.11,ml,38,158,,0.119999997,hv,hv73137567,2022-09-11T22:46:56.570Z,"6 km S of Pāhala, Hawaii",earthquake,0.54,1.02999997,5.2,3,automatic,hv,hv
 2022-09-11T21:55:05.120Z,36.5475006,-121.0954971,2.7,2.46,md,24,106,0.05463,0.12,nc,nc73780546,2022-09-11T22:24:35.692Z,"5km ENE of Pinnacles, CA",earthquake,0.29,0.95,0.18,26,automatic,nc,nc
 2022-09-11T21:41:44.020Z,37.6570015,-118.94767,-0.47,1.12,md,9,169,0.04708,0.23,nc,nc73780541,2022-09-11T22:17:14.071Z,"4km NE of Mammoth Lakes, CA",earthquake,2.02,8.3,0.1,8,automatic,nc,nc
 2022-09-11T21:41:24.100Z,37.5466652,-118.9231644,9.29,1.6,md,15,147,0.06563,0.07,nc,nc73780536,2022-09-11T22:05:12.904Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.74,1.24,0.12,14,automatic,nc,nc
 2022-09-11T21:40:31.680Z,37.5653343,-118.925499,8.91,2.2,md,22,102,0.04739,0.04,nc,nc73780531,2022-09-11T21:54:11.673Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.36,0.85,0.16,24,automatic,nc,nc
 2022-09-11T21:37:02.400Z,37.5638351,-118.9261703,9.08,1.56,md,18,157,0.04896,0.02,nc,nc73780526,2022-09-11T21:54:10.673Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.43,0.93,0.13,15,automatic,nc,nc
-2022-09-11T21:33:20.920Z,37.5653343,-118.9264984,9.14,2.92,md,30,95,0.04754,0.03,nc,nc73780521,2022-09-11T22:36:12.952Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.58,0.18,41,automatic,nc,nc
+2022-09-11T21:33:20.920Z,37.5653343,-118.9264984,9.14,2.92,md,30,95,0.04754,0.03,nc,nc73780521,2022-09-11T22:38:11.087Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.58,0.18,41,automatic,nc,nc
 2022-09-11T21:30:35.420Z,17.8911666666667,-66.862,15.45,2.09,md,4,307,,0.1,pr,pr71371223,2022-09-11T21:40:39.930Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,1.15,1.25,0.0281629051180246,3,reviewed,pr,pr
 2022-09-11T21:21:53.788Z,41.2018,140.1481,166.315,5,mb,101,51,0.807,0.58,us,us7000i78n,2022-09-11T21:40:22.040Z,"46 km NNW of Shimokizukuri, Japan",earthquake,7.78,5.66,0.021,738,reviewed,us,us
 2022-09-11T21:18:34.391Z,31.59519859,-103.9848764,7.905419922,2.8,ml,19,53,0.1255905204,0.2,tx,tx2022rvwl,2022-09-11T22:31:59.432Z,"36 km NNW of Toyah, Texas",earthquake,1.017403012,1.870651399,0.2,22,reviewed,tx,tx
@@ -172,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T22:57:36.530Z,33.2576667,-115.6533333,2.89,1.46,ml,28,42,0.06585,0.21,ci,ci40098639,2022-09-11T18:49:48.400Z,"13km W of Niland, CA",earthquake,0.23,0.41,0.09,33,reviewed,ci,ci
 2022-09-10T22:51:55.800Z,51.0955,-178.4094,24.528,2.8,ml,15,216,0.524,0.57,us,us6000iite,2022-09-11T02:22:17.040Z,"150 km SW of Adak, Alaska",earthquake,3.16,12.61,0.115,10,reviewed,us,us
 2022-09-10T22:50:18.670Z,33.3203333,-116.3545,11.21,2.12,ml,91,19,0.01236,0.19,ci,ci40098631,2022-09-11T18:43:27.410Z,"7km NNE of Borrego Springs, CA",earthquake,0.12,0.26,0.155,81,reviewed,ci,ci
-2022-09-10T22:42:01.010Z,38.8333321,-122.8154984,1.85,0.83,md,23,55,0.01079,0.02,nc,nc73780151,2022-09-10T23:05:13.645Z,"8km NW of The Geysers, CA",earthquake,0.2,0.39,0.24,4,automatic,nc,nc
