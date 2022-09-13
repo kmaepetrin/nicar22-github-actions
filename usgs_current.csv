@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-13T15:36:52.090Z,38.8279991,-122.7833328,1.59,0.85,md,7,95,0.01077,0.03,nc,nc73781161,2022-09-13T15:44:11.134Z,"5km W of Cobb, CA",earthquake,0.59,1.56,,1,automatic,nc,nc
 2022-09-13T15:36:41.000Z,38.7878342,-122.7695007,1.77,1.12,md,22,81,0.01489,0.04,nc,nc73781156,2022-09-13T16:52:10.406Z,"2km NW of The Geysers, CA",earthquake,0.22,0.42,0.06,6,automatic,nc,nc
 2022-09-13T15:25:28.500Z,34.0881667,-117.3005,15.61,1.1,ml,42,57,0.1169,0.14,ci,ci40099751,2022-09-13T17:02:23.215Z,"2km NE of Colton, CA",earthquake,0.19,0.51,0.097,20,reviewed,ci,ci
-2022-09-13T15:24:37.250Z,37.1290016,-121.5240021,6.63,2.71,md,61,46,0.06813,0.1,nc,nc73781151,2022-09-13T19:52:35.040Z,"9km ENE of San Martin, CA",earthquake,0.16,0.46,0.14,75,automatic,nc,nc
+2022-09-13T15:24:37.250Z,37.1290016,-121.5240021,6.63,2.71,md,61,46,0.06813,0.1,nc,nc73781151,2022-09-13T19:55:43.925Z,"9km ENE of San Martin, CA",earthquake,0.16,0.46,0.14,75,automatic,nc,nc
 2022-09-13T15:22:29.243Z,26.4126,125.8946,10,4.9,mb,66,86,2.17,0.48,us,us7000i7ny,2022-09-13T18:33:01.040Z,"179 km W of Naha, Japan",earthquake,8.23,1.874,0.045,162,reviewed,us,us
 2022-09-13T15:16:01.571Z,62.1161,-148.6071,37.9,1,ml,,,,0.26,ak,ak022brmls2l,2022-09-13T15:18:10.438Z,"36 km NNW of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-09-13T15:13:36.630Z,37.3351667,-122.2126667,8.24,0.94,md,10,68,0.0311,0.05,nc,nc73781141,2022-09-13T19:39:10.432Z,"6km SSE of Portola Valley, CA",earthquake,0.35,0.54,0.132,6,reviewed,nc,nc
@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-12T20:12:27.812Z,60.0814,-153.4862,162.2,1.1,ml,,,,0.82,ak,ak022bq20thr,2022-09-12T20:14:53.391Z,"47 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-12T20:09:09.110Z,39.6025,-120.4031667,-1.55,3.3,ml,37,44,0.1418,0.13,nc,nc73780871,2022-09-13T17:51:38.008Z,"16km WSW of Loyalton, CA",earthquake,0.21,2.13,0.204,66,reviewed,nc,nc
 2022-09-12T20:07:45.120Z,33.8536667,-116.1615,9.88,0.78,ml,17,84,0.07228,0.11,ci,ci40099407,2022-09-12T20:28:41.376Z,"16km NNE of Indio, CA",earthquake,0.22,0.51,0.086,6,reviewed,ci,ci
-2022-09-12T20:00:37.750Z,19.1181659698486,-155.405502319336,32.3300018310547,2.65,ml,48,184,,0.119999997,hv,hv73138262,2022-09-12T22:37:41.621Z,"12 km SE of Pāhala, Hawaii",earthquake,0.64,0.810000002,3.83,25,automatic,hv,hv
