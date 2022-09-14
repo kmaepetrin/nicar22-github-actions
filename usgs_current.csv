@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-14T11:38:21.660Z,38.8351669,-122.8161697,1.66,0.85,md,13,60,0.01268,0.02,nc,nc73781486,2022-09-14T11:39:56.858Z,"8km W of Cobb, CA",earthquake,0.26,0.72,,1,automatic,nc,nc
 2022-09-14T11:24:30.190Z,19.113166809082,-155.425338745117,31.7399997711182,2.02999997,md,41,182,,0.129999995,hv,hv73139637,2022-09-14T11:27:41.250Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.55,1,0.270000011,13,automatic,hv,hv
 2022-09-14T11:21:17.610Z,38.7751656,-122.7443314,1.78,0.83,md,8,81,0.01002,0.02,nc,nc73781476,2022-09-14T11:22:50.876Z,"1km ESE of The Geysers, CA",earthquake,0.35,0.55,0.23,3,automatic,nc,nc
-2022-09-14T11:04:07.196Z,-21.2077,170.2388,143.274,6.7,mww,191,37,2.946,0.68,us,us7000i7ya,2022-09-14T11:28:58.064Z,"209 km SSE of Isangel, Vanuatu",earthquake,6.9,4.65,0.098,10,reviewed,us,us
+2022-09-14T11:04:07.196Z,-21.2077,170.2388,143.274,6.7,mww,191,37,2.946,0.68,us,us7000i7ya,2022-09-14T11:36:02.872Z,"209 km SSE of Isangel, Vanuatu",earthquake,6.9,4.65,0.098,10,reviewed,us,us
 2022-09-14T10:49:41.610Z,18.8826666666667,-155.230166666667,11.27,3.16,ml,47,257,,0.15,hv,hv73139602,2022-09-14T11:07:40.876Z,"Hawaii region, Hawaii",earthquake,0.78,0.74,0.174739009463299,34,reviewed,hv,hv
 2022-09-14T10:46:07.330Z,33.8931667,-116.2616667,9.59,0.83,ml,20,59,0.08016,0.16,ci,ci40100127,2022-09-14T10:49:40.729Z,"14km NE of Thousand Palms, CA",earthquake,0.36,0.83,0.133,16,automatic,ci,ci
 2022-09-14T10:45:18.319Z,62.1991,-149.9224,35.7,1,ml,,,,0.61,ak,ak022bt7c7lj,2022-09-14T10:47:33.328Z,"5 km NW of Susitna North, Alaska",earthquake,,4.3,,,automatic,ak,ak
@@ -100,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-14T01:46:40.600Z,38.487,-122.719,5.5,1.54,md,43,49,0.04763,0.09,nc,nc73781311,2022-09-14T09:00:11.152Z,"4km SE of Larkfield-Wikiup, CA",earthquake,0.12,0.51,0.163,25,reviewed,nc,nc
 2022-09-14T01:40:20.420Z,38.4813333,-122.7036667,5.59,4.29,ml,133,24,0.02141,0.11,nc,nc71129069,2022-09-14T10:54:53.862Z,"4km N of Santa Rosa, CA",earthquake,0.09,0.15,0.131,123,reviewed,nc,nc
 2022-09-14T01:39:48.222Z,62.5763,-152.653,0.1,1.4,ml,,,,0.46,ak,ak022bt1y35y,2022-09-14T01:41:36.530Z,"92 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-14T01:39:38.730Z,38.475,-122.7071667,5.57,4.39,mw,143,22,0.02906,0.14,nc,nc73781306,2022-09-14T11:27:09.885Z,"3km N of Santa Rosa, CA",earthquake,0.12,0.2,,6,reviewed,nc,nc
+2022-09-14T01:39:38.730Z,38.475,-122.7071667,5.57,4.39,mw,143,22,0.02906,0.14,nc,nc73781306,2022-09-14T11:37:27.604Z,"3km N of Santa Rosa, CA",earthquake,0.12,0.2,,6,reviewed,nc,nc
 2022-09-14T01:35:50.600Z,22.4477,121.3929,17.722,4.9,mb,91,77,0.468,0.69,us,us7000i7tk,2022-09-14T02:05:29.187Z,"83 km NE of Hengchun, Taiwan",earthquake,5.61,3.963,0.053,113,reviewed,us,us
 2022-09-14T01:29:16.492Z,64.9519,-150.8899,12.5,1,ml,,,,0.88,ak,ak022bt1vvk1,2022-09-14T01:31:48.561Z,"13 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-14T01:23:36.070Z,35.277,-119.3878333,21.15,2.5,ml,34,56,0.059,0.28,ci,ci40099991,2022-09-14T02:08:03.481Z,"16km SSE of Buttonwillow, CA",earthquake,0.41,0.98,0.202,26,automatic,ci,ci
@@ -268,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-13T11:58:43.587Z,37.2658,143.3512,10,4.6,mb,27,81,3.943,0.35,us,us7000i7lx,2022-09-13T14:26:50.040Z,"209 km E of Namie, Japan",earthquake,8.94,1.885,0.173,10,reviewed,us,us
 2022-09-13T11:52:14.430Z,38.8154984,-122.8160019,3.05,0.49,md,13,64,0.009144,0.01,nc,nc73781106,2022-09-13T12:40:10.846Z,"7km NW of The Geysers, CA",earthquake,0.34,0.97,0.35,2,automatic,nc,nc
 2022-09-13T11:46:17.950Z,52.3501666666667,-174.177833333333,8.38,-0.48,ml,4,244,,0.23,av,av91071063,2022-09-13T22:24:21.910Z,"17 km N of Atka, Alaska",earthquake,1.01,1.19,0.0688066533581948,2,reviewed,av,av
-2022-09-13T11:39:42.550Z,19.6841666666667,-155.259,38.63,3.31,ml,53,103,,0.13,hv,hv73138852,2022-09-14T04:22:50.729Z,"18 km WSW of Hilo, Hawaii",earthquake,0.39,0.56,0.212940501213786,36,reviewed,hv,hv
-2022-09-13T11:38:27.740Z,31.61604366,-104.1224258,6.131567383,2.1,ml,24,58,0.1000562719,0.3,tx,tx2022ryui,2022-09-13T19:39:36.634Z,"45 km NW of Toyah, Texas",earthquake,0.8018335013999999,1.091613313,0.2,7,reviewed,tx,tx
