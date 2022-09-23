@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-23T11:18:55.080Z,33.6988333,-116.7265,13.9,0.89,ml,34,55,0.01603,0.23,ci,ci40104999,2022-09-23T11:22:28.608Z,"5km S of Idyllwild, CA",earthquake,0.36,0.52,0.194,26,automatic,ci,ci
 2022-09-23T10:53:55.810Z,35.834,-117.6783333,4.43,0.49,ml,6,104,0.06816,0.21,ci,ci40104991,2022-09-23T10:57:31.282Z,"24km ESE of Little Lake, CA",earthquake,0.58,1.53,0.191,4,automatic,ci,ci
 2022-09-23T10:41:19.430Z,33.0041667,-116.2903333,3.94,2.1,ml,56,37,0.05063,0.21,ci,ci40104983,2022-09-23T10:52:18.870Z,"21km SW of Ocotillo Wells, CA",earthquake,0.22,0.95,0.16,26,automatic,ci,ci
+2022-09-23T10:34:20.989Z,44.253,-115.1428,10,2.4,ml,16,68,0.868,0.88,us,us7000iaeb,2022-09-23T11:10:53.040Z,"16 km WNW of Stanley, Idaho",earthquake,2.29,1.806,0.066,30,reviewed,us,us
 2022-09-23T10:28:59.256Z,62.3683,-149.8667,18.4,1.3,ml,,,,0.48,ak,ak022c832s11,2022-09-23T10:31:12.831Z,"13 km ENE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-23T10:25:02.660Z,19.24049949646,-155.391006469727,35.9000015258789,2.05999994,md,40,144,,0.159999996,hv,hv73149242,2022-09-23T10:28:08.820Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.870000005,0.649999976,11,automatic,hv,hv
 2022-09-23T10:21:49.500Z,33.2048333,-116.1691667,6.93,0.83,ml,28,125,0.04902,0.2,ci,ci40104975,2022-09-23T10:25:26.060Z,"8km NNW of Ocotillo Wells, CA",earthquake,0.41,0.62,0.144,16,automatic,ci,ci
@@ -110,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T22:24:54.650Z,40.2205009,-122.6565018,9,2.86,md,24,48,0.1081,0.23,nc,nc73784806,2022-09-23T00:27:20.040Z,"32km NW of Rancho Tehama Reserve, CA",earthquake,0.34,0.77,0.12,35,automatic,nc,nc
 2022-09-22T22:21:04.560Z,19.1861667633057,-155.494003295898,31.5300006866455,1.75999999,md,32,146,,0.109999999,hv,hv73148587,2022-09-22T22:24:32.690Z,"2 km SW of Pāhala, Hawaii",earthquake,0.67,1.08000004,0.730000019,7,automatic,hv,hv
 2022-09-22T22:19:23.371Z,26.1374,126.2206,10,4.6,mb,37,74,1.966,0.61,us,us7000iabm,2022-09-22T22:49:37.040Z,"144 km W of Itoman, Japan",earthquake,7.59,1.932,0.116,22,reviewed,us,us
+2022-09-22T22:16:40.432Z,31.68112746,-104.4749091,6.028735352,2.1,ml,17,70,0.0253674185,0.2,tx,tx2022sqaw,2022-09-23T11:26:54.008Z,"55 km S of Whites City, New Mexico",earthquake,1.97321824,1.363659649,0.2,16,reviewed,tx,tx
 2022-09-22T22:11:44.300Z,18.6041666666667,-67.0223333333333,64.05,2.78,md,18,239,,0.28,pr,pr71372803,2022-09-22T22:29:56.450Z,"11 km N of Isabela, Puerto Rico",earthquake,1.1,1.1,0.0392625880707609,7,reviewed,pr,pr
 2022-09-22T22:10:59.500Z,35.7961667,-120.3475,9.83,2.1,md,47,104,0.02394,0.07,nc,nc73784801,2022-09-23T01:15:14.280Z,"10km NNW of Cholame, CA",earthquake,0.2,0.39,0.144,35,reviewed,nc,nc
 2022-09-22T22:10:53.971Z,60.1563,-152.4353,86.3,1.2,ml,,,,0.39,ak,ak022c6mkrhx,2022-09-22T22:12:48.385Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -314,4 +317,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T11:39:30.190Z,34.083,-117.269,14.27,0.97,ml,44,75,0.1256,0.16,ci,ci40104263,2022-09-22T17:20:35.616Z,"4km N of Loma Linda, CA",earthquake,0.2,0.42,0.103,15,reviewed,ci,ci
 2022-09-22T11:37:36.030Z,34.44716667,-97.5055,12.87,2.05,ml,77,74,0.08728287212,0.41,ok,ok2022spfv,2022-09-22T12:19:02.688Z,"0 km ESE of Ratliff City, Oklahoma",earthquake,,1.2,0.25,23,reviewed,ok,ok
 2022-09-22T11:31:33.061Z,40.1594,-119.6435,8.2,0.5,ml,5,237.09,0.069,0.1441,nn,nn00847718,2022-09-23T00:02:49.007Z,"Nevada",earthquake,,3,0.32,4,reviewed,nn,nn
-2022-09-22T11:26:38.930Z,19.2514991760254,-155.416168212891,33.060001373291,1.75999999,md,34,139,,0.129999995,hv,hv73148102,2022-09-22T11:29:53.580Z,"8 km NE of Pāhala, Hawaii",earthquake,0.66,0.779999971,0.870000005,3,automatic,hv,hv
