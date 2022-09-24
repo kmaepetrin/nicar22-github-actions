@@ -278,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T11:17:07.110Z,58.4683333333333,-154.59,8.31,-0.25,ml,5,192,,0.27,av,av91072033,2022-09-23T19:52:35.860Z,"100 km N of Karluk, Alaska",earthquake,0.92,1.4,0.194419153281117,5,reviewed,av,av
 2022-09-23T11:13:41.930Z,36.2745,-120.4836667,4.73,1.39,md,21,112,0.1101,0.04,nc,nc73785036,2022-09-23T21:30:11.103Z,"19km NW of Coalinga, CA",earthquake,0.33,0.91,0.242,16,reviewed,nc,nc
 2022-09-23T11:01:26.020Z,53.7766666666667,-166.984666666667,8.82,-0.22,ml,5,323,,0.32,av,av91072028,2022-09-23T19:49:15.940Z,"31 km WSW of Unalaska, Alaska",earthquake,2.16,1.26,0.104188947799216,5,reviewed,av,av
-2022-09-23T10:53:55.550Z,35.8273333,-117.6658333,7.96,0.74,ml,15,94,0.05672,0.09,ci,ci40104991,2022-09-23T20:37:38.984Z,"23km N of Ridgecrest, CA",earthquake,0.19,0.42,0.199,7,reviewed,ci,ci
