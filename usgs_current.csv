@@ -275,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T12:16:10.835Z,62.0102,-151.1662,68.7,2,ml,,,,0.32,ak,ak022c846ywr,2022-09-23T12:17:56.386Z,"12 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-23T12:12:58.144Z,38.5451,-119.4928,9.3,0.6,ml,4,198.81,0.046,0.1042,nn,nn00847821,2022-09-24T02:40:13.319Z,"2 km SSE of Coleville, California",earthquake,,4.2,0.1,2,reviewed,nn,nn
 2022-09-23T11:44:52.126Z,62.3571,-149.1752,0,1.8,ml,,,,0.72,ak,ak022c83rmjg,2022-09-23T11:46:44.079Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-23T11:38:05.530Z,19.4528331756592,-155.601837158203,-2.27999997138977,1.9,ml,14,65,,0.330000013,hv,hv73149307,2022-09-23T11:43:36.420Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.330000013,4.23,5,automatic,hv,hv
-2022-09-23T11:37:37.378Z,64.7415,-149.0595,10.7,1.4,ml,,,,0.45,ak,ak022c83q3e1,2022-09-23T11:39:33.688Z,"15 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
