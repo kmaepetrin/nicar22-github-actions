@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-09-25T14:51:03.948Z,61.3471,-141.1142,0,1.8,ml,,,,0.36,ak,ak022cbgo0my,2022-09-25T14:52:37.942Z,"97 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T14:51:09.587Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
+2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T14:56:18.172Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
 2022-09-25T14:45:39.660Z,33.784,-116.113,2.05,0.83,ml,17,94,0.09127,0.22,ci,ci40106287,2022-09-25T14:49:09.999Z,"12km NE of Indio, CA",earthquake,0.37,0.73,0.127,18,automatic,ci,ci
 2022-09-25T14:36:28.520Z,58.4493,-153.5277,25.9,0.8,ml,,,,0.69,ak,ak022cbgkvdj,2022-09-25T14:39:05.347Z,"56 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-25T14:36:00.846Z,36.6957,-116.2787,6.4,0.4,ml,17,128.54,0.062,0.191,nn,nn00847890,2022-09-25T14:38:39.277Z,"California-Nevada border region",earthquake,,0.8,0.94,10,automatic,nn,nn
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T15:18:54.659Z,61.4946,-145.5801,39.1,4.8,ml,,,,0.6,ak,ak022c9tj4z7,2022-09-25T07:32:55.567Z,"28 km SW of Tonsina, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-09-24T15:13:49.670Z,33.325,-116.2061667,1.53,0.96,ml,25,68,0.09426,0.27,ci,ci40105655,2022-09-24T15:17:28.710Z,"18km ENE of Borrego Springs, CA",earthquake,0.37,0.75,0.181,20,automatic,ci,ci
 2022-09-24T15:07:25.530Z,35.6761667,-117.5465,7.84,1.52,ml,17,91,0.1453,0.09,ci,ci40105647,2022-09-25T13:43:49.831Z,"13km ENE of Ridgecrest, CA",earthquake,0.23,1.11,0.155,18,reviewed,ci,ci
-2022-09-24T14:58:08.880Z,40.6561667,-122.2308333,12.13,1.59,md,19,53,0.03724,0.18,nc,nc73785366,2022-09-24T18:55:12.783Z,"2km N of Bella Vista, CA",earthquake,0.42,0.65,0.126,19,reviewed,nc,nc
-2022-09-24T14:52:52.280Z,51.5709,-177.3122,68.023,2.5,ml,9,195,0.298,0.33,us,us7000ias2,2022-09-24T15:56:41.040Z,"57 km SW of Adak, Alaska",earthquake,9.67,11.886,0.128,8,reviewed,us,us
