@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T21:28:48.670Z,33.0178333,-116.4408333,10.68,0.8,ml,20,93,0.1306,0.18,ci,ci40107671,2022-09-27T21:32:22.807Z,"16km ESE of Julian, CA",earthquake,0.35,0.68,0.115,9,automatic,ci,ci
 2022-09-27T21:22:30.811Z,31.91159426,-103.9204822,8.111083984,2.8,ml,11,57,0.09572892509,0.2,tx,tx2022szcq,2022-09-27T21:53:07.040Z,"37 km SSE of Malaga, New Mexico",earthquake,1.899154284,2.521576292,0.1,6,reviewed,tx,tx
 2022-09-27T21:18:19.141Z,53.7319,-35.2173,10,4.9,mb,76,98,9.246,0.6,us,us6000int8,2022-09-27T21:33:42.040Z,"Reykjanes Ridge",earthquake,10.32,1.896,0.036,241,reviewed,us,us
+2022-09-27T21:17:48.690Z,44.7841667,-110.8113333,10.51,2.14,ml,22,99,0.0282,0.16,uu,uu60518217,2022-09-27T21:57:53.680Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.39,0.67,0.266,7,reviewed,uu,uu
 2022-09-27T21:09:53.964Z,53.7854,-35.2431,10,4.8,mb,67,82,15.202,0.73,us,us6000int6,2022-09-27T21:28:19.040Z,"Reykjanes Ridge",earthquake,11.33,1.885,0.047,139,reviewed,us,us
 2022-09-27T20:55:34.258Z,63.105,-150.8099,25.4,1.4,ml,,,,1.01,ak,ak022cevc8gh,2022-09-27T20:57:34.089Z,"66 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-09-27T20:50:26.521Z,61.5909,-141.1628,0,2.4,ml,,,,0.6,ak,ak022cevb5a4,2022-09-27T20:52:21.241Z,"95 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T20:30:15.650Z,39.0313333,-123.2613333,-0.28,1.77,md,20,66,0.08088,0.12,nc,nc73786586,2022-09-27T21:46:09.642Z,"9km ENE of Boonville, CA",earthquake,0.2,0.6,0.147,21,reviewed,nc,nc
 2022-09-27T20:28:28.549Z,63.1001,-150.8407,110.6,1.3,ml,,,,0.26,ak,ak022cev6fom,2022-09-27T20:30:16.237Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-09-27T20:24:36.635Z,65.0646,-148.4678,38.8,1,ml,,,,1.17,ak,ak022cev5lfz,2022-09-27T20:27:32.271Z,"32 km NW of Ester, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-09-27T20:14:43.827Z,58.3462,-133.288,0,2.4,ml,,,,1.14,ak,ak022cev3gtt,2022-09-27T20:17:22.036Z,"66 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-09-27T20:14:43.827Z,58.3462,-133.288,0,2.4,ml,,,,1.14,ak,ak022cev3gtt,2022-09-27T21:58:28.040Z,"66 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-27T20:00:53.850Z,38.8344994,-122.7870026,1.96,1.13,md,21,66,0.004696,0.02,nc,nc73786581,2022-09-27T20:59:12.304Z,"6km WNW of Cobb, CA",earthquake,0.21,0.35,0.15,5,automatic,nc,nc
 2022-09-27T19:55:54.470Z,33.8715,-117.5038333,-0.49,1.08,ml,31,110,0.07284,0.21,ci,ci40107607,2022-09-27T21:02:42.904Z,"2km ESE of Home Gardens, CA",quarry blast,0.56,31.61,0.197,14,reviewed,ci,ci
 2022-09-27T19:54:54.260Z,38.8176651,-122.8083344,1.37,1.03,md,10,101,0.005881,0.01,nc,nc73786576,2022-09-27T19:56:31.297Z,"6km NW of The Geysers, CA",earthquake,0.39,0.66,0.88,2,automatic,nc,nc
