@@ -231,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-28T11:20:11.060Z,38.8121681,-122.7786636,0.79,0.35,md,8,181,0.001918,0.02,nc,nc73786761,2022-09-28T11:21:43.749Z,"4km NNW of The Geysers, CA",earthquake,0.74,0.68,,1,automatic,nc,nc
 2022-09-28T11:19:45.430Z,33.32,-116.335,11.5,0.71,ml,22,89,0.0473,0.17,ci,ci40107991,2022-09-28T13:23:03.400Z,"8km NNE of Borrego Springs, CA",earthquake,0.31,0.5,0.087,15,reviewed,ci,ci
 2022-09-28T11:17:44.430Z,38.8113327,-122.7766647,0.75,1.17,md,9,191,0.003683,0.02,nc,nc73786756,2022-09-28T12:01:12.802Z,"4km NNW of The Geysers, CA",earthquake,0.47,0.7,,1,automatic,nc,nc
-2022-09-28T11:01:51.420Z,36.6133333,-121.2156667,4.77,1.2,md,25,129,0.04816,0.08,nc,nc73786751,2022-09-29T04:53:16.011Z,"11km NW of Pinnacles, CA",earthquake,0.26,0.5,0.146,21,reviewed,nc,nc
-2022-09-28T10:59:47.773Z,53.5488,-35.35,10,4.6,mb,56,121,15.395,0.46,us,us6000ip0b,2022-09-29T03:23:36.040Z,"Reykjanes Ridge",earthquake,7.39,1.788,0.079,48,reviewed,us,us
-2022-09-28T10:58:52.520Z,33.9765,-116.8525,19.17,0.63,ml,31,62,0.0693,0.11,ci,ci40107983,2022-09-28T18:10:04.144Z,"6km NNE of Banning, CA",earthquake,0.18,0.36,0.061,12,reviewed,ci,ci
