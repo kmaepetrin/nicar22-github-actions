@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-30T10:59:55.680Z,35.8856659,-117.8233337,8.01,0.98,ml,11,88,0.06375,0.07,ci,ci40353384,2022-09-30T11:02:00.534Z,"9km SE of Little Lake, CA",earthquake,0.42,1.39,0.062,2,automatic,ci,ci
+2022-09-30T11:05:51.610Z,19.2403335571289,-155.379333496094,32.9300003051758,2.51,ml,49,144,,0.140000001,hv,hv73160657,2022-09-30T11:11:22.550Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.5,0.50999999,3.7,23,automatic,hv,hv
+2022-09-30T10:59:55.720Z,35.8846667,-117.8285,6.85,0.87,ml,8,101,0.06518,0.04,ci,ci40353384,2022-09-30T11:03:25.337Z,"9km SE of Little Lake, CA",earthquake,0.28,0.85,0.155,9,automatic,ci,ci
+2022-09-30T10:58:37.930Z,19.4675,-155.6565,3.22,0.82,md,12,127,,0.11,hv,hv73160647,2022-09-30T11:11:05.400Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.99,0.223784741525344,5,reviewed,hv,hv
 2022-09-30T10:49:25.740Z,19.4503326416016,-155.642166137695,-3.35999989509583,1.95000005,md,41,71,,0.230000004,hv,hv73160627,2022-09-30T10:56:58.550Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.219999999,0.519999981,18,automatic,hv,hv
 2022-09-30T10:41:20.310Z,38.8230019,-122.7536697,3.62,0.36,md,8,203,0.01472,0.04,nc,nc73787536,2022-09-30T10:42:55.128Z,"3km W of Cobb, CA",earthquake,0.95,2.08,,1,automatic,nc,nc
 2022-09-30T10:39:31.460Z,38.8226662,-122.7649994,2.37,0.67,md,11,120,0.008687,0.02,nc,nc73787526,2022-09-30T10:41:17.993Z,"4km W of Cobb, CA",earthquake,0.51,0.94,0.14,2,automatic,nc,nc
@@ -12,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-30T10:25:27.594Z,61.7606,-148.2499,10.7,1.4,ml,,,,0.71,ak,ak022cjnthw7,2022-09-30T10:27:02.585Z,"11 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-30T10:24:18.310Z,19.4685,-155.652833333333,3.42,2.3,ml,12,122,,0.09,hv,hv73160587,2022-09-30T10:34:44.950Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.85,0.192417770869551,9,reviewed,hv,hv
 2022-09-30T10:23:52.690Z,19.4778333333333,-155.647166666667,3.55,0.68,md,11,109,,0.11,hv,hv73160582,2022-09-30T10:45:11.570Z,"Hawaii region, Hawaii",earthquake,0.36,0.93,0.117291485338451,5,reviewed,hv,hv
+2022-09-30T10:23:15.700Z,19.4586666666667,-155.599833333333,-1.27,0.65,md,6,132,,0.07,hv,hv73160577,2022-09-30T11:02:47.760Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.22,0.181641473473753,5,reviewed,hv,hv
 2022-09-30T10:20:28.810Z,33.6386667,-116.8146667,18.96,0.96,ml,30,66,0.02896,0.14,ci,ci40353376,2022-09-30T10:24:06.842Z,"14km SSE of Valle Vista, CA",earthquake,0.22,0.41,0.27,28,automatic,ci,ci
 2022-09-30T10:20:10.952Z,38.1483,-117.9056,8.1,1,ml,9,159.74,0.043,0.0938,nn,nn00848253,2022-09-30T10:23:09.137Z,"Nevada",earthquake,,0.5,0.5,6,automatic,nn,nn
 2022-09-30T10:13:10.440Z,19.4711666666667,-155.653166666667,4.27,0.64,md,11,120,,0.12,hv,hv73160557,2022-09-30T10:30:50.960Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.93,0.1165054921548,7,reviewed,hv,hv
@@ -125,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-30T02:36:24.280Z,19.4676666666667,-155.6435,2.78,2.25,ml,18,71,,0.17,hv,hv73159657,2022-09-30T02:52:51.630Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.9,0.088619768697451,6,reviewed,hv,hv
 2022-09-30T02:27:33.910Z,19.4675,-155.648833333333,2.62,3.11,ml,22,73,,0.14,hv,hv73159637,2022-09-30T02:47:46.040Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.79,0.246151533990507,35,reviewed,hv,hv
 2022-09-30T02:26:22.573Z,-25.3265,-176.7025,82.101,4.9,mb,15,107,4.067,0.65,us,us6000iphy,2022-09-30T02:44:41.040Z,"south of the Fiji Islands",earthquake,11.51,10.968,0.177,10,reviewed,us,us
-2022-09-30T02:23:16.263Z,24.7976,94.8543,10,4.6,mb,18,123,0.758,0.47,us,us6000iphx,2022-09-30T03:08:50.040Z,"82 km E of Yairipok, India",earthquake,7.34,1.92,0.206,9,reviewed,us,us
+2022-09-30T02:23:16.263Z,24.7976,94.8543,10,4.6,mb,18,123,0.758,0.47,us,us6000iphx,2022-09-30T11:02:07.648Z,"82 km E of Yairipok, India",earthquake,7.34,1.92,0.206,9,reviewed,us,us
 2022-09-30T02:19:52.080Z,32.2183,142.4357,10,4.9,mb,31,101,2.385,0.61,us,us6000iphu,2022-09-30T02:59:13.040Z,"Izu Islands, Japan region",earthquake,11.46,1.882,0.101,33,reviewed,us,us
 2022-09-30T02:18:23.076Z,59.9433,-151.7766,65.1,1.7,ml,,,,0.25,ak,ak022cjj0ioz,2022-09-30T02:20:18.256Z,"2 km W of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-30T02:05:08.530Z,19.2468338012695,-155.391998291016,33.0400009155273,2.43,ml,49,136,,0.150000006,hv,hv73159607,2022-09-30T02:33:05.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.589999974,3.73,23,automatic,hv,hv
@@ -161,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-29T23:26:49.060Z,37.4168333,-121.7613333,8.4,0.9,md,19,54,0.04428,0.07,nc,nc73787406,2022-09-30T06:20:56.948Z,"8km NE of Alum Rock, CA",earthquake,0.33,0.63,0.281,18,reviewed,nc,nc
 2022-09-29T23:19:26.680Z,38.8346672,-122.8186646,1.44,0.85,md,9,78,0.0131,0.01,nc,nc73787391,2022-09-29T23:21:03.728Z,"8km NW of The Geysers, CA",earthquake,0.37,0.99,,1,automatic,nc,nc
 2022-09-29T23:18:44.220Z,19.2511672973633,-155.387664794922,33.7099990844727,2.14,ml,45,136,,0.150000006,hv,hv73159382,2022-09-29T23:24:14.280Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.699999988,3.97,5,automatic,hv,hv
-2022-09-29T23:08:10.151Z,60.2205,-141.1915,11.2,5.1,ml,,,,0.82,ak,ak022ci7x3po,2022-09-30T05:18:13.305Z,"111 km NW of Yakutat, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2022-09-29T23:08:10.151Z,60.2205,-141.1915,11.2,5.1,ml,,,,0.82,ak,ak022ci7x3po,2022-09-30T11:18:21.389Z,"111 km NW of Yakutat, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2022-09-29T23:03:15.430Z,51.6731666666667,-178.739833333333,14.31,1.47,ml,5,124,,0.2,av,av91686976,2022-09-30T02:17:30.010Z,"147 km W of Adak, Alaska",earthquake,2.44,2.03,0.220748217766592,5,reviewed,av,av
 2022-09-29T23:02:42.974Z,0.142,-77.3433,11.789,4.9,mb,40,90,0.722,0.65,us,us6000ipgb,2022-09-29T23:31:45.040Z,"50 km W of Nueva Loja, Ecuador",earthquake,3.66,4.984,0.071,63,reviewed,us,us
 2022-09-29T22:59:09.080Z,36.499,-98.42216667,7.81,3.09,ml,101,65,0,0.21,ok,ok2022tcwv,2022-09-30T02:02:30.686Z,"2 km ESE of Aline, Oklahoma",earthquake,,0.4,0.2,37,reviewed,ok,ok
@@ -327,6 +330,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-29T11:30:15.230Z,38.8276672,-122.8213348,1.76,0.85,md,10,69,0.009776,0.01,nc,nc73787151,2022-09-29T11:31:50.258Z,"8km NW of The Geysers, CA",earthquake,0.34,0.9,,1,automatic,nc,nc
 2022-09-29T11:29:59.986Z,39.6898,-119.8203,10.3,0,ml,4,146.55,0.136,0.0649,nn,nn00848215,2022-09-29T22:36:49.526Z,"6 km NNE of Lemmon Valley, Nevada",earthquake,,5.4,0.74,2,reviewed,nn,nn
 2022-09-29T11:25:09.560Z,34.5751667,-119.527,-0.06,1.48,ml,19,87,0.1594,0.2,ci,ci40352984,2022-09-29T12:46:37.008Z,"18km NNE of Montecito, CA",earthquake,0.31,31.61,0.14,22,reviewed,ci,ci
-2022-09-29T11:17:12.999Z,65.906,-149.8941,18.2,1.4,ml,,,,0.73,ak,ak022ci0tu4x,2022-09-29T11:19:28.815Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-29T11:07:39.220Z,38.829834,-122.8153305,2.22,0.85,md,10,80,0.007629,0.01,nc,nc73787141,2022-09-29T11:09:15.775Z,"8km NW of The Geysers, CA",earthquake,0.32,1.04,,1,automatic,nc,nc
-2022-09-29T11:06:55.414Z,36.8044,-116.0798,5.8,-0.5,ml,9,117.86,0.011,0.1016,nn,nn00848208,2022-09-29T22:30:36.883Z,"44 km NW of Indian Springs, Nevada",earthquake,,1.8,0.32,3,reviewed,nn,nn
