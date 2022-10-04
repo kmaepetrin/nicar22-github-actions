@@ -269,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T12:19:00.780Z,47.533166666666666,-121.779,19.72,1.31,ml,31,60,0.04526,0.14,uw,uw61876522,2022-10-03T22:20:21.330Z,"3 km E of Snoqualmie, Washington",earthquake,0.35,0.31,0.1549667947918637,24,reviewed,uw,uw
 2022-10-03T12:11:50.080Z,44.7828333,-110.807,3.22,0.32,md,8,205,0.03146,0.16,uu,uu60519037,2022-10-03T13:44:02.540Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.95,1.38,0.158,5,reviewed,uu,uu
 2022-10-03T12:01:18.970Z,38.5658333,-122.2921667,-0.3,1.91,md,45,75,0.0319,0.26,nc,nc73788866,2022-10-03T18:34:12.014Z,"14km E of Angwin, CA",earthquake,0.22,1.01,0.158,45,reviewed,nc,nc
-2022-10-03T11:51:15.410Z,44.7691667,-110.8035,3.95,0.04,md,5,181,0.03857,0.15,uu,uu60519032,2022-10-03T20:56:37.920Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.9,1.98,0.078,3,reviewed,uu,uu
