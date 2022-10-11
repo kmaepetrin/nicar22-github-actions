@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-11T09:10:21.310Z,33.048,-116.3528333,11.62,0.98,ml,36,62,0.102,0.2,ci,ci40359024,2022-10-11T09:13:56.875Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.27,0.89,0.206,18,automatic,ci,ci
 2022-10-11T08:46:21.750Z,38.7823334,-122.7146683,2.21,0.88,md,14,95,0.02219,0.02,nc,nc73792111,2022-10-11T08:47:59.000Z,"2km WNW of Anderson Springs, CA",earthquake,0.44,1.14,0.22,4,automatic,nc,nc
 2022-10-11T08:46:10.699Z,63.3389,-145.4129,8.5,1.2,ml,,,,0.35,ak,ak022d1tnwul,2022-10-11T08:47:58.275Z,"29 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-11T08:44:37.260Z,38.8213348,-122.7616653,2.21,0.86,md,13,124,0.01117,0.03,nc,nc73792101,2022-10-11T08:46:13.870Z,"3km W of Cobb, CA",earthquake,0.35,0.72,0.01,2,automatic,nc,nc
+2022-10-11T08:41:42.432Z,-5.4403,153.1811,23.986,4.9,mb,39,116,7.153,0.54,us,us6000isp0,2022-10-11T09:05:56.040Z,"157 km SE of Kokopo, Papua New Guinea",earthquake,12.38,5.956,0.083,71,reviewed,us,us
 2022-10-11T08:17:52.770Z,36.2101667,-117.913,-0.47,1.41,ml,16,106,0.1985,0.2,ci,ci40359016,2022-10-11T08:21:32.861Z,"12km SE of Olancha, CA",earthquake,0.44,31.61,0.171,15,automatic,ci,ci
+2022-10-11T08:17:45.081Z,32.7526,142.3729,10,4.8,mb,33,136,2.182,1.21,us,us6000isnw,2022-10-11T08:58:44.040Z,"Izu Islands, Japan region",earthquake,5.13,1.84,0.1,31,reviewed,us,us
 2022-10-11T08:10:23.141Z,36.7888,67.0901,65.962,4.9,mb,45,77,2.75,1.32,us,us6000isnu,2022-10-11T08:26:00.040Z,"9 km NNW of Mazār-e Sharīf, Afghanistan",earthquake,8.34,8.218,0.076,54,reviewed,us,us
 2022-10-11T08:05:30.820Z,60.6664,-141.1336,5,1.9,ml,,,,0.9,ak,ak022d1tf61m,2022-10-11T08:07:07.748Z,"128 km SE of McCarthy, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-10-11T07:54:25.690Z,18.0303333333333,-66.7511666666667,17.23,2.44,md,18,103,,0.1,pr,pr71376223,2022-10-11T08:40:37.030Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,0.3,0.5,0.133581192881599,14,reviewed,pr,pr
@@ -189,8 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-10T09:24:02.140Z,34.656,-95.88333333,23.08,1.45,ml,29,126,0.4211173624,0.19,ok,ok2022tvym,2022-10-10T12:24:42.434Z,"7 km SSW of Pittsburg, Oklahoma",earthquake,,1.4,0.24,12,reviewed,ok,ok
 2022-10-10T09:19:13.030Z,19.1213340759277,-155.430999755859,32.8199996948242,1.83000004,md,33,178,,0.150000006,hv,hv73173332,2022-10-10T09:22:19.530Z,"10 km SSE of Pāhala, Hawaii",earthquake,0.6,0.959999979,0.819999993,5,automatic,hv,hv
 2022-10-10T09:18:51.188Z,63.2013,-150.5202,128.1,1.8,ml,,,,0.19,ak,ak022d06k31a,2022-10-10T09:21:05.613Z,"71 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-10-10T09:13:01.010Z,19.477,-155.591333333333,-1.25,2.15,md,14,75,,0.11,hv,hv73173322,2022-10-10T21:52:07.850Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.18,0.017178856995792,5,reviewed,hv,hv
-2022-10-10T09:07:43.880Z,35.7666667,-118.4936667,5.3,1.03,ml,11,94,0.04921,0.17,ci,ci40358448,2022-10-10T12:47:07.449Z,"6km WNW of Kernville, CA",earthquake,0.37,0.76,0.17,7,reviewed,ci,ci
-2022-10-10T09:06:19.810Z,32.885,-116.2535,9.49,0.83,ml,11,125,0.0811,0.16,ci,ci40358440,2022-10-10T12:47:25.806Z,"27km ENE of Pine Valley, CA",earthquake,0.41,0.8,0.18,5,reviewed,ci,ci
-2022-10-10T09:00:29.760Z,19.4855003356934,-155.591339111328,-1.70000004768372,1.87,md,12,78,,0.150000006,hv,hv73173317,2022-10-10T09:06:00.940Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.230000004,0.74000001,8,automatic,hv,hv
-2022-10-10T08:57:09.620Z,37.7190018,-121.9769974,9.17,1.71,md,27,128,0.07217,0.07,nc,nc73791751,2022-10-10T10:01:15.450Z,"4km WNW of Dublin, CA",earthquake,0.26,0.4,0.11,21,automatic,nc,nc
