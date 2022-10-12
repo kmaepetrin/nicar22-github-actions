@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-11T15:56:43.340Z,18.231,-66.8703333333333,13.79,2.12,md,10,177,,0.09,pr,pr71376308,2022-10-11T17:49:48.412Z,"7 km S of Lares, Puerto Rico",earthquake,0.44,0.45,0.0219964663603016,5,reviewed,pr,pr
 2022-10-11T15:48:46.081Z,37.2052,36.2678,10,5,mww,82,53,1.677,0.67,us,us6000isrr,2022-10-11T18:56:55.334Z,"14 km N of Osmaniye, Turkey",earthquake,3.52,1.878,0.058,29,reviewed,us,us
 2022-10-11T15:45:06.630Z,60.437,-152.754666666667,12.28,-0.62,ml,5,181,,0.05,av,av91074298,2022-10-12T02:49:10.940Z,"74 km NW of Ninilchik, Alaska",earthquake,0.83,0.53,0.303378964735367,6,reviewed,av,av
-2022-10-11T15:33:44.100Z,41.9705,-112.5938333,-0.12,1.72,ml,24,161,0.1854,0.15,uu,uu60519997,2022-10-11T16:22:49.347Z,"Utah",earthquake,0.38,0.92,0.072,6,reviewed,uu,uu
+2022-10-11T15:33:44.100Z,41.9705,-112.5938333,-0.12,1.72,ml,24,161,0.1854,0.15,uu,uu60519997,2022-10-11T16:22:49.347Z,"9 km E of Snowville, Utah",earthquake,0.38,0.92,0.072,6,reviewed,uu,uu
 2022-10-11T15:17:03.764Z,38.1759,-117.8422,8.1,2.2,ml,21,87.07,0.1,0.1498,nn,nn00849001,2022-10-11T16:04:47.173Z,"33 km SE of Mina, Nevada",earthquake,,1.6,0.29,9,reviewed,nn,nn
 2022-10-11T15:03:37.489Z,61.9347,-149.097,21.9,1.5,ml,,,,0.49,ak,ak022d1xksd0,2022-10-11T15:04:55.408Z,"22 km NNE of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-11T14:59:41.500Z,41.3091667,-125.8245,23.11,2.91,md,37,261,1.379,0.24,nc,nc73792246,2022-10-11T18:39:14.132Z,"144km WNW of Trinidad, CA",earthquake,3.36,9.78,0.2,24,reviewed,nc,nc
@@ -243,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-11T08:25:25.630Z,44.8108333,-110.8003333,7.95,0.75,ml,10,218,0.04221,0.22,uu,uu60519982,2022-10-11T15:22:56.910Z,"Yellowstone National Park, Wyoming",earthquake,1.38,0.99,0.447,2,reviewed,uu,uu
 2022-10-11T08:17:52.770Z,36.2101667,-117.913,-0.47,1.41,ml,16,106,0.1985,0.2,ci,ci40359016,2022-10-11T13:03:31.935Z,"12km SE of Olancha, CA",earthquake,0.44,31.61,0.171,15,reviewed,ci,ci
 2022-10-11T08:17:45.081Z,32.7526,142.3729,10,4.8,mb,33,136,2.182,1.21,us,us6000isnw,2022-10-11T08:58:44.040Z,"Izu Islands, Japan region",earthquake,5.13,1.84,0.1,31,reviewed,us,us
-2022-10-11T08:10:23.141Z,36.7888,67.0901,65.962,4.9,mb,45,77,2.75,1.32,us,us6000isnu,2022-10-11T08:26:00.040Z,"9 km NNW of Mazār-e Sharīf, Afghanistan",earthquake,8.34,8.218,0.076,54,reviewed,us,us
-2022-10-11T08:06:57.710Z,51.8318333333333,-178.0845,9.64,0.97,ml,5,177,,0.31,av,av91693386,2022-10-12T01:25:01.810Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.33,1.54,0.251767576920553,5,reviewed,av,av
-2022-10-11T08:05:11.657Z,60.3146,-138.5831,18.2,2,ml,,,,0.86,ak,ak022d1tf61m,2022-10-11T17:05:46.779Z,"76 km SW of Haines Junction, Canada",earthquake,,0.8,,,reviewed,ak,ak
