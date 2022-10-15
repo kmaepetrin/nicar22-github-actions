@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-15T19:47:30.550Z,34.4588333,-118.588,3.88,1.26,ml,20,53,0.01748,0.32,ci,ci40361632,2022-10-15T19:51:00.136Z,"2km WNW of Valencia, CA",earthquake,0.52,1.02,0.17,30,automatic,ci,ci
 2022-10-15T19:26:07.369Z,36.19139862,-98.79627991,2.383570671,2.03,ml,27,93.99304199,0.1943693608,0.5868264504,ok,ok2022ufvw,2022-10-15T19:29:09.616Z,"Oklahoma",earthquake,2.407059543,1.909078576,,20,automatic,ok,ok
 2022-10-15T19:21:45.730Z,38.8433342,-122.8263321,1.91,0.89,md,14,99,0.008577,0.02,nc,nc73794076,2022-10-15T19:23:22.419Z,"9km WNW of Cobb, CA",earthquake,0.25,0.53,0.24,4,automatic,nc,nc
 2022-10-15T19:19:42.554Z,61.3147,-152.2607,3.5,0.3,ml,,,,0.11,ak,ak022d8m7clr,2022-10-15T19:21:09.966Z,"66 km WNW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -288,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-14T20:05:42.342Z,60.3012,-143.2875,1.7,1,ml,,,,0.3,ak,ak022d6z6foa,2022-10-14T20:07:11.681Z,"127 km S of McCarthy, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-10-14T20:02:04.400Z,19.1453342437744,-155.501495361328,2.20000004768372,2.1500001,md,35,149,,0.340000004,hv,hv73178887,2022-10-14T20:05:50.320Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.58,1.13999999,0.850000024,22,automatic,hv,hv
 2022-10-14T19:58:25.480Z,19.1316661834717,-155.495666503906,11.6400003433228,2.23,ml,34,162,,0.219999999,hv,hv73178882,2022-10-14T20:27:38.552Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.58,0.529999971,4.7,6,automatic,hv,hv
-2022-10-14T19:52:28.990Z,19.1711673736572,-155.516830444336,-1.33000004291534,2.36,ml,37,111,,0.270000011,hv,hv73178872,2022-10-15T17:45:53.040Z,"5 km SW of Pāhala, Hawaii",earthquake,0.87,0.300000012,4.43,10,automatic,hv,hv
