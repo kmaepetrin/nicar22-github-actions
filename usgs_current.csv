@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-16T22:56:31.420Z,35.0418333,-119.0133333,14.47,1.45,ml,22,66,0.134,0.25,ci,ci40362112,2022-10-16T23:00:15.567Z,"13km NW of Grapevine, CA",earthquake,0.57,0.94,0.126,26,automatic,ci,ci
+2022-10-16T22:53:24.790Z,35.6895,-117.5341667,2.5,1.77,ml,22,94,0.1183,0.22,ci,ci40362104,2022-10-16T22:57:11.547Z,"15km SW of Searles Valley, CA",earthquake,0.36,0.76,0.141,26,automatic,ci,ci
 2022-10-16T22:48:04.960Z,38.8343315,-122.7976685,2.27,0.36,md,7,135,0.007021,0.01,nc,nc73794671,2022-10-16T22:49:41.310Z,"7km WNW of Cobb, CA",earthquake,0.61,1.74,,1,automatic,nc,nc
 2022-10-16T22:42:36.380Z,33.5906667,-116.8005,7.22,0.6,ml,16,105,0.03053,0.17,ci,ci40362088,2022-10-16T22:46:03.720Z,"12km WNW of Anza, CA",earthquake,0.39,0.49,0.139,14,automatic,ci,ci
 2022-10-16T22:40:18.750Z,33.5895,-116.8053333,7.02,0.41,ml,14,113,0.03467,0.18,ci,ci40362080,2022-10-16T22:43:45.449Z,"13km WNW of Anza, CA",earthquake,0.44,0.54,0.133,8,automatic,ci,ci
