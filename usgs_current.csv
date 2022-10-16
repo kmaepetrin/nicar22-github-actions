@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-16T07:47:38.390Z,32.7378333,-115.4263333,5.64,1.6,ml,13,137,0.06947,0.15,ci,ci40361872,2022-10-16T07:51:16.992Z,"9km SSW of Holtville, CA",earthquake,0.48,0.98,0.175,18,automatic,ci,ci
+2022-10-16T07:39:47.900Z,17.962,-66.9435,12.61,2.48,md,13,198,,0.11,pr,pr71377348,2022-10-16T08:05:11.850Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.5,0.33,0.165408701200608,8,reviewed,pr,pr
 2022-10-16T07:29:38.290Z,35.904,-117.7141667,1.89,0.78,ml,8,117,0.09545,0.16,ci,ci40361864,2022-10-16T07:33:15.444Z,"18km ESE of Little Lake, CA",earthquake,0.55,0.74,0.139,8,automatic,ci,ci
 2022-10-16T07:23:37.640Z,38.8349991,-122.8115005,2.06,0.9,md,19,53,0.01164,0.01,nc,nc73794361,2022-10-16T07:41:26.268Z,"8km W of Cobb, CA",earthquake,0.23,0.46,0.2,4,automatic,nc,nc
 2022-10-16T07:03:29.430Z,17.973,-66.8391666666667,16.7,2.32,md,9,198,,0.08,pr,pr71377343,2022-10-16T07:15:38.400Z,"Puerto Rico",earthquake,0.44,0.55,0.0905575122157245,6,reviewed,pr,pr
@@ -215,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-15T08:22:11.500Z,19.1284999847412,-155.477005004883,11.7700004577637,2.11999989,md,35,174,,0.219999999,hv,hv73179927,2022-10-15T08:25:21.790Z,"8 km S of Pāhala, Hawaii",earthquake,0.51,0.400000006,1.13,19,automatic,hv,hv
 2022-10-15T08:14:50.375Z,60.3494,-152.287,90.6,1.9,ml,,,,0.2,ak,ak022d8fmiz1,2022-10-15T08:16:26.125Z,"47 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-15T08:13:40.260Z,39.7953333,-123.1975,4.16,1.75,md,28,63,0.09694,0.11,nc,nc73793811,2022-10-15T12:18:16.325Z,"4km E of Covelo, CA",earthquake,0.23,0.81,0.188,24,reviewed,nc,nc
-2022-10-15T08:09:33.362Z,62.7611,-150.0377,69.3,1.8,ml,,,,0.63,ak,ak022d8flf2w,2022-10-15T08:11:34.154Z,"34 km N of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-10-15T08:01:52.620Z,38.8214989,-122.7628326,2.19,0.96,md,15,122,0.01053,0.02,nc,nc73793801,2022-10-15T08:38:15.957Z,"3km W of Cobb, CA",earthquake,0.33,0.55,0.2,3,automatic,nc,nc
-2022-10-15T07:59:32.060Z,37.3805,-122.477,12.57,0.99,md,19,205,0.08016,0.1,nc,nc73793806,2022-10-15T13:10:11.608Z,"10km SSW of Half Moon Bay, CA",earthquake,0.46,0.71,0.221,15,reviewed,nc,nc
