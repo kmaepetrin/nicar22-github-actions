@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-18T21:52:27.720Z,34.3411667,-116.8653333,1.79,1.83,ml,46,43,0.03207,0.16,ci,ci40363240,2022-10-18T21:55:57.867Z,"9km NNW of Big Bear City, CA",earthquake,0.2,0.38,0.14,26,automatic,ci,ci
 2022-10-18T21:41:15.537Z,35.94973373,-97.88648224,1.219982982,2.75,ml,69,30.25552368,0.08264450729,0.757782605,ok,ok2022ulmv,2022-10-18T21:48:09.032Z,"4 km SSE of Dover, Oklahoma",earthquake,1.304550655,1.215856153,,52,automatic,ok,ok
 2022-10-18T21:36:44.590Z,33.1756667,-116.0886667,10.56,0.95,ml,15,118,0.09305,0.21,ci,ci40363224,2022-10-18T21:40:17.779Z,"5km NE of Ocotillo Wells, CA",earthquake,0.54,1.03,0.152,9,automatic,ci,ci
 2022-10-18T21:35:04.500Z,35.78,-117.598,6.01,0.99,ml,10,150,0.03567,0.1,ci,ci40363216,2022-10-18T21:38:33.772Z,"18km W of Searles Valley, CA",earthquake,0.32,0.55,0.18,10,automatic,ci,ci
@@ -204,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-17T22:23:19.402Z,18.2064,146.7122,54.16,4.9,mb,43,80,15.987,0.53,us,us6000iuf7,2022-10-17T22:45:33.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.88,7.198,0.073,60,reviewed,us,us
 2022-10-17T22:04:43.280Z,19.2014999389648,-155.432006835938,31.7099990844727,2.1500001,md,25,139,,0.180000007,hv,hv73183567,2022-10-17T22:07:59.960Z,"4 km E of Pāhala, Hawaii",earthquake,0.66,1.12,1.07000005,3,automatic,hv,hv
 2022-10-17T22:03:55.766Z,57.694,-154.2273,27.7,1.5,ml,,,,0.27,ak,ak022dbyyxyw,2022-10-17T22:06:01.226Z,"19 km NE of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-10-17T21:56:47.280Z,38.7931671,-122.7549973,0.56,2.56,md,54,45,0.008308,0.04,nc,nc73795046,2022-10-18T02:52:18.291Z,"2km N of The Geysers, CA",earthquake,0.12,0.21,0.08,31,automatic,nc,nc
