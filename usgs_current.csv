@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-21T07:37:54.670Z,35.5648346,-120.7976685,6.13,1.83,md,26,63,0.09218,0.08,nc,nc73797221,2022-10-21T07:47:11.489Z,"8km WNW of Templeton, CA",earthquake,0.23,0.99,0.13,17,automatic,nc,nc
+2022-10-21T07:39:54.029Z,-21.5495,-176.0501,207.251,4.6,mb,20,137,0.875,0.46,us,us6000ivgd,2022-10-21T08:00:40.040Z,"97 km WSW of Haveluloto, Tonga",earthquake,14.17,8.985,0.151,13,reviewed,us,us
+2022-10-21T07:37:54.670Z,35.5648346,-120.7976685,6.13,1.83,md,26,63,0.09218,0.08,nc,nc73797221,2022-10-21T07:55:13.559Z,"8km WNW of Templeton, CA",earthquake,0.23,0.99,0.13,17,automatic,nc,nc
 2022-10-21T07:33:34.934Z,36.13794327,-97.54936981,3.784816504,1.55,ml,25,56.41972351,0.1013383716,0.4587378646,ok,ok2022upxj,2022-10-21T07:37:38.852Z,"7 km ESE of Marshall, Oklahoma",earthquake,2.901040967,2.695351735,,19,automatic,ok,ok
 2022-10-21T07:32:46.030Z,19.4166660308838,-155.860000610352,10.5,1.80999994,md,19,180,,0.150000006,hv,hv73189002,2022-10-21T07:35:54.710Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.5,1.84000003,4,automatic,hv,hv
+2022-10-21T07:25:07.580Z,18.0221666666667,-67.0975,49.18,2.98,md,9,142,0.01945,0.09,pr,pr71378773,2022-10-21T07:59:26.860Z,"2 km SW of Palmarejo, Puerto Rico",earthquake,0.66,0.62,0.0343793462893289,2,reviewed,pr,pr
 2022-10-21T07:11:30.780Z,33.9221667,-118.5971667,13.12,1.83,ml,31,133,0.1391,0.27,ci,ci40364120,2022-10-21T07:26:41.626Z,"13km SSE of Las Flores, CA",earthquake,0.62,1.07,0.141,28,automatic,ci,ci
 2022-10-21T07:10:27.060Z,17.98,-67.064,13.7,2.35,md,8,184,0.02156,0.08,pr,pr71378768,2022-10-21T07:27:44.320Z,"1 km WNW of La Parguera, Puerto Rico",earthquake,0.58,0.26,0.0850075247730544,5,reviewed,pr,pr
 2022-10-21T07:10:26.210Z,38.8294983,-122.855835,2.15,0.36,md,14,79,0.002112,0.02,nc,nc73797216,2022-10-21T07:34:15.409Z,"10km NW of The Geysers, CA",earthquake,0.29,0.5,0.01,3,automatic,nc,nc
@@ -304,5 +306,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T08:06:01.998Z,60.4721,-148.3521,1,1.9,ml,,,,0.38,ak,ak022dgp9fzb,2022-10-20T08:07:47.209Z,"38 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-20T08:04:21.480Z,38.8206673,-122.8151703,1.98,1.41,md,27,49,0.004824,0.02,nc,nc73796776,2022-10-20T12:10:13.161Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.16,5,automatic,nc,nc
 2022-10-20T08:03:12.980Z,38.8256683,-122.802002,2.5,0.97,md,22,56,0.006701,0.01,nc,nc73796771,2022-10-20T08:04:46.183Z,"7km NW of The Geysers, CA",earthquake,0.23,0.47,0.09,4,automatic,nc,nc
-2022-10-20T08:00:55.580Z,19.2253341674805,-155.395660400391,32.7999992370605,2,ml,46,147,,0.119999997,hv,hv73187252,2022-10-20T08:06:25.840Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.540000021,4.45,4,automatic,hv,hv
-2022-10-20T07:55:16.770Z,40.3495,-123.5185,33.05,4.32,mw,52,35,0.02882,0.14,nc,nc73796766,2022-10-21T05:53:07.052Z,"36km NE of Redway, CA",earthquake,0.28,0.48,,4,reviewed,nc,nc
