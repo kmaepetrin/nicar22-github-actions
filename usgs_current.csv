@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-27T12:01:01.630Z,35.655,-117.4898333,0.79,2.36,ml,25,87,0.1651,0.17,ci,ci40366648,2022-10-27T12:11:56.200Z,"15km SSW of Searles Valley, CA",earthquake,0.32,0.89,0.124,25,automatic,ci,ci
 2022-10-27T11:37:01.332Z,62.2455,-150.0685,9.6,1.8,ml,,,,0.64,ak,ak022dsbzted,2022-10-27T11:39:10.790Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-27T11:27:02.530Z,37.3030014,-121.6741638,6.01,1.44,md,23,47,0.04395,0.05,nc,nc73799726,2022-10-27T11:50:10.723Z,"15km E of Seven Trees, CA",earthquake,0.18,0.41,0.19,15,automatic,nc,nc
 2022-10-27T11:26:37.398Z,62.6387,-151.3418,6,1.9,ml,,,,0.77,ak,ak022dsbxjaz,2022-10-27T11:29:14.322Z,"33 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -171,9 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T12:20:56.600Z,35.829,-120.4925,10.19,0.6,md,24,68,0.0391,0.07,nc,nc73799421,2022-10-26T18:25:13.975Z,"10km SW of Parkfield, CA",earthquake,0.45,0.73,0.22,12,reviewed,nc,nc
 2022-10-26T12:20:44.468Z,36.7026,-116.3029,11.6,-0.3,ml,6,145.82,0.03,0.0915,nn,nn00850122,2022-10-27T02:44:03.395Z,"46 km ESE of Beatty, Nevada",earthquake,,2.7,0.19,3,reviewed,nn,nn
 2022-10-26T12:18:25.638Z,36.6768,-116.2761,8,-0.3,ml,5,239.22,0.062,0.0876,nn,nn00850121,2022-10-27T02:44:00.629Z,"50 km ESE of Beatty, Nevada",earthquake,,4.3,0.07,3,reviewed,nn,nn
-2022-10-26T12:10:46.440Z,19.1356666666667,-155.497,31.68,1.56,md,9,273,,0.09,hv,hv73196227,2022-10-26T17:50:53.620Z,"7 km SSW of Pāhala, Hawaii",earthquake,1.67,2.02,0.0899422515596904,6,reviewed,hv,hv
-2022-10-26T12:08:59.060Z,38.8131676,-122.815834,2.94,0.84,md,8,91,0.01116,0.01,nc,nc73799416,2022-10-26T13:07:12.479Z,"6km NW of The Geysers, CA",earthquake,0.6,1.06,,1,automatic,nc,nc
-2022-10-26T12:06:21.584Z,37.1297,-116.7227,3.2,0.7,ml,11,154.65,0.015,0.1039,nn,nn00850120,2022-10-27T02:43:57.601Z,"24 km N of Beatty, Nevada",earthquake,,1.8,1.2,6,reviewed,nn,nn
-2022-10-26T12:03:06.486Z,60.1108,-152.8348,100.3,1.9,ml,,,,0.34,ak,ak022dqoumk8,2022-10-26T12:06:18.432Z,"64 km WNW of Happy Valley, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2022-10-26T12:01:37.680Z,17.9833333333333,-66.8426666666667,17.14,2.15,md,8,150,0.03579,0.09,pr,pr71379838,2022-10-26T12:19:42.060Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.5,0.42,0.221932901125803,7,reviewed,pr,pr
-2022-10-26T12:01:32.190Z,33.6453333,-116.7255,13.78,0.39,ml,21,57,0.04911,0.09,ci,ci40366160,2022-10-26T15:53:10.845Z,"10km S of Idyllwild, CA",earthquake,0.2,0.38,0.129,8,reviewed,ci,ci
