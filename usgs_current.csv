@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-28T06:57:22.558Z,57.839,-136.8306,10.2,2.5,ml,,,,1.11,ak,ak022dtwobtr,2022-10-28T06:59:51.377Z,"38 km WSW of Pelican, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-28T06:47:41.734Z,61.6335,-147.9972,36.8,1.2,ml,,,,0.52,ak,ak022dtwm859,2022-10-28T06:49:15.101Z,"26 km SW of Glacier View, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-10-28T06:47:27.351Z,62.2469,-151.3979,90.9,1.7,ml,,,,0.58,ak,ak022dtwm71b,2022-10-28T06:49:24.228Z,"28 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-28T06:36:02.453Z,61.1289,-147.8657,10.3,1.1,ml,,,,0.91,ak,ak022dtwjs8l,2022-10-28T06:41:26.177Z,"59 km NE of Whittier, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-10-28T06:28:23.400Z,38.838501,-122.8089981,1.91,0.9,md,25,51,0.01457,0.03,nc,nc73800156,2022-10-28T06:40:09.714Z,"8km WNW of Cobb, CA",earthquake,0.19,0.42,0.25,4,automatic,nc,nc
 2022-10-28T06:25:46.155Z,59.4,-153.1612,104.3,2,ml,,,,1.03,ak,ak022dtwhiqf,2022-10-28T06:41:26.898Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-28T06:25:03.280Z,38.8390007,-122.8095016,2.05,1.15,md,24,50,0.01497,0.02,nc,nc73800151,2022-10-28T06:35:10.684Z,"8km WNW of Cobb, CA",earthquake,0.21,0.41,0.15,5,automatic,nc,nc
+2022-10-28T06:25:03.280Z,38.8390007,-122.8095016,2.05,1.15,md,24,50,0.01497,0.02,nc,nc73800151,2022-10-28T07:01:12.840Z,"8km WNW of Cobb, CA",earthquake,0.21,0.41,0.15,5,automatic,nc,nc
 2022-10-28T06:22:40.800Z,19.4383335113525,-155.379669189453,4.25,2.01,ml,37,52,,0.25,hv,hv73197987,2022-10-28T06:28:10.640Z,"15 km W of Volcano, Hawaii",earthquake,0.44,2.30999994,0.03,3,automatic,hv,hv
 2022-10-28T06:22:27.160Z,19.1903324127197,-155.370834350586,2.98000001907349,2.18,ml,9,255,,0.100000001,hv,hv73197982,2022-10-28T06:27:59.120Z,"11 km E of Pāhala, Hawaii",earthquake,2.76,13.4300003,0.48,5,automatic,hv,hv
 2022-10-28T06:16:40.960Z,37.6116676,-118.8584976,2.6,0.82,md,10,138,0.008123,0.02,nc,nc73800146,2022-10-28T06:51:13.783Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.44,0.97,0.2,10,automatic,nc,nc
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T07:25:18.758Z,37.0168,-116.1246,2,0.8,ml,23,74.95,0.046,0.1199,nn,nn00850135,2022-10-27T18:07:51.599Z,"Nevada",earthquake,,3.8,0.22,15,reviewed,nn,nn
 2022-10-27T07:19:00.830Z,19.2406673431396,-155.424163818359,33.7000007629395,2.29,ml,12,246,,0.0900000036,hv,hv73196997,2022-10-27T07:24:31.610Z,"7 km NE of Pāhala, Hawaii",earthquake,1.05,0.920000017,0.2,3,automatic,hv,hv
 2022-10-27T07:17:20.200Z,19.2094993591309,-155.495498657227,32.6199989318848,2.05999994,md,12,224,,0.200000003,hv,hv73196992,2022-10-27T07:20:27.020Z,"1 km WNW of Pāhala, Hawaii",earthquake,1.03,1.80999994,1.02999997,3,automatic,hv,hv
-2022-10-27T06:57:40.330Z,46.1945,-122.18883333333333,1.49,0.42,ml,12,129,0.005465,0.15,uw,uw61890231,2022-10-27T23:21:22.130Z,"Washington",earthquake,0.6,0.21,0.3107867234820787,5,reviewed,uw,uw
