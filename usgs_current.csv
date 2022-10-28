@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-28T11:33:12.330Z,36.9481659,-121.3223343,8.03,1.11,md,9,98,0.06609,0.06,nc,nc73800256,2022-10-28T11:34:45.615Z,"13km NNE of Hollister, CA",earthquake,0.51,1.4,0.11,6,automatic,nc,nc
-2022-10-28T11:27:45.330Z,34.0583333,-117.2763333,14.88,1.23,ml,45,60,0.09462,0.2,ci,ci40126095,2022-10-28T11:31:14.841Z,"2km NW of Loma Linda, CA",earthquake,0.25,0.56,0.145,31,automatic,ci,ci
+2022-10-28T11:27:45.330Z,34.0583333,-117.2763333,14.88,1.23,ml,45,60,0.09462,0.2,ci,ci40126095,2022-10-28T11:38:29.560Z,"2km NW of Loma Linda, CA",earthquake,0.25,0.56,0.145,31,automatic,ci,ci
 2022-10-28T11:15:14.515Z,64.886,-148.7059,1.1,1.7,ml,,,,0.73,ak,ak022dtzeh5n,2022-10-28T11:17:53.891Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T11:27:11.506Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
+2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T11:39:12.568Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
 2022-10-28T10:56:47.353Z,-14.5375,-76.3637,20.445,4.5,mb,39,157,2.577,0.51,us,us7000ikwq,2022-10-28T11:22:41.040Z,"74 km S of Paracas, Peru",earthquake,9.6,6.436,0.118,21,reviewed,us,us
 2022-10-28T10:51:44.391Z,39.7952,-120.0083,10.4,1.3,ml,8,104.41,0.191,0.0774,nn,nn00850195,2022-10-28T10:54:30.735Z,"Northern California",earthquake,,2.2,0.33,6,automatic,nn,nn
 2022-10-28T10:42:19.910Z,36.9449997,-121.3365021,4.54,1.03,md,6,150,0.07433,0.03,nc,nc73800241,2022-10-28T10:58:15.329Z,"12km NNE of Hollister, CA",earthquake,1.16,3.28,0.07,7,automatic,nc,nc
-2022-10-28T10:40:37.010Z,36.9423332,-121.3304977,7.91,2.96,md,61,54,0.07423,0.12,nc,nc73800236,2022-10-28T11:34:10.544Z,"12km NNE of Hollister, CA",earthquake,0.2,0.44,0.13,90,automatic,nc,nc
+2022-10-28T10:40:37.010Z,36.9423332,-121.3304977,7.91,2.96,md,61,54,0.07423,0.12,nc,nc73800236,2022-10-28T11:39:26.725Z,"12km NNE of Hollister, CA",earthquake,0.2,0.44,0.13,90,automatic,nc,nc
 2022-10-28T10:28:30.660Z,19.496000289917,-155.591339111328,-1.03999996185303,1.9,ml,20,59,,0.370000005,hv,hv73198177,2022-10-28T10:34:00.760Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.479999989,3.71,6,automatic,hv,hv
 2022-10-28T10:28:23.458Z,59.8613,-152.8172,111.3,1.6,ml,,,,0.12,ak,ak022dtyvujt,2022-10-28T10:29:44.523Z,"56 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-10-28T10:17:49.180Z,38.8336678,-122.8170013,1.34,0.8,md,16,69,0.0116,0.04,nc,nc73800231,2022-10-28T11:25:11.492Z,"8km NW of The Geysers, CA",earthquake,0.23,0.6,0.26,3,automatic,nc,nc
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T12:16:02.539Z,31.67301549,-104.4180364,7.802587891,1.9,ml,14,59,0.07067015548,0.2,tx,tx2022vbfs,2022-10-28T00:37:29.290Z,"55 km S of Whites City, New Mexico",earthquake,1.211718867,1.409968057,0.1,7,reviewed,tx,tx
 2022-10-27T12:04:36.920Z,58.1668333333333,-155.348666666667,-1.67,0.21,ml,7,185,,0.12,av,av91703921,2022-10-28T00:14:29.080Z,"85 km NW of Karluk, Alaska",earthquake,0.35,3.38,0.238210548071662,7,reviewed,av,av
 2022-10-27T12:01:01.620Z,35.6548333,-117.4845,2.06,2.62,ml,31,88,0.1446,0.13,ci,ci40366648,2022-10-28T04:45:20.958Z,"14km SSW of Searles Valley, CA",earthquake,0.19,0.38,0.182,78,reviewed,ci,ci
-2022-10-27T11:42:43.750Z,46.19533333333333,-122.18183333333333,0.38,0.5700000000000001,ml,7,161,0.005494,0.08,uw,uw61890261,2022-10-27T15:49:30.160Z,"Washington",earthquake,0.78,1.09,0.4344048207737988,5,reviewed,uw,uw
-2022-10-27T11:37:01.332Z,62.2455,-150.0685,9.6,1.8,ml,,,,0.64,ak,ak022dsbzted,2022-10-27T11:39:10.790Z,"8 km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
