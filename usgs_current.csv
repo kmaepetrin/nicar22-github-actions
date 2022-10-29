@@ -205,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T12:21:40.932Z,-24.2334,-66.8968,210.026,4.3,mwr,33,70,1.735,0.65,us,us7000ikwy,2022-10-28T12:40:42.040Z,"58 km W of San Antonio de los Cobres, Argentina",earthquake,8.29,9.727,,,reviewed,us,guc
 2022-10-28T12:20:32.250Z,37.6121674,-118.8588333,2.55,1.14,md,12,137,0.007558,0.02,nc,nc73800266,2022-10-28T13:49:11.545Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.38,0.86,0.19,12,automatic,nc,nc
 2022-10-28T12:20:14.190Z,33.6146667,-116.6908333,12.17,0.27,ml,12,71,0.05593,0.05,ci,ci40126143,2022-10-28T19:10:32.457Z,"7km NNW of Anza, CA",earthquake,0.18,0.37,0.223,8,reviewed,ci,ci
-2022-10-28T12:10:23.789Z,38.1799,-117.9043,3.7,1,ml,8,170.78,0.06,0.2484,nn,nn00850196,2022-10-28T12:13:49.647Z,"29 km SE of Mina, Nevada",earthquake,,1.2,0.21,4,automatic,nn,nn
+2022-10-28T12:10:23.789Z,38.1799,-117.9043,3.7,1,ml,8,170.78,0.06,0.2484,nn,nn00850196,2022-10-28T12:13:49.647Z,"Nevada",earthquake,,1.2,0.21,4,automatic,nn,nn
 2022-10-28T12:08:12.980Z,33.4855,-116.4765,15.45,0.8,ml,20,76,0.05684,0.13,ci,ci37461564,2022-10-28T19:07:32.649Z,"20km ESE of Anza, CA",earthquake,0.29,0.7,0.14,15,reviewed,ci,ci
 2022-10-28T12:08:07.760Z,33.4841667,-116.4735,15.15,0.9,ml,27,66,0.05591,0.15,ci,ci40126135,2022-10-28T19:02:23.478Z,"20km ESE of Anza, CA",earthquake,0.26,0.51,0.113,14,reviewed,ci,ci
 2022-10-28T12:07:52.140Z,33.4863333,-116.4721667,14.97,0.89,ml,22,66,0.05361,0.18,ci,ci40126127,2022-10-28T13:44:04.116Z,"20km ESE of Anza, CA",earthquake,0.33,0.63,0.136,22,reviewed,ci,ci
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T11:15:14.515Z,64.886,-148.7059,1.1,1.7,ml,,,,0.73,ak,ak022dtzeh5n,2022-10-28T11:17:53.891Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T12:59:14.044Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
 2022-10-28T10:56:47.353Z,-14.5375,-76.3637,20.445,4.5,mb,39,157,2.577,0.51,us,us7000ikwq,2022-10-28T11:22:41.040Z,"74 km S of Paracas, Peru",earthquake,9.6,6.436,0.118,21,reviewed,us,us
-2022-10-28T10:51:44.391Z,39.7952,-120.0083,10.4,1.3,ml,8,104.41,0.191,0.0774,nn,nn00850195,2022-10-28T10:54:30.735Z,"11 km E of Chilcoot-Vinton, California",earthquake,,2.2,0.33,6,automatic,nn,nn
-2022-10-28T10:42:19.910Z,36.9449997,-121.3365021,4.54,1.03,md,6,150,0.07433,0.03,nc,nc73800241,2022-10-28T12:05:12.732Z,"12km NNE of Hollister, CA",earthquake,1.16,3.28,0.07,7,automatic,nc,nc
