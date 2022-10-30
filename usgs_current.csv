@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T12:16:35.270Z,38.8356667,-122.7911682,1.94,0.85,md,10,69,0.002813,0.01,nc,nc73800686,2022-10-29T12:49:12.590Z,"6km WNW of Cobb, CA",earthquake,0.5,1.31,,1,automatic,nc,nc
 2022-10-29T12:15:51.350Z,17.9446666666667,-66.9083333333333,14.24,1.91,md,5,239,0.02739,0.03,pr,pr71380173,2022-10-29T12:40:10.190Z,"2 km S of Guánica, Puerto Rico",earthquake,0.62,0.89,0.05415574108162,4,reviewed,pr,pr
 2022-10-29T12:01:21.080Z,17.9851666666667,-66.8465,15.6,2.38,md,6,240,0.03276,0.1,pr,pr71380178,2022-10-29T13:19:49.400Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.59,0.64,0.146120941231,6,reviewed,pr,pr
-2022-10-29T11:40:18.560Z,-19.1005,-66.9198,265.688,5.1,mww,82,33,2.22,1.24,us,us7000il5q,2022-10-29T17:48:32.746Z,"27 km SW of Challapata, Bolivia",earthquake,7.09,6.163,0.066,22,reviewed,us,us
