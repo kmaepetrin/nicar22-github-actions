@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T08:59:23.758Z,36.6454,-116.136,0.4,0.1,ml,8,252.12,0.044,0.3158,nn,nn00850237,2022-10-30T09:01:47.988Z,"California-Nevada border region",earthquake,,0.6,0.25,3,automatic,nn,nn
 2022-10-30T08:49:08.614Z,37.5012,20.1285,10,4.2,mb,58,165,1.468,0.64,us,us7000ilb0,2022-10-30T09:47:35.040Z,"66 km WSW of Katastárion, Greece",earthquake,6.18,1.947,0.137,17,reviewed,us,us
 2022-10-30T08:26:33.199Z,29.23736572,-97.46863511,3.301391602,3.6,ml,32,79,0.05306148933,0.3,tx,tx2022vgkq,2022-10-30T10:02:46.114Z,"16 km ESE of Smiley, Texas",earthquake,2.270538719,1.59521421,0.1,7,reviewed,tx,tx
-2022-10-30T08:16:03.090Z,34.0470009,-117.2333298,14.95,3.05,ml,120,15,0.0713,0.19,ci,ci40127223,2022-10-30T13:50:41.701Z,"3km E of Loma Linda, CA",earthquake,0.21,0.35,0.239,19,reviewed,ci,ci
+2022-10-30T08:16:03.090Z,34.0470009,-117.2333298,14.95,3.05,ml,120,15,0.0713,0.19,ci,ci40127223,2022-10-30T13:54:32.734Z,"3km E of Loma Linda, CA",earthquake,0.21,0.35,0.239,19,reviewed,ci,ci
 2022-10-30T07:37:35.326Z,34.51392365,-97.23960876,1.846771359,1.94,ml,22,98.70868683,0.1086483523,0.6842742707,ok,ok2022vgja,2022-10-30T07:41:00.294Z,"Oklahoma",earthquake,2.621009108,1.7402049,,18,automatic,ok,ok
 2022-10-30T07:34:13.630Z,35.6155,-117.4316667,11.02,0.81,ml,11,123,0.1056,0.19,ci,ci40127215,2022-10-30T07:37:39.547Z,"17km S of Searles Valley, CA",earthquake,0.52,1.07,0.077,7,automatic,ci,ci
 2022-10-30T07:33:50.970Z,33.2061667,-83.1976667,0.04,2.32,md,13,109,0.3042,0.36,se,se60164543,2022-10-30T13:46:28.791Z,"14 km NNE of Milledgeville, Georgia",earthquake,0.7,1.94,0.046,11,reviewed,se,se
@@ -53,9 +53,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T04:43:14.400Z,37.6123352,-118.8581696,2.17,0.79,md,10,136,0.007654,0.01,nc,nc73801081,2022-10-30T05:07:12.355Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.39,1.26,0.11,9,automatic,nc,nc
 2022-10-30T04:40:43.750Z,37.6095009,-118.8601685,2.29,1.38,md,14,143,0.009729,0.02,nc,nc73801076,2022-10-30T07:27:11.223Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.39,0.68,0.09,14,automatic,nc,nc
 2022-10-30T04:30:47.010Z,37.8483315,-121.7770004,15.92,2.11,md,38,151,0.1117,0.08,nc,nc73801071,2022-10-30T07:00:12.175Z,"10km SSW of Brentwood, CA",earthquake,0.38,0.51,0.13,31,automatic,nc,nc
-2022-10-30T04:26:44.390Z,33.597,-116.8015,8.17,0.58,ml,18,80,0.03139,0.15,ci,ci40127151,2022-10-30T13:51:58.867Z,"13km WNW of Anza, CA",earthquake,0.32,0.52,0.163,13,automatic,ci,ci
+2022-10-30T04:26:44.390Z,33.597,-116.8015,8.17,0.58,ml,18,80,0.03139,0.15,ci,ci40127151,2022-10-30T13:52:17.718Z,"13km WNW of Anza, CA",earthquake,0.32,0.52,0.163,13,reviewed,ci,ci
 2022-10-30T04:18:23.350Z,37.5535011,-119.0043335,2.96,1.82,md,19,122,0.05935,0.03,nc,nc73801066,2022-10-30T06:45:12.955Z,"10km SSW of Mammoth Lakes, CA",earthquake,0.43,1.08,0.19,19,automatic,nc,nc
-2022-10-30T04:16:27.750Z,34.2336667,-117.7606667,2.52,1.53,ml,43,28,0.08477,0.21,ci,ci40127143,2022-10-30T04:27:02.980Z,"14km NE of Glendora, CA",earthquake,0.24,0.48,0.162,27,automatic,ci,ci
+2022-10-30T04:16:27.750Z,34.2336667,-117.7606667,2.52,1.53,ml,43,28,0.08477,0.21,ci,ci40127143,2022-10-30T13:58:27.224Z,"14km NE of Glendora, CA",earthquake,0.24,0.48,0.162,27,reviewed,ci,ci
 2022-10-30T03:54:59.502Z,36.10606384,-97.8684082,2.725860357,2.01,ml,53,30.98757935,0.1156839952,0.5290262349,ok,ok2022vgbr,2022-10-30T03:59:54.266Z,"Oklahoma",earthquake,1.596956534,1.510940748,,41,automatic,ok,ok
 2022-10-30T03:41:52.047Z,29.5761,81.0657,16.439,4.5,mb,17,184,4.103,0.6,us,us7000ila6,2022-10-30T04:00:48.040Z,"37 km NNE of Dipayal, Nepal",earthquake,9.09,5.144,0.191,8,reviewed,us,us
 2022-10-30T03:40:56.210Z,37.6263333,-121.8225,2.55,1,md,13,71,0.01138,0.15,nc,nc73801056,2022-10-30T04:25:12.129Z,"6km SE of Pleasanton, CA",earthquake,0.32,0.62,0.282,17,reviewed,nc,nc
@@ -65,7 +65,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T03:26:41.080Z,36.5929985,-121.0988312,6.22,1.32,md,7,158,0.04985,0.07,nc,nc73801041,2022-10-30T05:42:10.674Z,"8km NNE of Pinnacles, CA",earthquake,0.78,0.93,0.08,5,automatic,nc,nc
 2022-10-30T03:24:48.809Z,63.368,-149.8452,91.8,2.3,ml,,,,0.65,ak,ak022dx5rpe8,2022-10-30T03:27:57.454Z,"44 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-30T03:24:12.286Z,61.5924,-149.0584,32.9,1.9,ml,,,,0.56,ak,ak022dx5rmkk,2022-10-30T03:27:30.657Z,"3 km ESE of Palmer, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-30T03:16:52.960Z,32.8625,-116.8603333,27.46,0.96,ml,8,125,0.03083,0.31,ci,ci40127127,2022-10-30T03:20:24.963Z,"6km E of Lakeside, CA",earthquake,1.66,2.38,0.216,11,automatic,ci,ci
 2022-10-30T03:09:20.820Z,37.6308327,-121.8268356,5.73,1.87,md,22,104,0.01049,0.19,nc,nc73801036,2022-10-30T05:07:13.354Z,"6km SE of Pleasanton, CA",earthquake,0.38,0.61,0.12,16,automatic,nc,nc
 2022-10-30T03:07:01.080Z,37.6281662,-121.8215027,2.44,1.44,md,10,96,0.01269,0.17,nc,nc73801026,2022-10-30T04:41:13.209Z,"6km SE of Pleasanton, CA",earthquake,0.57,0.9,0.27,10,automatic,nc,nc
 2022-10-30T03:05:46.960Z,38.591835,-122.8006668,6.4,1.62,md,22,46,0.1235,0.06,nc,nc73801021,2022-10-30T04:14:11.207Z,"5km NNE of Windsor, CA",earthquake,0.25,0.7,0.09,10,automatic,nc,nc
@@ -160,5 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T14:22:30.531Z,60.7123,-150.3649,29.3,1.9,ml,,,,0.51,ak,ak022dvornpp,2022-10-29T14:23:53.047Z,"29 km NE of Sterling, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-29T14:13:43.824Z,63.2908,-150.5904,134.8,2.3,ml,,,,0.27,ak,ak022dvopram,2022-10-29T14:16:21.002Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-10-29T14:02:25.580Z,36.0706667,-117.6388333,1.89,1.11,ml,10,162,0.1239,0.09,ci,ci40126839,2022-10-29T14:05:59.343Z,"28km E of Coso Junction, CA",earthquake,0.3,0.6,0.193,12,automatic,ci,ci
-2022-10-29T13:58:43.640Z,-28.681,-71.4062,30.862,4.7,mwr,36,138,0.558,1.12,us,us7000il63,2022-10-29T15:11:23.040Z,"64 km W of Vallenar, Chile",earthquake,5.32,1.598,,,reviewed,us,guc
-2022-10-29T13:53:16.860Z,18.002,-66.8115,16.17,2.41,md,7,177,0.06983,0.07,pr,pr71380183,2022-10-29T14:11:41.390Z,"1 km NE of Indios, Puerto Rico",earthquake,0.55,0.68,0.0258603747502297,4,reviewed,pr,pr
