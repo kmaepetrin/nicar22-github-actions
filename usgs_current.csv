@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-01T08:29:35.692Z,61.5915,-150.5619,35,3.2,ml,,,,0.39,ak,ak022e0julyj,2022-11-01T09:20:02.882Z,"5 km NNW of Susitna, Alaska",earthquake,,17.5,,,automatic,ak,ak
 2022-11-01T08:27:30.480Z,33.1591667,-116.5851667,8.36,0.85,ml,14,95,0.06559,0.18,ci,ci40128007,2022-11-01T08:31:06.183Z,"9km N of Julian, CA",earthquake,0.44,0.8,0.268,7,automatic,ci,ci
 2022-11-01T08:23:28.130Z,18.0781666666667,-67.1355,17.28,2.03,md,8,206,0.06327,0.24,pr,pr71380418,2022-11-01T08:58:46.450Z,"1 km SE of Cabo Rojo, Puerto Rico",earthquake,0.98,1.25,0.0180748944010971,5,reviewed,pr,pr
-2022-11-01T08:17:47.444Z,63.5754,-149.7591,35.9,2,ml,,,,1.07,ak,ak022e0js2ah,2022-11-01T08:20:58.779Z,"Central Alaska",earthquake,,6.8,,,automatic,ak,ak
+2022-11-01T08:17:47.444Z,63.5754,-149.7591,35.9,2,ml,,,,1.07,ak,ak022e0js2ah,2022-11-01T08:20:58.779Z,"45 km WNW of Cantwell, Alaska",earthquake,,6.8,,,automatic,ak,ak
 2022-11-01T08:12:25.770Z,33.217,-116.7436667,11.34,0.7,ml,23,45,0.02277,0.13,ci,ci40127999,2022-11-01T08:15:59.114Z,"3km SSE of Lake Henshaw, CA",earthquake,0.25,0.58,0.206,10,automatic,ci,ci
 2022-11-01T08:11:43.220Z,17.9661666666667,-66.8528333333333,19.41,2.08,md,11,201,0.02666,0.14,pr,pr71380408,2022-11-01T08:23:18.070Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.71,0.42,0.104456559033737,8,reviewed,pr,pr
 2022-11-01T08:04:46.080Z,38.6001663,-122.8003311,0.33,1.79,md,30,45,0.1154,0.21,nc,nc73801996,2022-11-01T08:37:12.118Z,"6km NNE of Windsor, CA",earthquake,0.42,9.44,0.1,15,automatic,nc,nc
@@ -196,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T12:30:46.675Z,61.7928,-149.2956,29.8,1.7,ml,,,,0.78,ak,ak022dyyp8gr,2022-10-31T12:32:45.257Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-31T12:24:40.310Z,44.7908333,-110.789,7.02,0.48,md,10,210,0.04386,0.07,uu,uu60522317,2022-10-31T13:13:32.660Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.6,1.09,0.194,6,reviewed,uu,uu
 2022-10-31T12:23:00.576Z,38.1696,-117.8387,4.5,0.8,ml,10,175.43,0.1,0.079,nn,nn00850283,2022-10-31T12:26:44.095Z,"34 km SE of Mina, Nevada",earthquake,,2.1,0.47,4,automatic,nn,nn
-2022-10-31T12:10:59.539Z,34.54933333,-97.34166667,3.02,1.61,ml,66,86,0.02069593875,0.35,ok,ok2022vino,2022-10-31T12:20:57.811Z,"Oklahoma",earthquake,,0.7,0.24,21,reviewed,ok,ok
+2022-10-31T12:10:59.539Z,34.54933333,-97.34166667,3.02,1.61,ml,66,86,0.02069593875,0.35,ok,ok2022vino,2022-10-31T12:20:57.811Z,"3 km SSE of Katie, Oklahoma",earthquake,,0.7,0.24,21,reviewed,ok,ok
 2022-10-31T12:07:32.960Z,17.9653333333333,-66.8505,11.5,2.46,md,6,213,0.02903,0.11,pr,pr71380308,2022-10-31T12:32:10.270Z,"Puerto Rico region",earthquake,0.9,0.67,0.0449235812101698,4,reviewed,pr,pr
 2022-10-31T12:05:28.320Z,33.9651667,-116.594,11.64,0.61,ml,20,89,0.03204,0.08,ci,ci40127599,2022-10-31T20:02:23.609Z,"8km NNW of Garnet, CA",earthquake,0.17,0.47,0.122,12,reviewed,ci,ci
 2022-10-31T12:05:00.650Z,44.7728333,-110.7918333,3.43,0.15,md,6,194,0.04456,0.14,uu,uu60032044,2022-10-31T17:46:08.440Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,1.91,0.206,5,reviewed,uu,uu
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T11:45:28.542Z,57.1771,-153.7338,34,2.5,ml,,,,0.52,ak,ak022dyy6z7a,2022-10-31T11:51:47.040Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-31T11:16:43.370Z,33.5905,-116.8116667,7.17,1.38,ml,58,24,0.03983,0.16,ci,ci40127583,2022-10-31T19:54:21.970Z,"13km WNW of Anza, CA",earthquake,0.15,0.4,0.168,28,reviewed,ci,ci
 2022-10-31T11:05:05.130Z,33.2568333,-116.811,15.25,0.76,ml,32,35,0.04847,0.14,ci,ci40127575,2022-10-31T19:49:17.390Z,"5km WNW of Lake Henshaw, CA",earthquake,0.19,0.37,0.153,17,reviewed,ci,ci
-2022-10-31T10:58:36.810Z,19.404,-155.263833333333,0.7,2.05,ml,26,57,,0.07,hv,hv73201932,2022-11-01T06:30:56.417Z,"5 km SW of Volcano, Hawaii",earthquake,0.12,0.16,0.185292318725364,10,reviewed,hv,hv
