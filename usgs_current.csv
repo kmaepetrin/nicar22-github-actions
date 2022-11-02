@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-02T19:35:24.090Z,35.8648338,-120.4048309,4.3,1.41,md,19,149,0.01698,0.05,nc,nc73802486,2022-11-02T19:37:00.179Z,"4km SSE of Parkfield, CA",earthquake,0.44,0.56,0.35,11,automatic,nc,nc
+2022-11-02T19:35:24.090Z,35.8648338,-120.4048309,4.3,1.41,md,19,149,0.01698,0.05,nc,nc73802486,2022-11-02T19:55:09.974Z,"4km SSE of Parkfield, CA",earthquake,0.44,0.56,0.35,11,automatic,nc,nc
 2022-11-02T19:19:59.560Z,17.9601666666667,-66.9165,13.86,2.05,md,6,208,0.03842,0.06,pr,pr71380608,2022-11-02T19:32:32.330Z,"1 km SW of Guánica, Puerto Rico",earthquake,0.58,0.28,0.0663707346998511,4,reviewed,pr,pr
 2022-11-02T19:10:39.540Z,38.7985001,-122.7511673,2.38,1.2,md,11,97,0.007006,0.02,nc,nc73802471,2022-11-02T19:28:12.821Z,"2km N of The Geysers, CA",earthquake,0.34,0.94,1.19,3,automatic,nc,nc
 2022-11-02T19:08:59.580Z,33.4888333,-116.8095,6.27,0.86,ml,35,31,0.02469,0.17,ci,ci40128431,2022-11-02T19:48:50.761Z,"7km NE of Aguanga, CA",earthquake,0.17,0.51,0.103,14,reviewed,ci,ci
