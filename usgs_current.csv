@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-03T14:06:57.160Z,34.9361667,-119.443,1.66,1.74,ml,25,50,0.1899,0.25,ci,ci40128647,2022-11-03T14:10:35.396Z,"14km SSW of Maricopa, CA",earthquake,0.43,2.2,0.196,28,automatic,ci,ci
+2022-11-03T14:24:22.380Z,19.1918334960938,-155.390335083008,32.4099998474121,1.79999995,md,43,163,,0.119999997,hv,hv73206142,2022-11-03T14:27:32.920Z,"9 km E of Pāhala, Hawaii",earthquake,0.64,0.790000021,1.11000001,11,automatic,hv,hv
+2022-11-03T14:06:57.160Z,34.9361667,-119.443,1.66,1.74,ml,25,50,0.1899,0.25,ci,ci40128647,2022-11-03T14:17:47.060Z,"14km SSW of Maricopa, CA",earthquake,0.43,2.2,0.196,28,automatic,ci,ci
 2022-11-03T14:00:35.010Z,63.0956,-150.6433,107,1.8,ml,,,,0.16,ak,ak022e3yborx,2022-11-03T14:02:43.240Z,"67 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-03T13:42:08.749Z,62.4053,-151.5153,90,1.8,ml,,,,0.59,ak,ak022e3xz77u,2022-11-03T13:43:48.850Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-03T13:14:07.024Z,62.8581,-149.1314,67.6,2,ml,,,,0.32,ak,ak022e3xt71a,2022-11-03T13:16:00.299Z,"60 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-03T13:05:03.548Z,59.5478,-153.4523,111.7,1.7,ml,,,,0.26,ak,ak022e3xr9bm,2022-11-03T13:07:36.133Z,"45 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-03T12:49:30.476Z,7.7359,126.6784,10,4.6,mb,34,118,1.275,1.48,us,us7000im62,2022-11-03T13:37:55.040Z,"15 km ENE of Kinablangan, Philippines",earthquake,9.15,1.901,0.105,27,reviewed,us,us
 2022-11-03T12:38:55.659Z,59.4991,-152.7752,74.2,1.7,ml,,,,0.63,ak,ak022e3xd0d9,2022-11-03T12:40:57.968Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-03T12:21:31.540Z,19.2648334503174,-155.399337768555,33.6500015258789,2.21000004,md,45,137,,0.140000001,hv,hv73206037,2022-11-03T12:24:47.550Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.930000007,0.25999999,17,automatic,hv,hv
+2022-11-03T12:21:31.540Z,19.2648334503174,-155.399337768555,33.6500015258789,2.21000004,md,45,137,,0.140000001,hv,hv73206037,2022-11-03T12:24:47.550Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.930000007,0.25999999,17,automatic,hv,hv
 2022-11-03T12:17:01.900Z,33.6705,-116.6991667,17.72,0.99,ml,36,56,0.04245,0.16,ci,ci40128623,2022-11-03T13:38:47.790Z,"8km SSE of Idyllwild, CA",earthquake,0.2,0.36,0.123,14,reviewed,ci,ci
 2022-11-03T12:11:19.684Z,62.8104,-150.943,85.6,1.6,ml,,,,0.4,ak,ak022e3x759c,2022-11-03T12:13:18.917Z,"36 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-03T12:07:14.470Z,19.2518329620361,-155.401992797852,33,1.96000004,md,46,129,,0.140000001,hv,hv73206027,2022-11-03T12:10:25.240Z,"9 km NE of Pāhala, Hawaii",earthquake,0.59,0.75,1.10000002,16,automatic,hv,hv
@@ -181,8 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T14:49:14.840Z,38.838665,-122.8759995,2.32,1.21,md,18,102,0.005838,0.02,nc,nc73802426,2022-11-02T15:47:17.524Z,"12km WNW of The Geysers, CA",earthquake,0.29,0.48,0.07,4,automatic,nc,nc
 2022-11-02T14:49:00.050Z,38.8414993,-122.8776703,2.25,0.67,md,9,104,0.005577,0.02,nc,nc73802421,2022-11-02T15:45:10.511Z,"13km NW of The Geysers, CA",earthquake,0.41,0.38,0.25,2,automatic,nc,nc
 2022-11-02T14:42:49.800Z,39.504,-123.0128333,5.06,1.66,md,10,243,0.1447,0.16,nc,nc73802416,2022-11-02T18:30:12.452Z,"12km NNW of Lake Pillsbury, CA",earthquake,0.8,2.17,0.183,10,reviewed,nc,nc
-2022-11-02T14:31:40.250Z,19.200834274292,-155.715667724609,-0.170000001788139,1.82000005,md,36,126,,0.230000004,hv,hv73204822,2022-11-02T14:34:58.400Z,"15 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.52,0.569999993,,5,automatic,hv,hv
-2022-11-02T14:23:31.940Z,19.212833404541,-155.389495849609,36.0999984741211,2.04999995,md,40,158,,0.150000006,hv,hv73204802,2022-11-02T14:26:52.350Z,"9 km E of Pāhala, Hawaii",earthquake,0.75,0.660000026,1.62,10,automatic,hv,hv
-2022-11-02T14:19:45.644Z,57.7088,-156.1149,89.7,1.6,ml,,,,0.17,ak,ak022e2awfpg,2022-11-02T14:21:36.451Z,"79 km ENE of Ugashik, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-11-02T14:17:51.784Z,-60.7962,-25.7325,10,6.1,mww,61,54,8.713,0.8,us,us7000ilyk,2022-11-02T19:09:43.040Z,"South Sandwich Islands region",earthquake,9.72,1.832,0.052,36,reviewed,us,us
-2022-11-02T14:17:25.710Z,37.3073333,-121.6751667,7.89,1.01,md,22,43,0.04299,0.07,nc,nc73802411,2022-11-03T04:13:12.952Z,"15km E of Seven Trees, CA",earthquake,0.22,0.34,0.204,23,reviewed,nc,nc
