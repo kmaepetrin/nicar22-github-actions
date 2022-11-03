@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-03T19:34:12.790Z,31.1733341,-116.6821671,12.95,3.48,mlr,8,287,0.6926,0.21,ci,ci40128799,2022-11-03T19:39:08.499Z,"61km S of Maneadero, B.C., MX",earthquake,1.15,1.98,0.206,27,reviewed,ci,ci
+2022-11-03T19:31:22.920Z,36.1263333,-118.0525,4.04,1.46,ml,16,78,0.1603,0.16,ci,ci40128791,2022-11-03T19:34:58.333Z,"13km NW of Coso Junction, CA",earthquake,0.28,2.58,0.194,16,automatic,ci,ci
 2022-11-03T19:25:14.204Z,62.5402,-149.8172,54,1.5,ml,,,,0.69,ak,ak022e41g63g,2022-11-03T19:27:00.878Z,"17 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-03T19:11:09.270Z,31.5066662,-115.8101654,20.57,3.44,ml,10,179,0.1171,0.19,ci,ci40128775,2022-11-03T19:19:10.090Z,"75km ESE of Maneadero, B.C., MX",earthquake,0.77,0.99,0.194,24,reviewed,ci,ci
 2022-11-03T19:09:07.430Z,31.7520008,-115.8164978,8.46,3.07,ml,25,261,0.2758,0.13,ci,ci40128767,2022-11-03T19:20:15.285Z,"71km E of Maneadero, B.C., MX",earthquake,2.91,1.16,0.18,24,reviewed,ci,ci
@@ -31,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T14:35:59.720Z,19.1361675262451,-155.362335205078,30.6900005340576,2,md,36,192,,0.109999999,hv,hv73206162,2022-11-03T14:39:11.250Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.75,1,0.5,7,automatic,hv,hv
 2022-11-03T14:28:34.050Z,49.2065,-120.18866666666666,12.26,1.73,ml,9,148,0.3868,0.28,uw,uw61890971,2022-11-03T17:19:56.550Z,"36 km SE of Princeton, Canada",earthquake,1.23,4.91,0.1159154688787909,5,reviewed,uw,uw
 2022-11-03T14:24:22.380Z,19.1918334960938,-155.390335083008,32.4099998474121,1.79999995,md,43,163,,0.119999997,hv,hv73206142,2022-11-03T14:27:32.920Z,"9 km E of Pāhala, Hawaii",earthquake,0.64,0.790000021,1.11000001,11,automatic,hv,hv
-2022-11-03T14:15:36.203Z,32.37213135,-101.6540825,5.25777181,2.3,ml,26,46,0.0434983309,0.2,tx,tx2022voee,2022-11-03T16:17:41.284Z,"western Texas",earthquake,1.573056217,0.9961685011,0.1,15,reviewed,tx,tx
+2022-11-03T14:15:36.203Z,32.37213135,-101.6540825,5.25777181,2.3,ml,26,46,0.0434983309,0.2,tx,tx2022voee,2022-11-03T16:17:41.284Z,"18 km SSE of Ackerly, Texas",earthquake,1.573056217,0.9961685011,0.1,15,reviewed,tx,tx
 2022-11-03T14:06:57.120Z,34.9396667,-119.4335,12.75,1.76,ml,34,46,0.1941,0.2,ci,ci40128647,2022-11-03T15:45:24.550Z,"14km SSW of Maricopa, CA",earthquake,0.26,0.86,0.209,9,reviewed,ci,ci
 2022-11-03T14:00:35.010Z,63.0956,-150.6433,107,1.8,ml,,,,0.16,ak,ak022e3yborx,2022-11-03T14:02:43.240Z,"67 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-03T13:57:33.650Z,18.0151666666667,-66.8298333333333,15.86,2.19,md,9,138,0.05699,0.15,pr,pr71380673,2022-11-03T14:48:41.510Z,"2 km NNW of Indios, Puerto Rico",earthquake,0.59,0.71,0.139483782016493,5,reviewed,pr,pr
@@ -188,6 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T20:13:10.440Z,19.1725006103516,-155.503494262695,35.5499992370605,1.88,md,33,238,,0.100000001,hv,hv73205052,2022-11-02T20:16:26.310Z,"4 km SW of Pāhala, Hawaii",earthquake,0.66,1.13,1.91999996,4,automatic,hv,hv
 2022-11-02T20:04:47.170Z,38.8390007,-122.8361664,1.51,0.96,md,23,83,0.0006712,0.02,nc,nc73802496,2022-11-02T21:13:13.458Z,"10km NW of The Geysers, CA",earthquake,0.18,0.36,0.07,4,automatic,nc,nc
 2022-11-02T20:03:41.592Z,61.4885,-151.9387,8.3,0.6,ml,,,,0.68,ak,ak022e2edlkf,2022-11-03T14:44:05.010Z,"60 km NW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-02T19:35:24.090Z,35.8648338,-120.4048309,4.3,1.41,md,19,149,0.01698,0.05,nc,nc73802486,2022-11-02T22:59:15.090Z,"4km SSE of Parkfield, CA",earthquake,0.44,0.56,0.35,11,automatic,nc,nc
-2022-11-02T19:34:31.170Z,19.4515,-65.8316666666667,26.16,3.3,md,15,278,1.161,0.39,pr,pr71380613,2022-11-02T20:20:10.790Z,"112 km NNE of San Juan, Puerto Rico",earthquake,1.79,29.28,0.124384289894096,14,reviewed,pr,pr
-2022-11-02T19:33:07.310Z,44.7788333,-110.804,5.48,1.75,ml,15,95,0.03445,0.16,uu,uu60523067,2022-11-02T21:34:07.190Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.39,0.99,0.257,4,reviewed,uu,uu
