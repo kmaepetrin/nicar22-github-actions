@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-04T19:00:06.380Z,33.8481667,-117.4993333,1.61,1.79,ml,45,33,0.05463,0.23,ci,ci40129055,2022-11-04T19:03:47.917Z,"4km SSE of Home Gardens, CA",quarry blast,0.3,0.47,0.17,30,automatic,ci,ci
 2022-11-04T18:49:41.400Z,35.473835,-120.7666702,3.79,1.37,md,6,136,0.09698,0.04,nc,nc73803266,2022-11-04T18:56:10.390Z,"9km W of Atascadero, CA",earthquake,2.39,6.13,0.03,3,automatic,nc,nc
 2022-11-04T18:43:49.610Z,19.5084991455078,-155.656661987305,2.42000007629395,1.91999996,md,11,100,,0.200000003,hv,hv73207912,2022-11-04T18:46:43.050Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.61,1.20000005,0.239999995,5,automatic,hv,hv
 2022-11-04T18:38:31.590Z,19.4818325042725,-155.582000732422,-1.52999997138977,2.13,ml,17,68,,0.349999994,hv,hv73207902,2022-11-04T18:44:01.700Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.81,0.550000012,4.62,4,automatic,hv,hv
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T16:58:29.335Z,3.0526,128.5863,219.61,4.6,mb,41,104,2.573,0.71,us,us7000imjp,2022-11-04T18:47:04.040Z,"159 km NNE of Tobelo, Indonesia",earthquake,7.45,8.202,0.085,41,reviewed,us,us
 2022-11-04T16:57:49.613Z,44.6519,-112.5239,9.935,2.9,ml,31,48,0.11,0.72,us,us7000imjn,2022-11-04T18:48:24.040Z,"5 km ENE of Lima, Montana",earthquake,1.95,7.436,0.052,48,reviewed,us,us
 2022-11-04T16:52:54.220Z,44.2346667,-110.7846667,4.37,1.54,md,9,115,0.03902,0.28,uu,uu60523247,2022-11-04T17:02:50.920Z,"44 km ENE of Warm River, Idaho",earthquake,0.94,1.22,0.273,5,reviewed,uu,uu
-2022-11-04T16:52:54.100Z,39.3625,-123.2836667,0.83,1.12,md,12,99,0.08827,0.04,nc,nc73803226,2022-11-04T18:18:10.147Z,"8km SE of Willits, CA",earthquake,0.17,0.78,0.116,10,reviewed,nc,nc
+2022-11-04T16:52:54.100Z,39.3625,-123.2836667,0.83,1.12,md,12,99,0.08827,0.04,nc,nc73803226,2022-11-04T19:03:14.433Z,"8km SE of Willits, CA",earthquake,0.17,0.78,0.116,10,reviewed,nc,nc
 2022-11-04T16:52:18.940Z,17.972,-66.985,14.43,2.37,md,9,180,0.05643,0.07,pr,pr71380853,2022-11-04T17:21:45.020Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.5,0.66,0.140036602187946,10,reviewed,pr,pr
 2022-11-04T16:50:59.810Z,38.8338318,-122.8166656,1.75,0.85,md,8,166,0.01162,0.02,nc,nc73803221,2022-11-04T17:35:15.857Z,"8km NW of The Geysers, CA",earthquake,0.46,0.76,,1,automatic,nc,nc
 2022-11-04T16:35:26.200Z,37.3696667,-118.571,10.95,1.94,md,18,112,0.01759,0.08,nc,nc73803216,2022-11-04T18:42:10.302Z,"6km SSE of Round Valley, CA",earthquake,0.46,0.88,0.227,18,reviewed,nc,nc
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T12:53:37.350Z,19.2263336181641,-155.388000488281,32.1300010681152,2.07999992,md,44,155,,0.119999997,hv,hv73207532,2022-11-04T12:56:54.780Z,"Hawaii region, Hawaii",earthquake,0.48,0.75999999,1.09000003,16,automatic,hv,hv
 2022-11-04T12:35:25.827Z,37.5231,-117.5899,0.8,1.1,ml,11,126.79,0.294,0.3256,nn,nn00850614,2022-11-04T12:38:28.513Z,"26 km S of Silver Peak, Nevada",earthquake,,38.3,0.74,8,automatic,nn,nn
 2022-11-04T12:32:39.470Z,33.216,-116.7418333,11.41,1.09,ml,35,37,0.02446,0.15,ci,ci40128967,2022-11-04T12:36:16.748Z,"4km SE of Lake Henshaw, CA",earthquake,0.22,0.5,0.145,26,automatic,ci,ci
-2022-11-04T12:31:27.550Z,33.2166667,-116.743,11.36,0.69,ml,17,79,0.02336,0.14,ci,ci40128959,2022-11-04T12:34:55.307Z,"3km SE of Lake Henshaw, CA",earthquake,0.32,0.57,0.086,8,automatic,ci,ci
+2022-11-04T12:31:27.520Z,33.2186667,-116.7501667,9.94,0.64,ml,24,56,0.01871,0.12,ci,ci40128959,2022-11-04T19:05:05.519Z,"3km SSE of Lake Henshaw, CA",earthquake,0.22,0.54,0.107,10,reviewed,ci,ci
 2022-11-04T12:16:42.530Z,38.8346672,-122.8118362,1.86,0.36,md,13,74,0.01134,0.01,nc,nc73803136,2022-11-04T12:34:12.985Z,"8km W of Cobb, CA",earthquake,0.3,0.71,,1,automatic,nc,nc
 2022-11-04T12:12:30.516Z,31.62018924,-104.1202987,7.057055663999999,2,ml,34,53,0.04232042129,0.2,tx,tx2022vpvp,2022-11-04T17:54:59.006Z,"western Texas",earthquake,0.6013654167,0.7054253052,0.1,6,reviewed,tx,tx
 2022-11-04T12:02:58.280Z,33.1518333,-116.5933333,8.57,0.8,ml,29,48,0.06537,0.18,ci,ci40128951,2022-11-04T18:53:26.522Z,"8km N of Julian, CA",earthquake,0.26,0.53,0.213,13,reviewed,ci,ci
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T19:13:01.620Z,38.3518333,-122.4036667,3.46,1.33,md,25,83,0.05601,0.09,nc,nc73802716,2022-11-03T23:23:18.115Z,"7km SW of Yountville, CA",earthquake,0.27,0.93,0.165,20,reviewed,nc,nc
 2022-11-03T19:11:09.480Z,31.5301667,-115.7598333,16.86,3.27,ml,13,127,0.1399,0.12,ci,ci40128775,2022-11-03T20:12:37.040Z,"79km ESE of Maneadero, B.C., MX",earthquake,0.49,0.63,0.165,132,reviewed,ci,ci
 2022-11-03T19:09:03.270Z,31.5638333,-115.6906667,1.67,3.1,ml,15,86,0.1895,0.09,ci,ci40128767,2022-11-03T20:09:29.536Z,"85km ESE of Maneadero, B.C., MX",earthquake,0.21,0.4,0.149,82,reviewed,ci,ci
-2022-11-03T19:05:22.930Z,33.2608333,-116.4168333,4.23,1.12,ml,24,62,0.007352,0.23,ci,ci40128751,2022-11-03T19:08:54.710Z,"4km W of Borrego Springs, CA",earthquake,0.48,0.74,0.162,25,automatic,ci,ci
-2022-11-03T19:02:36.250Z,34.9908333,-118.1788333,-0.82,1.41,ml,10,69,0.119,0.15,ci,ci40128759,2022-11-03T21:14:07.922Z,"7km S of Mojave, CA",quarry blast,0.44,31.61,0.197,22,reviewed,ci,ci
