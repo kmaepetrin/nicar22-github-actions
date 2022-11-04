@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-04T15:57:56.930Z,38.829834,-122.8028336,1.66,0.85,md,10,103,0.008563,0.02,nc,nc73803206,2022-11-04T15:59:32.300Z,"7km W of Cobb, CA",earthquake,0.35,0.83,,1,automatic,nc,nc
 2022-11-04T15:38:18.500Z,38.8338318,-122.7973328,2.09,1.13,md,19,50,0.007119,0.02,nc,nc73803191,2022-11-04T15:49:11.264Z,"7km WNW of Cobb, CA",earthquake,0.22,0.43,0.04,3,automatic,nc,nc
 2022-11-04T15:34:02.470Z,37.2598343,-121.6361694,5.54,1.5,md,20,66,0.02949,0.05,nc,nc73803186,2022-11-04T15:51:13.160Z,"14km N of Morgan Hill, CA",earthquake,0.2,0.46,0.16,16,automatic,nc,nc
 2022-11-04T15:17:09.813Z,-19.8138,-175.7725,220.528,4.6,mb,23,67,1.339,0.88,us,us7000imid,2022-11-04T15:34:45.040Z,"148 km W of Pangai, Tonga",earthquake,11.17,8.915,0.122,20,reviewed,us,us
@@ -106,6 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T02:58:38.286Z,2.0322,127.114,63.981,5,mb,52,100,1.277,0.55,us,us7000imdx,2022-11-04T03:15:23.040Z,"105 km WNW of Tobelo, Indonesia",earthquake,9.25,7.374,0.064,78,reviewed,us,us
 2022-11-04T02:40:32.113Z,64.496,-147.1798,11.7,0.5,ml,,,,0.07,ak,ak022e5eyeff,2022-11-04T02:43:28.440Z,"13 km WSW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-04T02:39:10.705Z,61.3666,-146.9156,28.6,1.7,ml,,,,0.72,ak,ak022e5ey526,2022-11-04T02:40:52.940Z,"40 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-04T02:39:05.810Z,44.8035,-110.8191667,5.31,0.52,md,12,190,0.02698,0.1,uu,uu60523207,2022-11-04T15:55:01.720Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.66,0.68,0.187,8,reviewed,uu,uu
 2022-11-04T02:34:58.351Z,36.6034,-115.7911,2.1,1.6,ml,23,138.93,0.2,0.305,nn,nn00850589,2022-11-04T02:40:18.169Z,"11 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.88,16,automatic,nn,nn
 2022-11-04T02:21:22.890Z,38.836834,-122.8010025,2.18,0.46,md,14,64,0.008471,0.02,nc,nc73802911,2022-11-04T02:22:59.764Z,"7km WNW of Cobb, CA",earthquake,0.31,0.71,0.39,2,automatic,nc,nc
 2022-11-04T02:18:20.130Z,38.8376656,-122.7965012,1.94,0.77,md,18,73,0.004866,0.03,nc,nc73802896,2022-11-04T02:39:10.292Z,"7km WNW of Cobb, CA",earthquake,0.24,0.41,0.27,3,automatic,nc,nc
