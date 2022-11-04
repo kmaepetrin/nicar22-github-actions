@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-04T23:46:54.280Z,33.5466667,-116.7896667,7.17,0.33,ml,12,120,0.04755,0.06,ci,ci40129151,2022-11-04T23:50:25.008Z,"11km W of Anza, CA",earthquake,0.21,0.33,0.127,6,automatic,ci,ci
+2022-11-04T23:43:43.070Z,38.838501,-122.7774963,0.76,0.36,md,6,131,0.004184,0.01,nc,nc73803591,2022-11-04T23:45:19.842Z,"5km WNW of Cobb, CA",earthquake,0.69,1.21,,1,automatic,nc,nc
 2022-11-04T23:28:14.166Z,61.1318,-145.6875,19.7,2,ml,,,,0.45,ak,ak022e5rdw5k,2022-11-04T23:30:06.112Z,"35 km E of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-04T23:22:46.180Z,62.1784,-151.2136,75.5,1,ml,,,,0.19,ak,ak022e5rcobu,2022-11-04T23:24:42.401Z,"23 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-04T23:10:30.610Z,38.8279991,-122.8021698,1.85,0.35,md,7,96,0.007698,0.01,nc,nc73803581,2022-11-04T23:12:05.575Z,"7km W of Cobb, CA",earthquake,0.43,1.28,,1,automatic,nc,nc
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T22:55:41.780Z,38.831501,-122.7991638,1.92,0.85,md,9,94,0.009748,0.02,nc,nc73803571,2022-11-04T23:17:10.965Z,"7km W of Cobb, CA",earthquake,0.39,1.42,,1,automatic,nc,nc
 2022-11-04T22:53:40.990Z,38.8328323,-122.8031693,-0.78,1.43,md,8,103,0.01086,0.15,nc,nc73803561,2022-11-04T23:13:10.939Z,"7km W of Cobb, CA",earthquake,0.77,1.59,0.51,2,automatic,nc,nc
 2022-11-04T22:50:00.790Z,38.8303337,-122.7968369,2.08,0.68,md,15,43,0.009526,0.02,nc,nc73803556,2022-11-04T23:00:10.854Z,"6km W of Cobb, CA",earthquake,0.27,0.9,0.14,2,automatic,nc,nc
-2022-11-04T22:46:10.830Z,38.8240013,-122.8048325,2.97,0.84,md,10,95,0.004139,0.01,nc,nc73803551,2022-11-04T22:56:10.825Z,"7km NW of The Geysers, CA",earthquake,0.44,1.31,,1,automatic,nc,nc
+2022-11-04T22:46:10.830Z,38.8240013,-122.8048325,2.97,0.84,md,10,95,0.004139,0.01,nc,nc73803551,2022-11-04T23:45:12.131Z,"7km NW of The Geysers, CA",earthquake,0.44,1.31,,1,automatic,nc,nc
 2022-11-04T22:14:33.074Z,62.0189,-150.466,19.9,1.8,ml,,,,0.39,ak,ak022e5qphzf,2022-11-04T22:17:44.434Z,"35 km SSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-04T22:13:16.916Z,36.2791,-115.3697,4.2,1.8,ml,11,89.4,0.228,0.1103,nn,nn00850633,2022-11-04T22:46:27.388Z,"Nevada",earthquake,,4,0.46,6,reviewed,nn,nn
 2022-11-04T22:10:38.060Z,38.8263321,-122.8024979,2.21,0.35,md,7,112,0.006605,0.02,nc,nc73803541,2022-11-04T22:25:10.649Z,"7km NW of The Geysers, CA",earthquake,0.49,1.16,,1,automatic,nc,nc
@@ -37,8 +39,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T20:31:09.770Z,38.8050003,-122.776001,0.33,0.85,md,11,84,0.009022,0.03,nc,nc73803381,2022-11-04T20:32:45.339Z,"4km NNW of The Geysers, CA",earthquake,0.28,0.54,0.32,4,automatic,nc,nc
 2022-11-04T20:30:25.020Z,38.8276672,-122.8006668,0.81,0.71,md,19,46,0.008497,0.04,nc,nc73803371,2022-11-04T20:32:00.374Z,"7km W of Cobb, CA",earthquake,0.19,0.47,0.28,4,automatic,nc,nc
 2022-11-04T20:30:12.250Z,38.8305016,-122.8014984,-0.07,1.33,md,15,50,0.009758,0.03,nc,nc73803361,2022-11-04T20:57:12.086Z,"7km W of Cobb, CA",earthquake,0.18,0.46,0.44,2,automatic,nc,nc
-2022-11-04T20:29:51.260Z,38.8266678,-122.8021698,0.76,2.06,md,26,44,0.006986,0.03,nc,nc73803356,2022-11-04T21:41:18.382Z,"7km NW of The Geysers, CA",earthquake,0.13,0.41,0.06,5,automatic,nc,nc
-2022-11-04T20:29:41.640Z,38.8266667,-122.7993333,0.97,2.09,md,31,45,0.01894,0.03,nc,nc73803351,2022-11-04T23:38:11.086Z,"7km W of Cobb, CA",earthquake,0.14,0.32,0.39,5,reviewed,nc,nc
+2022-11-04T20:29:51.270Z,38.8263333,-122.8021667,0.76,2.05,md,40,34,0.006838,0.04,nc,nc73803356,2022-11-04T23:49:41.576Z,"7km NW of The Geysers, CA",earthquake,0.11,0.32,0.016,5,reviewed,nc,nc
+2022-11-04T20:29:41.640Z,38.8265,-122.7993333,0.96,1.85,md,33,33,0.008944,0.03,nc,nc73803351,2022-11-04T23:47:11.140Z,"7km NW of The Geysers, CA",earthquake,0.14,0.3,0.215,5,reviewed,nc,nc
 2022-11-04T20:29:15.440Z,38.8263333,-122.8001667,0.52,2.3,md,68,28,0.008276,0.05,nc,nc73803366,2022-11-04T23:30:10.145Z,"7km NW of The Geysers, CA",earthquake,0.07,0.14,0.178,49,reviewed,nc,nc
 2022-11-04T20:29:04.420Z,38.8294983,-122.8018341,0.75,0.63,md,9,101,0.008864,0.01,nc,nc73803346,2022-11-04T20:30:40.883Z,"7km W of Cobb, CA",earthquake,0.28,1.15,,1,automatic,nc,nc
 2022-11-04T20:28:22.710Z,38.832,-122.792,1.22,0.8,md,19,47,0.006529,0.01,nc,nc73803336,2022-11-04T22:13:10.575Z,"6km W of Cobb, CA",earthquake,0.21,0.45,0.134,2,reviewed,nc,nc
@@ -219,7 +221,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T02:40:32.113Z,64.496,-147.1798,11.7,0.5,ml,,,,0.07,ak,ak022e5eyeff,2022-11-04T02:43:28.440Z,"13 km WSW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-04T02:39:10.705Z,61.3666,-146.9156,28.6,1.7,ml,,,,0.72,ak,ak022e5ey526,2022-11-04T02:40:52.940Z,"40 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-04T02:39:05.810Z,44.8035,-110.8191667,5.31,0.52,md,12,190,0.02698,0.1,uu,uu60523207,2022-11-04T15:55:01.720Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.66,0.68,0.187,8,reviewed,uu,uu
-2022-11-04T02:34:58.623Z,36.6155,-115.7613,0,1.7,ml,23,137.15,0.168,0.1469,nn,nn00850589,2022-11-04T16:16:03.672Z,"Nevada",earthquake,,0,0.27,14,reviewed,nn,nn
+2022-11-04T02:34:58.623Z,36.6155,-115.7613,0,1.7,ml,23,137.15,0.168,0.1469,nn,nn00850589,2022-11-04T16:16:03.672Z,"9 km WNW of Indian Springs, Nevada",earthquake,,0,0.27,14,reviewed,nn,nn
 2022-11-04T02:33:14.112Z,31.67254025,-104.2033786,6.144421387,2.2,ml,40,49,0.0524555214,0.2,tx,tx2022vpcm,2022-11-04T18:36:24.297Z,"55 km NW of Toyah, Texas",earthquake,0.5307901856,0.6330916277,0,6,reviewed,tx,tx
 2022-11-04T02:21:22.890Z,38.836834,-122.8010025,2.18,0.46,md,14,64,0.008471,0.02,nc,nc73802911,2022-11-04T02:22:59.764Z,"7km WNW of Cobb, CA",earthquake,0.31,0.71,0.39,2,automatic,nc,nc
 2022-11-04T02:18:20.130Z,38.8376656,-122.7965012,1.94,0.77,md,18,73,0.004866,0.03,nc,nc73802896,2022-11-04T02:39:10.292Z,"7km WNW of Cobb, CA",earthquake,0.24,0.41,0.27,3,automatic,nc,nc
