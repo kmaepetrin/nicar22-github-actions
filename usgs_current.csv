@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T04:50:30.720Z,34.0833333,-117.3165,16.4,0.99,ml,21,113,0.1021,0.17,ci,ci40129823,2022-11-07T04:54:04.241Z,"1km NNW of Colton, CA",earthquake,0.39,0.87,0.228,24,automatic,ci,ci
 2022-11-07T04:21:11.020Z,19.6928,-65.7233,41,3.92,md,20,265,1.4299,0.41,pr,pr2022311002,2022-11-07T05:39:13.978Z,"140 km N of Suárez, Puerto Rico",earthquake,2.6,17.64,0.07,17,reviewed,pr,pr
 2022-11-07T04:14:51.211Z,44.3727,-115.1678,10,3.6,ml,35,60,0.929,0.64,us,us7000in01,2022-11-07T06:16:26.681Z,"25 km NW of Stanley, Idaho",earthquake,2.91,2.011,0.03,150,reviewed,us,us
-2022-11-07T04:04:09.990Z,39.4881667,-123.1153333,5.48,1.95,md,18,148,0.09166,0.06,nc,nc73804586,2022-11-07T08:35:11.085Z,"16km WNW of Lake Pillsbury, CA",earthquake,0.36,0.47,0.179,18,reviewed,nc,nc
+2022-11-07T04:04:09.990Z,39.4881667,-123.1153333,5.48,1.95,md,18,148,0.09166,0.06,nc,nc73804586,2022-11-07T08:59:17.249Z,"16km WNW of Lake Pillsbury, CA",earthquake,0.36,0.47,0.179,18,reviewed,nc,nc
 2022-11-07T03:59:45.610Z,33.4788333,-116.463,11.17,0.83,ml,30,68,0.09687,0.2,ci,ci40129815,2022-11-07T04:03:25.954Z,"21km ESE of Anza, CA",earthquake,0.27,0.7,0.171,25,automatic,ci,ci
 2022-11-07T03:58:37.370Z,33.529,-116.4275,10.47,0.49,ml,14,75,0.08581,0.14,ci,ci40129807,2022-11-07T04:02:03.852Z,"18km SW of La Quinta, CA",earthquake,0.32,0.98,0.299,7,automatic,ci,ci
 2022-11-07T03:53:04.400Z,39.4821667,-123.1096667,5.79,1.81,md,14,156,0.09909,0.12,nc,nc73804581,2022-11-07T08:41:11.122Z,"15km WNW of Lake Pillsbury, CA",earthquake,0.51,0.72,0.284,12,reviewed,nc,nc
@@ -82,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T22:36:16.475Z,61.1939,-152.0462,6.2,0.2,ml,,,,0.22,ak,ak022e91wvfs,2022-11-07T05:43:05.320Z,"50 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-06T22:35:38.630Z,61.2088333333333,-152.074333333333,4.54,-0.36,ml,6,146,,0.08,av,av91710836,2022-11-07T05:39:49.330Z,"52 km WNW of Tyonek, Alaska",earthquake,0.57,1.24,0.173918247771356,6,reviewed,av,av
 2022-11-06T22:32:53.810Z,32.8511667,-116.488,0.32,0.69,ml,9,114,0.1293,0.32,ci,ci40129719,2022-11-06T22:36:34.301Z,"5km NE of Pine Valley, CA",earthquake,1.49,31.61,0.142,7,automatic,ci,ci
+2022-11-06T22:29:54.070Z,38.8388333,-122.836,1.43,2,mh,14,112,0.0004691,0.01,nc,nc73804496,2022-11-07T08:50:18.676Z,"10km NW of The Geysers, CA",earthquake,0.26,0.72,,0,reviewed,nc,nc
 2022-11-06T22:26:32.290Z,34.53,-119.1008333,11,1.77,ml,25,62,0.09767,0.25,ci,ci40129711,2022-11-06T22:30:18.772Z,"16km NE of Ojai, CA",earthquake,0.43,0.93,0.161,30,automatic,ci,ci
 2022-11-06T22:19:47.860Z,19.5069999694824,-155.660507202148,0.389999985694885,2.01999998,md,16,67,,0.239999995,hv,hv73210982,2022-11-06T22:23:01.610Z,"Hawaii region, Hawaii",earthquake,0.45,1.00999999,2.06999993,4,automatic,hv,hv
 2022-11-06T22:07:34.580Z,38.8301659,-122.8144989,2.4,0.63,md,13,56,0.007593,0.01,nc,nc73804491,2022-11-07T00:52:13.297Z,"8km NW of The Geysers, CA",earthquake,0.31,0.88,,1,automatic,nc,nc
