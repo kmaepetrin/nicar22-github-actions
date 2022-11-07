@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-07T07:20:12.120Z,52.1282,159.5899,10,5,mb,98,95,1.064,1.13,us,us7000in0r,2022-11-07T07:41:17.040Z,"120 km SE of Vilyuchinsk, Russia",earthquake,7.39,1.842,0.038,227,reviewed,us,us
 2022-11-07T06:49:52.467Z,60.5264,-141.9233,16.8,1.4,ml,,,,0.26,ak,ak022eag05ce,2022-11-07T06:51:39.529Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-11-07T06:46:51.300Z,38.824501,-122.807663,2.52,1.46,md,26,49,0.002183,0.02,nc,nc73804601,2022-11-07T07:19:13.604Z,"7km NW of The Geysers, CA",earthquake,0.2,0.42,0.27,5,automatic,nc,nc
 2022-11-07T06:38:46.810Z,62.8937,-150.9113,99.1,2.3,ml,,,,0.45,ak,ak022eafxs15,2022-11-07T06:41:08.744Z,"44 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
