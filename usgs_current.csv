@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-07T19:32:58.580Z,38.5139999,-119.5296631,1.17,2.99,ml,12,91,0.07223,0.31,nc,nc73802505,2022-11-07T19:36:21.431Z,"4km W of Walker, CA",earthquake,1.76,7.98,0.548,20,automatic,nc,nc
+2022-11-07T19:18:58.530Z,40.7738333,-112.0766667,8.05,0.65,md,9,125,0.03712,0.13,uu,uu60523992,2022-11-07T19:35:25.050Z,"7 km NNE of Magna, Utah",earthquake,0.41,1.06,0.496,4,reviewed,uu,uu
 2022-11-07T19:17:45.602Z,62.5762,-149.7212,46.4,1.5,ml,,,,1.04,ak,ak022eanjwno,2022-11-07T19:20:12.615Z,"24 km NE of Chase, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-07T18:49:53.594Z,61.148,-146.3901,19.1,1.9,ml,,,,0.37,ak,ak022ean5cov,2022-11-07T18:51:35.997Z,"2 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-07T18:43:26.790Z,38.7989998,-122.748497,2.24,0.85,md,11,175,0.008912,0.04,nc,nc73802495,2022-11-07T19:08:11.943Z,"2km NNE of The Geysers, CA",earthquake,0.51,0.84,0.01,2,automatic,nc,nc
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T19:50:21.620Z,36.94166667,-97.67983333,2.67,1.36,ml,34,83,0.1772652145,0.28,ok,ok2022vubs,2022-11-07T19:06:57.710Z,"2 km NW of Renfrow, Oklahoma",earthquake,,1.1,0.23,5,reviewed,ok,ok
 2022-11-06T19:47:10.650Z,33.4755,-116.468,12.27,0.96,ml,25,67,0.05943,0.15,ci,ci40129663,2022-11-06T21:33:11.221Z,"21km ESE of Anza, CA",earthquake,0.22,0.58,0.099,7,reviewed,ci,ci
 2022-11-06T19:46:34.680Z,33.4735,-116.4733333,10.95,1.02,ml,56,33,0.06373,0.18,ci,ci40129655,2022-11-06T21:28:31.960Z,"21km ESE of Anza, CA",earthquake,0.16,0.41,0.16,30,reviewed,ci,ci
-2022-11-06T19:37:14.218Z,61.1921,-150.1402,40.6,1.6,ml,,,,0.46,ak,ak022e904s5w,2022-11-06T19:39:51.413Z,"13 km WSW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-11-06T19:37:10.280Z,38.8409996,-122.8799973,2.25,0.37,md,10,95,0.003869,0.02,nc,nc73804456,2022-11-06T22:12:14.357Z,"12km ENE of Cloverdale, CA",earthquake,0.42,0.38,0.03,2,automatic,nc,nc
