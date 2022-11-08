@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T06:10:41.220Z,38.8236656,-122.8440018,2.2,1.13,md,12,92,0.00703,0.01,nc,nc73804596,2022-11-07T06:53:16.468Z,"9km NW of The Geysers, CA",earthquake,0.28,0.48,0.17,4,automatic,nc,nc
 2022-11-07T06:09:33.474Z,36.5438,-98.9722,5,2.4,mb_lg,36,111,0.356,0.38,us,us7000in0i,2022-11-07T09:32:54.040Z,"Oklahoma",earthquake,1.41,1.868,0.111,21,reviewed,us,us
 2022-11-07T06:08:06.603Z,61.9485,-149.302,19.5,1.5,ml,,,,0.55,ak,ak022eafr9g4,2022-11-07T06:09:58.210Z,"23 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-07T05:58:51.200Z,33.038,-116.4208333,8.45,0.87,ml,23,66,0.1291,0.19,ci,ci40129887,2022-11-07T14:17:36.795Z,"18km ESE of Julian, CA",earthquake,0.32,1.48,0.13,15,reviewed,ci,ci
