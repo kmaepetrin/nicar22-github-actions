@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-08T05:48:01.895Z,63.0508,-151.5369,0,2.1,ml,,,,0.84,ak,ak022ec2xqm5,2022-11-08T05:50:21.091Z,"55 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-08T05:04:50.270Z,38.8381653,-122.8383331,1.21,1.35,md,17,82,0.01525,0.01,nc,nc73802650,2022-11-08T05:22:15.643Z,"10km NW of The Geysers, CA",earthquake,0.19,0.45,0.2,4,automatic,nc,nc
 2022-11-08T05:00:36.391Z,63.0582,-151.5312,0,1.9,ml,,,,0.89,ak,ak022ec2niwn,2022-11-08T05:02:38.568Z,"54 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-08T04:55:39.380Z,17.905,-66.8931666666667,14.95,2.21,md,11,232,0.06844,0.07,pr,pr71381268,2022-11-08T05:07:53.190Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.64,0.56,0.044029134735331,7,reviewed,pr,pr
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-08T03:42:16.715Z,68.4585,-148.2063,0,2,ml,,,,0.41,ak,ak022ec1pm7q,2022-11-08T03:46:28.717Z,"116 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-08T03:30:17.492Z,63.1206,-150.7237,126.2,1.6,ml,,,,0.31,ak,ak022ec1n1px,2022-11-08T03:32:45.792Z,"68 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-11-08T03:26:53.410Z,19.1951675415039,-155.488662719727,33.9199981689453,2.48000002,md,41,144,,0.0900000036,hv,hv73212447,2022-11-08T03:31:57.648Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.930000007,1.26999998,23,automatic,hv,hv
-2022-11-08T03:26:38.510Z,38.4918327,-119.550499,-1.11,2.49,md,7,111,0.08899,0.05,nc,nc73802620,2022-11-08T04:58:10.487Z,"7km WSW of Walker, CA",earthquake,0.37,8.66,0.26,6,automatic,nc,nc
+2022-11-08T03:26:38.510Z,38.4918327,-119.550499,-1.11,2.49,md,7,111,0.08899,0.05,nc,nc73802620,2022-11-08T05:45:13.790Z,"7km WSW of Walker, CA",earthquake,0.37,8.66,0.26,6,automatic,nc,nc
 2022-11-08T03:15:45.801Z,43.6559,-111.0985,3.218,2,ml,25,112,0.196,0.42,us,us7000in7y,2022-11-08T05:41:50.917Z,"southern Idaho",earthquake,0.81,3.524,0.055,44,reviewed,us,us
 2022-11-08T03:03:26.739Z,63.295,-150.1437,96.4,1.9,ml,,,,0.53,ak,ak022ec1ha3r,2022-11-08T03:05:18.478Z,"60 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-08T02:58:58.920Z,38.803833,-122.7829971,0.07,1.22,md,24,61,0.009584,0.04,nc,nc73802610,2022-11-08T05:04:13.533Z,"4km NW of The Geysers, CA",earthquake,0.16,0.36,0.06,5,automatic,nc,nc
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T06:09:33.474Z,36.5438,-98.9722,5,2.4,mb_lg,36,111,0.356,0.38,us,us7000in0i,2022-11-07T09:32:54.040Z,"Oklahoma",earthquake,1.41,1.868,0.111,21,reviewed,us,us
 2022-11-07T06:08:06.603Z,61.9485,-149.302,19.5,1.5,ml,,,,0.55,ak,ak022eafr9g4,2022-11-07T06:09:58.210Z,"23 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-07T05:58:51.200Z,33.038,-116.4208333,8.45,0.87,ml,23,66,0.1291,0.19,ci,ci40129887,2022-11-07T14:17:36.795Z,"18km ESE of Julian, CA",earthquake,0.32,1.48,0.13,15,reviewed,ci,ci
-2022-11-07T05:49:48.900Z,19.5515,-65.789,29,4.02,md,20,258,1.2769,0.14,pr,pr2022311003,2022-11-07T14:19:32.040Z,"124 km N of Suárez, Puerto Rico",earthquake,0.76,10.75,0.03,13,reviewed,pr,pr
