@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-09T18:59:23.099Z,62.6527,-149.7172,11.7,1.7,ml,,,,0.55,ak,ak022edya4hh,2022-11-09T19:01:31.812Z,"30 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-09T18:32:43.580Z,17.9815,-66.9316666666667,11.46,1.92,md,6,167,0.05029,0.08,pr,pr71381558,2022-11-09T18:46:30.520Z,"Puerto Rico region",earthquake,0.38,0.69,0.0619852939518015,5,reviewed,pr,pr
 2022-11-09T17:55:43.250Z,38.8066673,-122.7939987,4.12,0.34,md,7,110,0.001651,0.02,nc,nc73803105,2022-11-09T18:30:24.374Z,"5km NW of The Geysers, CA",earthquake,0.94,2.81,,1,automatic,nc,nc
 2022-11-09T17:49:45.431Z,-26.065,178.4116,633.386,5.1,mb,80,27,4.552,1.25,us,us7000inmb,2022-11-09T18:07:56.040Z,"south of the Fiji Islands",earthquake,9.86,8.326,0.035,260,reviewed,us,us
