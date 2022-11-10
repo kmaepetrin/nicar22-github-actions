@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-10T22:36:23.663Z,57.7857,-157.3684,16,3.7,ml,,,,0.33,ak,ak022efo29z2,2022-11-10T22:41:35.404Z,"27 km NNE of Pilot Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-10T22:59:57.220Z,38.8008347,-122.8160019,2.41,0.35,md,7,168,0.01305,0.04,nc,nc73803500,2022-11-10T23:01:30.557Z,"6km WNW of The Geysers, CA",earthquake,0.92,1.29,,1,automatic,nc,nc
+2022-11-10T22:36:40.141Z,57.8146,-157.3699,1.5,3.8,ml,,,,1.47,ak,ak022efo2p1a,2022-11-10T22:56:27.820Z,"30 km NNE of Pilot Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-11-10T22:36:23.967Z,57.7699,-157.3284,2.7,3.4,ml,,,,0.33,ak,ak022efo29z2,2022-11-10T22:56:34.046Z,"27 km NNE of Pilot Point, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-11-10T22:31:32.430Z,35.6268333,-117.4896667,12.27,2.02,ml,25,126,0.144,0.15,ci,ci40130855,2022-11-10T22:35:06.847Z,"17km E of Ridgecrest, CA",earthquake,0.37,0.8,0.192,25,automatic,ci,ci
 2022-11-10T22:26:50.190Z,38.8050003,-122.8168335,3.26,1.74,md,33,60,,0.04,nc,nc73803485,2022-11-10T22:38:10.760Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.36,0.05,10,automatic,nc,nc
 2022-11-10T22:25:11.230Z,19.4215,-155.445333333333,2.39,0.57,md,8,158,,0.64,hv,hv73216042,2022-11-10T22:43:46.610Z,"22 km W of Volcano, Hawaii",earthquake,3,8.81,0.0460599684147706,3,reviewed,hv,hv
 2022-11-10T22:23:51.847Z,57.4882,-156.5535,121.5,1.8,ml,,,,0.13,ak,ak022efnzju8,2022-11-10T22:25:28.004Z,"50 km E of Ugashik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-11-10T22:18:40.250Z,38.8248329,-122.854332,2.51,0.37,md,11,65,0.003358,0.01,nc,nc73803480,2022-11-10T22:33:10.729Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.95,,1,automatic,nc,nc
 2022-11-10T22:02:46.470Z,36.0371667,-117.8016667,-0.35,1.37,ml,10,149,0.05487,0.19,ci,ci40130847,2022-11-10T22:06:23.963Z,"13km E of Coso Junction, CA",earthquake,0.7,31.61,0.219,17,automatic,ci,ci
+2022-11-10T22:02:07.640Z,59.9973333333333,-153.0955,1.09,-1.6,ml,4,135,,0.04,av,av91713691,2022-11-10T22:59:54.340Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.37,1.53,0.12763823045751,4,reviewed,av,av
 2022-11-10T21:36:10.585Z,60.1645,-153.5822,9.9,0.8,ml,,,,0.6,ak,ak022efngp2f,2022-11-10T22:43:31.435Z,"40 km E of Port Alsworth, Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-11-10T21:36:00.930Z,19.2346666666667,-64.8018333333333,19.67,3.27,md,16,292,0.8897,0.23,pr,pr71381758,2022-11-10T22:35:16.390Z,"99 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.01,20.68,0.0644447452527601,6,reviewed,pr,pr
 2022-11-10T21:32:52.516Z,60.4664,-151.254,43,2,ml,,,,0.35,ak,ak022efng1qb,2022-11-10T21:34:07.794Z,"5 km NNE of Kalifornsky, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -233,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-09T23:16:04.840Z,17.9415,-66.9756666666667,16.56,2.14,md,12,224,0.07073,0.09,pr,pr71381628,2022-11-09T23:30:58.440Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.5,0.68,0.0604039136693562,6,reviewed,pr,pr
 2022-11-09T23:07:50.887Z,39.417,-119.9376,5.5,0.6,ml,7,87.53,0.146,0.116,nn,nn00850987,2022-11-10T17:43:49.402Z,"7 km ENE of Floriston, California",earthquake,,7.4,0.41,3,reviewed,nn,nn
 2022-11-09T23:05:01.470Z,33.3875,-116.2856667,12.08,0.9,ml,22,197,0.03208,0.11,ci,ci40130543,2022-11-10T00:13:23.709Z,"17km NNE of Borrego Springs, CA",earthquake,0.28,0.52,0.107,5,reviewed,ci,ci
-2022-11-09T22:56:27.510Z,31.5633333,-115.6926667,4.02,2.97,ml,11,114,0.1883,0.07,ci,ci40130535,2022-11-10T00:18:23.744Z,"84km ESE of Maneadero, B.C., MX",earthquake,0.36,1.09,0.148,52,reviewed,ci,ci
