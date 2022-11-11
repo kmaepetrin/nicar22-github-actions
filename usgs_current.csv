@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-11T10:56:10.910Z,35.7073333,-117.5178333,0.87,0.93,ml,12,175,0.1261,0.14,ci,ci40131031,2022-11-11T10:59:43.250Z,"12km WSW of Searles Valley, CA",earthquake,0.48,0.65,0.131,9,automatic,ci,ci
+2022-11-11T10:48:46.000Z,-19.322,-172.016,33,7.5,Mi,21,104.39999164800066,,,pt,pt22315000,2022-11-11T11:02:19.690Z,"Tonga region",earthquake,,,,10,reviewed,pt,pt
 2022-11-11T10:36:08.932Z,61.2118,-146.673,35,1.7,ml,,,,1.68,ak,ak022eh4ge2r,2022-11-11T10:38:31.227Z,"19 km WNW of Valdez, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2022-11-11T10:21:02.670Z,62.9668,-149.3255,19.9,1.4,ml,,,,1.1,ak,ak022eh4d5uj,2022-11-11T10:22:49.623Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-11T10:16:32.112Z,-7.5003,127.8668,159.738,4.5,mb,45,54,3.435,0.48,us,us7000ip0g,2022-11-11T10:32:47.040Z,"148 km NE of Lospalos, Timor Leste",earthquake,7.55,7.657,0.098,31,reviewed,us,us
@@ -231,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T11:16:55.740Z,40.3495,-121.3043333,10.63,1.79,md,14,133,0.1585,0.1,nc,nc73803260,2022-11-10T23:29:18.085Z,"8km NW of Chester, CA",earthquake,0.41,1.56,0.163,19,reviewed,nc,nc
 2022-11-10T11:05:56.343Z,64.8144,-149.1147,17.4,1.4,ml,,,,0.41,ak,ak022efhbxn6,2022-11-10T11:08:23.197Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-10T11:03:16.550Z,36.0078333,-117.8038333,1.86,0.97,ml,18,72,0.02562,0.1,ci,ci40130687,2022-11-10T16:26:58.093Z,"12km NE of Little Lake, CA",earthquake,0.19,0.17,0.202,11,reviewed,ci,ci
-2022-11-10T11:01:07.429Z,62.2177,-151.0604,69.7,2.1,ml,,,,0.78,ak,ak022efhaz06,2022-11-10T11:03:48.070Z,"30 km NE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-10T11:00:45.030Z,19.4193325042725,-155.606506347656,2.94000005722046,1.75999999,md,14,71,,0.300000012,hv,hv73215387,2022-11-10T11:03:42.230Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.63,2.08999991,0.629999995,7,automatic,hv,hv
-2022-11-10T10:58:29.800Z,38.7903333,-122.7493333,1.03,0.74,md,5,149,0.04,0.06,nc,nc73803255,2022-11-10T19:28:13.615Z,"2km NNE of The Geysers, CA",earthquake,0.76,1.56,0.111,5,reviewed,nc,nc
