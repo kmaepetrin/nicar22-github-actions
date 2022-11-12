@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-12T11:39:38.250Z,38.8269997,-122.7979965,2.61,0.7,md,14,58,0.0101,0.01,nc,nc73804250,2022-11-12T11:51:10.417Z,"6km W of Cobb, CA",earthquake,0.29,0.66,0.14,2,automatic,nc,nc
+2022-11-12T11:39:38.250Z,38.8269997,-122.7979965,2.61,0.7,md,14,58,0.0101,0.01,nc,nc73804250,2022-11-12T11:57:16.455Z,"6km W of Cobb, CA",earthquake,0.29,0.66,0.14,2,automatic,nc,nc
+2022-11-12T11:24:27.780Z,17.965,-66.8396666666667,16.68,2.45,md,11,202,0.03899,0.14,pr,pr71382013,2022-11-12T11:56:04.560Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.53,0.64,0.157924073783937,10,reviewed,pr,pr
 2022-11-12T11:22:24.664Z,35.28361893,-98.01043701,5,2.22,ml,38,69.85806274,0.08453718573,0.8606775805,ok,ok2022wejz,2022-11-12T11:25:42.009Z,"Oklahoma",earthquake,1.953078063,,,30,automatic,ok,ok
 2022-11-12T11:21:13.040Z,19.4198333333333,-65.2033333333333,39.44,3.38,md,9,293,1.087,0.4,pr,pr71382003,2022-11-12T11:48:56.840Z,"122 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.21,26.64,0.0495479546479451,6,reviewed,pr,pr
 2022-11-12T11:15:56.450Z,19.4723339080811,-155.608337402344,-0.310000002384186,1.75999999,md,10,95,,0.129999995,hv,hv73218202,2022-11-12T11:19:05.440Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.66,0.49000001,0.689999998,8,automatic,hv,hv
@@ -44,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T05:18:09.498Z,61.651,-148.1537,24.7,1.4,ml,,,,0.2,ak,ak022eiowpp1,2022-11-12T05:19:50.951Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-12T04:46:11.300Z,63.2401,-150.5576,93,1.7,ml,,,,2.39,ak,ak022eiohaa2,2022-11-12T04:48:24.289Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-12T04:40:50.620Z,34.8391667,-118.9823333,7.32,1.61,ml,32,53,0.06472,0.25,ci,ci40131327,2022-11-12T04:51:25.700Z,"4km WNW of Frazier Park, CA",earthquake,0.36,0.88,0.117,29,automatic,ci,ci
-2022-11-12T04:39:47.500Z,14.1232,-90.787,99.622,5.8,mww,99,80,0.494,1.26,us,us7000ip7p,2022-11-12T11:42:44.708Z,"11 km SE of Masagua, Guatemala",earthquake,5.34,3.709,0.034,81,reviewed,us,us
+2022-11-12T04:39:47.500Z,14.1232,-90.787,99.622,5.8,mww,99,80,0.494,1.26,us,us7000ip7p,2022-11-12T11:58:52.206Z,"11 km SE of Masagua, Guatemala",earthquake,5.34,3.709,0.034,81,reviewed,us,us
 2022-11-12T04:39:20.230Z,37.3098335,-121.6778336,7.29,1.39,md,15,55,0.04241,0.04,nc,nc73804120,2022-11-12T07:17:23.803Z,"14km E of Seven Trees, CA",earthquake,0.23,0.52,0.13,11,automatic,nc,nc
 2022-11-12T04:37:30.770Z,19.4874992370605,-155.650497436523,0.810000002384186,1.80999994,md,27,66,,0.280000001,hv,hv73217772,2022-11-12T04:43:00.220Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.49,1.22000003,0.879999995,11,automatic,hv,hv
 2022-11-12T04:31:09.910Z,37.833168,-122.0428314,9.5,2.79,md,74,35,0.0231,0.13,nc,nc73804110,2022-11-12T10:35:38.135Z,"2km SSW of Alamo, CA",earthquake,0.17,0.34,0.11,84,automatic,nc,nc
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-11T12:09:43.510Z,33.2678333,-115.9618333,5.9,1.36,ml,36,55,0.02355,0.14,ci,ci40131071,2022-11-11T20:22:12.861Z,"4km S of Salton City, CA",earthquake,0.2,0.35,0.162,28,reviewed,ci,ci
 2022-11-11T12:08:25.200Z,36.2475014,-120.8413315,7.48,1.9,md,13,103,0.04521,0.06,nc,nc73803775,2022-11-11T15:10:12.255Z,"21km NE of San Lucas, CA",earthquake,0.37,0.56,0.26,10,automatic,nc,nc
 2022-11-11T12:05:35.820Z,35.8905,-117.7288333,2.73,2.8,ml,35,54,0.08685,0.15,ci,ci40131063,2022-11-11T20:10:55.220Z,"17km ESE of Little Lake, CA",earthquake,0.18,0.32,0.162,24,reviewed,ci,ci
-2022-11-11T11:57:33.217Z,-17.7623,-172.036,17.144,5.1,mb,57,51,2.065,0.64,us,us7000ip1c,2022-11-11T12:18:06.040Z,"228 km ENE of Neiafu, Tonga",earthquake,4.24,3.913,0.037,236,reviewed,us,us
-2022-11-11T11:57:21.410Z,19.4913330078125,-155.662506103516,-1.53999996185303,1.71,ml,38,49,,0.319999993,hv,hv73216707,2022-11-11T12:02:52.120Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.660000026,4.16,11,automatic,hv,hv
