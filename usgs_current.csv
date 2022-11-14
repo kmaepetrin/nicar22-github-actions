@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-14T19:39:39.680Z,38.8336678,-122.8148346,2.09,0.36,md,8,76,0.01091,0.04,nc,nc73805055,2022-11-14T19:41:14.427Z,"8km W of Cobb, CA",earthquake,0.45,0.88,,1,automatic,nc,nc
+2022-11-14T19:46:45.680Z,38.8339996,-122.7891693,1.84,1.04,md,23,59,0.004498,0.02,nc,nc73805060,2022-11-14T19:48:19.684Z,"6km WNW of Cobb, CA",earthquake,0.2,0.36,0.12,5,automatic,nc,nc
+2022-11-14T19:44:09.550Z,19.1696662902832,-155.486999511719,32.7400016784668,2.08999991,md,27,102,,0.140000001,hv,hv73221552,2022-11-14T19:47:15.830Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.910000026,1.03999996,3,automatic,hv,hv
+2022-11-14T19:39:39.680Z,38.8336678,-122.8148346,2.09,0.36,md,8,76,0.01091,0.04,nc,nc73805055,2022-11-14T19:51:10.652Z,"8km W of Cobb, CA",earthquake,0.45,0.88,,1,automatic,nc,nc
 2022-11-14T19:31:10.563Z,62.2398,-148.8196,40.4,1.5,ml,,,,0.35,ak,ak022em8e9jk,2022-11-14T19:33:20.010Z,"Central Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-11-14T19:20:58.212Z,37.3479,-117.2519,4.9,1.2,ml,19,115.2,0.048,0.3163,nn,nn00851259,2022-11-14T19:23:54.754Z,"California-Nevada border region",earthquake,,0.9,0.78,12,automatic,nn,nn
 2022-11-14T19:05:37.869Z,62.2029,-150.3055,14,1.6,ml,,,,0.57,ak,ak022em88r16,2022-11-14T19:07:13.862Z,"13 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -58,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T13:27:58.696Z,37.4234,137.2428,11.551,4.6,mb,59,87,1.166,0.52,us,us7000iplv,2022-11-14T14:25:14.013Z,"48 km NNE of Nanao, Japan",earthquake,6.58,1.968,0.072,61,reviewed,us,us
 2022-11-14T13:06:26.721Z,38.1609,-117.8423,3.3,1.7,ml,12,162.95,0.366,0.2868,nn,nn00851234,2022-11-14T13:09:28.443Z,"34 km SE of Mina, Nevada",earthquake,,1.4,1.04,6,automatic,nn,nn
 2022-11-14T12:53:14.093Z,58.2764,-154.9825,5.3,1.5,ml,,,,0.41,ak,ak022em4cyc1,2022-11-14T12:55:07.298Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-14T12:46:06.940Z,46.20433333333333,-122.28283333333333,4.44,0.04,ml,8,95,0.03496,0.13,uw,uw61894256,2022-11-14T19:04:48.930Z,"Mount St. Helens area, Washington",earthquake,0.29,1.24,0.14161894909093042,7,reviewed,uw,uw
+2022-11-14T12:46:06.940Z,46.20433333333333,-122.28283333333333,4.44,0.04,ml,8,95,0.03496,0.13,uw,uw61894256,2022-11-14T19:04:48.930Z,"35 km NNE of Amboy, Washington",earthquake,0.29,1.24,0.14161894909093042,7,reviewed,uw,uw
 2022-11-14T12:45:29.820Z,17.953,-66.9566666666667,8.65,1.77,md,5,209,0.07688,0.08,pr,pr71382358,2022-11-14T13:38:16.950Z,"Puerto Rico region",earthquake,0.56,1.45,0.120086596916392,3,reviewed,pr,pr
 2022-11-14T12:39:24.413Z,-25.9362,178.598,652.061,4.9,mb,38,79,7.405,0.52,us,us7000ipln,2022-11-14T12:56:19.040Z,"south of the Fiji Islands",earthquake,11.95,9.043,0.09,39,reviewed,us,us
 2022-11-14T12:36:07.040Z,34.635,-118.2851667,10.58,1.15,ml,19,127,0.05327,0.1,ci,ci40132255,2022-11-14T19:09:08.849Z,"2km N of Leona Valley, CA",earthquake,0.22,0.3,0.133,19,reviewed,ci,ci
