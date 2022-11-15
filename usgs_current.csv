@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-15T07:35:31.110Z,37.8746681,-121.9455032,16.48,2.41,md,64,60,0.04051,0.15,nc,nc73807696,2022-11-15T07:38:56.665Z,"5km NNE of Diablo, CA",earthquake,0.21,0.42,0.14,64,automatic,nc,nc
+2022-11-15T07:33:23.250Z,37.8811684,-121.9384995,18.24,1.26,md,9,126,0.1178,0.04,nc,nc73807691,2022-11-15T07:35:00.801Z,"5km NNE of Diablo, CA",earthquake,0.61,1.66,0.15,6,automatic,nc,nc
+2022-11-15T07:31:12.660Z,33.2783333,-116.0816667,2.1,1.82,ml,61,30,0.1361,0.24,ci,ci40132623,2022-11-15T07:34:48.293Z,"12km W of Salton City, CA",earthquake,0.25,0.65,0.158,26,automatic,ci,ci
 2022-11-15T07:26:09.250Z,33.2573333,-116.781,5.57,0.68,ml,25,35,0.0283,0.14,ci,ci40132615,2022-11-15T07:29:40.756Z,"2km NW of Lake Henshaw, CA",earthquake,0.19,0.68,0.14,14,automatic,ci,ci
 2022-11-15T07:21:35.070Z,19.4326667785645,-155.624160766602,0.310000002384186,2.6,ml,15,127,,0.330000013,hv,hv73222162,2022-11-15T07:27:07.390Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.63,1.47000003,3.58,17,automatic,hv,hv
 2022-11-15T07:16:21.590Z,33.6521667,-116.7088333,13.24,0.56,ml,19,112,0.07435,0.15,ci,ci40132607,2022-11-15T07:19:57.435Z,"10km S of Idyllwild, CA",earthquake,0.41,0.6,0.138,14,automatic,ci,ci
@@ -294,5 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T07:58:28.876Z,36.8305,-115.9174,11.7,-0.2,ml,8,202.53,0.093,0.166,nn,nn00851279,2022-11-15T00:46:25.356Z,"Nevada",earthquake,,2.5,0.5,3,reviewed,nn,nn
 2022-11-14T07:41:30.058Z,36.4672,71.0023,151.821,4.2,mb,24,103,0.741,0.34,us,us7000ipkk,2022-11-14T11:51:31.040Z,"Hindu Kush region, Afghanistan",earthquake,8.05,5.829,0.199,7,reviewed,us,us
 2022-11-14T07:41:02.800Z,56.9018333333333,-158.085833333333,4.82,-0.38,ml,6,226,,0.06,av,av91076413,2022-11-14T23:04:48.720Z,"33 km E of Port Heiden, Alaska",earthquake,0.49,0.63,0.449993419548878,6,reviewed,av,av
-2022-11-14T07:38:42.420Z,35.28266667,-98.007,6.95,1.15,ml,15,98,0.08548322528,0.26,ok,ok2022whtp,2022-11-14T16:29:27.729Z,"6 km WSW of Minco, Oklahoma",earthquake,,1.2,0.26,7,reviewed,ok,ok
-2022-11-14T07:33:29.080Z,46.201,-122.18233333333333,3.14,0.08,ml,17,136,0.00234,0.11,uw,uw61894246,2022-11-14T19:17:39.000Z,"38 km NNE of Amboy, Washington",earthquake,0.28,0.45,0.1545663445156564,12,reviewed,uw,uw
