@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-18T19:25:51.940Z,19.2311668395996,-155.382507324219,32.5900001525879,2.99000001,md,46,148,,0.140000001,hv,hv73227352,2022-11-18T19:29:07.340Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.730000019,1.79999995,39,automatic,hv,hv
 2022-11-18T19:04:44.633Z,61.3131,-148.9561,28.9,1.6,ml,,,,0.38,ak,ak022esudxtb,2022-11-18T19:06:32.458Z,"16 km S of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-18T18:39:31.433Z,59.8112,-151.8776,59.9,1.4,ml,,,,0.43,ak,ak022estzxmg,2022-11-18T19:04:17.004Z,"4 km NW of Anchor Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-11-18T18:37:22.600Z,19.2481670379639,-155.321670532227,27.4899997711182,1.80999994,md,34,193,,0.100000001,hv,hv73227272,2022-11-18T18:40:31.160Z,"17 km ENE of Pāhala, Hawaii",earthquake,0.48,0.50999999,0.899999976,8,automatic,hv,hv
@@ -259,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-17T19:36:08.770Z,33.5086667,-116.482,15.54,0.46,ml,22,96,0.04928,0.14,ci,ci40377168,2022-11-17T21:41:10.263Z,"18km ESE of Anza, CA",earthquake,0.35,0.6,0.07,5,reviewed,ci,ci
 2022-11-17T19:32:24.140Z,38.7890015,-122.7259979,2.03,0.73,md,10,92,0.01017,0.01,nc,nc73808586,2022-11-17T20:39:15.641Z,"3km ENE of The Geysers, CA",earthquake,0.32,0.86,0.16,2,automatic,nc,nc
 2022-11-17T19:30:43.390Z,38.8201675,-122.7636642,1.88,0.45,md,8,118,0.01139,0.01,nc,nc73808581,2022-11-17T20:29:17.559Z,"4km W of Cobb, CA",earthquake,0.45,0.89,0.4,2,automatic,nc,nc
-2022-11-17T19:27:37.330Z,34.505,-118.9671667,13.04,1.74,ml,39,30,0.0489,0.25,ci,ci40377160,2022-11-17T21:36:40.160Z,"13km NNW of Fillmore, CA",earthquake,0.32,0.64,0.15,29,reviewed,ci,ci
