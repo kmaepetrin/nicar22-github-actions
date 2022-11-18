@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-17T20:17:13.530Z,33.3186667,-116.7656667,11.22,1.08,ml,44,26,0.08267,0.16,ci,ci40377184,2022-11-17T21:49:33.233Z,"9km N of Lake Henshaw, CA",earthquake,0.16,0.63,0.16,22,reviewed,ci,ci
 2022-11-17T20:08:22.300Z,37.2721672,-121.6451645,5.66,1.44,md,17,61,0.02589,0.04,nc,nc73808591,2022-11-18T00:39:14.147Z,"16km N of Morgan Hill, CA",earthquake,0.21,0.63,0.14,10,automatic,nc,nc
 2022-11-17T19:52:23.070Z,42.2031667,-111.0883333,7.68,1.9,ml,26,102,0.1909,0.18,uu,uu60525607,2022-11-18T16:52:44.440Z,"16 km NNW of Taylor, Wyoming",earthquake,0.46,0.88,0.132,5,reviewed,uu,uu
-2022-11-17T19:46:52.410Z,58.2373333333333,-155.160833333333,3.54,-0.3,ml,5,140,,0.14,av,av91076853,2022-11-18T01:44:26.100Z,"Alaska Peninsula",earthquake,0.37,1.73,0.237584257395752,5,reviewed,av,av
