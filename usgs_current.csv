@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-18T20:45:14.820Z,19.4933338165283,-155.662994384766,0.699999988079071,1.83000004,md,14,85,,0.119999997,hv,hv73227422,2022-11-18T20:48:21.960Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,1.90999997,0.25999999,7,automatic,hv,hv
-2022-11-18T20:39:01.530Z,36.6173325,-121.4085007,-0.48,1.35,md,10,76,0.0198,0.39,nc,nc73808976,2022-11-18T20:40:37.587Z,"11km ENE of Chualar, CA",earthquake,1.06,3.11,0.17,7,automatic,nc,nc
+2022-11-18T20:45:14.820Z,19.4933338165283,-155.662994384766,0.699999988079071,1.83000004,md,14,85,,0.119999997,hv,hv73227422,2022-11-18T20:50:46.260Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,1.90999997,0.25999999,7,automatic,hv,hv
+2022-11-18T20:39:01.530Z,36.6173325,-121.4085007,-0.48,1.35,md,10,76,0.0198,0.39,nc,nc73808976,2022-11-18T20:50:11.594Z,"11km ENE of Chualar, CA",earthquake,1.06,3.11,0.17,7,automatic,nc,nc
 2022-11-18T20:24:07.520Z,34.107,-117.5333333,14.76,1.5,ml,28,61,0.08797,0.19,ci,ci40377688,2022-11-18T20:34:50.570Z,"5km ESE of Rancho Cucamonga, CA",earthquake,0.38,0.6,0.205,30,automatic,ci,ci
 2022-11-18T20:22:08.110Z,37.629,-118.0097,5.4,2.4,ml,23,73.34,0.393,0.17,nn,nn00851554,2022-11-18T20:46:12.467Z,"6 km SE of Dyer, Nevada",earthquake,,1.8,0.38,8,reviewed,nn,nn
 2022-11-18T19:59:40.510Z,33.0455,-116.441,13.77,1.01,ml,31,65,0.1361,0.24,ci,ci40377680,2022-11-18T20:03:13.620Z,"16km ESE of Julian, CA",earthquake,0.35,0.89,0.145,21,automatic,ci,ci
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T12:06:03.070Z,19.3740005493164,-155.030334472656,7.09999990463257,1.94,ml,38,149,,0.230000004,hv,hv73226952,2022-11-18T12:19:48.268Z,"14 km SSE of Eden Roc, Hawaii",earthquake,0.7,0.479999989,0.34,5,automatic,hv,hv
 2022-11-18T12:05:39.426Z,57.8252,-157.4135,0,2.5,ml,,,,0.47,ak,ak022esq83w6,2022-11-18T12:20:52.040Z,"30 km NNE of Pilot Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-18T12:01:29.890Z,38.8371658,-122.7701645,1.23,1.15,md,13,146,0.006688,0.01,nc,nc73808826,2022-11-18T16:24:11.733Z,"4km WNW of Cobb, CA",earthquake,0.29,0.53,0.27,2,automatic,nc,nc
+2022-11-18T12:00:56.917Z,31.51058584,-104.0621429,6.388647461,2.2,ml,32,57,0.0729606213,0.1,tx,tx2022wpkg,2022-11-18T20:54:08.207Z,"33 km NW of Toyah, Texas",earthquake,0.7771406534,0.6404210327999998,0.1,18,reviewed,tx,tx
 2022-11-18T11:59:04.870Z,32.7573333,-115.8238333,4.5,1.33,ml,16,51,0.1229,0.19,ci,ci40377536,2022-11-18T12:02:38.694Z,"16km E of Ocotillo, CA",earthquake,0.36,1.29,0.212,21,automatic,ci,ci
 2022-11-18T11:47:42.850Z,36.7623329,-121.284668,8.62,1.23,md,8,192,0.0606,0.05,nc,nc73808821,2022-11-18T15:57:12.559Z,"4km SE of Tres Pinos, CA",earthquake,0.83,1.02,0.13,6,automatic,nc,nc
 2022-11-18T11:44:17.655Z,41.3287,83.8641,10,4.3,mb,32,80,3.812,0.46,us,us7000iqnl,2022-11-18T12:41:56.040Z,"89 km ESE of Kuqa, China",earthquake,7.13,1.894,0.142,16,reviewed,us,us
