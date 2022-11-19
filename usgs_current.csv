@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T21:59:37.660Z,19.3718338012695,-155.29133605957,2.04999995231628,2.13,ml,26,55,,0.159999996,hv,hv73228707,2022-11-19T22:05:07.300Z,"9 km SW of Volcano, Hawaii",earthquake,0.27,0.280000001,3.33,7,automatic,hv,hv
 2022-11-19T21:54:51.629Z,59.9402,-153.6194,163.7,2.4,ml,,,,0.36,ak,ak022eujevxd,2022-11-19T22:07:37.073Z,"32 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-19T21:53:31.787Z,59.0722,-153.9758,123.9,2.6,ml,,,,0.37,ak,ak022eujemld,2022-11-19T21:59:53.040Z,"61 km SE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-11-19T21:49:22.100Z,35.5711667,-120.8061667,3.46,2.81,md,61,50,0.07011,0.09,nc,nc73809431,2022-11-19T22:33:41.818Z,"9km WNW of Templeton, CA",earthquake,0.16,0.5,0.15,86,reviewed,nc,nc
+2022-11-19T21:49:22.100Z,35.5711667,-120.8061667,3.46,2.81,md,61,50,0.07011,0.09,nc,nc73809431,2022-11-19T22:44:14.660Z,"9km WNW of Templeton, CA",earthquake,0.16,0.5,0.15,86,reviewed,nc,nc
 2022-11-19T21:40:21.336Z,64.2074,-151.5279,0,1.6,ml,,,,1.43,ak,ak022eujbthx,2022-11-19T21:42:28.659Z,"52 km NE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-19T21:38:57.250Z,38.8356667,-122.7988358,2.11,0.46,md,13,65,0.007175,0.01,nc,nc73809416,2022-11-19T21:49:10.500Z,"7km WNW of Cobb, CA",earthquake,0.31,0.67,0.39,2,automatic,nc,nc
 2022-11-19T21:37:34.160Z,35.6946667,-117.5768333,10.22,1.38,ml,18,135,0.122,0.18,ci,ci40378208,2022-11-19T21:41:05.676Z,"12km NE of Ridgecrest, CA",earthquake,0.41,0.77,0.1,19,automatic,ci,ci
