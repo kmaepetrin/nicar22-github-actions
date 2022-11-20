@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-20T18:50:09.946Z,61.1226,-149.3758,30.6,1.8,ml,,,,0.3,ak,ak022ew54zgi,2022-11-20T18:51:32.882Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-20T18:37:45.129Z,60.7342,-148.2297,25.2,1.9,ml,,,,0.27,ak,ak022ew529v4,2022-11-20T18:38:52.706Z,"25 km E of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-20T18:26:33.536Z,61.6887,-148.1382,23,1,ml,,,,0.23,ak,ak022ew4zw3d,2022-11-20T18:28:26.230Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-20T18:16:12.277Z,61.573,-146.4063,27.7,1.9,ml,,,,0.75,ak,ak022ew4xpaj,2022-11-20T18:18:04.223Z,"49 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -172,6 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T01:37:48.880Z,37.4255,-118.883,3.18,1.16,md,24,145,0.1697,0.03,nc,nc73809471,2022-11-20T16:06:14.062Z,"24km SW of Toms Place, CA",earthquake,0.36,1.72,0.12,19,reviewed,nc,nc
 2022-11-20T01:36:53.766Z,62.6559,-151.6582,0,2.1,ml,,,,0.59,ak,ak022evuxpj4,2022-11-20T01:39:06.421Z,"49 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-20T01:24:31.980Z,19.1653327941895,-155.371505737305,28.8700008392334,2.00999999,md,39,220,,0.119999997,hv,hv73228842,2022-11-20T01:27:44.690Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.75,0.939999998,1.71000004,22,automatic,hv,hv
+2022-11-20T01:07:43.804Z,36.5686,-116.1921,7.4,-0.3,ml,8,181.33,0.12,0.0745,nn,nn00851668,2022-11-20T18:52:15.120Z,"Nevada",earthquake,,3.1,0.02,2,reviewed,nn,nn
 2022-11-20T01:06:56.877Z,35.07821655,-95.51284027,1.886642098,2.77,ml,19,112.3179779,0.1286700815,0.4154071367,ok,ok2022wsfs,2022-11-20T02:54:21.541Z,"13 km WSW of Quinton, Oklahoma",earthquake,3.69937151,2.425298325,,15,automatic,ok,ok
 2022-11-20T01:02:33.670Z,51.4546,179.4103,61.2,2.6,ml,10,143,0.102,0.29,us,us7000ir35,2022-11-20T05:19:12.040Z,"277 km W of Adak, Alaska",earthquake,3.18,3.27,0.115,10,reviewed,us,us
 2022-11-20T01:02:32.708Z,36.718,-116.0138,1.3,-0.3,ml,6,108.3,0.025,0.0631,nn,nn00851667,2022-11-20T18:49:06.766Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.07,2,reviewed,nn,nn
@@ -228,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T19:27:07.680Z,37.447,-118.8703333,5.47,0.76,md,10,145,0.1465,0.02,nc,nc73809361,2022-11-19T21:20:10.313Z,"21km SW of Toms Place, CA",earthquake,0.82,3.95,0.147,10,reviewed,nc,nc
 2022-11-19T19:16:47.660Z,17.9446666666667,-66.9541666666667,10.46,2.32,md,7,217,0.07744,0.06,pr,pr71383208,2022-11-19T19:24:46.930Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.62,0.71,0.0591804547517873,6,reviewed,pr,pr
 2022-11-19T19:11:59.410Z,71.3271,-134.2887,11.525,4.1,mb,19,133,3.047,0.57,us,us7000ir0z,2022-11-19T22:32:36.040Z,"Beaufort Sea",earthquake,10.88,5.831,0.186,8,reviewed,us,us
-2022-11-19T18:52:51.020Z,38.1578,-117.8907,15.4,0.8,ml,8,129.84,0.085,0.1678,nn,nn00851631,2022-11-19T18:56:00.347Z,"32 km SE of Mina, Nevada",earthquake,,1.3,0.62,5,automatic,nn,nn
