@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-20T18:58:48.210Z,19.191333770752,-155.500839233398,33.8499984741211,2.39,ml,47,83,,0.129999995,hv,hv73229607,2022-11-20T19:04:19.230Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.6,0.769999981,3.72,19,automatic,hv,hv
 2022-11-20T18:50:09.946Z,61.1226,-149.3758,30.6,1.8,ml,,,,0.3,ak,ak022ew54zgi,2022-11-20T18:51:32.882Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-20T18:37:45.129Z,60.7342,-148.2297,25.2,1.9,ml,,,,0.27,ak,ak022ew529v4,2022-11-20T18:38:52.706Z,"25 km E of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-20T18:26:33.536Z,61.6887,-148.1382,23,1,ml,,,,0.23,ak,ak022ew4zw3d,2022-11-20T18:28:26.230Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
