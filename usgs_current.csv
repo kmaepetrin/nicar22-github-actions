@@ -218,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T14:58:37.797Z,61.6537,-146.755,19.7,1.6,ml,,,,0.63,ak,ak022f11f2eb,2022-11-23T15:01:14.986Z,"37 km S of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-23T14:50:35.291Z,31.52836424,-104.0080874,6.735705566,2.7,ml,26,64,0.03978448044,0.2,tx,tx2022wytk,2022-11-24T06:43:04.040Z,"31 km NW of Toyah, Texas",earthquake,0.600897029,0.5072398595,0.1,14,reviewed,tx,tx
 2022-11-23T14:47:32.270Z,44.7958333,-110.795,4.85,0.53,md,10,190,0.04022,0.08,uu,uu60526152,2022-11-23T17:20:06.840Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.63,0.4,0.335,5,reviewed,uu,uu
-2022-11-23T14:43:22.461Z,38.2042,-117.7702,9,1.2,ml,14,176.07,0.137,0.1397,nn,nn00851931,2022-11-23T20:52:16.298Z,"36 km SE of Mina, Nevada",earthquake,,2.5,0.19,5,reviewed,nn,nn
-2022-11-23T14:41:12.890Z,17.9523333333333,-66.9541666666667,10.82,1.97,md,6,210,0.0748,0.04,pr,pr71383603,2022-11-23T15:38:09.190Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.47,0.77,0.050425148228544,5,reviewed,pr,pr
