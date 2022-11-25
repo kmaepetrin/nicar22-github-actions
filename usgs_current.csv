@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T07:43:36.899Z,59.8654,-151.4372,66.9,1.7,ml,,,,0.6,ak,ak022f2kp5uh,2022-11-24T08:39:38.251Z,"11 km ENE of Nikolaevsk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-24T07:41:44.335Z,39.1953,-119.8226,9.8,0.5,ml,6,90.21,0.087,0.1287,nn,nn00852006,2022-11-24T16:14:24.106Z,"5 km NW of Carson City, Nevada",earthquake,,2.7,0,1,reviewed,nn,nn
 2022-11-24T07:24:12.435Z,-22.0701,-179.4738,582.102,4.6,mb,78,39,4.073,0.91,us,us7000is0s,2022-11-24T07:49:15.040Z,"south of the Fiji Islands",earthquake,10.94,8.018,0.043,165,reviewed,us,us
-2022-11-24T07:20:55.050Z,33.0723343,-115.5863342,10.82,3.15,ml,76,43,0.03418,0.29,ci,ci40380264,2022-11-24T21:33:44.977Z,"5km NE of Westmorland, CA",earthquake,0.23,0.42,0.338,21,reviewed,ci,ci
+2022-11-24T07:20:55.050Z,33.0723343,-115.5863342,10.82,3.15,ml,76,43,0.03418,0.29,ci,ci40380264,2022-11-25T05:59:31.183Z,"5km NE of Westmorland, CA",earthquake,0.23,0.42,0.338,21,reviewed,ci,ci
 2022-11-24T07:18:11.198Z,31.657,-104.393,5,2.6,ml,26,112,0.093,0.48,us,us7000is0n,2022-11-24T20:22:09.470Z,"57 km S of Whites City, New Mexico",earthquake,1.44,1.848,0.067,39,reviewed,us,us
 2022-11-24T07:13:20.520Z,33.089,-116.0546667,6.93,1.57,ml,41,45,0.1061,0.27,ci,ci40380256,2022-11-24T07:24:08.270Z,"9km SE of Ocotillo Wells, CA",earthquake,0.33,1.44,0.16,26,automatic,ci,ci
 2022-11-24T07:09:53.020Z,33.0876667,-116.0518333,7.29,1.66,ml,42,44,0.1058,0.25,ci,ci40380248,2022-11-24T07:20:52.370Z,"10km SE of Ocotillo Wells, CA",earthquake,0.29,0.99,0.126,26,automatic,ci,ci
@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T06:09:43.362Z,56.1148,-149.2274,10,3.4,ml,58,187,2.485,0.52,us,us7000is05,2022-11-24T15:42:22.358Z,"249 km SE of Chiniak, Alaska",earthquake,7.99,2.004,0.052,48,reviewed,us,us
 2022-11-24T06:06:30.563Z,60.102,-152.4959,89.9,1.5,ml,,,,0.61,ak,ak022f2jvs9c,2022-11-24T06:08:45.146Z,"45 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-24T06:03:28.333Z,38.17,-116.1243,16,1.8,ml,11,255.59,0.965,0.2967,nn,nn00851985,2022-11-24T06:06:34.489Z,"67 km NNW of Rachel, Nevada",earthquake,,2.1,0.69,7,automatic,nn,nn
-2022-11-24T06:00:01.240Z,61.41,-152.339,4.32,0.46,ml,5,173,,0.15,av,av91721431,2022-11-24T06:20:51.840Z,"73 km WNW of Beluga, Alaska",earthquake,0.59,14.37,0.241143918072598,6,reviewed,av,av
-2022-11-24T05:59:12.870Z,39.6015,-119.0877,12.9,1.2,ml,10,166.42,0.254,0.1458,nn,nn00852005,2022-11-24T16:11:08.311Z,"14 km E of Fernley, Nevada",earthquake,,1.4,0.29,6,reviewed,nn,nn
