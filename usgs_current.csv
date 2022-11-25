@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T17:19:47.072Z,62.8946,-150.5778,84.6,2,ml,,,,0.28,ak,ak022f2qidhv,2022-11-24T17:21:55.718Z,"45 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-24T17:19:11.220Z,33.4843333,-116.4526667,6.12,1.11,ml,30,52,0.09802,0.25,ci,ci40380424,2022-11-24T17:22:44.160Z,"22km ESE of Anza, CA",earthquake,0.32,0.99,0.178,28,automatic,ci,ci
 2022-11-24T16:31:57.770Z,38.8334999,-122.8184967,1.78,0.85,md,9,83,0.01205,0.01,nc,nc73811056,2022-11-24T16:49:11.194Z,"8km NW of The Geysers, CA",earthquake,0.33,0.78,,1,automatic,nc,nc
-2022-11-24T16:22:28.467Z,34.1423,-80.7345,1.616,1.9,ml,10,109,0.034,0.18,us,us7000is9h,2022-11-25T05:08:50.590Z,"6 km ESE of Elgin, South Carolina",earthquake,1.05,4.264,0.085,18,reviewed,us,us
+2022-11-24T16:22:28.467Z,34.1423,-80.7345,1.616,1.9,ml,10,109,0.034,0.18,us,us7000is9h,2022-11-25T08:01:26.578Z,"6 km ESE of Elgin, South Carolina",earthquake,1.05,4.264,0.085,18,reviewed,us,us
 2022-11-24T16:22:22.695Z,-16.0529,-73.7398,48.708,4.9,mb,136,96,3.982,0.68,us,us7000is44,2022-11-24T17:16:56.040Z,"21 km NW of Atico, Peru",earthquake,8.5,7.364,0.05,131,reviewed,us,us
 2022-11-24T16:14:20.900Z,19.3816,-64.8458,18,3.65,md,15,305,1.0348,0.4,pr,pr2022328003,2022-11-24T18:11:36.040Z,"115 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,9.33,18.71,0.08,11,reviewed,pr,pr
 2022-11-24T16:06:30.543Z,62.9837,-149.9258,85.9,1.9,ml,,,,0.28,ak,ak022f2pu4b2,2022-11-24T16:08:00.148Z,"60 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
