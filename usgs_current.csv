@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-26T14:47:15.380Z,38.8209991,-122.7763367,1.54,0.85,md,6,156,0.008442,0.02,nc,nc73811776,2022-11-26T14:48:48.857Z,"5km W of Cobb, CA",earthquake,1.43,1.02,,1,automatic,nc,nc
+2022-11-26T14:47:15.380Z,38.8209991,-122.7763367,1.54,0.85,md,6,156,0.008442,0.02,nc,nc73811776,2022-11-26T14:59:10.874Z,"5km W of Cobb, CA",earthquake,1.43,1.02,,1,automatic,nc,nc
 2022-11-26T14:46:17.652Z,62.1077,-151.2104,73.9,1.5,ml,,,,0.38,ak,ak022f5zyhqd,2022-11-26T14:48:02.872Z,"16 km NE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-26T14:44:56.790Z,37.4282,-117.0783,0,1.2,ml,15,143.46,0.193,0.5468,nn,nn00852073,2022-11-26T14:47:39.327Z,"34 km SSE of Goldfield, Nevada",earthquake,,39.1,0,1,automatic,nn,nn
 2022-11-26T14:40:39.680Z,32.303833,-116.4820023,-0.75,2.97,ml,17,151,0.1541,0.4,ci,ci40381240,2022-11-26T14:46:40.898Z,"32km SSE of Tecate, B.C., MX",earthquake,1.39,3.53,0.456,25,automatic,ci,ci
@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T08:38:07.820Z,33.0726667,-115.579,8.24,1.66,ml,19,91,0.0344,0.2,ci,ci40381128,2022-11-26T08:41:54.091Z,"6km NE of Westmorland, CA",earthquake,0.38,0.85,0.145,26,automatic,ci,ci
 2022-11-26T08:31:08.842Z,65.8474,-150.2625,0,1.5,ml,,,,1.17,ak,ak022f5wanok,2022-11-26T08:34:10.607Z,"38 km N of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-26T08:30:00.057Z,42.0365,142.6249,59.748,4.5,mb,40,120,0.397,0.64,us,us7000isit,2022-11-26T08:45:55.040Z,"Hokkaido, Japan region",earthquake,7.93,8.674,0.11,24,reviewed,us,us
-2022-11-26T08:10:56.640Z,19.2021675109863,-155.487335205078,32.6599998474121,1.88999999,md,34,146,,0.150000006,hv,hv73236402,2022-11-26T08:14:18.790Z,"Island of Hawaii, Hawaii",earthquake,0.86,1.29999995,0.560000002,8,automatic,hv,hv
+2022-11-26T08:10:56.640Z,19.2021675109863,-155.487335205078,32.6599998474121,1.88999999,md,34,146,,0.150000006,hv,hv73236402,2022-11-26T08:14:18.790Z,"0 km W of Pāhala, Hawaii",earthquake,0.86,1.29999995,0.560000002,8,automatic,hv,hv
 2022-11-26T08:09:20.450Z,17.9681666666667,-65.9728333333333,17.73,2.63,md,5,197,0.1276,0.05,pr,pr71384063,2022-11-26T08:26:13.120Z,"1 km SE of Lamboglia, Puerto Rico",earthquake,0.51,0.43,0.164139681298506,5,reviewed,pr,pr
 2022-11-26T08:07:58.840Z,38.8224983,-122.784668,1.8,1.12,md,24,47,0.009736,0.01,nc,nc73811656,2022-11-26T10:19:12.169Z,"5km W of Cobb, CA",earthquake,0.2,0.31,0.25,4,automatic,nc,nc
 2022-11-26T08:04:30.620Z,38.8218346,-122.7850037,1.77,1.22,md,19,63,0.009204,0.01,nc,nc73811651,2022-11-26T09:51:11.986Z,"5km W of Cobb, CA",earthquake,0.23,0.35,0.03,4,automatic,nc,nc
