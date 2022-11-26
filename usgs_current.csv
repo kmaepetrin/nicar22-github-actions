@@ -163,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T15:05:49.520Z,36.1643333435059,-89.6800003051758,5.65999984741211,1.50999999,md,9,104,0.1504,0.100000001,nm,nm60500931,2022-11-25T18:10:18.424Z,"3 km SW of Caruthersville, Missouri",earthquake,0.48,6.23999977,0.230000004,5,reviewed,nm,nm
 2022-11-25T15:05:45.638Z,62.1796,-150.331,35.6,2.2,ml,,,,0.55,ak,ak022f4cruly,2022-11-25T15:07:14.113Z,"16 km SSW of Trapper Creek, Alaska",earthquake,,5,,,automatic,ak,ak
 2022-11-25T14:50:19.740Z,61.4153333333333,-152.345,4.34,0.56,ml,6,176,,0.17,av,av91722036,2022-11-26T03:46:25.930Z,"74 km WNW of Beluga, Alaska",earthquake,0.57,14.71,0.196001843345595,6,reviewed,av,av
-2022-11-25T14:30:39.382Z,59.7765,-153.1986,106,1.9,ml,,,,0.29,ak,ak022f4cbrdd,2022-11-25T14:32:28.138Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
