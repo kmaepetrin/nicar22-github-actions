@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T10:13:26.620Z,36.0203333,-120.8838333,9.95,0.85,md,25,69,0.006309,0.08,nc,nc73812001,2022-11-27T20:27:15.493Z,"2km E of San Ardo, CA",earthquake,0.23,0.39,0.326,13,reviewed,nc,nc
 2022-11-27T10:09:58.830Z,19.1253337860107,-155.42317199707,32.25,2.1400001,md,37,179,,0.129999995,hv,hv73238112,2022-11-27T10:13:16.180Z,"10 km SE of Pāhala, Hawaii",earthquake,0.6,1.09000003,0.280000001,13,automatic,hv,hv
 2022-11-27T10:08:57.837Z,46.9765,-112.7651,9.331,2.2,ml,14,56,0.241,0.32,us,us7000isqe,2022-11-27T10:20:13.040Z,"Western Montana",earthquake,1.92,7.434,0.074,24,reviewed,us,us
-2022-11-27T09:36:38.383Z,36.6908,-116.3505,11.8,0.5,ml,17,158.64,0.042,0.2572,nn,nn00852116,2022-11-27T09:38:51.748Z,"43 km ESE of Beatty, Nevada",earthquake,,0.6,0.96,10,automatic,nn,nn
+2022-11-27T09:36:39.275Z,36.7066,-116.3312,9,0.5,ml,27,101.82,0.022,0.1756,nn,nn00852116,2022-11-27T21:02:33.479Z,"44 km ESE of Beatty, Nevada",earthquake,,0.8,1.07,12,reviewed,nn,nn
 2022-11-27T09:32:34.565Z,-7.5127,127.799,157.151,4.3,mb,17,60,3.499,0.4,us,us7000isqg,2022-11-27T11:20:52.040Z,"142 km NE of Lospalos, Timor Leste",earthquake,7.85,8.16,0.201,7,reviewed,us,us
 2022-11-27T09:16:59.973Z,63.0885,-151.511,7.7,1.8,ml,,,,0.83,ak,ak022f7kcbzh,2022-11-27T09:19:23.612Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-27T09:14:57.711Z,-35.8749,-101.7826,10,4.7,mb,46,87,10.839,0.48,us,us7000isqn,2022-11-27T11:51:07.040Z,"southeast of Easter Island",earthquake,7.26,1.832,0.085,42,reviewed,us,us
