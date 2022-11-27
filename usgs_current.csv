@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-27T23:38:00.590Z,37.4303322,-118.6551666,16.09,1.56,md,15,97,0.1063,0.03,nc,nc73812171,2022-11-27T23:48:10.883Z,"5km WNW of Round Valley, CA",earthquake,0.43,1.76,0.1,9,automatic,nc,nc
 2022-11-27T23:29:55.725Z,58.1487,-156.5153,26.8,1.6,ml,,,,0.56,ak,ak022f7sr6fo,2022-11-27T23:32:03.908Z,"51 km E of Egegik, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-11-27T23:18:09.350Z,35.9550018,-120.5201645,4.17,0.36,md,9,98,0.01966,0.04,nc,nc73812161,2022-11-27T23:34:10.645Z,"10km NW of Parkfield, CA",earthquake,0.55,0.9,0.24,2,automatic,nc,nc
+2022-11-27T23:18:09.350Z,35.9550018,-120.5201645,4.17,0.36,md,9,98,0.01966,0.04,nc,nc73812161,2022-11-27T23:52:12.757Z,"10km NW of Parkfield, CA",earthquake,0.55,0.9,0.24,2,automatic,nc,nc
 2022-11-27T23:10:17.670Z,38.795166,-122.7734985,3.34,0.39,md,10,95,0.03111,0.01,nc,nc73812156,2022-11-27T23:31:11.630Z,"2km NW of The Geysers, CA",earthquake,0.36,1.58,0.19,2,automatic,nc,nc
 2022-11-27T23:10:08.267Z,64.3077,-152.4734,0,1.7,ml,,,,0.61,ak,ak022f7sn062,2022-11-27T23:12:13.775Z,"48 km N of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-27T22:56:05.440Z,38.7898331,-122.8011703,6.05,0.35,md,6,100,0.002114,0.02,nc,nc73812151,2022-11-27T23:20:12.572Z,"4km WNW of The Geysers, CA",earthquake,2.06,3.57,,1,automatic,nc,nc
@@ -60,8 +60,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T16:33:06.328Z,57.1969,-156.4818,18.8,2.1,ml,,,,0.61,ak,ak022f7olw94,2022-11-27T16:36:03.899Z,"65 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-27T16:22:01.238Z,35.27315521,-98.03662109,3.179877996,1.83,ml,12,81.69197083,0.06376358867,0.9810622207,ok,ok2022xgek,2022-11-27T16:29:43.848Z,"9 km WSW of Minco, Oklahoma",earthquake,3.420609107,2.400421085,,8,automatic,ok,ok
 2022-11-27T16:13:20.740Z,19.5048332214355,-155.296340942383,8.09000015258789,2.37,ml,47,74,,0.209999993,hv,hv73238797,2022-11-27T16:18:51.980Z,"9 km NW of Volcano, Hawaii",earthquake,0.39,0.709999979,0.3,5,automatic,hv,hv
-2022-11-27T16:10:04.464Z,38.1467,-117.8848,4.5,0.7,ml,9,173.14,0.059,0.1616,nn,nn00852122,2022-11-27T16:13:01.889Z,"Nevada",earthquake,,1.4,0.42,3,automatic,nn,nn
-2022-11-27T16:08:28.181Z,38.1731,-117.8868,5.5,1,ml,14,174.93,0.067,0.1915,nn,nn00852119,2022-11-27T16:11:23.034Z,"Nevada",earthquake,,0.5,0.19,7,automatic,nn,nn
+2022-11-27T16:10:04.464Z,38.1467,-117.8848,4.5,0.7,ml,9,173.14,0.059,0.1616,nn,nn00852122,2022-11-27T16:13:01.889Z,"33 km SE of Mina, Nevada",earthquake,,1.4,0.42,3,automatic,nn,nn
+2022-11-27T16:08:28.181Z,38.1731,-117.8868,5.5,1,ml,14,174.93,0.067,0.1915,nn,nn00852119,2022-11-27T16:11:23.034Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.19,7,automatic,nn,nn
 2022-11-27T15:47:04.084Z,61.6748,-151.0306,63.4,1.4,ml,,,,0.41,ak,ak022f7o3gi0,2022-11-27T15:50:58.577Z,"31 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-27T15:29:38.179Z,-34.7078,-71.8261,45.456,4.1,mb,31,128,0.313,0.44,us,us7000isrm,2022-11-27T16:22:02.040Z,"42 km W of Santa Cruz, Chile",earthquake,5.16,4.119,0.151,12,reviewed,us,us
 2022-11-27T15:29:25.796Z,34.50990677,-97.23053741,4.266564369,2.06,ml,11,174.7126732,0.1169862226,0.4479171127,ok,ok2022xgcr,2022-11-27T15:31:46.782Z,"10 km W of Davis, Oklahoma",earthquake,5.964079797,3.843026873,,9,automatic,ok,ok
