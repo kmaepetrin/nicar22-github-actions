@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T02:50:52.597Z,-24.9252,-112.2414,10,5.6,mww,97,112,3.413,0.66,us,us7000isn8,2022-11-27T03:33:36.017Z,"Easter Island region",earthquake,7.57,1.57,0.089,12,reviewed,us,us
 2022-11-27T02:43:14.660Z,33.2183333,-116.7485,11.36,0.66,ml,25,48,0.01959,0.16,ci,ci40381376,2022-11-27T02:46:42.710Z,"3km SSE of Lake Henshaw, CA",earthquake,0.28,0.67,0.141,13,automatic,ci,ci
 2022-11-27T02:28:48.540Z,19.1753330230713,-155.358840942383,30.1299991607666,2.44,ml,49,174,,0.119999997,hv,hv73237552,2022-11-27T02:43:05.040Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.54,0.779999971,3.47,11,automatic,hv,hv
+2022-11-27T02:18:34.580Z,48.711333333333336,-119.64816666666667,13.38,1.11,ml,6,129,0.1368,0.32,uw,uw61896241,2022-11-27T04:00:48.530Z,"12 km S of Loomis, Washington",earthquake,1.2,3,0.092441786681144,4,reviewed,uw,uw
 2022-11-27T02:10:55.003Z,-8.029,108.2401,74.991,4.6,mb,51,50,0.812,0.68,us,us7000isn0,2022-11-27T02:50:23.040Z,"71 km S of Kawalu, Indonesia",earthquake,7.35,6.482,0.085,41,reviewed,us,us
 2022-11-27T02:08:54.065Z,62.3737,-147.3342,249.8,2.2,ml,,,,1.18,ak,ak022f7g4kke,2022-11-27T02:11:55.659Z,"41 km WNW of Lake Louise, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2022-11-27T02:06:41.614Z,64.8357,-149.2346,12.4,1.4,ml,,,,0.53,ak,ak022f7g4469,2022-11-27T02:09:02.316Z,"26 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
