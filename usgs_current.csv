@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-29T14:59:13.476Z,61.2752,-149.9474,38.7,1.9,ml,,,,0.31,ak,ak022faynb77,2022-11-29T15:00:45.179Z,"6 km NNW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-29T14:55:59.212Z,61.6897,-150.8369,35.9,2,ml,,,,0.3,ak,ak022faymjv5,2022-11-29T14:57:46.228Z,"23 km NW of Susitna, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2022-11-29T14:49:39.001Z,62.0593,-147.0413,70.6,1.4,ml,,,,1.44,ak,ak022fayl80c,2022-11-29T14:51:37.995Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-29T14:47:45.365Z,61.6781,-150.102,35.6,1.4,ml,,,,0.3,ak,ak022faykt2g,2022-11-29T14:48:59.783Z,"8 km SSW of Willow, Alaska",earthquake,,4,,,automatic,ak,ak
 2022-11-29T14:31:51.590Z,38.8156662,-122.7958298,2.5,0.84,md,14,72,0.007698,0.01,nc,nc73812776,2022-11-29T14:55:11.022Z,"6km NW of The Geysers, CA",earthquake,0.3,0.63,,1,automatic,nc,nc
 2022-11-29T14:24:44.605Z,62.7813,-150.4241,41.8,1.6,ml,,,,0.72,ak,ak022fayfvjg,2022-11-29T14:27:09.302Z,"36 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-29T14:20:42.467Z,2.2217,96.256,24.141,4.7,mb,34,193,1.603,0.45,us,us7000itaj,2022-11-29T14:48:45.040Z,"31 km SSW of Sinabang, Indonesia",earthquake,9.08,6.442,0.127,20,reviewed,us,us
+2022-11-29T14:15:28.594Z,53.6908,-166.6103,80.7,1.7,ml,,,,0.18,ak,ak022faydwgj,2022-11-29T15:00:47.798Z,"21 km SSW of Unalaska, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-11-29T14:12:37.957Z,59.8058,-152.3715,77.2,1.4,ml,,,,0.24,ak,ak022faydafn,2022-11-29T14:14:24.564Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-11-29T14:09:40.500Z,19.4788341522217,-155.550994873047,-2.83999991416931,2.25999999,md,34,63,,0.219999999,hv,hv73244917,2022-11-29T14:15:38.480Z,"31 km NNW of Pāhala, Hawaii",earthquake,0.33,0.340000004,2.13000011,10,automatic,hv,hv
 2022-11-29T14:07:49.350Z,33.2185,-116.7496667,10.19,0.71,ml,18,78,0.01903,0.12,ci,ci40382336,2022-11-29T14:11:16.635Z,"3km SSE of Lake Henshaw, CA",earthquake,0.29,0.47,0.155,10,automatic,ci,ci
@@ -101,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T08:11:30.510Z,19.2014999389648,-155.502166748047,31.9099998474121,1.84000003,md,24,143,,0.119999997,hv,hv73244182,2022-11-29T08:14:50.500Z,"2 km W of Pāhala, Hawaii",earthquake,0.82,1.19000006,0.790000021,3,automatic,hv,hv
 2022-11-29T08:05:33.399Z,61.3353,-141.0909,18.6,1.2,ml,,,,0.11,ak,ak022faur6fy,2022-11-29T08:09:30.712Z,"98 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-29T07:57:09.582Z,63.0007,-149.7726,83.1,1.7,ml,,,,0.62,ak,ak022faugu8e,2022-11-29T07:59:25.417Z,"60 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-29T07:51:07.060Z,44.091,-110.3041667,11.75,1.52,md,23,121,0.1611,0.15,uu,uu60526542,2022-11-29T14:55:51.290Z,"Wyoming",earthquake,0.34,0.56,0.075,12,reviewed,uu,uu
 2022-11-29T07:44:05.770Z,19.4400005340576,-155.516494750977,-1.8400000333786,1.70000005,md,7,121,,0.219999999,hv,hv73244127,2022-11-29T07:47:15.360Z,"26 km N of Pāhala, Hawaii",earthquake,0.83,0.949999988,0.25,5,automatic,hv,hv
 2022-11-29T07:42:53.810Z,19.0370006561279,-155.410171508789,35.6399993896484,2.24000001,md,31,211,,0.0900000036,hv,hv73244122,2022-11-29T07:46:18.420Z,"18 km E of Naalehu, Hawaii",earthquake,0.52,1.03999996,0.870000005,11,automatic,hv,hv
 2022-11-29T07:42:41.074Z,37.0431,-32.5103,10,4.8,mb,36,126,5.608,0.7,us,us7000it88,2022-11-29T09:43:54.040Z,"Azores Islands region",earthquake,6.96,1.918,0.114,34,reviewed,us,us
@@ -136,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T05:33:48.513Z,36.5456,69.8747,10,4.6,mb,73,40,0.807,0.61,us,us7000it74,2022-11-29T08:54:43.040Z,"3 km SSE of Farkhār, Afghanistan",earthquake,5.82,1.85,0.073,56,reviewed,us,us
 2022-11-29T05:27:32.430Z,19.5105,-155.539,-1.53,2.77,ml,19,101,,0.13,hv,hv73243847,2022-11-29T06:08:49.040Z,"32 km WNW of Volcano, Hawaii",earthquake,0.35,0.58,0.21452396691397,17,reviewed,hv,hv
 2022-11-29T05:24:14.670Z,19.4733333333333,-155.530166666667,2.21,2.05,md,36,68,,0.16,hv,hv73243837,2022-11-29T05:39:56.550Z,"30 km N of Pāhala, Hawaii",earthquake,0.4,0.76,0.278108499710847,9,reviewed,hv,hv
-2022-11-29T05:23:36.685Z,38.3161,24.3345,11.287,5,mb,35,56,1.715,0.87,us,us7000it6x,2022-11-29T13:05:08.111Z,"18 km NE of Néa Stíra, Greece",earthquake,5.43,5.044,0.2,8,reviewed,us,us
+2022-11-29T05:23:36.685Z,38.3161,24.3345,11.287,5,mb,35,56,1.715,0.87,us,us7000it6x,2022-11-29T14:56:54.435Z,"18 km NE of Néa Stíra, Greece",earthquake,5.43,5.044,0.2,8,reviewed,us,us
 2022-11-29T05:16:05.040Z,19.5001666666667,-155.545333333333,-2.25,1.77,md,32,85,,0.27,hv,hv73243817,2022-11-29T05:31:31.900Z,"33 km W of Volcano, Hawaii",earthquake,0.45,0.55,0.197115699293802,12,reviewed,hv,hv
 2022-11-29T05:06:58.010Z,-6.4436,129.1525,214.387,4.4,mb,22,101,2.622,0.52,us,us7000it6v,2022-11-29T08:29:11.040Z,"Banda Sea",earthquake,8.27,7.122,0.162,11,reviewed,us,us
 2022-11-29T05:05:10.758Z,-31.413,-179.1088,12.512,5.2,mb,44,65,6.494,0.92,us,us7000it6u,2022-11-29T05:32:15.040Z,"Kermadec Islands region",earthquake,13,3.607,0.061,87,reviewed,us,us
@@ -283,6 +287,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-28T18:50:03.000Z,19.4974994659424,-155.559494018555,-3.61999988555908,1.99,ml,25,56,,0.25999999,hv,hv73242447,2022-11-28T18:55:34.470Z,"32 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.409999996,4.87,3,automatic,hv,hv
 2022-11-28T18:38:47.140Z,19.4833333333333,-155.584333333333,-0.41,2.48,md,11,112,,0.14,hv,hv73242422,2022-11-28T18:59:30.015Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.49,0.29,0.377722864472246,5,reviewed,hv,hv
 2022-11-28T18:38:32.660Z,33.3,-115.7693333,3.99,1.34,ml,6,221,0.1694,0.17,ci,ci40382008,2022-11-28T18:42:11.710Z,"6km SSW of Bombay Beach, CA",earthquake,6.15,31.61,0.469,20,automatic,ci,ci
+2022-11-28T18:32:43.850Z,33.1823333,-115.606,3.38,1.76,ml,30,86,0.009428,0.23,ci,ci40382000,2022-11-29T14:59:40.109Z,"10km SW of Niland, CA",earthquake,0.29,0.3,0.273,25,reviewed,ci,ci
 2022-11-28T18:26:26.440Z,19.5101666666667,-155.569833333333,0.57,2.84,md,11,94,,0.12,hv,hv73242397,2022-11-28T18:45:23.163Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.74,0.0293032832448763,2,reviewed,hv,hv
 2022-11-28T18:25:51.760Z,38.8326683,-122.8066635,2.12,1.17,md,24,48,0.009635,0.03,nc,nc73812421,2022-11-28T21:26:11.727Z,"7km W of Cobb, CA",earthquake,0.2,0.46,,1,automatic,nc,nc
 2022-11-28T18:24:47.450Z,33.1808333,-115.6008333,3.71,1.98,ml,18,97,0.01286,0.22,ci,ci40381992,2022-11-29T14:52:20.062Z,"10km SW of Niland, CA",earthquake,0.33,0.29,0.196,6,reviewed,ci,ci
@@ -327,6 +332,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-28T15:07:46.540Z,19.5061666666667,-155.556333333333,-3.2,1.46,md,32,67,,0.23,hv,hv73241837,2022-11-28T15:40:23.040Z,"32 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.2,0.16,0.0704970893027239,5,reviewed,hv,hv
 2022-11-28T15:03:54.090Z,19.519,-155.562666666667,0.27,2.95,ml,10,146,,0.11,hv,hv73241827,2022-11-28T15:37:12.040Z,"32 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.69,0.0804592766523411,4,reviewed,hv,hv
 2022-11-28T15:02:27.990Z,19.5058333333333,-155.566833333333,-1.25,2.16,md,11,115,,0.2,hv,hv73241822,2022-11-28T15:28:26.570Z,"Hawaii region, Hawaii",earthquake,0.27,0.55,0.0881123180569834,4,reviewed,hv,hv
-2022-11-28T14:59:34.250Z,19.4831666666667,-155.567833333333,1.26,1.42,md,29,118,,0.17,hv,hv73241817,2022-11-28T15:36:10.990Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.81,0.0291510704323088,7,reviewed,hv,hv
-2022-11-28T14:57:12.100Z,19.3926658630371,-155.413665771484,-0.779999971389771,2.21,ml,10,110,,0.319999993,hv,hv73241807,2022-11-28T15:02:46.910Z,"19 km WSW of Volcano, Hawaii",earthquake,1.07,1.50999999,4.28,7,automatic,hv,hv
-2022-11-28T14:57:07.260Z,19.5088333333333,-155.557333333333,-0.5,2.61,ml,10,116,,0.13,hv,hv73241812,2022-11-28T17:12:23.049Z,"32 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.61,0.186211992502687,7,reviewed,hv,hv
