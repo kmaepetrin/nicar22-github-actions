@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-30T21:00:24.100Z,32.7538338,-116.9113312,5.96,1.28,ml,11,95,0.03188,0.18,ci,ci40382832,2022-11-30T21:02:29.246Z,"2km ENE of Rancho San Diego, CA",earthquake,1.31,2.14,0.052,4,automatic,ci,ci
+2022-11-30T20:57:24.080Z,33.9401667,-116.7966667,18.55,0.96,ml,24,67,0.09519,0.18,ci,ci40382824,2022-11-30T21:00:56.093Z,"3km NNW of Cabazon, CA",earthquake,0.34,0.67,0.136,20,automatic,ci,ci
 2022-11-30T20:29:33.930Z,40.5125008,-122.034668,18.65,2.08,md,6,154,0.0873,0.05,nc,nc73813211,2022-11-30T20:36:10.658Z,"12km W of Shingletown, CA",earthquake,0.78,1.17,0.16,9,automatic,nc,nc
 2022-11-30T20:27:06.192Z,60.5943,-152.6826,205.5,1.2,ml,,,,0.67,ak,ak022fcpkdtr,2022-11-30T20:37:28.536Z,"Southern Alaska",earthquake,,5.4,,,automatic,ak,ak
 2022-11-30T20:14:37.639Z,60.164,-151.9608,63.9,1.4,ml,,,,0.33,ak,ak022fcphnyr,2022-11-30T20:20:55.969Z,"20 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -242,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T21:29:31.915Z,37.0255,30.7135,8.111,3.1,ml,14,95,0.832,0.59,us,us6000j5lr,2022-11-30T11:15:16.493Z,"13 km N of Antalya, Turkey",earthquake,3.35,8.008,0.085,18,reviewed,us,us
 2022-11-29T21:28:52.180Z,19.5115,-155.547833333333,-1.33,2.38,md,45,75,,0.2,hv,hv73245672,2022-11-30T05:34:08.040Z,"33 km WNW of Volcano, Hawaii",earthquake,0.29,0.47,0.242750966601545,13,reviewed,hv,hv
 2022-11-29T21:22:48.220Z,19.5028324127197,-155.538497924805,-2.28999996185303,1.99000001,md,35,102,,0.270000011,hv,hv73245667,2022-11-29T21:25:58.240Z,"32 km WNW of Volcano, Hawaii",earthquake,0.47,0.5,1.36000001,10,automatic,hv,hv
-2022-11-29T21:00:12.072Z,64.9568,-147.2938,0,1.4,ml,,,,0.8,ak,ak022fb2gp2v,2022-11-29T21:01:58.967Z,"15 km NW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-29T20:59:35.090Z,33.8643333,-117.5066667,-0.52,0.97,ml,27,55,0.04667,0.26,ci,ci40382480,2022-11-30T18:13:10.664Z,"2km SE of Home Gardens, CA",quarry blast,0.63,31.61,0.085,9,reviewed,ci,ci
-2022-11-29T20:58:45.410Z,19.4773330688477,-155.454330444336,-2.74000000953674,1.89999998,md,30,63,,0.219999999,hv,hv73245632,2022-11-29T21:01:56.190Z,"23 km W of Volcano, Hawaii",earthquake,0.38,0.25999999,0.939999998,11,automatic,hv,hv
