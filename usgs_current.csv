@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-30T22:58:17.497Z,35.9254,-115.5005,15.9,2.2,ml,11,233.39,0.598,0.432,nn,nn00852341,2022-11-30T23:02:32.256Z,"11 km NNW of Goodsprings, Nevada",earthquake,,1.7,0.99,7,automatic,nn,nn
 2022-11-30T22:48:32.260Z,19.255500793457,-155.40299987793,31.9200000762939,1.96000004,md,35,129,,0.119999997,hv,hv73247927,2022-11-30T22:51:44.270Z,"9 km NE of Pāhala, Hawaii",earthquake,0.85,0.639999986,0.49000001,5,automatic,hv,hv
 2022-11-30T22:44:53.509Z,61.561,-149.6979,31.7,1.6,ml,,,,0.83,ak,ak022fcquzvq,2022-11-30T22:46:50.445Z,"7 km NW of Knik-Fairview, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-11-30T22:44:15.410Z,33.4903333,-116.5435,8.83,0.92,ml,34,51,0.04925,0.17,ci,ci40382872,2022-11-30T22:47:46.771Z,"14km ESE of Anza, CA",earthquake,0.22,0.42,0.145,20,automatic,ci,ci
@@ -243,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T23:06:57.840Z,47.5615,-120.30883333333334,-1.33,0.55,md,4,243,0.04593,0.08,uw,uw61896621,2022-11-30T05:41:10.390Z,"10 km NNE of Sunnyslope, Washington",explosion,2.83,31.61,0.5071366724423454,5,reviewed,uw,uw
 2022-11-29T23:06:06.430Z,38.4888333,-112.8426667,0.18,-1.23,md,6,138,0.02406,0.05,uu,uu60032239,2022-11-29T23:31:08.380Z,"17 km NE of Milford, Utah",earthquake,0.38,5.22,0.278,2,reviewed,uu,uu
 2022-11-29T23:05:46.090Z,38.4873333,-112.8533333,-0.29,-0.08,md,9,92,0.003086,0.13,uu,uu60032234,2022-11-29T23:26:28.860Z,"Utah",earthquake,0.46,0.18,0.349,3,reviewed,uu,uu
-2022-11-29T23:03:50.470Z,19.491,-155.560666666667,-1.56,2.11,md,38,76,,0.17,hv,hv73245787,2022-11-29T23:39:46.800Z,"32 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.36,0.258652831080814,11,reviewed,hv,hv
