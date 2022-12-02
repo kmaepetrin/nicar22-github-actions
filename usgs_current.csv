@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T07:57:07.080Z,34.025,-117.232,18.44,1.08,ml,24,105,0.1232,0.16,ci,ci40383544,2022-12-02T08:00:40.870Z,"4km SE of Loma Linda, CA",earthquake,0.3,0.61,0.153,31,automatic,ci,ci
 2022-12-02T07:31:55.810Z,38.831665,-122.8164978,1.69,1.09,md,19,52,0.009663,0.02,nc,nc73813736,2022-12-02T07:53:15.999Z,"8km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,20,automatic,nc,nc
 2022-12-02T07:30:42.330Z,32.979,-116.3451667,8.56,1.05,ml,27,75,0.04273,0.24,ci,ci40383536,2022-12-02T07:34:14.021Z,"24km NE of Pine Valley, CA",earthquake,0.36,0.95,0.141,20,automatic,ci,ci
 2022-12-02T07:24:51.100Z,38.8241653,-122.8043365,2.73,0.58,md,9,80,0.004547,0.01,nc,nc73813731,2022-12-02T07:42:12.938Z,"7km NW of The Geysers, CA",earthquake,0.54,1.26,0.4,11,automatic,nc,nc
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T06:06:49.977Z,63.5086,-151.1128,0.8,1.7,ml,,,,0.54,ak,ak022ffs6lph,2022-12-02T06:08:43.157Z,"30 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-02T06:05:39.690Z,35.8936667,-117.7146667,9.64,1.02,ml,10,169,0.09422,0.09,ci,ci40383496,2022-12-02T06:09:19.481Z,"18km ESE of Little Lake, CA",earthquake,0.36,0.65,0.242,6,automatic,ci,ci
 2022-12-02T06:01:31.230Z,38.7919998,-122.7860031,-0.04,1.49,md,19,80,0.001904,0.04,nc,nc73813701,2022-12-02T06:29:18.495Z,"3km WNW of The Geysers, CA",earthquake,0.17,0.5,0.24,20,automatic,nc,nc
-2022-12-02T06:00:25.040Z,38.791832,-122.7853317,0.23,1.33,md,10,102,0.002428,0.02,nc,nc73813696,2022-12-02T07:09:11.011Z,"3km WNW of The Geysers, CA",earthquake,0.29,0.52,0.16,11,automatic,nc,nc
+2022-12-02T06:00:25.040Z,38.791832,-122.7853317,0.23,1.33,md,10,102,0.002428,0.02,nc,nc73813696,2022-12-02T07:59:17.036Z,"3km WNW of The Geysers, CA",earthquake,0.29,0.52,0.16,11,automatic,nc,nc
 2022-12-02T05:52:06.051Z,61.2337,-151.7862,77.6,0.6,ml,,,,0.47,ak,ak022ffruxnh,2022-12-02T05:54:04.903Z,"39 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-02T05:48:35.552Z,59.1537,-151.573,61.6,1.9,ml,,,,0.44,ak,ak022ffru542,2022-12-02T05:51:53.396Z,"26 km SSE of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-12-02T05:47:37.809Z,58.2126,-155.3351,51.3,3,ml,,,,0.89,ak,ak022ffrty0w,2022-12-02T05:49:53.187Z,"88 km NW of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
@@ -134,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T19:54:29.030Z,34.9973333,-118.1828333,-0.85,1.47,ml,14,70,0.1241,0.13,ci,ci40383312,2022-12-01T21:20:11.346Z,"6km S of Mojave, CA",quarry blast,0.36,31.61,0.166,26,reviewed,ci,ci
 2022-12-01T19:40:15.480Z,19.2198333740234,-155.379333496094,31.9599990844727,1.75,md,26,155,,0.170000002,hv,hv73250207,2022-12-01T19:43:23.990Z,"10 km E of Pāhala, Hawaii",earthquake,0.91,1.00999999,0.74000001,3,automatic,hv,hv
 2022-12-01T19:37:20.900Z,19.3936666666667,-155.454666666667,8.38,1.41,md,27,42,,0.12,hv,hv73250202,2022-12-01T20:15:57.010Z,"21 km N of Pāhala, Hawaii",earthquake,0.32,0.67,0.213709975932459,12,reviewed,hv,hv
-2022-12-01T19:37:07.340Z,19.4413333333333,-155.5925,-2.03,1.28,md,10,97,,0.19,hv,hv73250197,2022-12-01T20:25:39.990Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.37,0.248958798582732,5,reviewed,hv,hv
+2022-12-01T19:37:07.340Z,19.4413333333333,-155.5925,-2.03,1.28,md,10,97,,0.19,hv,hv73250197,2022-12-01T20:25:39.990Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.37,0.248958798582732,5,reviewed,hv,hv
 2022-12-01T19:31:12.590Z,33.826,-117.4821667,-0.53,1.33,ml,19,110,0.0321,0.28,ci,ci40383304,2022-12-01T20:11:36.991Z,"7km SSE of Home Gardens, CA",quarry blast,0.76,31.61,0.197,33,reviewed,ci,ci
 2022-12-01T19:27:01.443Z,31.61377504,-103.9959893,8.856616211,2.3,ml,21,57,0.01952657167,0.1,tx,tx2022xnsn,2022-12-01T23:33:47.237Z,"western Texas",earthquake,0.5585696263,0.5491025478,0.1,16,reviewed,tx,tx
 2022-12-01T19:14:59.576Z,31.69946955,-104.1708528,6.131567383,2.7,ml,14,69,0.06037789876,0.3,tx,tx2022xnsd,2022-12-01T21:34:53.454Z,"54 km W of Mentone, Texas",earthquake,0.9750506642,1.2036179,0.3,11,reviewed,tx,tx
