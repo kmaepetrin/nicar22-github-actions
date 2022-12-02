@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-02T19:37:59.890Z,38.7891655,-122.7271652,2.01,0.75,md,8,92,0.009532,0.01,nc,nc73813951,2022-12-02T19:39:36.989Z,"3km ENE of The Geysers, CA",earthquake,0.36,1.04,0.32,7,automatic,nc,nc
+2022-12-02T19:37:59.890Z,38.7891655,-122.7271652,2.01,0.75,md,8,92,0.009532,0.01,nc,nc73813951,2022-12-02T19:49:10.410Z,"3km ENE of The Geysers, CA",earthquake,0.36,1.04,0.32,7,automatic,nc,nc
 2022-12-02T19:32:20.610Z,19.4080009460449,-155.612503051758,0.0199999995529652,2.02999997,md,23,109,,0.330000013,hv,hv73253002,2022-12-02T19:37:51.990Z,"26 km NNW of Pāhala, Hawaii",earthquake,0.75,0.810000002,1.91999996,6,automatic,hv,hv
 2022-12-02T19:29:36.490Z,38.8419991,-122.8261642,1.83,0.23,md,10,153,0.008038,0.01,nc,nc73813946,2022-12-02T19:40:10.360Z,"9km WNW of Cobb, CA",earthquake,0.42,0.71,0.13,12,automatic,nc,nc
+2022-12-02T19:21:55.170Z,33.1363333,-116.641,5.98,1.05,ml,40,29,0.06287,0.16,ci,ci40141319,2022-12-02T19:51:52.010Z,"7km NNW of Julian, CA",earthquake,0.21,0.46,0.134,19,reviewed,ci,ci
 2022-12-02T19:13:13.790Z,38.8069992,-122.779335,1.38,1.1,md,13,95,0.006339,0.02,nc,nc73813931,2022-12-02T19:24:10.267Z,"4km NNW of The Geysers, CA",earthquake,0.29,0.55,0.13,14,automatic,nc,nc
 2022-12-02T19:11:42.047Z,61.5121,-149.8857,32.3,1.9,ml,,,,0.41,ak,ak022ffzyajg,2022-12-02T19:13:26.381Z,"3 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-02T19:05:53.687Z,62.9561,-151.2162,107.1,1.8,ml,,,,0.53,ak,ak022ffzx154,2022-12-02T19:08:43.074Z,"56 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -57,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T12:35:11.027Z,-53.954,2.742,10,5.7,mww,68,61,17.95,0.48,us,us6000j6a9,2022-12-02T14:50:33.040Z,"Bouvet Island region",earthquake,8.62,1.769,0.098,10,reviewed,us,us
 2022-12-02T12:21:48.910Z,37.1563333,-118.338,8.17,3.91,ml,29,109,0.08622,0.06,nc,nc73813816,2022-12-02T19:05:42.556Z,"4km WSW of Big Pine, CA",earthquake,0.51,0.77,0.178,155,reviewed,nc,nc
 2022-12-02T12:19:59.750Z,35.6615,-117.5005,1.42,1.51,ml,16,146,0.173,0.17,ci,ci40383608,2022-12-02T13:47:09.075Z,"15km SW of Searles Valley, CA",earthquake,0.58,0.94,0.173,18,reviewed,ci,ci
+2022-12-02T12:19:28.430Z,19.4473333333333,-155.597166666667,-1.31,1.88,md,7,87,,0.1,hv,hv73252077,2022-12-02T19:49:51.950Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.32,0.170193424349899,6,reviewed,hv,hv
 2022-12-02T12:17:45.070Z,38.7806664,-122.7561646,1.04,1.1,md,16,66,0.01244,0.03,nc,nc73813811,2022-12-02T13:53:13.295Z,"0km N of The Geysers, CA",earthquake,0.24,0.44,0.07,16,automatic,nc,nc
 2022-12-02T12:10:39.620Z,32.2463333,-115.2718333,8.63,2.48,ml,15,126,0.1749,0.15,ci,ci40383600,2022-12-02T18:20:42.510Z,"10km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,0.53,1.98,0.246,27,automatic,ci,ci
 2022-12-02T12:04:31.626Z,35.3795,140.3819,61.8,4.6,mb,32,134,1.936,0.32,us,us6000j69y,2022-12-02T14:02:47.427Z,"near the east coast of Honshu, Japan",earthquake,7.32,7.749,0.136,16,reviewed,us,us
