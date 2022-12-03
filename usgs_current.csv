@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-03T23:38:33.733Z,63.0508,-149.6329,64.2,1.4,ml,,,,0.55,ak,ak022fhq14ey,2022-12-03T23:40:43.591Z,"51 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-03T23:11:47.780Z,38.7873344,-122.7334976,1.85,1.08,md,15,88,0.004806,0.02,nc,nc73814326,2022-12-03T23:29:13.441Z,"2km ENE of The Geysers, CA",earthquake,0.26,0.57,0.19,14,automatic,nc,nc
 2022-12-03T23:10:24.612Z,59.8518,-151.7896,66,2.8,ml,,,,0.18,ak,ak022fhpv4e5,2022-12-03T23:36:08.040Z,"8 km NNE of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-03T22:41:05.542Z,62.3237,-149.9863,20.6,0.9,ml,,,,0.45,ak,ak022fhpgaii,2022-12-03T22:43:28.394Z,"6 km E of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -100,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T11:45:29.008Z,-17.7013,-69.5322,161.859,4.8,mb,44,78,0.122,0.97,us,us6000j6n4,2022-12-03T12:06:53.040Z,"46 km E of Palca, Peru",earthquake,6.14,6.327,0.067,70,reviewed,us,us
 2022-12-03T11:41:37.743Z,7.3051,-77.0755,38.994,5,mb,91,89,1.694,0.77,us,us6000j6n3,2022-12-03T11:57:27.040Z,"Panama-Colombia border region",earthquake,6.45,7.424,0.032,307,reviewed,us,us
 2022-12-03T11:35:50.890Z,38.5625,-122.4383333,7.1,1.25,md,59,65,0.0613,0.14,nc,nc73814186,2022-12-03T21:49:13.831Z,"2km SE of Angwin, CA",earthquake,0.18,0.46,0.098,19,reviewed,nc,nc
-2022-12-03T11:35:39.370Z,19.4654998779297,-155.591003417969,-1.63999998569489,2.03,ml,8,97,,0.129999995,hv,hv73254957,2022-12-03T11:41:09.930Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.7,0.25,4.47,3,automatic,hv,hv
+2022-12-03T11:35:39.270Z,19.4736666666667,-155.592,-0.91,2.17,md,11,107,,0.1,hv,hv73254957,2022-12-03T23:46:18.990Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.18,0.0213380039227071,6,reviewed,hv,hv
 2022-12-03T11:00:36.094Z,-22.5619,171.2775,10,5.1,mb,61,52,3.541,0.72,us,us6000j6mx,2022-12-03T11:21:05.040Z,"southeast of the Loyalty Islands",earthquake,5.64,1.832,0.053,116,reviewed,us,us
 2022-12-03T10:59:55.200Z,34.8403333333333,-84.7853333333333,15.09,2.22,md,15,69,,0.06,se,se60501471,2022-12-03T19:20:54.691Z,"2 km NW of Eton, Georgia",earthquake,0.49,0.8,0.133558975942661,14,reviewed,se,se
 2022-12-03T10:49:34.460Z,35.9371667,-120.0045,10.56,2.15,md,31,81,0.0786,0.1,nc,nc73814181,2022-12-03T23:28:10.438Z,"9km SSW of Kettleman City, CA",earthquake,0.37,0.62,0.092,42,reviewed,nc,nc
@@ -131,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T07:53:51.520Z,19.0238,-66.7633,25,3.46,md,23,219,0.5946,0.23,pr,pr2022337001,2022-12-03T10:00:49.982Z,"59 km N of Hatillo, Puerto Rico",earthquake,0.78,8.35,0.07,14,reviewed,pr,pr
 2022-12-03T07:50:32.360Z,37.1478333,-121.5253333,8.61,0.58,md,16,57,0.06616,0.08,nc,nc73814161,2022-12-03T20:13:13.293Z,"10km NE of San Martin, CA",earthquake,0.27,0.68,0.211,15,reviewed,nc,nc
 2022-12-03T07:50:19.070Z,19.4106674194336,-155.243667602539,2.34999990463257,1.79,ml,23,78,,0.100000001,hv,hv73254597,2022-12-03T07:55:51.080Z,"3 km SSW of Volcano, Hawaii",earthquake,0.28,0.180000007,2.57,9,automatic,hv,hv
-2022-12-03T07:40:58.840Z,35.94,-120.0176667,9.68,2.1,md,34,113,0.07987,0.06,nc,nc73814156,2022-12-03T21:58:12.882Z,"9km SSW of Kettleman City, CA",earthquake,0.39,0.61,0.116,53,reviewed,nc,nc
+2022-12-03T07:40:58.840Z,35.94,-120.0176667,9.68,2.1,md,34,113,0.07987,0.06,nc,nc73814156,2022-12-03T23:43:09.558Z,"9km SSW of Kettleman City, CA",earthquake,0.39,0.61,0.116,53,reviewed,nc,nc
 2022-12-03T07:39:47.132Z,61.2868,-151.8922,99.9,0.7,ml,,,,0.42,ak,ak022fhgig7t,2022-12-03T07:42:17.605Z,"46 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-12-03T07:35:59.430Z,33.4835,-116.4365,6.15,0.38,ml,16,113,0.04081,0.19,ci,ci40141455,2022-12-03T07:39:30.298Z,"23km SSW of La Quinta, CA",earthquake,0.44,1.5,0.128,7,automatic,ci,ci
 2022-12-03T07:34:31.750Z,38.8056679,-122.758667,0.55,1.01,md,13,100,0.005101,0.02,nc,nc73814151,2022-12-03T08:18:12.985Z,"3km N of The Geysers, CA",earthquake,0.25,0.43,0.23,14,automatic,nc,nc
