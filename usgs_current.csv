@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T10:03:00.144Z,61.1367,-146.1009,250,1.6,ml,,,,1.1,ak,ak022fhi2xmx,2022-12-03T10:06:09.394Z,"13 km E of Valdez, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2022-12-03T09:58:31.704Z,65.8173,-150.5646,21.4,1.5,ml,,,,0.93,ak,ak022fhhtcua,2022-12-03T10:00:34.899Z,"39 km NNW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-03T09:54:26.591Z,60.4739,-142.8697,16.5,1.2,ml,,,,0.47,ak,ak022fhhshkz,2022-12-03T09:56:31.314Z,"106 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-03T09:49:39.978Z,-7.2485,107.588,112.454,5.7,mww,105,54,0.221,0.82,us,us6000j6k5,2022-12-03T10:14:43.123Z,"18 km ESE of Banjar, Indonesia",earthquake,7.8,4.24,0.058,29,reviewed,us,us
+2022-12-03T09:49:39.978Z,-7.2485,107.588,112.454,5.7,mww,105,54,0.221,0.82,us,us6000j6k5,2022-12-03T10:30:11.674Z,"18 km ESE of Banjar, Indonesia",earthquake,7.8,4.24,0.058,29,reviewed,us,us
 2022-12-03T09:35:36.210Z,36.0494995,-120.6138306,2.76,1.34,md,14,104,0.02399,0.06,nc,nc73814166,2022-12-03T09:52:12.482Z,"24km NW of Parkfield, CA",earthquake,0.32,0.74,0.27,9,automatic,nc,nc
 2022-12-03T09:31:03.550Z,33.2188333,-116.7481667,9.87,1.21,ml,41,33,0.01927,0.18,ci,ci40141479,2022-12-03T09:41:54.960Z,"3km SSE of Lake Henshaw, CA",earthquake,0.24,0.5,0.148,26,automatic,ci,ci
 2022-12-03T09:30:19.043Z,62.4723,-147.8366,47.2,1.5,ml,,,,1.01,ak,ak022fhhnbtc,2022-12-03T09:32:35.163Z,"68 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -259,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T10:34:13.210Z,38.8400002,-122.8111649,2.14,0.69,md,9,95,0.01634,0.01,nc,nc73813771,2022-12-02T11:27:14.286Z,"8km WNW of Cobb, CA",earthquake,0.37,0.9,0.43,9,automatic,nc,nc
 2022-12-02T10:32:12.490Z,56.9081666666667,-158.206,7.62,-0.72,ml,4,192,,0.07,av,av91078358,2022-12-03T01:19:52.850Z,"Alaska Peninsula",earthquake,1.01,0.67,0.168649880958356,4,reviewed,av,av
 2022-12-02T10:31:29.660Z,58.2391666666667,-155.156166666667,1.83,-0.88,ml,5,142,,0.06,av,av91078363,2022-12-03T01:25:56.030Z,"Alaska Peninsula",earthquake,0.27,1.5,0.113484746904438,5,reviewed,av,av
-2022-12-02T10:28:42.560Z,38.7893333,-122.7614975,1.75,0.89,md,8,94,0.01136,0.01,nc,nc73813766,2022-12-02T11:01:14.123Z,"1km NNW of The Geysers, CA",earthquake,0.31,0.66,0.22,11,automatic,nc,nc
-2022-12-02T10:27:30.552Z,61.5341,-141.6422,0.9,1.9,ml,,,,0.41,ak,ak022ffuosnz,2022-12-02T10:29:18.683Z,"69 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-02T10:25:36.500Z,19.4673333333333,-155.5995,-1.45,2.04,md,9,86,,0.11,hv,hv73251857,2022-12-02T19:31:12.600Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.31,0.146756109469881,6,reviewed,hv,hv
