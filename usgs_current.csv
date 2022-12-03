@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-03T17:55:28.020Z,38.8074989,-122.7536697,0.87,0.78,md,6,111,0.008331,0.05,nc,nc73814251,2022-12-03T17:57:03.134Z,"3km WSW of Cobb, CA",earthquake,0.6,1.14,0.03,9,automatic,nc,nc
+2022-12-03T17:46:25.788Z,61.403,-147.3371,22.7,2.4,ml,,,,0.53,ak,ak022fhmi3aw,2022-12-03T17:58:39.882Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-03T17:42:13.833Z,60.2281,-145.8757,15,1.6,ml,,,,0.85,ak,ak022fhmhcuf,2022-12-03T17:44:16.343Z,"35 km S of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-03T17:41:16.999Z,60.2933,-145.8741,17.1,1.5,ml,,,,0.52,ak,ak022fhmh5df,2022-12-03T17:43:17.219Z,"28 km SSW of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-03T17:38:26.916Z,62.9606,-149.328,68.1,1.7,ml,,,,0.36,ak,ak022fhmgizn,2022-12-03T17:40:11.613Z,"51 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-03T17:26:46.260Z,31.61431841,-104.5293976,6.157275391,3.3,ml,24,84,0.05960420962,0.3,tx,tx2022xrfo,2022-12-03T17:50:14.412Z,"63 km SSW of Whites City, New Mexico",earthquake,1.354268866,1.285239867,0.2,17,reviewed,tx,tx
+2022-12-03T17:26:46.260Z,31.61431841,-104.5293976,6.157275391,3.3,ml,24,84,0.05960420962,0.3,tx,tx2022xrfo,2022-12-03T17:56:55.040Z,"63 km SSW of Whites City, New Mexico",earthquake,1.354268866,1.285239867,0.2,17,reviewed,tx,tx
 2022-12-03T17:13:37.390Z,59.7445,-146.5102,26.3,1.6,ml,,,,0.45,ak,ak022fhmb6wb,2022-12-03T17:15:35.839Z,"91 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-03T17:11:52.030Z,33.3841667,-116.8758333,5.35,1.23,ml,42,32,0.03241,0.2,ci,ci40141615,2022-12-03T17:22:50.230Z,"3km NNW of Palomar Observatory, CA",earthquake,0.23,0.81,0.138,26,automatic,ci,ci
 2022-12-03T17:05:13.202Z,61.6814,-147.6552,32.8,1,ml,,,,1.1,ak,ak022fhm9faw,2022-12-03T17:07:49.513Z,"14 km S of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -236,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T18:27:59.803Z,61.9556,-149.8672,32.4,1.6,ml,,,,0.5,ak,ak022ffzgbrg,2022-12-02T18:29:42.894Z,"22 km S of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-02T18:22:26.920Z,44.678,-110.0441667,13.72,1.18,md,7,93,0.1011,0.08,uu,uu60527162,2022-12-02T19:41:18.230Z,"36 km S of Silver Gate, Montana",earthquake,0.46,0.85,0.327,4,reviewed,uu,uu
 2022-12-02T18:13:38.040Z,19.4716666666667,-155.592,-0.88,1.48,md,7,135,,0.04,hv,hv73252812,2022-12-02T20:03:31.790Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.58,0.27,0.166638226701151,5,reviewed,hv,hv
-2022-12-02T17:55:53.939Z,61.5795,-149.9826,44.4,0.8,ml,,,,0.3,ak,ak022ffz0ue4,2022-12-02T18:48:00.466Z,"6 km NNW of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
