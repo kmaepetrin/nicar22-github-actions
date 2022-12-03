@@ -263,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T08:49:33.336Z,12.8988,-88.8052,57.762,4.2,mb,41,119,0.736,0.87,us,us6000j694,2022-12-02T09:07:56.040Z,"50 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.43,5.819,0.113,22,reviewed,us,us
 2022-12-02T08:48:35.920Z,56.857,-158.165833333333,-1.62,-0.06,ml,5,108,,0.17,av,av91078338,2022-12-03T00:01:51.280Z,"29 km ESE of Port Heiden, Alaska",earthquake,0.4,2.82,0.415169328952825,5,reviewed,av,av
 2022-12-02T08:46:33.653Z,2.5542,-79.9364,10,4.5,mb,29,138,2.82,1.04,us,us6000j695,2022-12-02T09:04:24.040Z,"152 km WNW of Tumaco, Colombia",earthquake,3.61,1.942,0.172,10,reviewed,us,us
-2022-12-02T08:40:50.290Z,38.8344994,-122.8119965,1.97,0.76,md,15,54,0.01119,0.02,nc,nc73813756,2022-12-02T10:19:10.874Z,"8km W of Cobb, CA",earthquake,0.25,0.63,0.27,17,automatic,nc,nc
-2022-12-02T08:38:39.470Z,44.7855,-110.793,6.19,0.95,md,14,185,0.04104,0.14,uu,uu60527107,2022-12-02T15:12:07.410Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.55,0.89,0.385,9,reviewed,uu,uu
-2022-12-02T08:34:43.200Z,33.7346667,-116.1081667,5.64,1.09,ml,38,75,0.08764,0.1,ci,ci40383560,2022-12-02T22:01:43.070Z,"9km NE of Coachella, CA",earthquake,0.13,0.67,0.185,31,reviewed,ci,ci
