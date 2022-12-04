@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-04T10:46:59.750Z,36.7451668,-120.8978348,2.01,1.36,md,7,139,0.1176,0.03,nc,nc73814431,2022-12-04T10:48:37.406Z,"32km NE of Pinnacles, CA",earthquake,0.32,7.89,0.21,6,automatic,nc,nc
+2022-12-04T11:00:44.370Z,37.4108315,-121.4163361,4.63,1.19,md,8,99,0.07675,0.04,nc,nc73814436,2022-12-04T11:02:18.859Z,"24km SW of Westley, CA",earthquake,0.5,1.23,0.09,4,automatic,nc,nc
+2022-12-04T10:59:25.130Z,33.8911667,-117.7333333,15.23,1.27,ml,16,69,0.04572,0.13,ci,ci40141895,2022-12-04T11:02:59.973Z,"7km E of Yorba Linda, CA",earthquake,0.32,0.5,0.389,21,automatic,ci,ci
+2022-12-04T10:46:59.750Z,36.7451668,-120.8978348,2.01,1.36,md,7,139,0.1176,0.03,nc,nc73814431,2022-12-04T10:58:10.626Z,"32km NE of Pinnacles, CA",earthquake,0.32,7.89,0.21,6,automatic,nc,nc
 2022-12-04T10:31:52.091Z,63.2453,-150.5665,132.4,1.6,ml,,,,0.24,ak,ak022fj5se6h,2022-12-04T10:48:13.219Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-04T10:24:25.220Z,17.9643333333333,-66.9801666666667,8.81,2.02,md,5,192,0.06118,0.03,pr,pr71385498,2022-12-04T10:48:57.760Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.47,0.97,0.0197518598501465,4,reviewed,pr,pr
 2022-12-04T10:07:25.934Z,58.2356,-155.1828,1.1,0.3,ml,,,,0.22,ak,ak022fj5n6z9,2022-12-04T10:13:47.173Z,"85 km NNW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -181,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T11:41:37.743Z,7.3051,-77.0755,38.994,5,mb,91,89,1.694,0.77,us,us6000j6n3,2022-12-03T11:57:27.040Z,"16 km SSE of Riosucio, Colombia",earthquake,6.45,7.424,0.032,307,reviewed,us,us
 2022-12-03T11:35:50.890Z,38.5625,-122.4383333,7.1,1.25,md,59,65,0.0613,0.14,nc,nc73814186,2022-12-03T21:49:13.831Z,"2km SE of Angwin, CA",earthquake,0.18,0.46,0.098,19,reviewed,nc,nc
 2022-12-03T11:35:39.270Z,19.4736666666667,-155.592,-0.91,2.17,md,11,107,,0.1,hv,hv73254957,2022-12-03T23:46:18.990Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.18,0.0213380039227071,6,reviewed,hv,hv
-2022-12-03T11:00:36.094Z,-22.5619,171.2775,10,5.1,mb,61,52,3.541,0.72,us,us6000j6mx,2022-12-03T11:21:05.040Z,"southeast of the Loyalty Islands",earthquake,5.64,1.832,0.053,116,reviewed,us,us
-2022-12-03T10:59:55.200Z,34.8403333333333,-84.7853333333333,15.09,2.22,md,15,69,,0.06,se,se60501471,2022-12-04T06:57:30.040Z,"2 km NW of Eton, Georgia",earthquake,0.49,0.8,0.133558975942661,14,reviewed,se,se
