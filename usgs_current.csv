@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-04T08:08:02.790Z,19.407,-155.239166666667,2.25,2.94,ml,39,73,,0.1,hv,hv73257597,2022-12-04T08:26:04.447Z,"3 km S of Volcano, Hawaii",earthquake,0.19,0.22,0.268769738455115,21,reviewed,hv,hv
-2022-12-04T08:04:22.940Z,38.8375015,-122.7916641,2.59,0.82,md,10,79,0.001373,0.02,nc,nc73814411,2022-12-04T08:22:12.723Z,"6km WNW of Cobb, CA",earthquake,0.49,1.36,0.24,11,automatic,nc,nc
+2022-12-04T08:08:02.790Z,19.407,-155.239166666667,2.25,2.94,ml,39,73,,0.1,hv,hv73257597,2022-12-04T08:36:24.330Z,"3 km S of Volcano, Hawaii",earthquake,0.19,0.22,0.268769738455115,21,reviewed,hv,hv
+2022-12-04T08:04:22.940Z,38.8375015,-122.7916641,2.59,0.82,md,10,79,0.001373,0.02,nc,nc73814411,2022-12-04T08:37:12.832Z,"6km WNW of Cobb, CA",earthquake,0.49,1.36,0.24,11,automatic,nc,nc
 2022-12-04T08:02:58.220Z,33.0378333,-116.4398333,5.77,0.93,ml,23,74,0.1393,0.21,ci,ci40141871,2022-12-04T08:06:46.332Z,"16km ESE of Julian, CA",earthquake,0.43,1.75,0.149,17,automatic,ci,ci
 2022-12-04T07:58:23.548Z,31.66510225,-104.2422173,6.491479492,3.5,ml,22,64,0.02040366472,0.2,tx,tx2022xsii,2022-12-04T08:29:04.885Z,"57 km NW of Toyah, Texas",earthquake,0.7701999189,0.927562422,0.2,13,reviewed,tx,tx
 2022-12-04T07:51:25.417Z,64.4733,-147.3023,10,1.6,ml,,,,0.37,ak,ak022fj44bml,2022-12-04T07:53:12.860Z,"20 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T00:27:24.280Z,37.8795013,-121.9428329,15.86,2.93,md,71,61,0.04449,0.14,nc,nc73814346,2022-12-04T06:01:51.078Z,"5km NNE of Diablo, CA",earthquake,0.22,0.33,0.09,85,automatic,nc,nc
 2022-12-04T00:23:14.550Z,18.797,-66.9025,52.83,3.14,md,24,245,0.3199,0.21,pr,pr71385438,2022-12-04T00:38:24.360Z,"35 km N of Camuy, Puerto Rico",earthquake,0.65,1.1,0.0754840726656059,14,reviewed,pr,pr
 2022-12-04T00:16:49.060Z,19.4403333333333,-155.606666666667,-0.89,2.69,md,28,67,,0.14,hv,hv73256622,2022-12-04T08:21:29.566Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.24,0.37,0.130541254644726,10,reviewed,hv,hv
-2022-12-04T00:12:12.970Z,19.4091666666667,-155.241166666667,2.43,2.35,ml,30,56,,0.07,hv,hv73256612,2022-12-04T00:23:14.795Z,"3 km SSW of Volcano, Hawaii",earthquake,0.2,0.23,0.100404767590011,11,reviewed,hv,hv
+2022-12-04T00:12:12.970Z,19.4091666666667,-155.241166666667,2.43,2.35,ml,30,56,,0.07,hv,hv73256612,2022-12-04T00:23:14.795Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.23,0.100404767590011,11,reviewed,hv,hv
 2022-12-04T00:07:52.620Z,38.8188324,-122.8191681,2.33,0.76,md,15,57,0.008439,0.01,nc,nc73814341,2022-12-04T01:57:13.353Z,"7km NW of The Geysers, CA",earthquake,0.28,0.7,0.19,17,automatic,nc,nc
 2022-12-03T23:47:03.380Z,17.9511666666667,-66.9473333333333,14.44,2.27,md,5,213,0.06902,0.06,pr,pr71385428,2022-12-04T00:04:04.830Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.74,0.95,0.0424255471963255,4,reviewed,pr,pr
 2022-12-03T23:38:33.733Z,63.0508,-149.6329,64.2,1.4,ml,,,,0.55,ak,ak022fhq14ey,2022-12-03T23:40:43.591Z,"51 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
