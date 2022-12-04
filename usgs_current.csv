@@ -164,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T08:56:28.810Z,19.4401666666667,-155.604166666667,-1.29,2.17,md,12,94,,0.13,hv,hv73254712,2022-12-03T16:47:32.340Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.48,0.0816871032743547,6,reviewed,hv,hv
 2022-12-03T08:55:40.839Z,60.1702,-152.3753,99.2,1.2,ml,,,,0.21,ak,ak022fhh7asj,2022-12-03T08:57:12.709Z,"41 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-03T08:48:46.465Z,60.6481,-147.4731,12,1.3,ml,,,,0.64,ak,ak022fhh5t7q,2022-12-03T08:50:44.053Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-03T08:19:21.930Z,39.4433333333333,-92.2543333333333,1.16,2.36,md,10,118,0.1813,0.22,nm,nm60500148,2022-12-03T13:54:39.430Z,"5 km SW of Madison, Missouri",earthquake,0.43,1.12,0.103257570522663,6,reviewed,nm,nm
+2022-12-03T08:19:21.930Z,39.4433333333333,-92.2543333333333,1.16,2.36,md,10,118,0.1813,0.22,nm,nm60500148,2022-12-04T05:36:36.040Z,"5 km SW of Madison, Missouri",earthquake,0.43,1.12,0.103257570522663,6,reviewed,nm,nm
 2022-12-03T08:18:29.020Z,19.3974990844727,-155.327835083008,2.25999999046326,2.23,ml,34,66,,0.239999995,hv,hv73254652,2022-12-03T08:24:00.480Z,"11 km WSW of Volcano, Hawaii",earthquake,0.41,0.610000014,0.13,4,automatic,hv,hv
 2022-12-03T08:15:11.879Z,58.7663,-154.4986,119,1.3,ml,,,,0.19,ak,ak022fhgynwz,2022-12-03T08:17:05.866Z,"76 km SSE of Kokhanok, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-12-03T08:14:09.817Z,61.5064,-151.8893,7.8,1,ml,,,,0.76,ak,ak022fhgyg1z,2022-12-03T08:16:33.302Z,"59 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
