@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T19:42:07.640Z,36.8918343,-121.6168365,0.72,1.56,md,8,72,0.02126,0.04,nc,nc73814866,2022-12-05T19:43:43.759Z,"2km E of Aromas, CA",earthquake,0.27,0.72,0.11,7,automatic,nc,nc
 2022-12-05T19:27:47.753Z,61.3824,-150.2096,39.7,0.8,ml,,,,0.89,ak,ak022fkynrx3,2022-12-05T19:29:47.945Z,"12 km WNW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-05T19:00:40.890Z,35.6708336,-117.489502,4.5,1.23,ml,14,108,0.08704,0.14,ci,ci40142351,2022-12-05T19:02:55.495Z,"13km SW of Searles Valley, CA",earthquake,0.55,1.21,0.078,4,automatic,ci,ci
 2022-12-05T18:52:33.730Z,46.196666666666665,-122.19016666666667,3.56,0.08,ml,9,138,0.003151,0.07,uw,uw61897361,2022-12-05T19:29:05.090Z,"37 km NNE of Amboy, Washington",earthquake,0.76,0.51,0.14233199190840565,5,reviewed,uw,uw
@@ -178,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T23:08:56.619Z,35.23016667,-98.052,9.71,0.87,ml,24,62,0.0224955856,0.24,ok,ok2022xtmj,2022-12-05T15:26:27.382Z,"9 km WNW of Pocasset, Oklahoma",earthquake,,0.9,0.09,3,reviewed,ok,ok
 2022-12-04T23:08:22.888Z,62.3409,-147.6124,29.1,2.5,ml,,,,0.69,ak,ak022fjde1bn,2022-12-05T00:21:42.040Z,"50 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-04T23:01:13.543Z,60.9632,-147.7214,4.1,1.2,ml,,,,0.63,ak,ak022fjdcil6,2022-12-04T23:02:56.606Z,"56 km ENE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-04T23:00:51.630Z,37.5221667,-118.88,4.84,1.16,md,17,177,0.0789,0.04,nc,nc73814561,2022-12-05T18:23:14.991Z,"16km SE of Mammoth Lakes, CA",earthquake,0.35,1.06,0.121,14,reviewed,nc,nc
+2022-12-04T23:00:51.630Z,37.5221667,-118.88,4.84,1.16,md,17,177,0.0789,0.04,nc,nc73814561,2022-12-05T19:38:10.435Z,"16km SE of Mammoth Lakes, CA",earthquake,0.35,1.06,0.121,14,reviewed,nc,nc
 2022-12-04T22:56:15.525Z,60.9032,-148.0994,14.2,1.6,ml,,,,1.27,ak,ak022fjd2vio,2022-12-04T22:57:53.480Z,"34 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T22:27:17.618Z,61.4353,-149.9039,32.9,1.7,ml,,,,0.5,ak,ak022fjcwnwx,2022-12-05T01:51:04.927Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T22:24:58.950Z,19.4473333333333,-155.600833333333,-1.47,2.3,md,29,88,,0.13,hv,hv73259132,2022-12-05T00:12:09.930Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.27,0.149902862276496,9,reviewed,hv,hv
