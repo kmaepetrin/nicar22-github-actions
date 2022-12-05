@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T17:28:29.520Z,19.4195003509521,-155.278839111328,-0.200000002980232,1.78999996,md,13,68,,0.189999998,hv,hv73260447,2022-12-05T17:31:31.380Z,"5 km WSW of Volcano, Hawaii",earthquake,0.22,0.310000002,1.65999997,10,automatic,hv,hv
 2022-12-05T17:14:38.030Z,38.8310013,-122.8016663,1.96,0.77,md,9,76,0.01004,0.01,nc,nc73814856,2022-12-05T17:28:10.659Z,"7km W of Cobb, CA",earthquake,0.41,0.87,0.12,9,automatic,nc,nc
 2022-12-05T17:02:38.750Z,33.6876667,-116.6905,15.59,0.92,ml,26,73,0.03064,0.13,ci,ci40142335,2022-12-05T17:06:08.593Z,"6km SSE of Idyllwild, CA",earthquake,0.25,0.35,0.171,27,automatic,ci,ci
 2022-12-05T17:01:13.440Z,36.0753326,-120.1856689,8.34,2.39,md,33,155,0.106,0.06,nc,nc73814846,2022-12-05T17:15:13.579Z,"9km NNW of Avenal, CA",earthquake,0.35,0.45,0.12,28,automatic,nc,nc
@@ -63,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T10:30:07.379Z,-60.5475,-27.5654,10,4.9,mb,39,76,7.908,0.76,us,us6000j70b,2022-12-05T11:15:24.040Z,"South Sandwich Islands region",earthquake,12.34,1.897,0.099,32,reviewed,us,us
 2022-12-05T10:28:24.300Z,33.0573333,-117.407,13.43,0.73,ml,17,256,0.1775,0.12,ci,ci40142223,2022-12-05T10:31:51.157Z,"11km WNW of Encinitas, CA",earthquake,0.64,0.82,0.094,5,automatic,ci,ci
 2022-12-05T10:03:04.270Z,38.822834,-122.8001633,2.83,0.77,md,12,104,0.007762,0.01,nc,nc73814726,2022-12-05T12:48:13.022Z,"6km NW of The Geysers, CA",earthquake,0.32,0.58,0.17,13,automatic,nc,nc
-2022-12-05T09:42:43.139Z,38.1532,-117.8827,11,0.9,ml,10,166.56,0.062,0.1127,nn,nn00852620,2022-12-05T09:48:16.339Z,"Nevada",earthquake,,0.5,0.5,6,automatic,nn,nn
+2022-12-05T09:42:43.374Z,38.1461,-117.8843,10.4,1.1,ml,15,153.1,0.06,0.1377,nn,nn00852620,2022-12-05T17:34:06.095Z,"33 km SE of Mina, Nevada",earthquake,,1.2,0.5,4,reviewed,nn,nn
 2022-12-05T09:39:40.290Z,34.2321667,-118.5993333,2.52,1.17,ml,17,66,0.03418,0.2,ci,ci40142215,2022-12-05T09:59:12.194Z,"3km S of Chatsworth, CA",earthquake,0.36,0.65,0.214,30,automatic,ci,ci
 2022-12-05T09:30:42.330Z,34.2668333,-116.4473333,8.23,1.48,ml,26,84,0.059,0.14,ci,ci40142207,2022-12-05T09:41:11.790Z,"17km N of Yucca Valley, CA",earthquake,0.22,0.6,0.18,28,automatic,ci,ci
 2022-12-05T09:20:58.113Z,37.6416,-105.4838,6.141,2.1,ml,6,126,0.105,0.06,us,us6000j6zz,2022-12-05T09:44:11.040Z,"Colorado",earthquake,1.81,1.509,0.097,14,reviewed,us,us
@@ -211,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T17:51:31.694Z,9.783,125.4273,92.925,4.3,mb,29,146,2.7,0.87,us,us6000j6vt,2022-12-04T20:09:37.040Z,"Mindanao, Philippines",earthquake,13.33,7.46,0.116,21,reviewed,us,us
 2022-12-04T17:41:50.030Z,17.9501666666667,-66.9383333333333,13.98,2.45,md,11,208,0.03576,0.1,pr,pr71385553,2022-12-04T18:59:53.500Z,"Puerto Rico region",earthquake,0.48,0.34,0.144470394596402,7,reviewed,pr,pr
 2022-12-04T17:41:38.332Z,59.3961,-152.0092,58.9,2,ml,,,,0.85,ak,ak022fja0jih,2022-12-04T17:43:37.142Z,"6 km NW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-04T17:31:38.163Z,62.9729,-150.5448,88.8,1.7,ml,,,,0.43,ak,ak022fj9yec8,2022-12-04T17:34:17.950Z,"54 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-12-04T17:31:30.129Z,57.0248,-155.3496,58,2.1,ml,,,,0.28,ak,ak022fj9yeh4,2022-12-04T20:56:03.076Z,"72 km W of Akhiok, Alaska",earthquake,,1.7,,,reviewed,ak,ak
