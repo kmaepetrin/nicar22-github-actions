@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-06T08:48:27.920Z,36.2731667,-117.9895,4.11,2.2,ml,23,103,0.1818,0.18,ci,ci40142559,2022-12-06T08:53:38.311Z,"2km SE of Olancha, CA",earthquake,0.38,4.32,0.251,25,automatic,ci,ci
+2022-12-06T08:58:36.830Z,38.8123322,-122.7646637,2.31,0.7,md,8,100,0.01231,0.03,nc,nc73815191,2022-12-06T09:00:11.479Z,"4km WSW of Cobb, CA",earthquake,0.47,0.91,0.12,8,automatic,nc,nc
+2022-12-06T08:48:27.920Z,36.2731667,-117.9895,4.11,2.2,ml,23,103,0.1818,0.18,ci,ci40142559,2022-12-06T08:59:31.600Z,"2km SE of Olancha, CA",earthquake,0.38,4.32,0.251,25,automatic,ci,ci
+2022-12-06T08:43:20.524Z,41.9691,-119.5784,10,3.3,ml,29,90,0.545,0.85,us,us6000j79y,2022-12-06T09:00:12.040Z,"49 km ENE of Fort Bidwell, California",earthquake,2.65,1.993,0.036,100,reviewed,us,us
 2022-12-06T08:40:31.401Z,35.104702,-97.92230988,0.06784761697,2.22,ml,42,42.28955078,0.1155742854,0.9776564981,ok,ok2022xwao,2022-12-06T08:44:11.820Z,"5 km NNE of Chickasha, Oklahoma",earthquake,1.935195769,1.404468383,,32,automatic,ok,ok
 2022-12-06T08:32:45.350Z,19.5621,-65.7326,74,4.08,md,20,260,1.3013,0.32,pr,pr2022340000,2022-12-06T08:56:32.934Z,"125 km N of Suárez, Puerto Rico",earthquake,3.77,9.63,0.08,9,reviewed,pr,pr
 2022-12-06T08:19:00.538Z,61.6337,-148.1363,31.2,1,ml,,,,0.29,ak,ak022fmfljdx,2022-12-06T08:21:01.555Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
