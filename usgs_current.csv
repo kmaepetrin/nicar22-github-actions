@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-07T21:47:06.860Z,34.1759987,-117.0319977,7.22,2.76,ml,111,18,0.08847,0.18,ci,ci40143255,2022-12-07T21:50:37.349Z,"8km ESE of Running Springs, CA",earthquake,0.15,0.64,0.335,20,automatic,ci,ci
+2022-12-07T22:00:39.210Z,33.8621674,-117.501503,-0.28,1.08,ml,30,56,0.06482,0.22,ci,ci40143263,2022-12-07T22:02:54.758Z,"2km SE of Home Gardens, CA",earthquake,0.46,0.85,0.079,6,automatic,ci,ci
+2022-12-07T21:47:06.860Z,34.1759987,-117.0319977,7.22,2.76,ml,111,18,0.08847,0.18,ci,ci40143255,2022-12-07T22:02:37.549Z,"8km ESE of Running Springs, CA",earthquake,0.15,0.64,0.335,20,automatic,ci,ci
 2022-12-07T21:45:59.740Z,62.3907,-150.9332,69.6,1.5,ml,,,,0.31,ak,ak022fob17xi,2022-12-07T21:48:06.775Z,"14 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-07T21:35:43.800Z,35.5081667,-118.394,5.59,1.37,ml,23,102,0.1675,0.13,ci,ci40143247,2022-12-07T21:46:13.770Z,"12km SE of Bodfish, CA",earthquake,0.23,1.1,0.204,21,automatic,ci,ci
+2022-12-07T21:35:43.700Z,35.5066667,-118.3966667,6.07,1.35,ml,32,76,0.1681,0.13,ci,ci40143247,2022-12-07T21:58:26.590Z,"12km SE of Bodfish, CA",earthquake,0.17,0.71,0.167,18,reviewed,ci,ci
 2022-12-07T21:18:03.432Z,61.7644,-149.572,34.8,1.3,ml,,,,0.81,ak,ak022foavb93,2022-12-07T21:19:56.673Z,"15 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T21:01:17.505Z,64.4048,-148.0275,18.9,1.2,ml,,,,0.39,ak,ak022foarp5y,2022-12-07T21:03:02.508Z,"46 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-07T20:58:47.661Z,65.1291,-149.2434,1.1,1.5,ml,,,,1.53,ak,ak022foaijpa,2022-12-07T21:00:42.742Z,"5 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -256,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T22:10:28.514Z,71.5328,-3.9134,10,4.4,mb,34,54,5.975,0.75,us,us6000j7gh,2022-12-06T23:08:00.040Z,"185 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.73,1.861,0.094,33,reviewed,us,us
 2022-12-06T22:09:27.220Z,18.2745,-67.167,22.74,2.42,md,6,278,0.2722,0.12,pr,pr71385923,2022-12-07T00:14:55.760Z,"2 km SE of La Playa, Puerto Rico",earthquake,1.04,3.84,0.0809192114013633,5,reviewed,pr,pr
 2022-12-06T22:07:38.650Z,18.2971666666667,-67.1585,13.41,2.4,md,8,272,0.2749,0.13,pr,pr71385918,2022-12-06T23:26:16.080Z,"1 km WNW of Las Marias, Puerto Rico",earthquake,0.78,0.85,0.0368645139611241,4,reviewed,pr,pr
-2022-12-06T22:03:11.323Z,41.9748,-119.5524,0,1.9,ml,6,186.17,0.563,0.1084,nn,nn00852790,2022-12-07T02:40:59.293Z,"51 km ENE of Fort Bidwell, California",earthquake,,2.7,0.6,5,reviewed,nn,nn
-2022-12-06T21:58:26.769Z,35.25783333,-98.02233333,6.7,2.2,ml,97,61,0.05938834598,0.38,ok,ok2022xxba,2022-12-07T14:58:20.407Z,"9 km SW of Minco, Oklahoma",earthquake,,0.5,0.21,14,reviewed,ok,ok
-2022-12-06T21:56:31.330Z,33.5578333,-116.6708333,10.57,1.43,ml,49,38,0.03476,0.13,ci,ci40142711,2022-12-07T01:02:37.510Z,"0km NE of Anza, CA",earthquake,0.13,0.22,0.145,25,reviewed,ci,ci
