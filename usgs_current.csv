@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-08T17:24:19.240Z,33.5856667,-116.8066667,7.59,0.41,ml,11,90,0.05598,0.12,ci,ci40143575,2022-12-08T17:27:55.807Z,"13km WNW of Anza, CA",earthquake,0.34,0.55,0.074,8,automatic,ci,ci
 2022-12-08T16:54:00.990Z,38.8288345,-122.8523331,1.56,1.07,md,18,80,0.003773,0.02,nc,nc73816226,2022-12-08T17:13:12.272Z,"10km NW of The Geysers, CA",earthquake,0.23,0.41,0.3,21,automatic,nc,nc
 2022-12-08T16:45:46.257Z,63.0953,-151.4403,3,1.6,ml,,,,0.73,ak,ak022fpvldcx,2022-12-08T16:47:59.054Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-08T16:36:09.304Z,38.1795,-117.7803,9.6,2,ml,20,91.68,0.117,0.1442,nn,nn00852941,2022-12-08T17:03:19.049Z,"37 km SE of Mina, Nevada",earthquake,,2.2,0.19,6,reviewed,nn,nn
@@ -139,9 +140,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T04:00:32.455Z,64.4255,-148.0825,19.8,2.2,ml,,,,0.4,ak,ak022fpo6ht9,2022-12-08T04:02:03.575Z,"45 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-08T03:55:40.880Z,44.6396667,-110.9853333,7.06,0.35,md,7,151,0.03243,0.11,uu,uu60527592,2022-12-08T15:13:29.880Z,"9 km ESE of West Yellowstone, Montana",earthquake,0.6,0.87,0.306,6,reviewed,uu,uu
 2022-12-08T03:47:44.225Z,58.2101,-155.114,72.2,0.9,ml,,,,0.76,ak,ak022fpnv5rq,2022-12-08T03:50:46.977Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
-2022-12-08T03:23:21.460Z,35.3008333333333,-82.4855,3.79,2.69,md,18,61,,0.2,se,se60501781,2022-12-08T17:12:32.940Z,"0 km NW of Valley Hill, North Carolina",earthquake,0.35,1.27,0.107468484296295,12,reviewed,se,se
+2022-12-08T03:23:21.460Z,35.3008333333333,-82.4855,3.79,2.69,md,18,61,,0.2,se,se60501781,2022-12-08T17:29:50.222Z,"0 km NW of Valley Hill, North Carolina",earthquake,0.35,1.27,0.107468484296295,12,reviewed,se,se
 2022-12-08T03:04:31.950Z,19.3516674041748,-155.197494506836,9.75,1.9,ml,37,74,,0.150000006,hv,hv73263547,2022-12-08T03:10:02.960Z,"10 km SSE of Volcano, Hawaii",earthquake,0.53,0.379999995,0.28,4,automatic,hv,hv
-2022-12-08T02:57:54.175Z,39.6266,-120.1511,4.7,1.3,ml,8,91.38,0.072,0.1768,nn,nn00852920,2022-12-08T17:12:54.009Z,"5 km ESE of Sierra Brooks, California",earthquake,,5.5,0.27,4,reviewed,nn,nn
+2022-12-08T02:57:54.019Z,39.6288,-120.1418,6.3,1.3,ml,21,65.09,0.078,0.1071,nn,nn00852920,2022-12-08T17:22:32.806Z,"Northern California",earthquake,,1.4,0.21,10,reviewed,nn,nn
 2022-12-08T02:49:11.051Z,-9.2047,110.7563,35,4.3,mb,17,132,1.304,0.93,us,us6000j7tj,2022-12-08T03:10:04.040Z,"145 km SSE of Pundong, Indonesia",earthquake,7.2,1.988,0.177,9,reviewed,us,us
 2022-12-08T02:47:05.739Z,63.0748,-148.7047,62.8,1.6,ml,,,,0.95,ak,ak022fpn9n71,2022-12-08T02:48:48.275Z,"37 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-08T02:46:32.470Z,39.6305008,-120.1453323,-2.05,3.39,ml,37,51,0.2879,0.28,nc,nc73815951,2022-12-08T16:33:49.005Z,"10km ESE of Loyalton, CA",earthquake,0.46,2.6,0.368,19,automatic,nc,nc
@@ -233,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T17:45:56.662Z,40.1998,-98.3002,5,2.7,mb_lg,18,52,1.213,0.9,us,us6000j7nh,2022-12-07T22:57:22.599Z,"10 km SSW of Lawrence, Nebraska",earthquake,1.68,1.989,0.058,77,reviewed,us,us
 2022-12-07T17:41:08.063Z,64.5005,-148.8915,14.4,0.7,ml,,,,0.41,ak,ak022fo8mins,2022-12-07T17:43:18.041Z,"12 km SE of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T17:39:34.628Z,59.5435,-152.6757,88.3,2.1,ml,,,,0.34,ak,ak022fo8m59y,2022-12-07T17:41:55.458Z,"47 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-07T17:25:28.389Z,61.5976,-147.5276,27.2,1.9,ml,,,,0.64,ak,ak022fo8j4rq,2022-12-07T17:27:22.833Z,"24 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-07T17:19:31.538Z,36.4516,-116.249,3.9,0.4,ml,10,224.6,0.027,0.0978,nn,nn00852892,2022-12-08T02:41:43.786Z,"35 km NW of Pahrump, Nevada",earthquake,,2.6,0.76,4,reviewed,nn,nn
