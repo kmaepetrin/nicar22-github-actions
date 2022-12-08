@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T04:19:49.830Z,35.5035,-118.394,3.57,1.06,ml,21,77,0.1718,0.16,ci,ci40143399,2022-12-08T04:23:24.220Z,"13km SE of Bodfish, CA",earthquake,0.32,1.01,0.154,10,automatic,ci,ci
 2022-12-08T04:00:32.455Z,64.4255,-148.0825,19.8,2.2,ml,,,,0.4,ak,ak022fpo6ht9,2022-12-08T04:02:03.575Z,"45 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-08T03:47:44.225Z,58.2101,-155.114,72.2,0.9,ml,,,,0.76,ak,ak022fpnv5rq,2022-12-08T03:50:46.977Z,"81 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-12-08T03:23:21.460Z,35.3008333333333,-82.4855,3.79,2.69,md,18,61,,0.2,se,se60501781,2022-12-08T04:54:33.576Z,"0 km NW of Valley Hill, North Carolina",earthquake,0.35,1.27,0.107468484296295,12,reviewed,se,se
+2022-12-08T03:23:21.460Z,35.3008333333333,-82.4855,3.79,2.69,md,18,61,,0.2,se,se60501781,2022-12-08T05:04:41.083Z,"0 km NW of Valley Hill, North Carolina",earthquake,0.35,1.27,0.107468484296295,12,reviewed,se,se
 2022-12-08T03:04:31.950Z,19.3516674041748,-155.197494506836,9.75,1.9,ml,37,74,,0.150000006,hv,hv73263547,2022-12-08T03:10:02.960Z,"10 km SSE of Volcano, Hawaii",earthquake,0.53,0.379999995,0.28,4,automatic,hv,hv
 2022-12-08T02:57:53.399Z,39.6252,-120.1501,3.9,1.3,ml,15,91.81,0.074,0.1546,nn,nn00852920,2022-12-08T03:00:22.827Z,"6 km ESE of Sierra Brooks, California",earthquake,,0.8,0.24,9,automatic,nn,nn
 2022-12-08T02:49:11.051Z,-9.2047,110.7563,35,4.3,mb,17,132,1.304,0.93,us,us6000j7tj,2022-12-08T03:10:04.040Z,"145 km SSE of Pundong, Indonesia",earthquake,7.2,1.988,0.177,9,reviewed,us,us
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T05:08:27.980Z,17.9465,-66.9528333333333,9.6,3.31,md,26,197,0.04922,0.13,pr,pr71385963,2022-12-07T05:48:21.472Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.34,0.36,0.184910774252551,19,reviewed,pr,pr
 2022-12-07T05:06:43.390Z,38.8306656,-122.8150024,1.53,1.08,md,20,50,0.008217,0.04,nc,nc73815576,2022-12-07T05:30:13.214Z,"8km NW of The Geysers, CA",earthquake,0.2,0.41,0.14,21,automatic,nc,nc
 2022-12-07T05:05:27.568Z,14.5317,123.064,9.04,5.2,mww,105,76,7.816,1.05,us,us6000j7j9,2022-12-07T15:41:45.651Z,"Luzon, Philippines",earthquake,7.83,2.168,0.093,11,reviewed,us,us
-2022-12-07T05:03:20.530Z,17.9538333333333,-66.9536666666667,10.16,2.38,md,18,207,0.04659,0.11,pr,pr71385948,2022-12-07T05:18:05.840Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.31,0.43,0.0476366371535633,8,reviewed,pr,pr
