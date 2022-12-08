@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T17:47:08.305Z,62.6302,-151.6211,97,2.1,ml,,,,0.44,ak,ak022fpw75gu,2022-12-08T17:49:15.181Z,"46 km WNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-08T17:39:08.190Z,35.8698333,-117.6656667,6.07,1.21,ml,12,126,0.07733,0.08,ci,ci40143583,2022-12-08T17:42:35.564Z,"23km ESE of Little Lake, CA",earthquake,0.25,0.56,0.096,15,automatic,ci,ci
 2022-12-08T17:24:19.240Z,33.5856667,-116.8066667,7.59,0.41,ml,11,90,0.05598,0.12,ci,ci40143575,2022-12-08T17:27:55.807Z,"13km WNW of Anza, CA",earthquake,0.34,0.55,0.074,8,automatic,ci,ci
-2022-12-08T16:54:00.990Z,38.8288345,-122.8523331,1.56,1.07,md,18,80,0.003773,0.02,nc,nc73816226,2022-12-08T17:13:12.272Z,"10km NW of The Geysers, CA",earthquake,0.23,0.41,0.3,21,automatic,nc,nc
+2022-12-08T16:54:00.990Z,38.8288345,-122.8523331,1.56,1.07,md,18,80,0.003773,0.02,nc,nc73816226,2022-12-08T17:59:17.555Z,"10km NW of The Geysers, CA",earthquake,0.23,0.41,0.3,21,automatic,nc,nc
 2022-12-08T16:45:46.257Z,63.0953,-151.4403,3,1.6,ml,,,,0.73,ak,ak022fpvldcx,2022-12-08T16:47:59.054Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-08T16:36:09.304Z,38.1795,-117.7803,9.6,2,ml,20,91.68,0.117,0.1442,nn,nn00852941,2022-12-08T17:03:19.049Z,"37 km SE of Mina, Nevada",earthquake,,2.2,0.19,6,reviewed,nn,nn
 2022-12-08T16:17:27.320Z,38.8359985,-122.8008347,1.87,1.02,md,16,63,0.008539,0.02,nc,nc73816211,2022-12-08T16:50:12.100Z,"7km WNW of Cobb, CA",earthquake,0.24,0.45,0.25,17,automatic,nc,nc
