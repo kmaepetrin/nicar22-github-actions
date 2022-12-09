@@ -9,7 +9,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T18:38:38.740Z,35.889,-117.6946667,2.53,0.96,ml,10,161,0.09847,0.19,ci,ci40144135,2022-12-09T18:42:04.422Z,"20km ESE of Little Lake, CA",earthquake,0.54,0.65,0.229,10,automatic,ci,ci
 2022-12-09T18:14:20.424Z,49.2396,147.5652,545.192,4.2,mb,145,119,3.946,0.57,us,us6000j87p,2022-12-09T18:54:36.040Z,"Sea of Okhotsk",earthquake,10.08,7.678,0.049,127,reviewed,us,us
 2022-12-09T18:13:45.560Z,38.8144989,-122.7969971,1.55,1.07,md,22,38,0.006654,0.02,nc,nc73816666,2022-12-09T19:00:11.574Z,"5km NW of The Geysers, CA",earthquake,0.19,0.41,0.12,22,automatic,nc,nc
-2022-12-09T18:07:55.683Z,38.787,-117.0923,15.9,1.4,ml,8,234.25,0.827,0.4538,nn,nn00853064,2022-12-09T18:11:31.801Z,"46 km S of Kingston, Nevada",earthquake,,3.5,0.33,7,automatic,nn,nn
 2022-12-09T18:04:53.560Z,38.784668,-122.734169,0.99,1.14,md,7,84,0.002456,0.01,nc,nc73816661,2022-12-09T19:22:12.700Z,"2km ENE of The Geysers, CA",earthquake,0.51,2.37,0.13,8,automatic,nc,nc
 2022-12-09T18:01:32.482Z,-57.9205,-25.4567,72.742,4.9,mb,45,71,7.164,0.57,us,us6000j87l,2022-12-09T18:36:56.040Z,"South Sandwich Islands region",earthquake,11.26,4.798,0.099,36,reviewed,us,us
 2022-12-09T18:00:08.850Z,61.2723,-151.3679,68.6,1,ml,,,,0.49,ak,ak022frjt5oz,2022-12-09T18:02:33.392Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -131,6 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T04:57:11.240Z,34.4431667,-116.2233333,2.38,0.83,ml,10,125,0.2006,0.08,ci,ci40143871,2022-12-09T05:00:37.409Z,"31km S of Ludlow, CA",earthquake,0.27,0.9,0.149,9,automatic,ci,ci
 2022-12-09T04:50:12.200Z,17.902,-67.1315,13.55,2.72,md,8,283,0.1059,0.05,pr,pr71386203,2022-12-09T05:49:28.030Z,"9 km SE of Pole Ojea, Puerto Rico",earthquake,0.57,0.39,0.143202423037614,4,reviewed,pr,pr
 2022-12-09T04:49:04.791Z,-56.3627,-26.6554,38.115,5.1,mb,62,81,18.334,0.77,us,us6000j830,2022-12-09T05:05:41.040Z,"South Sandwich Islands region",earthquake,12.14,6.832,0.066,74,reviewed,us,us
+2022-12-09T04:46:58.345Z,31.61283793,-103.9662625,7.352697754,2.1,ml,19,45,0.003069354288,0.1,tx,tx2022ybfn,2022-12-09T19:41:06.639Z,"western Texas",earthquake,0.3786115688,0.3939979029,0.1,13,reviewed,tx,tx
 2022-12-09T04:45:58.128Z,58.224,-155.1098,0,0.5,ml,,,,0.07,ak,ak022frbzhqr,2022-12-09T06:44:41.137Z,"82 km NNW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
 2022-12-09T04:41:22.337Z,45.2912,-27.9457,10,4.8,mb,52,60,21.772,0.77,us,us6000j82z,2022-12-09T05:12:07.040Z,"northern Mid-Atlantic Ridge",earthquake,11.34,1.885,0.084,44,reviewed,us,us
 2022-12-09T04:40:45.052Z,45.3535,-28.0049,10,4.8,mb,30,112,21.837,0.63,us,us6000j82x,2022-12-09T05:24:41.040Z,"northern Mid-Atlantic Ridge",earthquake,7.23,1.923,0.099,32,reviewed,us,us
