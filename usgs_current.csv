@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-09T08:01:38.179Z,36.69459152,-97.67662048,5.60608387,1.64,ml,21,59.04550171,0.2154259533,0.2226161364,ok,ok2022ybly,2022-12-09T08:02:42.331Z,"10 km ESE of Jefferson, Oklahoma",earthquake,2.951761566,4.850305406,,7,automatic,ok,ok
+2022-12-09T08:07:21.700Z,38.8311653,-122.8106689,1.84,0.76,md,12,87,0.007773,0.01,nc,nc73816536,2022-12-09T08:08:56.468Z,"8km NW of The Geysers, CA",earthquake,0.31,1.12,0.14,12,automatic,nc,nc
+2022-12-09T08:01:38.645Z,36.69751358,-97.66953278,2.738988638,1.97,ml,34,59.46292114,0.215506807,0.4085347208,ok,ok2022ybly,2022-12-09T08:04:19.034Z,"10 km W of Lamont, Oklahoma",earthquake,2.383752381,1.87144209,,26,automatic,ok,ok
 2022-12-09T07:55:12.396Z,62.9991,-151.5592,40,1.6,ml,,,,1.21,ak,ak022frdtvqu,2022-12-09T07:57:54.509Z,"60 km S of Denali National Park, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2022-12-09T07:51:09.690Z,35.8995,-117.7038333,2.05,0.84,ml,9,121,0.1034,0.2,ci,ci40143927,2022-12-09T07:54:43.159Z,"19km ESE of Little Lake, CA",earthquake,0.53,0.73,0.106,7,automatic,ci,ci
 2022-12-09T07:41:07.180Z,19.1595001220703,-155.496337890625,33.7299995422363,2.00999999,md,23,243,,0.109999999,hv,hv73264432,2022-12-09T07:44:28.500Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.97,0.810000002,1.04999995,7,automatic,hv,hv
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T01:54:51.180Z,38.8269997,-122.7838364,1.22,1.29,md,11,97,0.01141,0.01,nc,nc73816376,2022-12-09T04:50:12.476Z,"5km W of Cobb, CA",earthquake,0.35,0.76,0.41,12,automatic,nc,nc
 2022-12-09T01:50:05.319Z,62.1874,-149.8052,47.1,1.5,ml,,,,0.5,ak,ak022fra878j,2022-12-09T01:52:17.700Z,"3 km NE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-09T01:48:47.640Z,34.1211667,-116.9851667,5.76,0.89,ml,16,86,0.04931,0.16,ci,ci40143839,2022-12-09T01:52:19.910Z,"11km NNE of Yucaipa, CA",earthquake,0.26,0.58,0.158,22,automatic,ci,ci
-2022-12-09T01:46:24.440Z,17.9385,-66.8933333333333,12.13,2.48,md,4,263,0.03874,0.03,pr,pr71386183,2022-12-09T01:56:30.180Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.76,0.85,0.124458463308482,3,reviewed,pr,pr
+2022-12-09T01:46:24.440Z,17.9385,-66.8933333333333,12.13,2.48,md,4,263,0.03874,0.03,pr,pr71386183,2022-12-09T01:56:30.180Z,"Puerto Rico region",earthquake,0.76,0.85,0.124458463308482,3,reviewed,pr,pr
 2022-12-09T01:27:31.588Z,41.9427,-119.5362,2.9,1.6,ml,5,212.91,0.572,0.3007,nn,nn00853027,2022-12-09T05:42:21.634Z,"51 km E of Fort Bidwell, California",earthquake,,4.2,0.66,4,reviewed,nn,nn
 2022-12-09T01:15:35.641Z,61.784,-151.635,90.1,2,ml,,,,0.37,ak,ak022fra0rh8,2022-12-09T01:22:40.040Z,"26 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-09T01:10:39.150Z,34.2246667,-117.4726667,5.89,1.21,ml,24,73,0.04927,0.19,ci,ci40143831,2022-12-09T01:21:35.730Z,"4km SSE of Lytle Creek, CA",earthquake,0.38,1.03,0.169,30,automatic,ci,ci
@@ -254,7 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T08:26:17.683Z,31.61044622,-103.9950323,8.406726074,2.2,ml,21,58,0.0215325096,0.1,tx,tx2022xzrf,2022-12-08T20:35:03.902Z,"western Texas",earthquake,0.4707313417,0.3939482433,0.2,6,reviewed,tx,tx
 2022-12-08T08:24:44.260Z,17.9381666666667,-66.8933333333333,7.94,2.36,md,13,218,0.03686,0.09,pr,pr71386108,2022-12-08T08:59:03.730Z,"4 km SSE of Guánica, Puerto Rico",earthquake,0.54,0.43,0.123212890753676,3,reviewed,pr,pr
 2022-12-08T08:23:33.865Z,31.61894129,-103.9972239,8.715222168,2.8,ml,21,54,0.01753806074,0.1,tx,tx2022xzrd,2022-12-08T18:18:06.791Z,"38 km NNW of Toyah, Texas",earthquake,0.5012583345,0.4073639377,0.2,16,reviewed,tx,tx
-2022-12-08T08:20:03.990Z,17.9343333333333,-66.8911666666667,7.89,2.33,md,7,220,0.04206,0.11,pr,pr71386103,2022-12-08T08:32:52.720Z,"4 km SSE of Guánica, Puerto Rico",earthquake,0.71,0.29,0.0475792521794625,3,reviewed,pr,pr
-2022-12-08T08:18:14.348Z,37.9753,-118.485,10.3,1.6,ml,20,81,0.277,0.1317,nn,nn00852926,2022-12-08T16:47:31.435Z,"17 km N of Benton, California",earthquake,,1.6,0.28,10,reviewed,nn,nn
-2022-12-08T08:14:03.320Z,17.9535,-66.9843333333333,9.52,2.42,md,8,209,0.05917,0.07,pr,pr71386098,2022-12-08T08:26:08.980Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.54,0.82,0.0837388786976041,4,reviewed,pr,pr
-2022-12-08T08:03:11.530Z,38.8256683,-122.8539963,2.21,0.82,md,14,93,0.01503,0.02,nc,nc73816091,2022-12-08T08:04:48.982Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.55,0.15,15,automatic,nc,nc
