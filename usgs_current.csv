@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-11T09:07:27.500Z,36.0175018,-121.0049973,10.2,1.77,md,15,106,0.09411,0.1,nc,nc73817231,2022-12-11T09:21:11.242Z,"9km W of San Ardo, CA",earthquake,0.44,0.77,0.26,6,automatic,nc,nc
+2022-12-11T09:07:27.500Z,36.0175018,-121.0049973,10.2,1.77,md,15,106,0.09411,0.1,nc,nc73817231,2022-12-11T09:30:13.417Z,"9km W of San Ardo, CA",earthquake,0.44,0.77,0.26,6,automatic,nc,nc
 2022-12-11T09:05:47.090Z,35.8641667,-117.6885,6.98,1.99,ml,22,58,0.08325,0.15,ci,ci40144559,2022-12-11T09:16:43.300Z,"21km ESE of Little Lake, CA",earthquake,0.26,0.62,0.165,26,automatic,ci,ci
-2022-12-11T09:02:01.620Z,38.8341675,-122.8171692,1.58,1.1,md,16,89,0.0121,0.01,nc,nc73817221,2022-12-11T09:19:14.229Z,"8km NW of The Geysers, CA",earthquake,0.27,0.56,0.13,18,automatic,nc,nc
+2022-12-11T09:02:01.620Z,38.8341675,-122.8171692,1.58,1.1,md,16,89,0.0121,0.01,nc,nc73817221,2022-12-11T09:36:10.337Z,"8km NW of The Geysers, CA",earthquake,0.27,0.56,0.13,18,automatic,nc,nc
 2022-12-11T08:41:21.115Z,62.9423,-149.5497,58.3,1.7,ml,,,,0.77,ak,ak022fupf173,2022-12-11T08:43:26.036Z,"58 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-11T08:40:09.573Z,62.1841,-150.6038,17.8,1.4,ml,,,,0.35,ak,ak022fupesl9,2022-12-11T08:47:11.797Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-11T08:24:47.606Z,60.4891,-143.2344,26.3,1,ml,,,,0.66,ak,ak022fupbg2g,2022-12-11T08:27:44.428Z,"106 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T10:42:21.660Z,18.3181666666667,-67.2183333333333,15.86,2,md,6,285,0.3162,0.26,pr,pr71386438,2022-12-10T11:04:09.780Z,"3 km E of Stella, Puerto Rico",earthquake,2.22,5.07,0.0165024881886833,3,reviewed,pr,pr
 2022-12-10T10:29:13.800Z,33.1596667,-116.467,6.58,1.06,ml,41,78,0.116,0.21,ci,ci40144327,2022-12-10T10:40:02.520Z,"14km SW of Borrego Springs, CA",earthquake,0.3,0.86,0.165,28,automatic,ci,ci
 2022-12-10T10:04:23.030Z,17.9098333333333,-66.909,7.16,1.8,md,3,305,0.1417,0.03,pr,pr71386433,2022-12-10T10:25:06.340Z,"6 km S of Guánica, Puerto Rico",earthquake,0.74,0.34,0.0371815235436947,3,reviewed,pr,pr
-2022-12-10T09:36:49.703Z,3.1386,-84.2436,10,4.7,mb,55,161,5.318,0.75,us,us6000j8e7,2022-12-10T09:59:09.040Z,"off the coast of Central America",earthquake,8,1.747,0.041,178,reviewed,us,us
