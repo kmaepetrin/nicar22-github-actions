@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T15:37:43.400Z,35.5121667,-118.3908333,3.8,1.07,ml,11,100,0.1853,0.17,ci,ci40144951,2022-12-12T15:41:15.637Z,"12km SE of Bodfish, CA",earthquake,0.34,1.33,0.089,10,automatic,ci,ci
 2022-12-12T15:12:36.540Z,19.3455009460449,-155.308502197266,1.45000004768372,1.93,ml,28,64,,0.219999999,hv,hv73267442,2022-12-12T15:18:07.350Z,"13 km SW of Volcano, Hawaii",earthquake,0.29,0.519999981,0.34,6,automatic,hv,hv
 2022-12-12T15:02:53.434Z,51.5031,-175.3081,51.15,4.1,mb,57,123,0.754,0.44,us,us6000j8s2,2022-12-12T15:34:06.040Z,"100 km ESE of Adak, Alaska",earthquake,8.6,8.033,0.08,45,reviewed,us,us
 2022-12-12T14:44:52.800Z,34.2525,-116.4406667,7.59,1.18,ml,20,80,0.06187,0.19,ci,ci40144943,2022-12-12T14:48:25.858Z,"15km N of Yucca Valley, CA",earthquake,0.34,1.02,0.115,27,automatic,ci,ci
@@ -166,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T16:20:39.864Z,-26.5015,27.7739,9.834,4.4,mb,17,179,2.459,0.57,us,us6000j8mc,2022-12-11T17:12:06.040Z,"South Africa",earthquake,8.44,5.592,0.239,7,reviewed,us,us
 2022-12-11T16:19:04.954Z,61.2716,-146.7006,17.9,1.5,ml,,,,0.54,ak,ak022fuu1r1b,2022-12-11T16:21:12.292Z,"24 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-11T16:08:16.260Z,39.3626667,-123.2828333,5.23,1.85,md,18,64,,0.06,nc,nc73817336,2022-12-11T20:38:12.302Z,"8km SE of Willits, CA",earthquake,0.2,0.85,0.158,15,reviewed,nc,nc
-2022-12-11T15:46:37.588Z,60.932,-147.7217,16.6,1,ml,,,,0.63,ak,ak022futm6a6,2022-12-11T15:48:15.861Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-11T15:45:10.370Z,19.1865005493164,-155.500335693359,35.3499984741211,2.32,ml,47,88,,0.119999997,hv,hv73266442,2022-12-11T17:03:11.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.54,0.769999981,3.53,11,automatic,hv,hv
