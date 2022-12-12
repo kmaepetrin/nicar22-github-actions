@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T10:54:43.248Z,63.0593,-151.4619,12.4,1.8,ml,,,,0.69,ak,ak022fwe82x0,2022-12-12T10:58:22.364Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-12T10:52:36.220Z,34.2543333,-116.4381667,7.58,1.32,ml,17,60,0.05911,0.2,ci,ci40144815,2022-12-12T10:56:03.996Z,"16km N of Yucca Valley, CA",earthquake,0.34,1.05,0.163,29,automatic,ci,ci
 2022-12-12T10:39:16.559Z,60.9669,-150.6512,46.7,1.9,ml,,,,0.56,ak,ak022fwe4t47,2022-12-12T10:41:31.600Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-12T10:27:44.370Z,32.7136667,-115.3686667,13.33,1.81,ml,12,277,0.1126,0.22,ci,ci40144807,2022-12-12T10:31:21.488Z,"11km S of Holtville, CA",earthquake,1.31,1.31,0.176,23,automatic,ci,ci
-2022-12-12T10:19:31.140Z,35.5289993,-120.8291702,7.25,1.84,md,17,107,0.09333,0.07,nc,nc73817596,2022-12-12T10:39:13.295Z,"11km NNE of Cayucos, CA",earthquake,0.38,0.91,0.18,12,automatic,nc,nc
+2022-12-12T10:19:31.140Z,35.5289993,-120.8291702,7.25,1.84,md,17,107,0.09333,0.07,nc,nc73817596,2022-12-12T10:54:10.375Z,"11km NNE of Cayucos, CA",earthquake,0.38,0.91,0.18,12,automatic,nc,nc
 2022-12-12T10:15:19.780Z,33.3218333,-116.7548333,12.16,0.92,ml,37,43,0.08569,0.21,ci,ci40144791,2022-12-12T10:19:00.224Z,"9km N of Lake Henshaw, CA",earthquake,0.22,0.84,0.129,24,automatic,ci,ci
 2022-12-12T10:10:02.390Z,38.7836685,-122.723999,2.02,1.09,md,6,194,0.009956,0.04,nc,nc73817591,2022-12-12T10:27:15.228Z,"3km ENE of The Geysers, CA",earthquake,1.11,0.83,0.15,7,automatic,nc,nc
 2022-12-12T09:56:30.070Z,35.403,-118.643,3.7,1.41,ml,15,114,0.1246,0.2,ci,ci40144783,2022-12-12T10:00:02.767Z,"25km SSW of Bodfish, CA",earthquake,0.42,1.57,0.132,16,automatic,ci,ci
@@ -153,4 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T11:42:07.354Z,61.5759,-150.5184,46.5,2.4,ml,,,,0.32,ak,ak022fur7inz,2022-12-11T20:30:34.256Z,"3 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-11T11:30:20.692Z,-7.822,104.2333,10,4.4,mb,23,182,3.406,0.35,us,us6000j8l3,2022-12-11T12:29:10.040Z,"237 km SW of Labuan, Indonesia",earthquake,8.08,1.966,0.162,11,reviewed,us,us
 2022-12-11T11:00:13.380Z,18.648,-66.7385,13.84,3.26,md,41,214,0.1762,0.2,pr,pr71386618,2022-12-11T11:45:15.720Z,"19 km NNE of Carrizales, Puerto Rico",earthquake,0.4,0.91,0.120503913078333,19,reviewed,pr,pr
-2022-12-11T10:58:21.550Z,62.0301,-155.3368,0.1,2.2,ml,,,,0.61,ak,ak022fuqpjm3,2022-12-11T11:00:59.096Z,"71 km ENE of Stony River, Alaska",earthquake,,1.7,,,automatic,ak,ak
