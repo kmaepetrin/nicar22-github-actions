@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T20:00:40.940Z,33.012,-116.4438333,11,1.11,ml,28,57,0.1257,0.2,ci,ci40145239,2022-12-13T20:04:10.159Z,"16km ESE of Julian, CA",earthquake,0.3,0.57,0.136,17,automatic,ci,ci
 2022-12-13T19:58:23.620Z,19.2311668395996,-155.384170532227,32.3199996948242,1.89,ml,40,148,,0.119999997,hv,hv73268707,2022-12-13T20:03:55.020Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.74,0.779999971,4.06,3,automatic,hv,hv
 2022-12-13T19:26:04.250Z,64.0445,-148.7077,12.3,1.4,ml,,,,0.49,ak,ak022fy6y8sp,2022-12-13T19:27:45.654Z,"20 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-13T18:53:58.140Z,36.5914993,-121.1663361,8.58,1.79,md,22,127,0.02502,0.05,nc,nc73818281,2022-12-13T19:54:14.461Z,"7km NNW of Pinnacles, CA",earthquake,0.25,0.49,0.19,22,automatic,nc,nc
+2022-12-13T18:53:58.140Z,36.5914993,-121.1663361,8.58,1.79,md,22,127,0.02502,0.05,nc,nc73818281,2022-12-13T21:00:09.879Z,"7km NNW of Pinnacles, CA",earthquake,0.25,0.49,0.19,22,automatic,nc,nc
 2022-12-13T18:35:53.367Z,61.2886,-152.3388,6.8,0.2,ml,,,,0.14,ak,ak022fy6etsj,2022-12-13T20:03:50.135Z,"Southern Alaska",earthquake,,2.4,,,reviewed,ak,ak
 2022-12-13T18:33:27.640Z,19.1916675567627,-155.462829589844,34.8899993896484,2.19000006,md,38,106,,0.119999997,hv,hv73268667,2022-12-13T18:39:45.040Z,"2 km SE of Pāhala, Hawaii",earthquake,0.62,0.959999979,1.78999996,18,automatic,hv,hv
 2022-12-13T18:23:42.739Z,41.9949,-119.5857,0,1.6,ml,4,202.72,0.542,0.1207,nn,nn00853284,2022-12-13T18:59:41.240Z,"49 km ENE of Fort Bidwell, California",earthquake,,0,0.71,4,reviewed,nn,nn
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T21:08:56.860Z,19.2833,-64.9061,24,3.55,md,7,300,0.9316,0.32,pr,pr2022346001,2022-12-12T22:26:33.264Z,"104 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.85,26.66,0.14,3,reviewed,pr,pr
 2022-12-12T21:06:10.710Z,35.9636667,-117.6921667,9.54,0.78,ml,12,98,0.07853,0.07,ci,ci40145007,2022-12-13T01:40:27.541Z,"20km E of Little Lake, CA",earthquake,0.19,0.46,0.144,5,reviewed,ci,ci
 2022-12-12T21:05:43.420Z,44.7985,-110.8401667,3.93,1.36,ml,13,108,0.01255,0.23,uu,uu60528057,2022-12-12T22:58:35.650Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.51,0.64,0.668,3,reviewed,uu,uu
-2022-12-12T21:00:22.810Z,19.3951666666667,-155.495833333333,6.35,2.22,ml,41,36,,0.15,hv,hv73267722,2022-12-12T23:14:10.770Z,"21 km N of Pāhala, Hawaii",earthquake,0.29,0.6,0.112189987535235,20,reviewed,hv,hv
