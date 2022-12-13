@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-13T18:53:58.140Z,36.5914993,-121.1663361,8.58,1.79,md,22,127,0.02502,0.05,nc,nc73818281,2022-12-13T18:55:36.254Z,"7km NNW of Pinnacles, CA",earthquake,0.25,0.49,0.19,22,automatic,nc,nc
 2022-12-13T18:35:46.844Z,60.8741,-152.5273,39.8,1.3,ml,,,,0.9,ak,ak022fy6etsj,2022-12-13T18:38:24.938Z,"70 km WNW of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-12-13T18:33:27.640Z,19.1916675567627,-155.462829589844,34.8899993896484,2.19000006,md,38,106,,0.119999997,hv,hv73268667,2022-12-13T18:39:45.040Z,"2 km SE of Pāhala, Hawaii",earthquake,0.62,0.959999979,1.78999996,18,automatic,hv,hv
-2022-12-13T18:23:42.950Z,41.992,-119.6116,0,1.6,ml,4,202.16,0.522,0.1669,nn,nn00853284,2022-12-13T18:53:25.898Z,"47 km ENE of Fort Bidwell, California",earthquake,,0,0.71,4,reviewed,nn,nn
+2022-12-13T18:23:42.739Z,41.9949,-119.5857,0,1.6,ml,4,202.72,0.542,0.1207,nn,nn00853284,2022-12-13T18:59:41.240Z,"49 km ENE of Fort Bidwell, California",earthquake,,0,0.71,4,reviewed,nn,nn
 2022-12-13T18:23:24.520Z,34.05,-117.2741667,14.14,1.22,ml,36,88,0.1012,0.23,ci,ci40145215,2022-12-13T18:27:10.339Z,"1km W of Loma Linda, CA",earthquake,0.32,0.74,0.197,29,automatic,ci,ci
 2022-12-13T18:18:09.635Z,61.7663,-153.9471,3.5,1.8,ml,,,,0.8,ak,ak022fy6b3vn,2022-12-13T18:20:12.646Z,"91 km ENE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-13T18:12:54.765Z,38.1216,-118.027,3.6,1.5,ml,8,154.66,0.056,0.0843,nn,nn00853276,2022-12-13T18:15:47.933Z,"30 km SSE of Mina, Nevada",earthquake,,0.8,1.03,5,automatic,nn,nn
@@ -133,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T01:36:45.126Z,60.8686,-150.4921,20.7,2,ml,,,,0.41,ak,ak022fxwao80,2022-12-13T06:51:27.826Z,"12 km ESE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-13T01:12:36.995Z,40.6717,-126.7455,10,2.9,ml,33,255,2.016,0.61,us,us6000j8x4,2022-12-13T04:22:42.040Z,"210 km W of Ferndale, California",earthquake,8.39,2.021,0.046,62,reviewed,us,us
 2022-12-13T01:00:01.045Z,64.391,-147.5346,13.9,1.6,ml,,,,0.31,ak,ak022fxw2v1m,2022-12-13T01:02:32.284Z,"33 km WSW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-13T00:59:44.510Z,51.8691666666667,-177.931666666667,6.88,1.27,ml,4,175,,0.11,av,av91730051,2022-12-13T18:58:00.930Z,"89 km W of Adak, Alaska",earthquake,0.54,1.1,0.129985911266898,4,reviewed,av,av
 2022-12-13T00:43:25.398Z,59.971,-152.9666,106.3,2,ml,,,,0.29,ak,ak022fxvqp3v,2022-12-13T00:58:32.040Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-13T00:30:55.770Z,33.68,-116.704,16.13,0.56,ml,20,106,0.02751,0.09,ci,ci40145079,2022-12-13T01:55:30.778Z,"7km SSE of Idyllwild, CA",earthquake,0.24,0.33,0.052,11,reviewed,ci,ci
 2022-12-13T00:29:24.160Z,38.8380013,-122.7969971,2,0.29,md,6,201,0.005212,0.01,nc,nc73817971,2022-12-13T00:31:01.004Z,"7km WNW of Cobb, CA",earthquake,0.96,1.36,0.17,7,automatic,nc,nc
