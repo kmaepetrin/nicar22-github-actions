@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T06:46:36.930Z,19.1838340759277,-155.386169433594,31.9099998474121,1.86000001,md,41,176,,0.119999997,hv,hv73270007,2022-12-15T06:49:40.240Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.75,0.949999988,1.38,10,automatic,hv,hv
 2022-12-15T06:26:40.921Z,60.2126,-151.2725,50.6,1.8,ml,,,,0.5,ak,ak022g1aadr0,2022-12-15T06:28:54.566Z,"7 km ESE of Clam Gulch, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-12-15T06:17:16.417Z,63.1923,-149.7758,79.4,2.1,ml,,,,0.36,ak,ak022g1a8eex,2022-12-15T06:19:16.962Z,"46 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-15T06:16:48.300Z,38.7853317,-122.7811661,2,1.63,md,33,88,,0.05,nc,nc73818841,2022-12-15T06:33:13.877Z,"2km WNW of The Geysers, CA",earthquake,0.23,0.34,0.15,33,automatic,nc,nc
-2022-12-15T05:55:14.540Z,38.8631668,-122.7956696,0.72,0.76,md,8,186,0.01943,0.03,nc,nc73818836,2022-12-15T05:56:51.467Z,"8km NW of Cobb, CA",earthquake,0.43,1.5,0.25,9,automatic,nc,nc
+2022-12-15T06:16:48.300Z,38.7853317,-122.7811661,2,1.63,md,33,88,,0.05,nc,nc73818841,2022-12-15T06:48:09.961Z,"2km WNW of The Geysers, CA",earthquake,0.23,0.34,0.15,33,automatic,nc,nc
+2022-12-15T05:55:14.540Z,38.8631668,-122.7956696,0.72,0.76,md,8,186,0.01943,0.03,nc,nc73818836,2022-12-15T06:48:12.962Z,"8km NW of Cobb, CA",earthquake,0.43,1.5,0.25,9,automatic,nc,nc
 2022-12-15T05:23:16.360Z,19.1886672973633,-155.490997314453,33.810001373291,2.32,ml,47,145,,0.119999997,hv,hv73269937,2022-12-15T05:28:46.280Z,"2 km SW of Pāhala, Hawaii",earthquake,0.62,0.769999981,3.62,15,automatic,hv,hv
 2022-12-15T05:15:08.180Z,17.9828333333333,-66.941,12.9,2,md,5,166,0.05927,0.06,pr,pr71387228,2022-12-15T05:40:26.470Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.59,0.9,0.0648218146180402,4,reviewed,pr,pr
 2022-12-15T05:10:03.862Z,58.2261,-155.0743,3.1,2.3,ml,,,,0.45,ak,ak022g19lftu,2022-12-15T05:12:08.381Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
