@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-16T02:51:52.760Z,34.9101667,-119.559,5.91,0.93,ml,18,97,0.09987,0.27,ci,ci40391000,2022-12-16T02:55:21.078Z,"22km SW of Maricopa, CA",earthquake,0.53,1.62,0.156,11,automatic,ci,ci
+2022-12-16T02:49:21.020Z,34.9201667,-119.5596667,7.62,1.53,ml,28,57,0.09655,0.26,ci,ci40390992,2022-12-16T02:53:01.224Z,"21km SW of Maricopa, CA",earthquake,0.47,1.48,0.233,23,automatic,ci,ci
 2022-12-16T02:36:42.640Z,19.2325000762939,-155.382827758789,30.2099990844727,2.04999995,md,40,148,,0.109999999,hv,hv73271197,2022-12-16T02:39:46.100Z,"Hawaii region, Hawaii",earthquake,0.58,0.589999974,1.00999999,15,automatic,hv,hv
 2022-12-16T02:28:42.790Z,33.68,-116.739,17.13,0.56,ml,16,93,0.03735,0.17,ci,ci40390984,2022-12-16T02:32:14.477Z,"7km SSW of Idyllwild, CA",earthquake,0.41,0.62,0.147,12,automatic,ci,ci
 2022-12-16T02:24:33.932Z,63.2742,-151.3479,10.4,1.7,ml,,,,0.4,ak,ak022g2vfjup,2022-12-16T02:26:39.464Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -165,6 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T07:39:37.570Z,37.2788333,-121.6463333,9.1,0.94,md,24,45,0.02914,0.08,nc,nc73818886,2022-12-15T17:52:42.897Z,"16km N of Morgan Hill, CA",earthquake,0.22,0.45,0.078,19,reviewed,nc,nc
 2022-12-15T07:32:55.150Z,36.454,-121.0263333,8.53,1.07,md,21,119,0.02554,0.11,nc,nc73818876,2022-12-15T18:41:13.392Z,"14km SE of Pinnacles, CA",earthquake,0.31,0.32,0.239,14,reviewed,nc,nc
 2022-12-15T07:29:22.340Z,17.9436666666667,-66.9478333333333,10.1,2.29,md,22,213,0.04687,0.19,pr,pr71387243,2022-12-15T07:50:47.770Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.48,0.63,0.0970535189377719,6,reviewed,pr,pr
+2022-12-15T07:27:24.390Z,58.2305,-155.143166666667,-0.68,0.06,ml,4,227,,0.07,av,av91080013,2022-12-16T02:51:56.080Z,"84 km NNW of Karluk, Alaska",earthquake,0.6,31.61,0.181992163323997,4,reviewed,av,av
 2022-12-15T07:26:55.860Z,17.9506666666667,-66.9616666666667,11.37,1.99,md,4,212,0.08077,0.05,pr,pr71387238,2022-12-15T07:38:14.840Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.64,0.89,0.119178094790065,4,reviewed,pr,pr
 2022-12-15T07:24:10.174Z,62.0177,-152.1644,93.8,1.9,ml,,,,0.61,ak,ak022g1avbjt,2022-12-15T07:26:08.054Z,"40 km W of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-15T07:12:55.140Z,32.8228333,-116.1668333,8.94,0.91,ml,30,71,0.0663,0.21,ci,ci40145679,2022-12-15T16:19:48.057Z,"19km WNW of Ocotillo, CA",earthquake,0.26,0.74,0.1,12,reviewed,ci,ci
@@ -211,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T03:15:19.880Z,58.1898333333333,-155.289666666667,1.53,0.88,ml,5,136,,0.03,av,av91079983,2022-12-16T01:35:13.170Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.82,0.511045476043895,5,reviewed,av,av
 2022-12-15T03:13:46.949Z,37.2964,-117.6781,0,0.8,ml,9,177.71,0.069,0.1237,nn,nn00853405,2022-12-16T02:40:52.716Z,"51 km S of Silver Peak, Nevada",earthquake,,0,1.16,6,reviewed,nn,nn
 2022-12-15T03:10:46.193Z,60.5458,-152.5354,14.5,2.1,ml,,,,0.31,ak,ak022g18envv,2022-12-15T20:19:38.570Z,"67 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-15T02:50:05.780Z,35.5093333,-118.3958333,4.89,1.26,ml,33,41,0.1658,0.13,ci,ci40145655,2022-12-15T15:58:43.407Z,"12km SE of Bodfish, CA",earthquake,0.14,1.02,0.175,18,reviewed,ci,ci
