@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T12:04:02.183Z,61.0642,-151.671,86,1.4,ml,,,,0.45,ak,ak022g4osvmi,2022-12-17T12:06:19.841Z,"28 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-17T11:59:28.416Z,65.2325,-149.6906,12.6,1.2,ml,,,,0.63,ak,ak022g4ojafd,2022-12-17T12:01:37.022Z,"18 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-17T11:53:48.568Z,62.1495,-150.0325,3.1,1.6,ml,,,,0.43,ak,ak022g4oi1oo,2022-12-17T11:55:54.442Z,"9 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-17T11:39:42.860Z,37.9181667,-122.304,5.48,3.57,mw,170,19,0.01598,0.15,nc,nc73819746,2022-12-17T20:38:37.855Z,"1km ENE of El Cerrito, CA",earthquake,0.1,0.17,,4,reviewed,nc,nc
+2022-12-17T11:39:42.860Z,37.9181667,-122.304,5.48,3.57,mw,170,19,0.01598,0.15,nc,nc73819746,2022-12-17T20:43:36.481Z,"1km ENE of El Cerrito, CA",earthquake,0.1,0.17,,4,reviewed,nc,nc
 2022-12-17T11:32:20.440Z,33.8968333,-119.9468333,15.1,2.25,ml,8,261,0.1368,0.1,ci,ci40391472,2022-12-17T12:29:57.192Z,"16km ESE of Santa Rosa Is., CA",earthquake,2.34,1.49,0.111,26,automatic,ci,ci
 2022-12-17T11:09:39.724Z,37.5868,-117.7161,0.2,0.9,ml,11,204.88,0.287,0.1341,nn,nn00853588,2022-12-17T11:13:20.932Z,"19 km SSW of Silver Peak, Nevada",earthquake,,50,0.99,6,automatic,nn,nn
 2022-12-17T10:57:55.670Z,17.8483333333333,-65.661,12.27,2.77,md,5,276,0.2682,0.06,pr,pr71387748,2022-12-17T11:30:22.150Z,"Puerto Rico region",earthquake,0.67,0.75,0.062262958782811,3,reviewed,pr,pr
@@ -125,10 +125,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T05:23:29.260Z,33.4835,-116.8963333,8.81,0.36,ml,13,84,0.1473,0.14,ci,ci40391352,2022-12-17T05:26:52.006Z,"5km NNW of Aguanga, CA",earthquake,0.37,1.89,0.107,8,automatic,ci,ci
 2022-12-17T05:17:32.310Z,33.3243333,-116.3233333,5.81,0.73,ml,20,124,0.09648,0.19,ci,ci40391344,2022-12-17T05:21:02.660Z,"9km NNE of Borrego Springs, CA",earthquake,0.34,1.75,0.106,16,automatic,ci,ci
 2022-12-17T05:05:25.020Z,17.9553333333333,-66.8916666666667,11.84,2.32,md,19,204,0.02289,0.09,pr,pr71387693,2022-12-17T12:13:39.360Z,"2 km SE of Guánica, Puerto Rico",earthquake,0.51,0.32,0.0993632878486164,13,reviewed,pr,pr
-2022-12-17T04:59:20.589Z,32.1441,-102.0997,5,2.6,mb_lg,21,64,0.059,0.91,us,us6000j9xm,2022-12-17T20:08:08.169Z,"16 km N of Midland, Texas",earthquake,2.1,2.002,0.111,22,reviewed,us,us
+2022-12-17T04:59:20.589Z,32.1441,-102.0997,5,2.6,mb_lg,21,64,0.059,0.91,us,us6000j9xm,2022-12-17T20:43:59.293Z,"16 km N of Midland, Texas",earthquake,2.1,2.002,0.111,22,reviewed,us,us
 2022-12-17T04:57:02.760Z,32.17,-102.1068,5,2.7,mb_lg,27,62,0.065,0.66,us,us6000j9xl,2022-12-17T16:26:51.990Z,"19 km N of Midland, Texas",earthquake,2.45,2.001,0.085,37,reviewed,us,us
 2022-12-17T04:51:01.250Z,36.6558342,-121.2668304,4.46,1.42,md,12,139,0.04968,0.05,nc,nc73819691,2022-12-17T07:24:12.846Z,"16km SSE of Tres Pinos, CA",earthquake,0.43,1.11,0.37,9,automatic,nc,nc
-2022-12-17T04:44:00.930Z,37.6581667,-118.7775,6.7,0.31,md,13,267,0.03603,0.04,nc,nc73819686,2022-12-17T20:07:59.443Z,"14km NW of Toms Place, CA",earthquake,0.61,0.36,0.328,13,reviewed,nc,nc
+2022-12-17T04:44:00.930Z,37.6581667,-118.7775,6.7,0.31,md,13,267,0.03603,0.04,nc,nc73819686,2022-12-17T20:41:17.797Z,"14km NW of Toms Place, CA",earthquake,0.61,0.36,0.328,13,reviewed,nc,nc
 2022-12-17T04:43:13.600Z,37.6813333,-118.8921667,7.78,-0.16,md,6,249,0.02853,0.02,nc,nc73819681,2022-12-17T20:05:29.008Z,"9km ENE of Mammoth Lakes, CA",earthquake,1.11,0.68,0.235,7,reviewed,nc,nc
 2022-12-17T04:13:28.660Z,17.9486666666667,-66.6873333333333,15.69,2.25,md,11,235,0.1013,0.08,pr,pr71387688,2022-12-17T11:29:23.460Z,"5 km SSE of Tallaboa, Puerto Rico",earthquake,0.56,0.69,0.169128571427336,9,reviewed,pr,pr
 2022-12-17T04:11:57.610Z,38.8341675,-122.7894974,1.84,1.11,md,19,59,0.004287,0.02,nc,nc73819666,2022-12-17T06:31:13.472Z,"6km WNW of Cobb, CA",earthquake,0.22,0.37,0.14,20,automatic,nc,nc
