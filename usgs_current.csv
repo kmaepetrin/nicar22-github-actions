@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-17T18:48:04.580Z,38.7768326,-122.7158356,1.41,1.04,md,7,97,0.01556,0.03,nc,nc73819886,2022-12-17T18:49:39.844Z,"2km W of Anderson Springs, CA",earthquake,0.38,0.91,0.09,7,automatic,nc,nc
 2022-12-17T18:46:08.660Z,38.8131676,-122.8290024,2.66,0.95,md,10,53,0.004296,0.04,nc,nc73819876,2022-12-17T18:47:45.078Z,"7km WNW of The Geysers, CA",earthquake,0.42,0.93,0.32,11,automatic,nc,nc
-2022-12-17T18:37:23.580Z,37.2988319,-121.6691666,5.66,1.96,md,43,40,0.0399,0.07,nc,nc73819871,2022-12-17T18:40:32.090Z,"15km E of Seven Trees, CA",earthquake,0.15,0.32,0.23,36,automatic,nc,nc
+2022-12-17T18:37:23.580Z,37.2988319,-121.6691666,5.66,1.96,md,43,40,0.0399,0.07,nc,nc73819871,2022-12-17T18:54:13.131Z,"15km E of Seven Trees, CA",earthquake,0.15,0.32,0.23,36,automatic,nc,nc
 2022-12-17T18:28:25.810Z,-11.4386,117.9321,17.456,4.8,mb,62,53,2.599,1.06,us,us6000ja1f,2022-12-17T18:47:29.040Z,"south of Sumbawa, Indonesia",earthquake,6.59,4.084,0.09,43,reviewed,us,us
 2022-12-17T18:17:07.520Z,18.2411666666667,-66.965,16.01,2.3,md,14,93,0.1671,0.14,pr,pr71387773,2022-12-17T18:42:54.670Z,"3 km ESE of Las Marías, Puerto Rico",earthquake,0.29,0.77,0.125100413036304,8,reviewed,pr,pr
 2022-12-17T18:10:10.170Z,62.9537,-150.429,107.5,2.8,ml,,,,0.44,ak,ak022g4ses55,2022-12-17T18:12:12.592Z,"53 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T12:04:02.183Z,61.0642,-151.671,86,1.4,ml,,,,0.45,ak,ak022g4osvmi,2022-12-17T12:06:19.841Z,"28 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-17T11:59:28.416Z,65.2325,-149.6906,12.6,1.2,ml,,,,0.63,ak,ak022g4ojafd,2022-12-17T12:01:37.022Z,"18 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-17T11:53:48.568Z,62.1495,-150.0325,3.1,1.6,ml,,,,0.43,ak,ak022g4oi1oo,2022-12-17T11:55:54.442Z,"9 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-17T11:39:42.860Z,37.9181667,-122.304,5.48,3.57,mw,170,19,0.01598,0.15,nc,nc73819746,2022-12-17T18:44:02.426Z,"1km ENE of El Cerrito, CA",earthquake,0.1,0.17,,4,reviewed,nc,nc
+2022-12-17T11:39:42.860Z,37.9181667,-122.304,5.48,3.57,mw,170,19,0.01598,0.15,nc,nc73819746,2022-12-17T18:56:10.555Z,"1km ENE of El Cerrito, CA",earthquake,0.1,0.17,,4,reviewed,nc,nc
 2022-12-17T11:32:20.440Z,33.8968333,-119.9468333,15.1,2.25,ml,8,261,0.1368,0.1,ci,ci40391472,2022-12-17T12:29:57.192Z,"16km ESE of Santa Rosa Is., CA",earthquake,2.34,1.49,0.111,26,automatic,ci,ci
 2022-12-17T11:09:39.724Z,37.5868,-117.7161,0.2,0.9,ml,11,204.88,0.287,0.1341,nn,nn00853588,2022-12-17T11:13:20.932Z,"19 km SSW of Silver Peak, Nevada",earthquake,,50,0.99,6,automatic,nn,nn
 2022-12-17T10:57:55.670Z,17.8483333333333,-65.661,12.27,2.77,md,5,276,0.2682,0.06,pr,pr71387748,2022-12-17T11:30:22.150Z,"Puerto Rico region",earthquake,0.67,0.75,0.062262958782811,3,reviewed,pr,pr
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T19:23:37.930Z,58.2875,-154.825833333333,4.88,0.29,ml,7,172,,0.18,av,av91080523,2022-12-17T04:10:34.610Z,"Alaska Peninsula",earthquake,0.74,2.95,0.12806493884309,7,reviewed,av,av
 2022-12-16T19:00:35.230Z,19.2023334503174,-155.445327758789,33.8400001525879,1.91,ml,23,163,,0.109999999,hv,hv73272162,2022-12-16T19:06:05.040Z,"Island of Hawaii, Hawaii",earthquake,1.1,0.819999993,3.9,3,automatic,hv,hv
 2022-12-16T18:58:42.158Z,59.8115,-151.942,54.5,1.7,ml,,,,0.28,ak,ak022g355sif,2022-12-16T19:00:11.964Z,"7 km WNW of Anchor Point, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2022-12-16T18:55:25.030Z,19.2103328704834,-155.373840332031,30.2299995422363,2.38000011,md,15,210,,0.100000001,hv,hv73272157,2022-12-16T18:58:42.850Z,"11 km E of Pāhala, Hawaii",earthquake,1.4,1.02999997,1.17999995,3,automatic,hv,hv
