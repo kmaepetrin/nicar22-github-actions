@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-17T05:47:45.580Z,38.7718315,-122.7588348,-0.83,1.14,md,9,95,0.005516,0.23,nc,nc73819706,2022-12-17T05:49:22.499Z,"1km SSW of The Geysers, CA",earthquake,0.63,1.52,0.12,8,automatic,nc,nc
 2022-12-17T05:41:32.609Z,59.9595,-152.1508,69.9,1.4,ml,,,,0.5,ak,ak022g4kuu8c,2022-12-17T05:44:23.597Z,"23 km W of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-12-17T05:34:07.750Z,38.7443352,-122.684166,-0.67,0.97,md,9,92,0.02658,0.08,nc,nc73819701,2022-12-17T05:35:42.882Z,"4km S of Anderson Springs, CA",earthquake,0.43,1.35,0.17,9,automatic,nc,nc
+2022-12-17T05:34:07.750Z,38.7443352,-122.684166,-0.67,0.97,md,9,92,0.02658,0.08,nc,nc73819701,2022-12-17T05:50:13.210Z,"4km S of Anderson Springs, CA",earthquake,0.43,1.35,0.17,9,automatic,nc,nc
 2022-12-17T05:23:29.260Z,33.4835,-116.8963333,8.81,0.36,ml,13,84,0.1473,0.14,ci,ci40391352,2022-12-17T05:26:52.006Z,"5km NNW of Aguanga, CA",earthquake,0.37,1.89,0.107,8,automatic,ci,ci
 2022-12-17T05:17:32.310Z,33.3243333,-116.3233333,5.81,0.73,ml,20,124,0.09648,0.19,ci,ci40391344,2022-12-17T05:21:02.660Z,"9km NNE of Borrego Springs, CA",earthquake,0.34,1.75,0.106,16,automatic,ci,ci
 2022-12-17T04:59:20.589Z,32.1441,-102.0997,5,2.6,mb_lg,21,64,0.059,0.91,us,us6000j9xm,2022-12-17T05:23:57.075Z,"16 km N of Midland, Texas",earthquake,2.1,2.002,0.111,22,reviewed,us,us
@@ -265,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T06:06:51.480Z,58.2441666666667,-155.080166666667,6.84,0.69,ml,9,154,,0.23,av,av91731571,2022-12-17T00:59:59.820Z,"83 km NNW of Karluk, Alaska",earthquake,0.6,1.1,0.176280327081957,9,reviewed,av,av
 2022-12-16T05:57:04.612Z,64.9557,-150.6955,9.6,1.5,ml,,,,0.71,ak,ak022g2xev0s,2022-12-16T06:02:25.451Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-16T05:56:53.655Z,-11.346,-76.5591,7.35,4.6,mb,33,120,0.695,0.79,us,us6000j9nd,2022-12-17T00:21:55.600Z,"6 km NNE of Huaros, Peru",earthquake,6.87,5.345,0.103,28,reviewed,us,us
-2022-12-16T05:52:24.310Z,17.9391666666667,-67.1075,12.11,2.39,md,5,296,0.0669,0.05,pr,pr71387433,2022-12-16T06:12:05.370Z,"Puerto Rico region",earthquake,0.57,0.66,0.0792806865779583,3,reviewed,pr,pr
