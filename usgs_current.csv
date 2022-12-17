@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T12:04:02.183Z,61.0642,-151.671,86,1.4,ml,,,,0.45,ak,ak022g4osvmi,2022-12-17T12:06:19.841Z,"28 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-17T11:59:28.416Z,65.2325,-149.6906,12.6,1.2,ml,,,,0.63,ak,ak022g4ojafd,2022-12-17T12:01:37.022Z,"18 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-17T11:53:48.568Z,62.1495,-150.0325,3.1,1.6,ml,,,,0.43,ak,ak022g4oi1oo,2022-12-17T11:55:54.442Z,"9 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-17T11:39:42.840Z,37.9238319,-122.3024979,5.79,3.57,mw,85,27,,0.13,nc,nc73819746,2022-12-17T15:25:06.737Z,"1km NE of El Cerrito, CA",earthquake,0.15,0.34,,4,reviewed,nc,nc
+2022-12-17T11:39:42.840Z,37.9238319,-122.3024979,5.79,3.57,mw,85,27,,0.13,nc,nc73819746,2022-12-17T15:30:53.737Z,"1km NE of El Cerrito, CA",earthquake,0.15,0.34,,4,reviewed,nc,nc
 2022-12-17T11:32:20.440Z,33.8968333,-119.9468333,15.1,2.25,ml,8,261,0.1368,0.1,ci,ci40391472,2022-12-17T12:29:57.192Z,"16km ESE of Santa Rosa Is., CA",earthquake,2.34,1.49,0.111,26,automatic,ci,ci
 2022-12-17T11:09:39.724Z,37.5868,-117.7161,0.2,0.9,ml,11,204.88,0.287,0.1341,nn,nn00853588,2022-12-17T11:13:20.932Z,"19 km SSW of Silver Peak, Nevada",earthquake,,50,0.99,6,automatic,nn,nn
 2022-12-17T10:57:55.670Z,17.8483333333333,-65.661,12.27,2.77,md,5,276,0.2682,0.06,pr,pr71387748,2022-12-17T11:30:22.150Z,"Puerto Rico region",earthquake,0.67,0.75,0.062262958782811,3,reviewed,pr,pr
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T16:01:27.880Z,38.8068352,-122.768837,-0.9,2.21,md,23,52,,0.32,nc,nc73819381,2022-12-16T16:22:12.329Z,"4km NNW of The Geysers, CA",earthquake,0.52,0.95,0.22,22,automatic,nc,nc
 2022-12-16T15:53:21.490Z,18.8618333333333,-64.6486666666667,14.59,3.28,md,9,294,0.5402,0.39,pr,pr71387538,2022-12-16T16:37:14.040Z,"60 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.82,2.67,0.0912716773965356,4,reviewed,pr,pr
 2022-12-16T15:43:09.130Z,57.0538333333333,-135.679666666667,4.96,0.87,ml,4,239,,0.18,av,av91080358,2022-12-16T17:45:44.330Z,"21 km W of Sitka, Alaska",earthquake,2.17,0.61,0.263309475868551,4,reviewed,av,av
-2022-12-16T15:30:08.216Z,61.5776,-150.5156,26.7,1.5,ml,,,,0.41,ak,ak022g337f11,2022-12-16T15:31:53.966Z,"3 km N of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
