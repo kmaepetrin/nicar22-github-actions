@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T22:14:44.172Z,39.2913,-117.5252,8.7,1.6,ml,12,198.6,0.46,0.0928,nn,nn00853674,2022-12-18T22:34:21.605Z,"40 km WNW of Kingston, Nevada",earthquake,,2.9,0.36,6,reviewed,nn,nn
 2022-12-18T21:54:20.690Z,38.8414993,-122.8778305,2.75,0.2,md,10,91,0.005476,0.02,nc,nc73820446,2022-12-18T22:10:14.065Z,"13km NW of The Geysers, CA",earthquake,0.46,0.75,0.1,10,automatic,nc,nc
 2022-12-18T21:53:27.900Z,19.1758327484131,-155.492004394531,30.4500007629395,2.05,ml,35,149,,0.150000006,hv,hv73275462,2022-12-18T21:58:59.560Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.75,0.99000001,3.29,7,automatic,hv,hv
-2022-12-18T21:53:18.144Z,36.7683,-116.2257,3.7,-0.2,ml,8,181.84,0.026,0.2596,nn,nn00853673,2022-12-18T21:55:29.652Z,"50 km ESE of Beatty, Nevada",earthquake,,0.5,0.09,4,automatic,nn,nn
+2022-12-18T21:53:18.575Z,36.7517,-116.229,4.8,-0.2,ml,16,69.86,0.028,0.0866,nn,nn00853673,2022-12-18T22:40:37.953Z,"California-Nevada border region",earthquake,,0.9,1.02,5,reviewed,nn,nn
 2022-12-18T21:53:02.403Z,60.5979,-151.8177,72.3,1.5,ml,,,,0.33,ak,ak022g6hzmo0,2022-12-18T21:54:41.728Z,"27 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-18T21:24:24.020Z,38.8321648,-122.8174973,1.89,0.69,md,12,80,0.0105,0.02,nc,nc73820426,2022-12-18T21:40:12.906Z,"8km NW of The Geysers, CA",earthquake,0.3,0.6,0.15,11,automatic,nc,nc
 2022-12-18T21:17:36.760Z,19.309,-64.6523,33,3.62,md,15,299,1.0037,0.53,pr,pr2022352003,2022-12-18T21:51:42.530Z,"109 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,31.77,0.08,5,reviewed,pr,pr
