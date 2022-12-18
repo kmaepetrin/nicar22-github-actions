@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T10:48:26.910Z,34.0463333,-117.2638321,12.34,1.4,ml,58,43,0.06099,0.16,ci,ci40391744,2022-12-18T10:50:32.357Z,"0km SW of Loma Linda, CA",earthquake,0.2,0.48,0.259,9,automatic,ci,ci
+2022-12-18T10:44:42.600Z,36.6461678,-121.2655029,4.99,1.65,md,22,133,0.05297,0.09,nc,nc73820201,2022-12-18T10:46:16.871Z,"17km SSE of Tres Pinos, CA",earthquake,0.37,0.95,0.16,20,automatic,nc,nc
 2022-12-18T10:34:07.370Z,33.719,-116.8211667,16.69,0.7,ml,24,95,0.08953,0.15,ci,ci40391736,2022-12-18T10:37:47.386Z,"7km ESE of Valle Vista, CA",earthquake,0.32,0.51,0.248,17,automatic,ci,ci
 2022-12-18T10:20:27.590Z,17.9446666666667,-66.953,11.09,1.62,md,4,220,0.07642,0.04,pr,pr71387873,2022-12-18T10:32:59.670Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.87,0.0762594941022201,4,reviewed,pr,pr
 2022-12-18T10:09:37.102Z,63.1977,-150.5912,117.3,1.6,ml,,,,0.16,ak,ak022g6b6i6m,2022-12-18T10:11:51.821Z,"68 km SE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
