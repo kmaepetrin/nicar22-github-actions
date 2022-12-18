@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T17:54:41.350Z,38.8238335,-122.8006668,3.14,1.1,md,7,91,0.007361,0.01,nc,nc73820376,2022-12-18T17:56:17.531Z,"6km NW of The Geysers, CA",earthquake,0.52,2.19,0.19,7,automatic,nc,nc
+2022-12-18T17:50:45.660Z,33.0416667,-116.4396667,7.57,0.73,ml,18,82,0.1383,0.25,ci,ci40391920,2022-12-18T17:54:21.511Z,"16km ESE of Julian, CA",earthquake,0.43,2.44,0.191,11,automatic,ci,ci
+2022-12-18T17:49:11.580Z,38.822834,-122.7845001,1.84,0.74,md,11,66,0.01001,0.01,nc,nc73820366,2022-12-18T17:50:47.610Z,"5km W of Cobb, CA",earthquake,0.35,0.54,0.15,13,automatic,nc,nc
 2022-12-18T17:47:33.140Z,38.7794991,-122.716835,1.77,1.04,md,8,102,0.01599,0.02,nc,nc73820361,2022-12-18T17:49:07.592Z,"2km WNW of Anderson Springs, CA",earthquake,0.36,0.68,0.31,8,automatic,nc,nc
 2022-12-18T17:36:50.500Z,38.1536,-118.0266,0,1.4,ml,12,143.01,0.184,0.2121,nn,nn00853645,2022-12-18T17:39:49.663Z,"27 km SSE of Mina, Nevada",earthquake,,9.5,0.27,8,automatic,nn,nn
 2022-12-18T17:30:05.610Z,38.8223343,-122.7996674,2.88,1.19,md,28,30,0.008198,0.01,nc,nc73820356,2022-12-18T17:49:13.483Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,28,automatic,nc,nc
+2022-12-18T17:29:34.770Z,19.149,-65.6478,102,3.68,md,5,284,0.9173,0.27,pr,pr2022352002,2022-12-18T17:53:27.983Z,"82 km NNE of Suárez, Puerto Rico",earthquake,5.89,7.18,0.03,2,reviewed,pr,pr
 2022-12-18T17:28:14.590Z,38.1772,-118.015,2,2,ml,19,118.32,0.032,0.2413,nn,nn00853641,2022-12-18T17:31:18.081Z,"California-Nevada border region",earthquake,,0.8,0.33,10,automatic,nn,nn
 2022-12-18T17:22:40.990Z,38.8226662,-122.7851639,1.84,0.87,md,19,41,0.01002,0.02,nc,nc73820351,2022-12-18T17:39:14.432Z,"5km W of Cobb, CA",earthquake,0.22,0.39,0.22,20,automatic,nc,nc
 2022-12-18T17:21:47.865Z,62.0439,-150.824,59.4,1.7,ml,,,,0.16,ak,ak022g6ff4ua,2022-12-18T17:23:21.650Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -205,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T18:04:45.020Z,33.9816667,-116.764,12.34,1.47,ml,54,37,0.06456,0.15,ci,ci40391552,2022-12-17T19:47:36.746Z,"7km NNE of Cabazon, CA",earthquake,0.17,0.42,0.172,27,automatic,ci,ci
 2022-12-17T18:04:24.443Z,61.447,-149.7692,42.4,1.7,ml,,,,0.44,ak,ak022g4sdiz0,2022-12-17T20:19:43.320Z,"2 km WSW of Knik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-17T18:02:34.940Z,33.9818333,-116.768,12.46,2,ml,71,25,0.06261,0.18,ci,ci40391544,2022-12-17T18:13:45.510Z,"7km NNE of Cabazon, CA",earthquake,0.18,0.43,0.169,25,automatic,ci,ci
-2022-12-17T17:56:52.980Z,17.9623333333333,-66.9911666666667,11.19,2.05,md,5,196,0.05099,0.08,pr,pr71387768,2022-12-17T18:33:02.870Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.9,0.68,0.123521649572087,3,reviewed,pr,pr
