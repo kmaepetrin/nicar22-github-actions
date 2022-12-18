@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-18T17:30:05.610Z,38.8223343,-122.7996674,2.88,1.19,md,28,30,0.008198,0.01,nc,nc73820356,2022-12-18T17:35:30.978Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,28,automatic,nc,nc
+2022-12-18T17:36:50.500Z,38.1536,-118.0266,0,1.4,ml,12,143.01,0.184,0.2121,nn,nn00853645,2022-12-18T17:39:49.663Z,"27 km SSE of Mina, Nevada",earthquake,,9.5,0.27,8,automatic,nn,nn
+2022-12-18T17:30:05.610Z,38.8223343,-122.7996674,2.88,1.19,md,28,30,0.008198,0.01,nc,nc73820356,2022-12-18T17:43:11.452Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,28,automatic,nc,nc
 2022-12-18T17:28:14.590Z,38.1772,-118.015,2,2,ml,19,118.32,0.032,0.2413,nn,nn00853641,2022-12-18T17:31:18.081Z,"California-Nevada border region",earthquake,,0.8,0.33,10,automatic,nn,nn
-2022-12-18T17:22:40.990Z,38.8226662,-122.7851639,1.84,0.87,md,19,41,0.01002,0.02,nc,nc73820351,2022-12-18T17:24:16.505Z,"5km W of Cobb, CA",earthquake,0.22,0.39,0.22,20,automatic,nc,nc
+2022-12-18T17:22:40.990Z,38.8226662,-122.7851639,1.84,0.87,md,19,41,0.01002,0.02,nc,nc73820351,2022-12-18T17:39:14.432Z,"5km W of Cobb, CA",earthquake,0.22,0.39,0.22,20,automatic,nc,nc
 2022-12-18T17:21:47.865Z,62.0439,-150.824,59.4,1.7,ml,,,,0.16,ak,ak022g6ff4ua,2022-12-18T17:23:21.650Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-18T17:16:03.869Z,61.4573,-147.0828,16.3,1.5,ml,,,,0.74,ak,ak022g6fdyv6,2022-12-18T17:18:01.370Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-18T16:56:41.015Z,60.1125,-147.8872,14.5,2,ml,,,,0.96,ak,ak022g6f16rp,2022-12-18T16:58:50.243Z,"8 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
