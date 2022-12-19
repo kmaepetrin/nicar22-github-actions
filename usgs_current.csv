@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-19T18:55:10.223Z,58.2375,-155.079,2,1.5,ml,,,,0.7,ak,ak022g83r4dq,2022-12-19T18:56:37.307Z,"83 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-19T18:47:40.170Z,37.3013344,-121.6746674,6.31,1.45,md,8,111,0.04229,0.04,nc,nc73820811,2022-12-19T18:49:15.892Z,"15km E of Seven Trees, CA",earthquake,0.59,0.83,0.12,8,automatic,nc,nc
+2022-12-19T18:47:23.247Z,36.2285,-115.4435,15.9,1.6,ml,14,241.94,0.663,0.3113,nn,nn00853697,2022-12-19T18:51:26.482Z,"16 km NW of Summerlin South, Nevada",earthquake,,1,0.9,7,automatic,nn,nn
 2022-12-19T18:32:00.680Z,17.9566666666667,-66.9623333333333,10.56,1.76,md,6,204,0.07897,0.08,pr,pr71388073,2022-12-19T18:42:08.060Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.58,1.06,0.0881041850997,4,reviewed,pr,pr
 2022-12-19T18:26:20.210Z,33.5395,-116.7795,9.01,0.63,ml,19,52,0.03218,0.16,ci,ci40392352,2022-12-19T18:29:46.466Z,"10km W of Anza, CA",earthquake,0.29,0.67,0.153,14,automatic,ci,ci
 2022-12-19T18:24:20.850Z,38.8328323,-122.8153305,1.36,1.06,md,24,45,0.01028,0.02,nc,nc73820806,2022-12-19T18:48:12.383Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.1,25,automatic,nc,nc
@@ -69,8 +71,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T11:47:00.090Z,34.681,-118.0311667,1.96,0.97,ml,25,46,0.1536,0.16,ci,ci40392216,2022-12-19T14:28:40.778Z,"11km E of Lancaster, CA",earthquake,0.25,0.51,0.165,25,reviewed,ci,ci
 2022-12-19T11:42:03.940Z,38.788166,-122.7483368,1.99,1.05,md,13,84,0.01529,0.02,nc,nc73820661,2022-12-19T12:37:13.180Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.63,0.21,13,automatic,nc,nc
 2022-12-19T11:37:21.006Z,38.1788,-117.8004,11.1,1.9,ml,17,139.06,0.125,0.143,nn,nn00853686,2022-12-19T17:27:38.911Z,"35 km SE of Mina, Nevada",earthquake,,1.2,0.21,7,reviewed,nn,nn
-2022-12-19T11:35:12.640Z,33.0391667,-116.3991667,1.75,0.59,ml,12,109,0.1714,0.2,ci,ci40392208,2022-12-19T11:38:41.796Z,"19km ESE of Julian, CA",earthquake,0.43,1.01,0.062,7,automatic,ci,ci
-2022-12-19T11:32:10.320Z,32.9185,-116.244,15.41,0.74,ml,18,70,0.1767,0.18,ci,ci40392200,2022-12-19T11:35:37.357Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.34,0.96,0.195,10,automatic,ci,ci
+2022-12-19T11:35:12.790Z,33.0335,-116.3998333,6.28,0.59,ml,25,96,0.05428,0.15,ci,ci40392208,2022-12-19T18:58:26.390Z,"20km ESE of Julian, CA",earthquake,0.31,0.59,0.09,10,reviewed,ci,ci
+2022-12-19T11:32:10.430Z,32.9133333,-116.2496667,12.7,0.63,ml,21,70,0.1474,0.17,ci,ci40392200,2022-12-19T18:52:57.143Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.27,1.43,0.188,11,reviewed,ci,ci
 2022-12-19T11:24:52.910Z,18.8866666666667,-64.4488333333333,57.58,3.13,md,13,298,0.6314,0.44,pr,pr71388003,2022-12-19T14:12:08.750Z,"71 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.9,4.78,0.211375348551493,5,reviewed,pr,pr
 2022-12-19T11:20:56.340Z,38.8276672,-122.8014984,1.97,0.75,md,11,73,0.007942,0.01,nc,nc73820651,2022-12-19T11:44:11.873Z,"7km W of Cobb, CA",earthquake,0.35,0.6,0.38,14,automatic,nc,nc
 2022-12-19T11:12:07.884Z,59.2502,-152.9986,77.6,1.9,ml,,,,0.33,ak,ak022g7zbv6c,2022-12-19T11:13:42.799Z,"62 km WSW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
