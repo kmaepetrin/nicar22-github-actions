@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-19T16:42:40.710Z,37.9720001,-122.0563354,14.85,1.95,md,27,125,0.06341,0.09,nc,nc73820776,2022-12-19T16:45:36.411Z,"2km SE of Pacheco, CA",earthquake,0.3,0.55,0.08,22,automatic,nc,nc
+2022-12-19T16:55:04.740Z,33.7858333,-116.1566667,4.9,0.9,ml,20,102,0.0551,0.22,ci,ci40392320,2022-12-19T16:58:35.514Z,"9km NE of Indio, CA",earthquake,0.38,0.66,0.19,20,automatic,ci,ci
+2022-12-19T16:50:10.455Z,60.9881,-152.4781,139.7,2.2,ml,,,,0.55,ak,ak022g82j6lx,2022-12-19T16:52:29.277Z,"72 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-12-19T16:49:40.920Z,19.2703342437744,-155.424667358398,31.5499992370605,1.74000001,md,21,112,,0.0900000036,hv,hv73276417,2022-12-19T16:53:01.550Z,"9 km NE of Pāhala, Hawaii",earthquake,1.33,0.99000001,1.75999999,4,automatic,hv,hv
+2022-12-19T16:42:40.710Z,37.9720001,-122.0563354,14.85,1.95,md,27,125,0.06341,0.09,nc,nc73820776,2022-12-19T16:56:10.748Z,"2km SE of Pacheco, CA",earthquake,0.3,0.55,0.08,22,automatic,nc,nc
 2022-12-19T16:24:57.700Z,38.8138351,-122.8111649,7.47,0.36,md,10,136,0.009584,0.07,nc,nc73820771,2022-12-19T16:43:12.674Z,"6km NW of The Geysers, CA",earthquake,1.23,0.85,0.25,10,automatic,nc,nc
 2022-12-19T16:16:28.240Z,38.8338318,-122.8154984,1.49,0.93,md,22,46,0.01125,0.03,nc,nc73820766,2022-12-19T16:33:12.620Z,"8km NW of The Geysers, CA",earthquake,0.19,0.44,0.18,24,automatic,nc,nc
 2022-12-19T16:08:37.200Z,33.8658333,-117.1028333,9.64,1.99,ml,76,30,0.08536,0.21,ci,ci40392288,2022-12-19T16:19:32.220Z,"8km NNE of Nuevo, CA",earthquake,0.19,0.52,0.147,26,automatic,ci,ci
@@ -74,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T09:04:22.523Z,58.1196,-154.858,0,1.1,ml,,,,0.45,ak,ak022g7y3bd8,2022-12-19T09:06:34.582Z,"65 km NNW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-12-19T08:59:26.580Z,33.6566667,-118.2908333,1.33,1.66,ml,24,119,0.05588,0.29,ci,ci40392152,2022-12-19T09:03:02.271Z,"9km S of San Pedro, CA",earthquake,0.61,0.9,0.14,27,automatic,ci,ci
 2022-12-19T08:57:49.660Z,38.8301659,-122.8008347,1.73,0.7,md,6,111,0.009889,0.01,nc,nc73820611,2022-12-19T09:12:11.946Z,"7km W of Cobb, CA",earthquake,0.51,1.65,0.09,8,automatic,nc,nc
+2022-12-19T08:56:28.860Z,37.5938333,-119.0106667,2.61,0.21,md,8,229,0.02136,0.04,nc,nc73820616,2022-12-19T16:57:12.826Z,"6km SSW of Mammoth Lakes, CA",earthquake,0.53,0.75,0.101,8,reviewed,nc,nc
 2022-12-19T08:55:50.474Z,56.5923,-158.0961,124.4,2.1,ml,,,,1.06,ak,ak022g7xsvfr,2022-12-19T09:34:33.040Z,"38 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-19T08:53:30.400Z,33.3828333,-116.8658333,7.95,0.52,ml,19,71,0.1717,0.18,ci,ci40392144,2022-12-19T08:57:09.911Z,"3km N of Palomar Observatory, CA",earthquake,0.34,2.75,0.074,11,automatic,ci,ci
 2022-12-19T08:35:34.700Z,38.7913322,-122.7594986,3.11,1.78,md,33,59,,0.05,nc,nc73820606,2022-12-19T10:33:12.449Z,"2km N of The Geysers, CA",earthquake,0.24,0.4,0.18,34,automatic,nc,nc
@@ -120,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T04:04:56.695Z,58.2187,-155.2011,1.1,0.7,ml,,,,0.17,ak,ak022g7v47z9,2022-12-19T04:06:26.370Z,"84 km NNW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-19T03:54:24.500Z,19.2253341674805,-155.392166137695,28.3799991607666,1.82000005,md,22,164,,0.109999999,hv,hv73275647,2022-12-19T03:57:35.320Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.07,1.10000002,0.910000026,3,automatic,hv,hv
 2022-12-19T03:47:09.001Z,69.567,-145.5323,0,3,ml,,,,0.76,ak,ak022g7ury3z,2022-12-19T04:05:56.040Z,"northern Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-12-19T03:43:24.819Z,39.428,-119.5383,6.8,1.5,ml,24,73.09,0.154,0.1263,nn,nn00853681,2022-12-19T16:43:59.190Z,"Nevada",earthquake,,1.4,0.35,9,reviewed,nn,nn
+2022-12-19T03:43:24.826Z,39.4297,-119.5438,7.2,1.5,ml,26,72.29,0.15,0.1567,nn,nn00853681,2022-12-19T16:50:22.077Z,"Nevada",earthquake,,1.2,0.33,10,reviewed,nn,nn
 2022-12-19T03:39:57.550Z,38.8185005,-122.7958298,2.87,0.88,md,8,115,0.01053,0.02,nc,nc73820541,2022-12-19T04:09:17.153Z,"6km NW of The Geysers, CA",earthquake,0.52,1.41,0.17,10,automatic,nc,nc
 2022-12-19T03:27:29.390Z,38.7955017,-122.7266693,0.17,0.9,md,10,100,0.01455,0.04,nc,nc73820536,2022-12-19T03:58:13.093Z,"3km S of Cobb, CA",earthquake,0.26,1.58,0.22,10,automatic,nc,nc
 2022-12-19T03:23:50.881Z,62.908,-148.1358,49.6,1.6,ml,,,,1.01,ak,ak022g7umuj4,2022-12-19T03:25:47.392Z,"67 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -207,8 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T17:21:47.865Z,62.0439,-150.824,59.4,1.7,ml,,,,0.16,ak,ak022g6ff4ua,2022-12-18T17:23:21.650Z,"30 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-18T17:18:04.646Z,36.71,-116.3155,9.1,-0.1,ml,11,129.79,0.018,0.0645,nn,nn00853670,2022-12-18T19:28:24.526Z,"45 km ESE of Beatty, Nevada",earthquake,,2.3,0.15,3,reviewed,nn,nn
 2022-12-18T17:16:03.869Z,61.4573,-147.0828,16.3,1.5,ml,,,,0.74,ak,ak022g6fdyv6,2022-12-18T17:18:01.370Z,"49 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-18T16:56:41.015Z,60.1125,-147.8872,14.5,2,ml,,,,0.96,ak,ak022g6f16rp,2022-12-18T16:58:50.243Z,"8 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-18T16:55:56.043Z,37.5798,-117.7248,1.5,1.9,ml,26,125.85,0.296,0.1558,nn,nn00853638,2022-12-18T16:58:57.053Z,"20 km SSW of Silver Peak, Nevada",earthquake,,2.2,0.36,17,automatic,nn,nn
-2022-12-18T16:52:46.091Z,60.2692,-152.1522,86.7,1.6,ml,,,,0.52,ak,ak022g6f09m6,2022-12-18T16:55:20.081Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-18T16:49:38.420Z,17.9191666666667,-66.862,17.12,2.01,md,6,227,0.05796,0.1,pr,pr71387888,2022-12-18T17:06:15.600Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.74,0.61,0.194302021788275,5,reviewed,pr,pr
-2022-12-18T16:49:20.710Z,38.7953339,-122.7771683,0.18,0.77,md,11,85,0.008672,0.03,nc,nc73820341,2022-12-18T17:34:13.403Z,"3km NW of The Geysers, CA",earthquake,0.26,0.56,0.29,12,automatic,nc,nc
