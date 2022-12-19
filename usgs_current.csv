@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-19T15:49:40.140Z,38.7939987,-122.7346649,0.41,0.65,md,6,132,0.01087,0,nc,nc73820761,2022-12-19T15:51:14.845Z,"3km NE of The Geysers, CA",earthquake,0.57,2.12,0.18,8,automatic,nc,nc
-2022-12-19T15:44:30.480Z,38.8263321,-122.8560028,2.31,0.68,md,14,95,0.001389,0.03,nc,nc73820756,2022-12-19T15:46:04.545Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.5,0.38,14,automatic,nc,nc
+2022-12-19T15:44:30.480Z,38.8263321,-122.8560028,2.31,0.68,md,14,95,0.001389,0.03,nc,nc73820756,2022-12-19T16:01:10.439Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.5,0.38,14,automatic,nc,nc
 2022-12-19T15:41:26.060Z,33.4653333,-116.4786667,8.77,1.53,ml,50,56,0.07289,0.34,ci,ci40392280,2022-12-19T15:52:20.810Z,"21km ESE of Anza, CA",earthquake,0.39,0.96,0.124,27,automatic,ci,ci
 2022-12-19T15:41:22.440Z,33.4741667,-116.4758333,13.13,0.53,ml,29,102,0.06454,0.18,ci,ci40392272,2022-12-19T15:44:55.950Z,"20km ESE of Anza, CA",earthquake,0.33,0.57,0.151,10,automatic,ci,ci
 2022-12-19T15:32:44.530Z,19.4099998474121,-155.275833129883,0.180000007152557,2.06,ml,14,93,,0.109999999,hv,hv73276342,2022-12-19T15:38:16.170Z,"5 km SW of Volcano, Hawaii",earthquake,0.17,0.340000004,0.27,6,automatic,hv,hv
+2022-12-19T15:31:08.110Z,17.9556666666667,-66.9555,9.63,2.16,md,10,205,0.07509,0.16,pr,pr71388038,2022-12-19T15:58:49.950Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.94,0.0580763705537748,4,reviewed,pr,pr
 2022-12-19T14:58:24.850Z,38.8066673,-122.7811661,0.75,0.28,md,8,93,0.006593,0.03,nc,nc73820746,2022-12-19T15:29:14.256Z,"4km NNW of The Geysers, CA",earthquake,0.43,0.83,0.12,9,automatic,nc,nc
 2022-12-19T14:57:22.190Z,38.8413315,-122.87883,2.54,0.94,md,16,94,0.004761,0.01,nc,nc73820741,2022-12-19T15:51:11.383Z,"13km ENE of Cloverdale, CA",earthquake,0.35,0.48,0.24,18,automatic,nc,nc
 2022-12-19T14:39:37.001Z,31.65149719,-104.3696697,6.080151367,2.7,ml,21,70,0.05338080137,0.2,tx,tx2022yugc,2022-12-19T15:16:59.040Z,"58 km S of Whites City, New Mexico",earthquake,0.9928104094,1.309339025,0.2,17,reviewed,tx,tx
@@ -210,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T16:10:35.490Z,41.5023333,-112.1773333,7.63,1.52,ml,19,73,0.1037,0.13,uu,uu60528267,2022-12-19T14:36:15.030Z,"Utah",earthquake,0.33,1.45,0.006,2,reviewed,uu,uu
 2022-12-18T16:07:44.035Z,33.6436,84.4348,10,4.5,mb,40,86,5.87,0.4,us,us6000ja5s,2022-12-18T16:32:10.040Z,"western Xizang",earthquake,7.74,1.639,0.124,21,reviewed,us,us
 2022-12-18T16:06:01.460Z,33.5891667,-116.807,7.36,0.48,ml,22,45,0.03609,0.11,ci,ci40391896,2022-12-18T16:09:22.852Z,"13km WNW of Anza, CA",earthquake,0.22,0.42,0.198,18,automatic,ci,ci
-2022-12-18T16:03:02.097Z,60.1985,-141.2966,0.1,1.5,ml,,,,0.76,ak,ak022g6epqtd,2022-12-18T16:04:43.806Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-18T16:01:40.889Z,31.93267822,-102.012076,11.12691243,3.2,ml,24,78,0.1316940094,0.1,tx,tx2022ysnh,2022-12-19T15:08:43.819Z,"9 km SE of Midland, Texas",earthquake,1.142570484,1.672624253,0.2,12,reviewed,tx,tx
-2022-12-18T16:01:00.460Z,39.0741667,-122.519,9.87,1.46,md,22,103,0.204,0.21,nc,nc73820331,2022-12-19T07:09:15.240Z,"14km ENE of Clearlake Oaks, CA",earthquake,0.39,1.49,0.173,17,reviewed,nc,nc
