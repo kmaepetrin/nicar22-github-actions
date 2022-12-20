@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T12:34:40.671Z,36.7396,-116.1965,5.2,0,ml,5,138.01,0.018,0.1045,nn,nn00853732,2022-12-20T02:39:42.143Z,"50 km WNW of Indian Springs, Nevada",earthquake,,3.1,0.18,3,reviewed,nn,nn
 2022-12-19T12:33:30.820Z,19.2261657714844,-155.372833251953,32.25,1.83000004,md,32,186,,0.119999997,hv,hv73276027,2022-12-19T12:36:53.290Z,"Island of Hawaii, Hawaii",earthquake,0.77,2.07999992,1.62,6,automatic,hv,hv
 2022-12-19T12:29:28.173Z,64.5775,-148.719,1,1.5,ml,,,,0.65,ak,ak022g800zip,2022-12-19T12:31:11.822Z,"18 km E of Nenana, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-19T12:27:49.235Z,56.9001,-146.011,7.1,3,ml,,,,0.56,ak,ak022g800qh1,2022-12-19T16:45:13.511Z,"Gulf of Alaska",earthquake,,13.3,,,reviewed,ak,ak
+2022-12-19T12:27:45.115Z,56.9668,-146.0646,10,2.9,ml,27,258,2.474,0.43,us,us6000jada,2022-12-20T05:37:03.040Z,"Gulf of Alaska",earthquake,3.51,2.019,0.05,52,reviewed,us,us
 2022-12-19T12:21:31.550Z,39.1853333,-123.2535,4.65,1.34,md,13,117,0.04224,0.08,nc,nc73820676,2022-12-19T18:20:12.225Z,"6km NW of Ukiah, CA",earthquake,0.27,0.53,0.232,14,reviewed,nc,nc
 2022-12-19T12:21:19.966Z,59.9994,-152.7583,93.1,1.4,ml,,,,0.28,ak,ak022g7zz95o,2022-12-19T12:22:43.036Z,"57 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-19T12:11:03.880Z,38.8258324,-122.8108368,1.52,0.7,md,14,64,0.002506,0.01,nc,nc73820671,2022-12-19T12:31:12.146Z,"7km NW of The Geysers, CA",earthquake,0.26,0.85,0.08,14,automatic,nc,nc
