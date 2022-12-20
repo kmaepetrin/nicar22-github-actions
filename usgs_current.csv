@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-20T09:48:09.420Z,38.7948341,-122.7278366,1.92,1.26,md,13,102,0.0135,0.01,nc,nc73821011,2022-12-20T09:49:46.514Z,"3km S of Cobb, CA",earthquake,0.31,0.61,0.22,12,automatic,nc,nc
+2022-12-20T09:48:09.420Z,38.7948341,-122.7278366,1.92,1.26,md,13,102,0.0135,0.01,nc,nc73821011,2022-12-20T10:01:10.800Z,"3km S of Cobb, CA",earthquake,0.31,0.61,0.22,12,automatic,nc,nc
 2022-12-20T09:40:52.860Z,34.2821667,-117.0551667,9.87,0.84,ml,11,195,0.1131,0.22,ci,ci40392560,2022-12-20T09:50:05.723Z,"10km NNE of Running Springs, CA",earthquake,1.04,0.84,0.188,13,automatic,ci,ci
 2022-12-20T09:20:22.538Z,61.5759,-149.8315,32.2,1.6,ml,,,,0.48,ak,ak022g9lq3bh,2022-12-20T09:22:32.704Z,"6 km S of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-20T09:08:28.820Z,38.8328323,-122.815834,1.7,0.94,md,15,54,0.01044,0.01,nc,nc73820996,2022-12-20T09:38:10.670Z,"8km NW of The Geysers, CA",earthquake,0.25,0.59,0.26,13,automatic,nc,nc
