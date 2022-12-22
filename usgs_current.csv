@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T00:03:09.640Z,38.8226662,-122.8529968,2.75,0.77,md,8,194,0.01404,0.01,nc,nc73822806,2022-12-22T00:24:12.824Z,"10km WNW of The Geysers, CA",earthquake,2.25,1.07,0.21,9,automatic,nc,nc
 2022-12-21T23:51:58.510Z,19.3608333333333,-155.303666666667,10.91,0.59,md,5,113,,0.11,hv,hv73277837,2022-12-22T02:18:54.390Z,"11 km SW of Volcano, Hawaii",earthquake,1.62,2.13,0.0214471159015773,2,reviewed,hv,hv
 2022-12-21T23:51:55.240Z,40.565834,-124.1901703,4.62,1.85,md,7,176,0.144,0.08,nc,nc73822801,2022-12-22T00:15:12.778Z,"4km SW of Fortuna, CA",earthquake,2.35,8.6,0.08,3,automatic,nc,nc
-2022-12-21T23:47:48.930Z,51.8448333333333,-178.035333333333,-1.8,1.57,ml,5,111,,0.33,av,av91081458,2022-12-22T04:31:38.880Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,2.08,0.269310229848121,5,reviewed,av,av
