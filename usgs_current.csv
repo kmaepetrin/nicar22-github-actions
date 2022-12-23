@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T21:44:30.810Z,38.8073349,-122.8208313,2.2,1.1,md,22,65,0.006699,0.03,nc,nc73823846,2022-12-23T21:46:04.982Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.39,0.14,23,automatic,nc,nc
+2022-12-23T21:43:59.390Z,38.8071671,-122.8205032,2.43,1.4,md,26,56,0.006987,0.03,nc,nc73823836,2022-12-23T21:45:35.015Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.37,0.19,25,automatic,nc,nc
 2022-12-23T21:37:33.540Z,19.0273342132568,-155.401168823242,32.9300003051758,2.00999999,md,33,212,,0.150000006,hv,hv73279777,2022-12-23T21:40:54.250Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.78,0.980000019,1.39999998,6,automatic,hv,hv
-2022-12-23T21:30:53.920Z,38.8328323,-122.81633,1.69,0.93,md,9,109,0.01062,0.02,nc,nc73823831,2022-12-23T21:32:29.903Z,"8km NW of The Geysers, CA",earthquake,0.4,1,0.25,11,automatic,nc,nc
+2022-12-23T21:30:53.920Z,38.8328323,-122.81633,1.69,0.93,md,9,109,0.01062,0.02,nc,nc73823831,2022-12-23T21:47:17.400Z,"8km NW of The Geysers, CA",earthquake,0.4,1,0.25,11,automatic,nc,nc
 2022-12-23T21:25:33.920Z,35.5525,-119.7145,0.33,1.76,ml,14,105,0.2663,0.26,ci,ci40149223,2022-12-23T21:29:12.646Z,"28km NW of Buttonwillow, CA",earthquake,0.86,31.61,0.174,24,automatic,ci,ci
 2022-12-23T21:18:26.640Z,38.8231659,-122.8525009,2.2,0.44,md,8,127,0.01365,0.01,nc,nc73823811,2022-12-23T21:34:14.476Z,"10km WNW of The Geysers, CA",earthquake,0.41,1.22,0.21,8,automatic,nc,nc
 2022-12-23T21:17:58.790Z,23.1286,121.2494,11.256,5,mb,54,105,0.266,1,us,us6000jbcc,2022-12-23T21:39:08.040Z,"80 km E of Yujing, Taiwan",earthquake,6.62,4.644,0.075,56,reviewed,us,us
@@ -207,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T22:16:01.630Z,49.42816666666667,-120.484,-0.37,2.27,ml,9,193,0.5711,0.55,uw,uw61891107,2022-12-23T19:06:12.760Z,"3 km SSE of Princeton, Canada",explosion,2.77,31.61,0.190991883095315,6,reviewed,uw,uw
 2022-12-22T22:15:36.120Z,19.3986663818359,-155.278503417969,1.96000003814697,2.17000008,md,9,102,,0.129999995,hv,hv73278612,2022-12-22T22:18:35.980Z,"Island of Hawaii, Hawaii",earthquake,0.49,0.540000021,1.67999995,6,automatic,hv,hv
 2022-12-22T22:07:37.120Z,38.8326683,-122.8190002,1.54,0.75,md,18,57,0.01159,0.05,nc,nc73823316,2022-12-22T22:41:57.697Z,"8km NW of The Geysers, CA",earthquake,0.26,0.59,0.17,18,automatic,nc,nc
-2022-12-22T21:49:54.970Z,33.2751667,-115.9675,5.37,1.93,ml,68,44,0.01614,0.16,ci,ci40148967,2022-12-23T01:00:44.857Z,"3km SSW of Salton City, CA",earthquake,0.14,0.36,0.206,26,reviewed,ci,ci
-2022-12-22T21:47:43.300Z,37.4684982,-118.7764969,9.61,1.16,md,6,176,0.1652,0.02,nc,nc73823296,2022-12-23T02:43:14.443Z,"13km SW of Toms Place, CA",earthquake,1.38,4.42,0.28,4,automatic,nc,nc
