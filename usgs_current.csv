@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-22T23:37:57.711Z,39.5358,-119.4718,1.1,1,ml,8,71,0.187,0.2455,nn,nn00854023,2022-12-22T23:41:42.324Z,"19 km SW of Wadsworth, Nevada",earthquake,,6.3,0.24,3,automatic,nn,nn
-2022-12-22T23:04:36.133Z,38.6139,-117.178,13.7,1.1,ml,9,206.48,0.679,0.3622,nn,nn00854012,2022-12-22T23:07:49.294Z,"60 km N of Tonopah, Nevada",earthquake,,1.3,0.98,4,automatic,nn,nn
-2022-12-22T22:56:29.931Z,37.1718,-116.3035,14.1,1,ml,12,138.82,0.045,0.2898,nn,nn00854008,2022-12-22T22:58:30.355Z,"49 km NE of Beatty, Nevada",earthquake,,2.2,0.84,5,automatic,nn,nn
+2022-12-23T00:02:03.788Z,63.5279,-147.3087,17.2,1.9,ml,,,,0.73,ak,ak022geevc0v,2022-12-23T00:04:32.103Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-22T23:55:25.900Z,19.3020000457764,-155.214492797852,7.51999998092651,2.11,ml,30,104,,0.100000001,hv,hv73278712,2022-12-23T00:00:56.800Z,"15 km S of Volcano, Hawaii",earthquake,0.35,0.589999974,0.57,5,automatic,hv,hv
+2022-12-22T23:47:44.770Z,17.9678333333333,-66.8565,18.14,2.23,md,14,199,0.02282,0.16,pr,pr71388613,2022-12-23T00:03:49.940Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.59,0.45,0.253515667176775,10,reviewed,pr,pr
+2022-12-22T22:56:31.119Z,37.1353,-116.2977,8.4,1.1,ml,40,72.51,0.036,0.1403,nn,nn00854008,2022-12-23T00:00:21.134Z,"48 km ENE of Beatty, Nevada",earthquake,,0.7,0.33,28,reviewed,nn,nn
 2022-12-22T22:56:23.280Z,38.7978325,-122.7545013,3.84,1.05,md,16,93,0.004935,0.03,nc,nc73823341,2022-12-22T23:12:15.251Z,"2km N of The Geysers, CA",earthquake,0.32,0.73,0.24,16,automatic,nc,nc
 2022-12-22T22:53:41.170Z,18.0745,-67.1265,18.64,2.01,md,5,286,0.06846,0.1,pr,pr71388603,2022-12-22T23:18:50.320Z,"Mona Passage",earthquake,1.34,0.7,0.0882940302940168,4,reviewed,pr,pr
 2022-12-22T22:49:49.590Z,19.1618328094482,-155.496673583984,34.0499992370605,2.20000005,md,34,121,,0.150000006,hv,hv73278652,2022-12-22T22:53:04.660Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.61,0.959999979,0.600000024,16,automatic,hv,hv
@@ -224,7 +225,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T02:33:06.530Z,38.5296669,-119.5066681,5.58,2.56,md,15,85,0.05713,0.1,nc,nc73822871,2022-12-22T17:08:11.550Z,"3km NW of Walker, CA",earthquake,0.38,0.8,0.28,12,automatic,nc,nc
 2022-12-22T02:25:06.679Z,62.3562,-149.0818,15.3,1.8,ml,,,,0.24,ak,ak022gcsnsff,2022-12-22T02:26:30.399Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-22T02:23:07.023Z,62.3562,-149.0763,8.3,1.9,ml,,,,0.43,ak,ak022gcsnd0u,2022-12-22T02:25:14.132Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-22T02:22:50.250Z,37.6201667,-122.025,3.82,3.34,mw,141,16,,0.16,nc,nc73822861,2022-12-22T23:52:49.555Z,"3km N of Union City, CA",earthquake,0.1,0.17,,3,reviewed,nc,nc
+2022-12-22T02:22:50.250Z,37.6201667,-122.025,3.82,3.34,mw,141,16,,0.16,nc,nc73822861,2022-12-23T00:03:56.801Z,"3km N of Union City, CA",earthquake,0.1,0.17,,3,reviewed,nc,nc
 2022-12-22T01:54:51.800Z,58.1711666666667,-155.3725,2.37,0.53,ml,8,76,,0.06,av,av91735381,2022-12-22T19:44:56.760Z,"86 km NW of Karluk, Alaska",earthquake,0.2,0.58,0.200434269921608,8,reviewed,av,av
 2022-12-22T01:53:33.350Z,17.9506666666667,-66.9613333333333,11.62,2.09,md,5,212,0.08108,0.05,pr,pr71388478,2022-12-22T02:02:58.300Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.88,0.0634485560795948,4,reviewed,pr,pr
 2022-12-22T01:37:21.649Z,62.8425,-151.5802,0,2,ml,,,,0.69,ak,ak022gcs4ykm,2022-12-22T01:39:48.834Z,"56 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -249,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T00:18:07.573Z,36.7023,-116.3132,9.4,-0.1,ml,14,102.44,0.026,0.0699,nn,nn00853940,2022-12-22T19:29:11.894Z,"45 km ESE of Beatty, Nevada",earthquake,,1.1,0.18,6,reviewed,nn,nn
 2022-12-22T00:11:45.540Z,36.543,-121.0968333,2.86,1.6,md,19,102,0.04005,0.06,nc,nc73822811,2022-12-22T08:11:15.956Z,"4km ENE of Pinnacles, CA",earthquake,0.3,0.38,0.221,18,reviewed,nc,nc
 2022-12-22T00:11:39.981Z,62.1273,-147.388,39.7,1.4,ml,,,,0.63,ak,ak022gcrdzri,2022-12-22T00:13:21.909Z,"23 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-12-22T00:04:00.510Z,34.0071667,-116.8646667,15.62,1.15,ml,54,29,0.05488,0.16,ci,ci40148671,2022-12-22T15:44:37.700Z,"9km N of Banning, CA",earthquake,0.15,0.43,0.152,32,reviewed,ci,ci
-2022-12-22T00:03:09.640Z,38.8226662,-122.8529968,2.75,0.77,md,8,194,0.01404,0.01,nc,nc73822806,2022-12-22T00:24:12.824Z,"10km WNW of The Geysers, CA",earthquake,2.25,1.07,0.21,9,automatic,nc,nc
