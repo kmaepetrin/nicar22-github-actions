@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T11:31:59.615Z,36.8464,-115.9694,0,-0.1,ml,8,157.4,0.052,0.2831,nn,nn00854050,2022-12-23T11:34:09.343Z,"40 km NW of Indian Springs, Nevada",earthquake,,0.6,0.07,3,automatic,nn,nn
 2022-12-23T11:25:38.217Z,38.1759,-117.8672,0.1,1,ml,10,179.17,0.081,0.2526,nn,nn00854049,2022-12-23T11:28:39.592Z,"31 km SE of Mina, Nevada",earthquake,,8.4,0.37,6,automatic,nn,nn
 2022-12-23T11:25:32.659Z,63.4401,-146.0664,3,1.6,ml,,,,0.69,ak,ak022gelk3dd,2022-12-23T11:27:06.656Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-23T11:20:26.810Z,19.3916664123535,-155.279998779297,1.35000002384186,1.9,ml,16,54,,0.0799999982,hv,hv73279217,2022-12-23T11:25:57.870Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.239999995,0.12,4,automatic,hv,hv
-2022-12-23T11:07:18.627Z,35.27498245,-98.01886749,5,3.14,ml,65,37.84751892,0.07349966466,0.8644873248,ok,ok2022zbhc,2022-12-23T11:15:17.040Z,"7 km WSW of Minco, Oklahoma",earthquake,1.527286771,,,49,automatic,ok,ok
+2022-12-23T11:07:18.627Z,35.27498245,-98.01886749,5,3.14,ml,65,37.84751892,0.07349966466,0.8644873248,ok,ok2022zbhc,2022-12-23T11:33:38.466Z,"7 km WSW of Minco, Oklahoma",earthquake,1.527286771,,,49,automatic,ok,ok
 2022-12-23T10:43:29.678Z,60.8201,-151.9027,95.8,2,ml,,,,0.35,ak,ak022gel2ifb,2022-12-23T10:45:24.184Z,"36 km WNW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-12-23T10:41:33.870Z,38.1692,-118.1621,1.9,0.7,ml,9,155.53,0.264,0.0479,nn,nn00854048,2022-12-23T10:44:39.024Z,"25 km S of Mina, Nevada",earthquake,,11.5,0.21,4,automatic,nn,nn
 2022-12-23T10:37:00.060Z,19.3073329925537,-155.219161987305,-0.46000000834465,2,md,36,133,,0.159999996,hv,hv73279172,2022-12-23T10:40:14.840Z,"15 km S of Volcano, Hawaii",earthquake,0.39,0.189999998,0.720000029,23,automatic,hv,hv
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T11:49:55.860Z,40.3601667,-124.3346667,28.71,3.79,mw,30,206,0.05023,0.11,nc,nc73823036,2022-12-23T05:23:32.796Z,"6km NW of Petrolia, CA",earthquake,0.52,0.45,,3,reviewed,nc,nc
 2022-12-22T11:47:18.460Z,19.1616668701172,-155.494995117188,31.6200008392334,2.48,ml,44,153,,0.129999995,hv,hv73278227,2022-12-22T11:52:50.100Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.58,0.819999993,4,5,automatic,hv,hv
 2022-12-22T11:40:26.959Z,37.4642,-115.9791,15.3,1.1,ml,22,160.49,0.258,0.1636,nn,nn00854035,2022-12-23T02:43:20.677Z,"28 km SW of Rachel, Nevada",earthquake,,3.1,0.21,13,reviewed,nn,nn
-2022-12-22T11:38:54.376Z,37.5782,-117.9004,5.4,0.9,ml,15,118.19,0.4,0.1734,nn,nn00853962,2022-12-22T17:58:23.368Z,"Nevada",earthquake,,2.1,0.93,5,reviewed,nn,nn
-2022-12-22T11:35:42.950Z,19.613,-65.8076,54,3.88,md,15,284,1.3458,0.48,pr,pr2022356004,2022-12-22T14:34:17.536Z,"130 km NNE of San Juan, Puerto Rico",earthquake,4.12,16.23,0.16,8,reviewed,pr,pr
