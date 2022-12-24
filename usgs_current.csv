@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-24T06:44:58.069Z,59.7949,-153.4099,124.1,1.8,ml,,,,0.18,ak,ak022gg68eem,2022-12-24T06:46:39.580Z,"39 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-24T06:33:59.603Z,59.8792,-152.6221,98.6,1.8,ml,,,,0.21,ak,ak022gg661nc,2022-12-24T06:35:26.434Z,"45 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-24T06:05:43.600Z,38.8269997,-122.8024979,1.9,0.79,md,14,57,0.01483,0.01,nc,nc73824036,2022-12-24T06:29:17.558Z,"7km NW of The Geysers, CA",earthquake,0.27,0.55,0.19,15,automatic,nc,nc
 2022-12-24T05:59:42.770Z,19.5991668701172,-155.515502929688,-2.69000005722046,2.1099999,md,14,174,,0.370000005,hv,hv73280287,2022-12-24T06:02:47.240Z,"34 km WNW of Volcano, Hawaii",earthquake,1.83,0.5,2.1500001,4,automatic,hv,hv
