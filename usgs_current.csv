@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-24T11:49:34.650Z,40.5284996,-124.3441696,12.76,1.98,md,6,297,0.05312,0.02,nc,nc73824126,2022-12-24T11:51:05.840Z,"9km SW of Ferndale, CA",earthquake,3.22,1.85,0.1,4,automatic,nc,nc
+2022-12-24T11:54:41.350Z,38.7906685,-122.7596664,1.18,0.89,md,10,91,0.009942,0.01,nc,nc73824131,2022-12-24T11:56:17.914Z,"2km N of The Geysers, CA",earthquake,0.32,0.54,0.18,9,automatic,nc,nc
+2022-12-24T11:49:34.650Z,40.5284996,-124.3441696,12.76,1.98,md,6,297,0.05312,0.02,nc,nc73824126,2022-12-24T11:51:07.461Z,"9km SW of Ferndale, CA",earthquake,3.22,1.85,0.1,4,automatic,nc,nc
 2022-12-24T11:47:02.130Z,19.236499786377,-155.39533996582,31.6100006103516,1.84000003,md,40,141,,0.129999995,hv,hv73280767,2022-12-24T11:50:08.520Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.670000017,1.40999997,18,automatic,hv,hv
 2022-12-24T11:33:43.141Z,58.163,-155.4006,0,1.1,ml,,,,0.85,ak,ak022gg9563p,2022-12-24T11:36:21.178Z,"86 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-24T11:32:36.100Z,38.8363342,-122.7835007,1.29,0.97,md,14,68,0.005732,0.01,nc,nc73824121,2022-12-24T11:49:13.439Z,"6km WNW of Cobb, CA",earthquake,0.28,0.43,0.15,15,automatic,nc,nc
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T12:43:25.120Z,39.3065,-120.1479,10,-0.1,ml,8,107.52,0.088,0.147,nn,nn00854097,2022-12-24T02:44:10.575Z,"3 km SE of Truckee, California",earthquake,,2.1,0.39,3,reviewed,nn,nn
 2022-12-23T12:29:25.710Z,38.7591667,-122.7313309,1.6,1.81,md,20,65,,0.03,nc,nc73823651,2022-12-23T14:15:14.628Z,"3km SE of The Geysers, CA",earthquake,0.23,0.31,0.15,22,automatic,nc,nc
 2022-12-23T12:04:38.350Z,19.2119998931885,-155.375,32.1199989318848,1.75,md,14,270,,0.0900000036,hv,hv73279267,2022-12-23T12:07:53.170Z,"10 km E of Pāhala, Hawaii",earthquake,2.48,1.49000001,1,5,automatic,hv,hv
-2022-12-23T11:55:25.520Z,38.8251648,-122.7953339,3.03,0.91,md,9,174,0.01165,0.01,nc,nc73823636,2022-12-23T12:22:13.909Z,"6km W of Cobb, CA",earthquake,0.59,1.09,0.17,10,automatic,nc,nc
