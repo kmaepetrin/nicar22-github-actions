@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T23:36:58.030Z,19.3921661376953,-155.278335571289,0.829999983310699,2.06,ml,21,55,,0.170000002,hv,hv73282902,2022-12-25T23:42:29.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.159999996,2.49,8,automatic,hv,hv
 2022-12-25T23:36:52.560Z,38.7224998,-122.7626648,11.28,0.79,md,6,199,0.07328,0.06,nc,nc73824926,2022-12-25T23:38:29.796Z,"6km S of The Geysers, CA",earthquake,3.11,3.66,0.06,2,automatic,nc,nc
 2022-12-25T23:34:50.190Z,38.8268318,-122.8073349,-0.1,0.86,md,14,39,0.004044,0.02,nc,nc73824921,2022-12-25T23:36:24.861Z,"7km NW of The Geysers, CA",earthquake,0.19,0.49,0.23,14,automatic,nc,nc
+2022-12-25T23:33:45.130Z,18.0395,-66.8028333333333,16.89,2.19,md,6,149,0.09694,0.14,pr,pr71389043,2022-12-25T23:46:38.350Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.6,1.06,0.0550863476412604,6,reviewed,pr,pr
 2022-12-25T23:26:44.253Z,37.5107,-116.6933,5.4,1.6,ml,28,177.9,0.367,0.2875,nn,nn00854168,2022-12-25T23:29:53.231Z,"Nevada",earthquake,,1,0.77,17,automatic,nn,nn
 2022-12-25T23:18:50.490Z,33.6723333,-116.7615,11.16,0.58,ml,23,69,0.0553,0.09,ci,ci40150007,2022-12-25T23:22:10.756Z,"8km SSW of Idyllwild, CA",earthquake,0.21,0.37,0.112,10,automatic,ci,ci
 2022-12-25T23:13:35.910Z,40.5216675,-124.3373337,17.83,1.85,md,7,295,0.1954,0.08,nc,nc73824911,2022-12-25T23:33:14.269Z,"9km SW of Ferndale, CA",earthquake,5.97,1.41,0.02,2,automatic,nc,nc
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T22:19:55.000Z,33.0425,-116.4041667,3.29,0.69,ml,16,72,0.1219,0.2,ci,ci40149959,2022-12-25T22:23:27.835Z,"19km ESE of Julian, CA",earthquake,0.36,1.6,0.11,9,automatic,ci,ci
 2022-12-25T22:16:41.236Z,62.1784,-150.1519,52.7,1.7,ml,,,,0.66,ak,ak022gi34n8b,2022-12-25T22:18:42.334Z,"15 km W of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-25T21:54:33.114Z,58.1744,-155.3576,1.2,0.6,ml,,,,0.23,ak,ak022gi2rc7j,2022-12-25T21:55:48.412Z,"86 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-12-25T21:53:41.080Z,38.8151665,-122.7969971,2.07,1.32,md,26,36,0.007309,0.01,nc,nc73824891,2022-12-25T23:02:11.105Z,"6km NW of The Geysers, CA",earthquake,0.19,0.34,0.11,26,automatic,nc,nc
+2022-12-25T21:53:41.080Z,38.8151665,-122.7969971,2.07,1.32,md,26,36,0.007309,0.01,nc,nc73824891,2022-12-25T23:48:13.351Z,"6km NW of The Geysers, CA",earthquake,0.19,0.34,0.11,26,automatic,nc,nc
 2022-12-25T21:41:09.710Z,33.1311667,-116.239,16.36,1.01,ml,5,193,0.2025,0.16,ci,ci40149951,2022-12-25T21:44:42.217Z,"10km W of Ocotillo Wells, CA",earthquake,3.3,31.61,0.178,11,automatic,ci,ci
 2022-12-25T21:26:29.130Z,17.8988333333333,-66.8591666666667,13.54,2.52,md,13,236,0.07818,0.1,pr,pr71389038,2022-12-25T21:36:08.510Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.59,0.33,0.119842478501926,8,reviewed,pr,pr
 2022-12-25T21:22:37.460Z,19.1685009002686,-155.484664916992,32.1699981689453,2.0999999,md,35,102,,0.109999999,hv,hv73282792,2022-12-25T23:26:29.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.58,0.910000026,0.629999995,12,automatic,hv,hv
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T20:29:59.680Z,38.8434982,-122.8221664,-0.77,1.28,md,22,66,0.01118,0.27,nc,nc73824861,2022-12-25T23:05:17.120Z,"9km WNW of Cobb, CA",earthquake,0.45,1.65,0.12,22,automatic,nc,nc
 2022-12-25T20:27:00.230Z,38.8354988,-122.7886658,1.93,1.02,md,10,83,0.003188,0.01,nc,nc73824856,2022-12-25T21:00:14.409Z,"6km WNW of Cobb, CA",earthquake,0.38,0.43,0.09,12,automatic,nc,nc
 2022-12-25T20:23:12.650Z,38.8356667,-122.8085022,3.37,0.35,md,4,110,0.01232,0.01,nc,nc73824851,2022-12-25T20:49:13.353Z,"8km WNW of Cobb, CA",earthquake,1.18,6.37,0.17,7,automatic,nc,nc
-2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-25T20:13:32.190Z,33.0215,-116.4248333,5.74,1.18,ml,36,68,0.1219,0.24,ci,ci40149935,2022-12-25T20:17:33.096Z,"18km ESE of Julian, CA",earthquake,0.3,1.58,0.174,12,automatic,ci,ci
 2022-12-25T20:13:12.030Z,33.0165,-116.4266667,6.05,1.14,ml,36,69,0.1206,0.22,ci,ci40149927,2022-12-25T20:17:17.290Z,"18km ESE of Julian, CA",earthquake,0.29,1.22,0.149,24,automatic,ci,ci
 2022-12-25T20:10:39.030Z,38.8351669,-122.8113327,1.92,1.71,md,34,40,,0.03,nc,nc73824846,2022-12-25T21:56:10.730Z,"8km W of Cobb, CA",earthquake,0.17,0.3,0.14,35,automatic,nc,nc
@@ -101,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T13:43:42.251Z,59.9673,-140.9401,18.1,1.8,ml,,,,0.56,ak,ak022ghxxj75,2022-12-25T13:45:36.270Z,"82 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-25T13:40:01.490Z,19.4125003814697,-155.303665161133,1.87000000476837,1.82000005,md,13,94,,0.129999995,hv,hv73282387,2022-12-25T13:43:02.440Z,"8 km WSW of Volcano, Hawaii",earthquake,0.29,0.280000001,0.0900000036,7,automatic,hv,hv
 2022-12-25T13:29:55.810Z,19.2119998931885,-155.459838867188,31.1700000762939,2.18,ml,40,107,,0.129999995,hv,hv73282372,2022-12-25T13:35:25.510Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.57,0.860000014,4.1,3,automatic,hv,hv
+2022-12-25T13:27:37.070Z,53.5093,-164.9023,11.8,4.2,ml,,,,0.61,ak,ak022ghxu3eb,2022-12-25T23:48:21.959Z,"90 km SE of Akutan, Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-12-25T13:26:31.480Z,19.2045001983643,-155.421997070312,37.4099998474121,1.98000002,md,18,218,,0.310000002,hv,hv73282367,2022-12-25T13:29:34.240Z,"Island of Hawaii, Hawaii",earthquake,1.95,4.07999992,0.99000001,3,automatic,hv,hv
 2022-12-25T13:21:46.563Z,60.9693,-150.2585,44.9,1.6,ml,,,,0.79,ak,ak022ghxsts0,2022-12-25T13:23:36.093Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-25T13:09:12.550Z,33.0153333,-116.4316667,6.9,1.79,ml,53,44,0.1364,0.21,ci,ci40149727,2022-12-25T15:57:51.740Z,"17km ESE of Julian, CA",earthquake,0.21,0.93,0.142,26,reviewed,ci,ci
