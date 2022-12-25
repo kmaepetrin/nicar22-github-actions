@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-25T04:53:26.870Z,32.4451675,-115.2638321,2.59,2.37,ml,27,103,0.04321,0.35,ci,ci40149559,2022-12-25T04:55:47.591Z,"12km NNW of Delta, B.C., MX",earthquake,0.47,0.96,0.297,28,automatic,ci,ci
+2022-12-25T04:57:45.210Z,32.3281667,-115.2293333,7.4,2.04,ml,17,169,0.1113,0.26,ci,ci40149567,2022-12-25T05:01:17.122Z,"4km SW of Delta, B.C., MX",earthquake,1.01,2.05,0.219,19,automatic,ci,ci
+2022-12-25T04:53:26.810Z,32.4345,-115.265,3.27,2.2,ml,20,105,0.03699,0.32,ci,ci40149559,2022-12-25T04:57:08.641Z,"11km NW of Delta, B.C., MX",earthquake,0.76,1.1,0.226,26,automatic,ci,ci
 2022-12-25T04:51:52.310Z,19.4056663513184,-155.292999267578,1.79999995231628,1.82000005,md,15,59,,0.100000001,hv,hv73281807,2022-12-25T04:54:43.620Z,"7 km WSW of Volcano, Hawaii",earthquake,0.22,0.25,1.32000005,11,automatic,hv,hv
 2022-12-25T04:44:14.871Z,60.3504,-152.2688,76.7,1.7,ml,,,,0.29,ak,ak022ghskrko,2022-12-25T04:47:23.959Z,"47 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-12-25T04:19:23.290Z,38.8363342,-122.7894974,1.87,0.63,md,10,120,0.002175,0.02,nc,nc73824451,2022-12-25T04:36:13.437Z,"6km WNW of Cobb, CA",earthquake,0.37,0.51,0.06,10,automatic,nc,nc
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T20:02:09.012Z,-24.1671,-67.0968,171.499,5,mww,83,41,1.565,1.4,us,us6000jbh6,2022-12-24T20:17:16.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,7.08,5.749,0.056,31,reviewed,us,us
 2022-12-24T19:57:45.660Z,19.5401668548584,-155.109664916992,11.5600004196167,2.54,ml,37,88,,0.170000002,hv,hv73281247,2022-12-24T20:57:58.571Z,"1 km S of Mountain View, Hawaii",earthquake,0.33,0.550000012,2.23,17,automatic,hv,hv
 2022-12-24T19:40:39.304Z,-3.2236,139.8969,60.145,4.6,mb,37,86,7.643,0.64,us,us6000jbh2,2022-12-24T19:57:21.040Z,"Papua, Indonesia",earthquake,9.39,8.003,0.097,32,reviewed,us,us
-2022-12-24T19:33:44.220Z,40.552166,-124.004837,20.43,4.2,mw,25,141,,0.1,nc,nc73824236,2022-12-25T04:54:51.669Z,"8km E of Hydesville, CA",earthquake,0.43,0.38,,4,reviewed,nc,nc
+2022-12-24T19:33:44.220Z,40.552166,-124.004837,20.43,4.2,mw,25,141,,0.1,nc,nc73824236,2022-12-25T05:00:00.773Z,"8km E of Hydesville, CA",earthquake,0.43,0.38,,4,reviewed,nc,nc
 2022-12-24T19:28:07.260Z,19.579,-65.8421,78,3.85,md,10,279,1.3891,0.5,pr,pr2022358003,2022-12-24T21:26:07.040Z,"126 km NNE of San Juan, Puerto Rico",earthquake,7.49,16.64,0.07,7,reviewed,pr,pr
 2022-12-24T19:19:14.360Z,34.0386667,-116.688,11.66,1.24,ml,33,50,0.03326,0.21,ci,ci40149479,2022-12-24T19:22:53.575Z,"10km W of Morongo Valley, CA",earthquake,0.29,0.63,0.167,27,automatic,ci,ci
 2022-12-24T19:16:11.710Z,36.6836662,-121.2183304,8.12,1.37,md,12,222,0.03917,0.07,nc,nc73824231,2022-12-24T20:07:12.358Z,"15km SE of Tres Pinos, CA",earthquake,1.03,1.22,0.25,8,automatic,nc,nc
@@ -191,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T05:06:29.900Z,58.1661666666667,-155.388666666667,1.61,0.05,ml,10,79,,0.07,av,av91737361,2022-12-25T01:42:15.390Z,"86 km NW of Karluk, Alaska",earthquake,0.22,0.67,0.16341972630931,10,reviewed,av,av
 2022-12-24T05:04:01.110Z,36.3918333333333,-89.5765,11.95,1.57,md,23,58,0.06764,0.06,nm,nm60503351,2022-12-24T14:15:35.170Z,"8 km E of Hayward, Missouri",earthquake,0.31,0.44,0.194641704621149,16,reviewed,nm,nm
 2022-12-24T05:02:56.730Z,17.9745,-66.9513333333333,8.34,2.26,md,10,174,0.04069,0.2,pr,pr71388773,2022-12-24T06:10:22.800Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.63,0.87,0.0365271800828038,5,reviewed,pr,pr
-2022-12-24T04:58:43.550Z,17.9725,-66.9518333333333,6.44,2.1,md,6,182,0.06912,0.05,pr,pr71388768,2022-12-24T05:58:35.410Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.4,0.97,0.0950150814313888,4,reviewed,pr,pr
-2022-12-24T04:57:28.260Z,38.8346672,-122.7996674,1.82,1.16,md,23,57,0.008184,0.02,nc,nc73824001,2022-12-24T06:35:17.598Z,"7km WNW of Cobb, CA",earthquake,0.22,0.56,0.23,25,automatic,nc,nc
-2022-12-24T04:57:18.130Z,38.8348351,-122.7985001,1.98,1.68,md,28,41,,0.03,nc,nc73823996,2022-12-24T06:19:10.507Z,"7km WNW of Cobb, CA",earthquake,0.2,0.35,0.28,24,automatic,nc,nc
