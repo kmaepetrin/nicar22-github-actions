@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-25T08:56:06.640Z,19.17799949646,-155.485168457031,31.5799999237061,2.43000007,md,45,87,,0.119999997,hv,hv73282077,2022-12-25T08:59:16.340Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.53,0.769999981,1.54999995,30,automatic,hv,hv
+2022-12-25T08:49:20.840Z,34.2308333,-117.4825,9.55,0.91,ml,23,94,0.02709,0.25,ci,ci40149631,2022-12-25T08:52:47.259Z,"4km SSE of Lytle Creek, CA",earthquake,0.52,0.66,0.24,26,automatic,ci,ci
 2022-12-25T08:43:02.670Z,38.8284988,-122.8588333,2.26,0.4,md,6,143,0.001803,0.03,nc,nc73824551,2022-12-25T08:44:37.491Z,"10km WNW of The Geysers, CA",earthquake,0.9,1.36,0.28,8,automatic,nc,nc
 2022-12-25T08:40:38.710Z,33.9335,-116.32,4.96,2.56,ml,71,25,0.07414,0.16,ci,ci40149623,2022-12-25T08:52:32.040Z,"14km NNE of Thousand Palms, CA",earthquake,0.15,0.55,0.222,25,automatic,ci,ci
 2022-12-25T08:40:09.498Z,55.9619,-156.1524,58.4,3.2,ml,,,,0.59,ak,ak022ghuxnj4,2022-12-25T08:43:33.468Z,"144 km ESE of Chignik, Alaska",earthquake,,5.3,,,automatic,ak,ak
@@ -192,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T09:07:38.990Z,19.2218341827393,-155.387664794922,31.6399993896484,1.90999997,md,37,152,,0.129999995,hv,hv73280537,2022-12-24T09:10:54.140Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.81,1.03999996,0.949999988,3,automatic,hv,hv
 2022-12-24T09:01:49.800Z,51.8385,-178.033,-1.12,0.92,ml,5,109,,0.33,av,av91081698,2022-12-25T03:06:46.110Z,"96 km W of Adak, Alaska",earthquake,0.94,3.11,0.549233337679258,5,reviewed,av,av
 2022-12-24T09:01:22.283Z,53.8593,-131.6885,10,4.5,mb,76,132,0.736,0.7,us,us6000jbf4,2022-12-24T21:03:02.173Z,"102 km WSW of Prince Rupert, Canada",earthquake,5.11,1.907,0.051,111,reviewed,us,us
-2022-12-24T08:56:31.720Z,51.6388333333333,-178.521666666667,15.99,2.13,ml,11,165,,0.22,av,av91737421,2022-12-25T02:36:09.620Z,"132 km WSW of Adak, Alaska",earthquake,0.81,3.69,0.252089429320461,11,reviewed,av,av
