@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-25T13:29:55.810Z,19.2119998931885,-155.459838867188,31.1700000762939,2.19000006,md,40,107,,0.129999995,hv,hv73282372,2022-12-25T13:33:13.110Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.57,0.860000014,0.939999998,12,automatic,hv,hv
+2022-12-25T13:29:55.810Z,19.2119998931885,-155.459838867188,31.1700000762939,2.18,ml,40,107,,0.129999995,hv,hv73282372,2022-12-25T13:35:25.510Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.57,0.860000014,4.1,3,automatic,hv,hv
 2022-12-25T13:26:31.480Z,19.2045001983643,-155.421997070312,37.4099998474121,1.98000002,md,18,218,,0.310000002,hv,hv73282367,2022-12-25T13:29:34.240Z,"Island of Hawaii, Hawaii",earthquake,1.95,4.07999992,0.99000001,3,automatic,hv,hv
 2022-12-25T13:21:46.563Z,60.9693,-150.2585,44.9,1.6,ml,,,,0.79,ak,ak022ghxsts0,2022-12-25T13:23:36.093Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-25T13:09:12.550Z,33.0153333,-116.4316667,6.9,1.79,ml,53,44,0.1364,0.21,ci,ci40149727,2022-12-25T13:28:47.097Z,"17km ESE of Julian, CA",earthquake,0.21,0.93,0.142,26,automatic,ci,ci
