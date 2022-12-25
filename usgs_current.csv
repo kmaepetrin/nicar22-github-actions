@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-25T10:32:52.750Z,36.2551651,-120.8388367,8.4,1.2,md,5,197,0.04958,0.01,nc,nc73824571,2022-12-25T10:34:27.613Z,"21km NE of San Lucas, CA",earthquake,1.49,0.68,0.16,3,automatic,nc,nc
 2022-12-25T10:10:06.255Z,63.4307,-147.3299,63.8,2.2,ml,,,,0.27,ak,ak022ghvy2z5,2022-12-25T10:11:34.033Z,"81 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-25T10:02:52.615Z,56.4746,-156.998,107.8,2.9,ml,,,,0.83,ak,ak022ghvwgtp,2022-12-25T10:15:39.040Z,"89 km ENE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-25T09:50:46.190Z,33.2351667,-116.0445,6.04,0.76,ml,18,146,0.08316,0.23,ci,ci40149663,2022-12-25T09:54:13.651Z,"11km SW of Salton City, CA",earthquake,0.57,1.85,0.167,9,automatic,ci,ci
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T10:43:51.705Z,51.6271,178.7498,69.5,3,ml,,,,0.31,ak,ak022gg8lwnp,2022-12-24T23:24:23.507Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-12-24T10:42:26.860Z,19.1959991455078,-155.473495483398,30.7299995422363,2.31999993,md,37,99,,0.109999999,hv,hv73280692,2022-12-24T10:45:43.810Z,"0 km SE of Pāhala, Hawaii",earthquake,0.56,0.639999986,0.920000017,14,automatic,hv,hv
 2022-12-24T10:41:59.160Z,17.9723333333333,-66.9545,6.51,1.91,md,5,182,0.07167,0.06,pr,pr71388828,2022-12-24T11:06:19.940Z,"Puerto Rico region",earthquake,0.42,1.1,0.0514713233101695,4,reviewed,pr,pr
-2022-12-24T10:36:45.580Z,19.2124996185303,-155.382995605469,31.9799995422363,1.71000004,md,33,206,,0.119999997,hv,hv73280687,2022-12-24T10:39:59.740Z,"10 km E of Pāhala, Hawaii",earthquake,0.82,0.870000005,1.39999998,7,automatic,hv,hv
