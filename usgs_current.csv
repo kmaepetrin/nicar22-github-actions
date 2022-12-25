@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T21:20:01.200Z,37.387001,-118.7990036,8.92,1.59,md,18,106,0.1908,0.04,nc,nc73824296,2022-12-24T22:33:12.213Z,"18km W of Round Valley, CA",earthquake,0.28,1.84,0.15,10,automatic,nc,nc
 2022-12-24T21:19:56.570Z,19.1873340606689,-155.471664428711,30.1100006103516,2.29,ml,39,91,,0.119999997,hv,hv73281322,2022-12-24T21:51:40.040Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.48,0.699999988,3.05,13,automatic,hv,hv
 2022-12-24T21:12:50.089Z,44.6717,-114.3918,16.077,3.4,ml,44,31,0.54,0.59,us,us6000jbhb,2022-12-24T23:24:39.194Z,"22 km NW of Challis, Idaho",earthquake,2.66,7.015,0.033,121,reviewed,us,us
-2022-12-24T20:57:32.463Z,-9.2085,109.5464,29.347,5,mb,83,53,1.61,0.87,us,us6000jbha,2022-12-24T21:14:26.040Z,"south of Java, Indonesia",earthquake,6.65,4.635,0.064,79,reviewed,us,us
+2022-12-24T20:57:32.463Z,-9.2085,109.5464,29.347,5,mb,83,53,1.61,0.87,us,us6000jbha,2022-12-24T21:14:26.040Z,"160 km SSW of Srandakan, Indonesia",earthquake,6.65,4.635,0.064,79,reviewed,us,us
 2022-12-24T20:48:58.387Z,52.7177,-166.6933,23.08,4.5,mb,48,108,1.011,0.76,us,us6000jbh9,2022-12-24T23:37:33.414Z,"129 km S of Unalaska, Alaska",earthquake,5.13,6.105,0.078,48,reviewed,us,us
 2022-12-24T20:41:27.650Z,38.8188324,-122.7911682,1.33,1.07,md,19,46,0.009902,0.02,nc,nc73824281,2022-12-24T21:29:13.851Z,"6km NNW of The Geysers, CA",earthquake,0.19,0.43,0.12,20,automatic,nc,nc
 2022-12-24T20:39:00.330Z,35.54,-119.7371667,0.5,1.55,ml,16,96,0.2477,0.3,ci,ci40149495,2022-12-24T20:42:43.039Z,"29km WNW of Buttonwillow, CA",earthquake,0.93,31.61,0.154,16,automatic,ci,ci
