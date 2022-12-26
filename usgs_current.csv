@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T19:47:31.300Z,18.0136666666667,-66.7506666666667,14.63,2.23,md,6,175,0.1283,0.1,pr,pr71389018,2022-12-25T20:05:02.010Z,"1 km ESE of Magas Arriba, Puerto Rico",earthquake,0.55,1.21,0.0160476352264585,3,reviewed,pr,pr
 2022-12-25T19:45:58.034Z,-26.4784,-115.4967,10,5.4,mb,26,235,39.618,0.51,us,us6000jbn5,2022-12-25T21:48:30.239Z,"southern East Pacific Rise",earthquake,10.4,2,0.042,195,reviewed,us,us
 2022-12-25T19:40:45.980Z,17.9036666666667,-66.875,15.39,2.16,md,6,235,0.07111,0.07,pr,pr71389013,2022-12-25T20:04:55.920Z,"Puerto Rico region",earthquake,0.74,0.69,0.0598928400688363,5,reviewed,pr,pr
-2022-12-25T19:40:29.470Z,40.3028336,-124.5400009,19.44,3.31,ml,23,233,,0.12,nc,nc73824826,2022-12-26T05:32:51.714Z,"22km W of Petrolia, CA",earthquake,1.78,0.44,0.309,9,automatic,nc,nc
+2022-12-25T19:40:29.470Z,40.3028336,-124.5400009,19.44,3.31,ml,23,233,,0.12,nc,nc73824826,2022-12-26T07:36:50.287Z,"22km W of Petrolia, CA",earthquake,1.78,0.44,0.309,9,automatic,nc,nc
 2022-12-25T19:37:50.740Z,35.5193333,-118.3876667,4.47,1.9,ml,38,35,0.1595,0.17,ci,ci40149919,2022-12-25T19:41:20.320Z,"12km SE of Bodfish, CA",earthquake,0.21,1.08,0.248,27,automatic,ci,ci
 2022-12-25T19:34:58.161Z,62.2975,-151.7682,104.1,1.8,ml,,,,0.57,ak,ak022gi1g8m0,2022-12-25T19:37:10.346Z,"39 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-25T19:29:19.630Z,38.6661682,-122.6493301,9.82,1.13,md,7,212,0.1091,0.04,nc,nc73824816,2022-12-25T21:41:16.620Z,"10km SSW of Middletown, CA",earthquake,3.24,3.02,0.29,4,automatic,nc,nc
