@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T14:32:32.530Z,19.2471675872803,-155.38200378418,32.6199989318848,1.95000005,md,42,177,,0.119999997,hv,hv73283647,2022-12-26T14:35:38.130Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.730000019,0.519999981,17,automatic,hv,hv
+2022-12-26T14:32:28.010Z,62.038,-150.6141,45.9,2,ml,,,,0.37,ak,ak022gjlzxbl,2022-12-26T14:34:01.420Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-26T14:32:15.927Z,58.2571,-155.1922,2.2,0.8,ml,,,,0.35,ak,ak022gjlzwe0,2022-12-26T14:33:52.823Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2022-12-26T14:26:28.980Z,38.7828331,-122.7251663,1.21,1.31,md,16,82,0.009043,0.04,nc,nc73825291,2022-12-26T14:28:04.832Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.42,0.11,16,automatic,nc,nc
-2022-12-26T14:24:16.720Z,19.4258327484131,-155.281997680664,-0.219999998807907,2.17000008,md,15,117,,0.150000006,hv,hv73283632,2022-12-26T14:27:15.060Z,"5 km WSW of Volcano, Hawaii",earthquake,0.27,0.319999993,1.42999995,8,automatic,hv,hv
+2022-12-26T14:24:16.720Z,19.4258327484131,-155.281997680664,-0.219999998807907,1.92,ml,15,117,,0.150000006,hv,hv73283632,2022-12-26T14:29:46.800Z,"5 km WSW of Volcano, Hawaii",earthquake,0.27,0.319999993,0.33,5,automatic,hv,hv
 2022-12-26T14:05:45.437Z,62.4512,-148.3886,4.1,2,ml,,,,0.77,ak,ak022gjlu6bz,2022-12-26T14:08:09.700Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T14:04:23.640Z,33.9931667,-117.528,15.22,0.92,ml,9,95,0.1533,0.17,ci,ci40150255,2022-12-26T14:07:59.085Z,"1km W of Mira Loma, CA",earthquake,0.55,0.83,0.315,19,automatic,ci,ci
 2022-12-26T14:04:19.380Z,33.907,-117.4173333,0.74,1.02,ml,8,170,0.2215,0.31,ci,ci40150263,2022-12-26T14:08:03.526Z,"5km SSW of Riverside, CA",earthquake,2.04,31.61,0.108,2,automatic,ci,ci
