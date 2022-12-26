@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-26T22:33:50.470Z,19.4983329772949,-155.218826293945,10.6800003051758,1.82,ml,36,99,,0.170000002,hv,hv73284027,2022-12-26T22:39:20.350Z,"6 km NNE of Volcano, Hawaii",earthquake,0.34,0.400000006,0.3,3,automatic,hv,hv
 2022-12-26T22:30:03.633Z,38.6065,-117.1199,6.1,1.7,ml,8,192.17,0.883,0.2616,nn,nn00854213,2022-12-26T22:33:05.965Z,"Nevada",earthquake,,2.6,1.01,5,automatic,nn,nn
-2022-12-26T22:23:26.230Z,36.9873352,-121.454834,7.22,1.18,md,8,186,0.04479,0.08,nc,nc73825436,2022-12-26T22:37:11.437Z,"10km ESE of Gilroy, CA",earthquake,0.66,1.2,0.31,7,automatic,nc,nc
+2022-12-26T22:23:26.230Z,36.9873352,-121.454834,7.22,1.18,md,8,186,0.04479,0.08,nc,nc73825436,2022-12-26T22:49:16.512Z,"10km ESE of Gilroy, CA",earthquake,0.66,1.2,0.31,7,automatic,nc,nc
 2022-12-26T22:15:49.650Z,19.405834197998,-155.285507202148,1.5,2.17,ml,30,53,,0.270000011,hv,hv73284022,2022-12-26T22:21:20.630Z,"6 km SW of Volcano, Hawaii",earthquake,0.28,0.300000012,2.45,9,automatic,hv,hv
 2022-12-26T22:09:41.497Z,63.2352,-149.9739,87.9,1.8,ml,,,,0.66,ak,ak022gjqmhqd,2022-12-26T22:12:09.553Z,"54 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-26T21:54:28.250Z,34.2681667,-117.1321667,0.87,1.17,ml,38,55,0.1637,0.24,ci,ci40150375,2022-12-26T21:58:01.389Z,"6km ENE of Lake Arrowhead, CA",earthquake,0.36,0.79,0.15,29,automatic,ci,ci
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T23:11:25.456Z,38.4913,-117.9265,2.9,2.9,ml,21,46.97,0.189,0.1544,nn,nn00854164,2022-12-26T04:20:50.067Z,"19 km NE of Mina, Nevada",earthquake,,1.7,0.3,10,reviewed,nn,nn
 2022-12-25T23:06:04.670Z,35.7706667,-118.0158333,0.43,1.09,ml,20,57,0.1142,0.15,ci,ci40149999,2022-12-25T23:09:34.278Z,"21km SSW of Little Lake, CA",earthquake,0.23,0.45,0.138,18,automatic,ci,ci
 2022-12-25T22:59:37.010Z,34.3616667,-116.9991667,1.43,0.87,ml,8,179,0.0988,0.19,ci,ci40149991,2022-12-25T23:02:59.855Z,"10km SSW of Lucerne Valley, CA",earthquake,0.62,0.74,0.165,9,automatic,ci,ci
-2022-12-25T22:47:01.483Z,-21.2732,-68.844,120.074,4.2,mb,20,60,0.639,0.6,us,us6000jbp5,2022-12-25T23:53:25.040Z,"131 km N of Calama, Chile",earthquake,5.99,5.39,0.176,9,reviewed,us,us
-2022-12-25T22:45:52.356Z,18.5039,146.6174,56.474,4.8,mb,66,81,5.168,1.05,us,us6000jbp9,2022-12-25T23:17:32.040Z,"Pagan region, Northern Mariana Islands",earthquake,9.9,7.189,0.069,65,reviewed,us,us
