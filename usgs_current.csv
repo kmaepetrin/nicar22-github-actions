@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-27T05:38:48.350Z,33.1631667,-115.9323333,5.6,1.69,ml,44,40,0.03945,0.27,ci,ci40150479,2022-12-27T05:42:16.861Z,"15km S of Salton City, CA",earthquake,0.36,0.73,0.139,26,automatic,ci,ci
+2022-12-27T05:36:33.360Z,50.2826,90.8033,10,4.4,mb,28,67,5.202,0.46,us,us6000jbxd,2022-12-27T05:56:44.040Z,"28 km ESE of Mugur-Aksy, Russia",earthquake,4.93,1.937,0.126,18,reviewed,us,us
 2022-12-27T05:34:48.640Z,19.1748332977295,-155.519165039062,33.3400001525879,2.08999991,md,26,195,,0.219999999,hv,hv73284337,2022-12-27T05:38:07.060Z,"5 km SW of Pāhala, Hawaii",earthquake,1.09,1.91999996,2.08999991,4,automatic,hv,hv
 2022-12-27T05:28:29.939Z,60.8249,-147.074,20.7,2.1,ml,,,,0.64,ak,ak022gl45inl,2022-12-27T05:30:26.202Z,"21 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-27T05:19:21.577Z,62.4964,-151.7394,16.1,1.9,ml,,,,0.86,ak,ak022gl43kkd,2022-12-27T05:21:26.585Z,"50 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -198,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T06:09:22.414Z,62.95,-151.062,108.2,1.9,ml,,,,0.26,ak,ak022gjh3ikx,2022-12-26T06:12:01.837Z,"52 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-26T06:08:58.430Z,51.8621666666667,-177.894833333333,6.39,1.19,ml,5,189,,0.06,av,av91738316,2022-12-26T23:13:26.930Z,"86 km W of Adak, Alaska",earthquake,0.43,0.8,0.210206785522621,5,reviewed,av,av
 2022-12-26T06:05:30.130Z,17.9703333333333,-66.9781666666667,7.81,2.43,md,16,182,0.06288,0.08,pr,pr71389103,2022-12-26T06:19:39.180Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.35,0.15,0.0100644633993043,4,reviewed,pr,pr
-2022-12-26T05:59:05.979Z,61.8835,-149.2781,9.1,2.3,ml,,,,0.56,ak,ak022gjgsrid,2022-12-26T06:00:40.308Z,"15 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-26T05:59:01.792Z,36.5321,-98.9359,5,2.7,ml,34,105,0.356,0.46,us,us6000jbr0,2022-12-26T12:07:53.155Z,"7 km SW of Waynoka, Oklahoma",earthquake,1.33,1.869,0.073,25,reviewed,us,us
