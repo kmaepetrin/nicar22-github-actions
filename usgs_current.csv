@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-27T10:49:36.090Z,36.4793319702148,-89.5721664428711,8.21000003814697,2.20000005,md,14,68,0.05369,0.0500000007,nm,nm60503606,2022-12-27T10:53:18.980Z,"5 km SE of Marston, Missouri",earthquake,0.34,1.46000004,0.800000012,7,reviewed,nm,nm
 2022-12-27T10:22:16.536Z,62.2293,-145.2945,25.1,1.5,ml,,,,0.45,ak,ak022gl73dcl,2022-12-27T10:24:31.488Z,"6 km SE of Gulkana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-27T10:01:49.184Z,61.7916,-153.8029,9.8,2,ml,,,,0.69,ak,ak022gl6yxty,2022-12-27T10:04:11.340Z,"99 km ENE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-27T10:01:06.397Z,58.1802,-155.3683,1.1,0.7,ml,,,,0.28,ak,ak022gl6yuj3,2022-12-27T10:02:42.881Z,"87 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
