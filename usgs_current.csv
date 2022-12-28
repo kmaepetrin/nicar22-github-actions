@@ -169,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T03:37:17.626Z,60.0979,-152.8278,112.8,2.3,ml,,,,0.37,ak,ak022gl30jxu,2022-12-27T03:39:23.482Z,"63 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-27T03:30:11.679Z,37.9277,101.151,10,4.7,mb,64,42,10.295,0.79,us,us6000jbwl,2022-12-28T01:37:43.040Z,"111 km SW of Jinchang, China",earthquake,6.42,1.852,0.079,48,reviewed,us,us
 2022-12-27T03:30:00.170Z,38.3546667,-113.0898333,7.96,2.3,ml,30,61,0.01455,0.16,uu,uu60528757,2022-12-27T16:16:05.220Z,"8 km SW of Milford, Utah",earthquake,0.44,0.43,0.152,9,reviewed,uu,uu
-2022-12-27T03:15:48.417Z,-43.6057,172.2036,18.813,4.2,mb,25,72,0.305,0.88,us,us6000jbwj,2022-12-28T01:32:42.114Z,"9 km W of Burnham, New Zealand",earthquake,3.85,4.23,0.374,2,reviewed,us,us
-2022-12-27T03:12:20.310Z,32.2119,-103.0951,5,3.2,mb_lg,31,81,0.429,0.49,us,us6000jbwi,2022-12-28T01:13:41.040Z,"14 km NE of Jal, New Mexico",earthquake,1,1.965,0.046,125,reviewed,us,us
