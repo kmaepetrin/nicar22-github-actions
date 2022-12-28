@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-28T07:38:12.619Z,63.4781,-150.869,0,1.7,ml,,,,0.73,ak,ak022gmsxu6l,2022-12-28T07:40:23.609Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-28T07:35:37.620Z,39.2033348,-120.0705032,5.97,2.17,md,7,97,0.09319,0.02,nc,nc73825921,2022-12-28T07:40:13.891Z,"3km NE of Dollar Point, CA",earthquake,0.31,1.01,0.19,7,automatic,nc,nc
+2022-12-28T07:38:34.000Z,33.6578333,-116.7145,15.56,0.36,ml,17,78,0.0532,0.11,ci,ci40150783,2022-12-28T07:42:07.671Z,"9km S of Idyllwild, CA",earthquake,0.38,0.57,0.202,7,automatic,ci,ci
+2022-12-28T07:38:12.619Z,63.4781,-150.869,0,1.7,ml,,,,0.73,ak,ak022gmsxu6l,2022-12-28T07:47:06.888Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-28T07:35:37.620Z,39.2033348,-120.0705032,5.97,2.17,md,7,97,0.09319,0.02,nc,nc73825921,2022-12-28T07:42:10.791Z,"3km NE of Dollar Point, CA",earthquake,0.31,1.01,0.19,7,automatic,nc,nc
 2022-12-28T07:19:05.840Z,33.0185,-116.4323333,3.24,1.2,ml,34,44,0.1373,0.22,ci,ci40150775,2022-12-28T07:22:51.989Z,"17km ESE of Julian, CA",earthquake,0.33,1.23,0.156,28,automatic,ci,ci
 2022-12-28T07:09:34.479Z,59.3984,-151.1913,49.6,1.8,ml,,,,0.76,ak,ak022gmsro3r,2022-12-28T07:12:14.864Z,"21 km S of Halibut Cove, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-28T06:56:51.482Z,58.2246,-154.8441,3.3,0.6,ml,,,,0.18,ak,ak022gmsgch2,2022-12-28T06:59:19.712Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
