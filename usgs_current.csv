@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T18:25:00.954Z,58.2831,-155.0338,18.7,1,ml,,,,1.14,ak,ak022gmzesmn,2022-12-28T18:27:48.683Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-28T18:22:34.520Z,19.2291660308838,-155.404006958008,30.7099990844727,1.78999996,md,21,198,,0.119999997,hv,hv73285612,2022-12-28T18:25:51.670Z,"8 km ENE of Pāhala, Hawaii",earthquake,1.07,0.920000017,0.589999974,3,automatic,hv,hv
 2022-12-28T18:16:14.362Z,61.1049,-150.4795,44.1,1.6,ml,,,,0.23,ak,ak022gmzcw7w,2022-12-28T18:17:41.937Z,"23 km NNE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-12-28T18:12:50.205Z,-18.4155,-177.5904,585.81,4.6,mb,35,63,3.414,0.65,us,us7000j0nq,2022-12-28T19:04:28.040Z,"Fiji region",earthquake,13.41,11.199,0.109,25,reviewed,us,us
 2022-12-28T18:09:50.442Z,58.4404,-154.569,4.9,1.1,ml,,,,0.51,ak,ak022gmzbgzo,2022-12-28T18:11:34.346Z,"97 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-28T18:08:44.314Z,58.4311,-154.6058,0,1,ml,,,,0.53,ak,ak022gmzb8sv,2022-12-28T18:10:15.025Z,"96 km N of Karluk, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2022-12-28T18:01:33.400Z,38.8363342,-122.8026657,2.19,0.21,md,8,71,0.009844,0.01,nc,nc73826021,2022-12-28T18:25:12.844Z,"7km WNW of Cobb, CA",earthquake,0.44,1.33,0.11,9,automatic,nc,nc
@@ -71,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T09:20:48.500Z,34.0866667,-117.8268333,11.81,0.89,ml,19,64,0.01717,0.21,ci,ci40150791,2022-12-28T09:24:36.750Z,"2km SE of Charter Oak, CA",earthquake,0.37,0.79,0.187,19,automatic,ci,ci
 2022-12-28T09:15:53.713Z,64.7556,-147.8759,23.7,1.2,ml,,,,0.35,ak,ak022gmtzv3f,2022-12-28T09:17:43.180Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-28T09:09:31.120Z,17.9635,-66.9696666666667,9.23,2.7,md,14,193,0.05872,0.09,pr,pr71389383,2022-12-28T10:53:53.400Z,"Puerto Rico",earthquake,0.33,0.47,0.295198318980563,10,reviewed,pr,pr
+2022-12-28T09:06:14.447Z,42.0817,-120.433,4.8,1.4,ml,4,180.73,0.155,0.1123,nn,nn00854276,2022-12-28T19:04:09.328Z,"13 km SSW of Lakeview, Oregon",earthquake,,3.7,0.91,3,reviewed,nn,nn
 2022-12-28T09:05:32.536Z,60.912,-149.756,32.2,1.9,ml,,,,0.49,ak,ak022gmtxoat,2022-12-28T09:07:22.767Z,"6 km W of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-28T08:29:08.230Z,36.6133347,-121.1366653,6.93,1.62,md,11,139,0.05714,0.08,nc,nc73825941,2022-12-28T10:17:19.778Z,"9km N of Pinnacles, CA",earthquake,0.49,1,0.21,12,automatic,nc,nc
 2022-12-28T08:20:01.444Z,38.5606,-119.3599,4.6,1.5,ml,17,122.67,0.128,0.1553,nn,nn00854253,2022-12-28T17:30:39.624Z,"11 km ENE of Walker, California",earthquake,,2,0.14,3,reviewed,nn,nn
@@ -168,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T19:33:43.291Z,64.4793,-147.2016,13.9,1.4,ml,,,,0.66,ak,ak022glcioqh,2022-12-27T19:35:26.551Z,"15 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-27T19:29:20.640Z,38.3355,-113.0953333,9.51,1.13,md,11,224,0.03337,0.15,uu,uu60528782,2022-12-27T21:10:17.560Z,"Utah",earthquake,1.74,0.96,0.469,4,reviewed,uu,uu
 2022-12-27T19:12:14.101Z,38.131,-118.0735,5.1,0.8,ml,12,160.74,0.09,0.1039,nn,nn00854226,2022-12-27T20:10:55.706Z,"28 km S of Mina, Nevada",earthquake,,3.7,0.28,3,reviewed,nn,nn
-2022-12-27T19:03:17.590Z,33.0146667,-116.4316667,4.95,1.83,ml,55,44,0.1233,0.22,ci,ci40150647,2022-12-27T19:14:31.020Z,"17km ESE of Julian, CA",earthquake,0.22,1.1,0.175,25,automatic,ci,ci
