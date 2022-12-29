@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T00:29:52.900Z,19.1555004119873,-155.376831054688,29.0300006866455,1.91999996,md,29,210,,0.119999997,hv,hv73285867,2022-12-29T00:35:29.810Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.93,1.29999995,1.91999996,4,automatic,hv,hv
 2022-12-29T00:24:56.590Z,33.1681667,-116.0025,2.25,1.17,ml,19,90,0.2123,0.24,ci,ci40150927,2022-12-29T00:28:34.216Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.5,1.72,0.097,25,automatic,ci,ci
 2022-12-29T00:23:06.028Z,34.9656,14.2649,10,4.4,mb,25,228,5.168,0.86,us,us7000j0r2,2022-12-29T00:37:32.040Z,"97 km S of Żurrieq, Malta",earthquake,9.28,1.813,0.135,16,reviewed,us,us
-2022-12-29T00:16:19.020Z,40.5861664,-124.086998,20.15,3.42,ml,19,127,,0.06,nc,nc73826156,2022-12-29T05:33:07.748Z,"4km NNE of Hydesville, CA",earthquake,0.37,0.36,0.319,7,automatic,nc,nc
+2022-12-29T00:16:19.020Z,40.5861664,-124.086998,20.15,3.42,ml,19,127,,0.06,nc,nc73826156,2022-12-29T09:02:08.689Z,"4km NNE of Hydesville, CA",earthquake,0.37,0.36,0.319,7,automatic,nc,nc
 2022-12-28T23:54:26.390Z,37.6591682,-119.3601685,19.56,2.76,md,10,143,0.2677,0.08,nc,nc73826151,2022-12-29T03:13:17.931Z,"21km ESE of Yosemite Valley, CA",earthquake,0.45,1.71,0.05,6,automatic,nc,nc
 2022-12-28T23:51:04.390Z,38.8079987,-122.8144989,15.43,1.19,md,7,151,0.015,0.04,nc,nc73826146,2022-12-29T01:28:11.422Z,"6km NW of The Geysers, CA",earthquake,3.34,5.92,,1,automatic,nc,nc
 2022-12-28T23:35:36.390Z,19.3696670532227,-155.29817199707,1.77999997138977,1.77999997,md,6,127,,0.119999997,hv,hv73285822,2022-12-28T23:38:28.160Z,"Island of Hawaii, Hawaii",earthquake,0.45,1.33000004,1.77999997,4,automatic,hv,hv
@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T09:15:53.713Z,64.7556,-147.8759,23.7,1.2,ml,,,,0.35,ak,ak022gmtzv3f,2022-12-28T09:17:43.180Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-28T09:09:31.120Z,17.9635,-66.9696666666667,9.23,2.7,md,14,193,0.05872,0.09,pr,pr71389383,2022-12-28T10:53:53.400Z,"Puerto Rico",earthquake,0.33,0.47,0.295198318980563,10,reviewed,pr,pr
 2022-12-28T09:06:14.447Z,42.0817,-120.433,4.8,1.4,ml,4,180.73,0.155,0.1123,nn,nn00854276,2022-12-29T02:41:09.680Z,"13 km SSW of Lakeview, Oregon",earthquake,,3.7,0.91,3,reviewed,nn,nn
-2022-12-28T09:05:32.536Z,60.912,-149.756,32.2,1.9,ml,,,,0.49,ak,ak022gmtxoat,2022-12-28T09:07:22.767Z,"6 km W of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
