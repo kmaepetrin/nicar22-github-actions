@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-29T08:45:38.513Z,63.6477,-145.6355,16.1,1.2,ml,,,,0.88,ak,ak022goh46aj,2022-12-29T08:47:35.825Z,"32 km SW of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-29T08:38:01.460Z,66.2623,-151.3913,6.7,1.4,ml,,,,0.91,ak,ak022goh2lfm,2022-12-29T08:45:58.935Z,"64 km ESE of New Allakaket, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-29T08:29:50.307Z,61.4261,-147.78,23.4,1.6,ml,,,,0.89,ak,ak022goh0rqu,2022-12-29T08:32:02.652Z,"43 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-29T08:27:05.961Z,60.5311,-147.3967,19.4,2.3,ml,,,,0.53,ak,ak022goh08w4,2022-12-29T08:29:01.994Z,"54 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-29T08:20:45.840Z,38.8334999,-122.8176651,1.68,0.76,md,11,79,0.0117,0.02,nc,nc73826276,2022-12-29T08:44:11.029Z,"8km NW of The Geysers, CA",earthquake,0.3,1.23,0.13,11,automatic,nc,nc
