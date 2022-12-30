@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T23:44:41.494Z,58.2464,-155.1005,34,0.9,ml,,,,0.23,ak,ak022gqdktdh,2022-12-30T23:45:36.831Z,"84 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-30T23:34:58.640Z,35.7978333,-117.624,6.35,1,ml,14,79,0.02798,0.14,ci,ci40151583,2022-12-30T23:38:35.187Z,"20km W of Searles Valley, CA",earthquake,0.32,0.61,0.207,9,automatic,ci,ci
 2022-12-30T23:20:56.690Z,19.1895008087158,-155.509170532227,33.7400016784668,2.3599999,md,38,89,,0.119999997,hv,hv73288192,2022-12-30T23:24:08.250Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.62,0.800000012,1.54999995,23,automatic,hv,hv
 2022-12-30T23:16:18.600Z,19.1714992523193,-155.508163452148,35.0299987792969,2.4000001,md,37,109,,0.150000006,hv,hv73288187,2022-12-30T23:19:39.230Z,"Island of Hawaii, Hawaii",earthquake,0.74,0.920000017,0.949999988,16,automatic,hv,hv
@@ -190,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T00:13:10.360Z,57.9619,-154.4165,30.2,1.9,ml,,,,0.56,ak,ak022gpzp4v0,2022-12-30T00:15:06.867Z,"43 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-30T00:11:12.020Z,33.664,-116.7586667,14.06,1.39,ml,41,44,0.05992,0.2,ci,ci40151247,2022-12-30T00:22:01.150Z,"9km SSW of Idyllwild, CA",earthquake,0.27,0.42,0.202,25,automatic,ci,ci
 2022-12-30T00:00:44.230Z,38.8246651,-122.8551636,2.19,1.17,md,22,95,0.003171,0.01,nc,nc73826591,2022-12-30T00:17:13.877Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.18,22,automatic,nc,nc
-2022-12-29T23:48:09.100Z,38.8411674,-122.8404999,1.79,1.03,md,15,101,0.004686,0.02,nc,nc73826586,2022-12-30T00:07:22.696Z,"10km NW of The Geysers, CA",earthquake,0.35,0.44,0.26,17,automatic,nc,nc
-2022-12-29T23:47:05.375Z,60.0058,-139.7056,0,2,ml,,,,1.18,ak,ak022goq218p,2022-12-29T23:49:32.420Z,"51 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
