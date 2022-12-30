@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T11:02:31.120Z,38.815834,-122.7969971,2.16,1.08,md,11,70,0.007965,0.01,nc,nc73826756,2022-12-30T11:04:05.225Z,"6km NW of The Geysers, CA",earthquake,0.28,0.61,0.19,14,automatic,nc,nc
 2022-12-30T10:53:23.507Z,61.6378,-146.3465,28.8,1.8,ml,,,,1,ak,ak022gq5w2ke,2022-12-30T10:55:46.647Z,"45 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-30T10:45:19.280Z,37.1733322,-121.5544968,9.23,0.92,md,6,182,0.05188,0.01,nc,nc73826751,2022-12-30T10:46:54.816Z,"10km ENE of Morgan Hill, CA",earthquake,0.69,1.68,0.1,6,automatic,nc,nc
 2022-12-30T10:38:15.510Z,38.833168,-122.8161697,1.33,1.08,md,18,71,0.01086,0.02,nc,nc73826746,2022-12-30T10:39:50.008Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,0.21,18,automatic,nc,nc
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T04:16:56.053Z,-0.2131,97.3105,10,5,mb,52,136,1.53,0.75,us,us7000j0zu,2022-12-30T04:34:01.040Z,"271 km SW of Sibolga, Indonesia",earthquake,4.67,1.894,0.079,52,reviewed,us,us
 2022-12-30T04:14:45.580Z,33.9671667,-116.8056667,11.18,0.84,ml,20,62,0.06783,0.23,ci,ci40151343,2022-12-30T04:18:20.566Z,"6km NNW of Cabazon, CA",earthquake,0.43,0.9,0.198,25,automatic,ci,ci
 2022-12-30T03:55:13.570Z,33.596,-116.5866667,1.89,0.42,ml,17,81,0.008092,0.28,ci,ci40151335,2022-12-30T03:58:49.595Z,"9km ENE of Anza, CA",earthquake,0.6,0.7,0.26,5,automatic,ci,ci
-2022-12-30T03:54:19.510Z,40.5953331,-124.0656662,15.32,2.33,md,13,203,0.1677,0.1,nc,nc73826661,2022-12-30T04:48:11.418Z,"6km NNE of Hydesville, CA",earthquake,0.78,1.18,0.2,7,automatic,nc,nc
+2022-12-30T03:54:19.350Z,40.6048333,-124.0726667,17.03,2.27,md,28,58,0.1034,0.15,nc,nc73826661,2022-12-30T11:04:04.213Z,"7km NNE of Hydesville, CA",earthquake,0.28,0.4,0.118,19,reviewed,nc,nc
 2022-12-30T03:12:02.710Z,62.0549,-145.2191,18.3,1.5,ml,,,,1.67,ak,ak022gq1h7db,2022-12-30T03:14:17.281Z,"7 km NE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-30T03:06:58.110Z,33.925,-116.7861667,13.74,0.54,ml,17,73,0.09165,0.23,ci,ci40151327,2022-12-30T03:10:27.871Z,"1km N of Cabazon, CA",earthquake,0.49,1.55,0.119,12,automatic,ci,ci
 2022-12-30T02:51:25.600Z,33.9615,-116.8151667,11.32,1.73,ml,61,28,0.05418,0.17,ci,ci40151319,2022-12-30T03:01:55.900Z,"6km NNW of Cabazon, CA",earthquake,0.17,0.42,0.15,29,automatic,ci,ci
@@ -134,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T17:29:22.698Z,38.1787,-117.8767,8.3,1.4,ml,10,136.94,0.076,0.112,nn,nn00854315,2022-12-29T18:52:03.552Z,"31 km SE of Mina, Nevada",earthquake,,2.1,0.43,3,reviewed,nn,nn
 2022-12-29T17:28:40.760Z,33.0346667,-115.5836667,9.58,1.43,ml,16,74,0.003875,0.21,ci,ci40151119,2022-12-29T17:32:22.336Z,"4km E of Westmorland, CA",earthquake,0.46,1.27,0.243,20,automatic,ci,ci
 2022-12-29T17:24:55.930Z,38.7890015,-122.7649994,2.09,0.5,md,5,163,0.01232,0,nc,nc73826476,2022-12-29T17:51:14.452Z,"2km NNW of The Geysers, CA",earthquake,0.8,2.11,0.23,6,automatic,nc,nc
-2022-12-29T17:17:29.200Z,40.5995,-124.0883333,17.5,2.54,md,29,56,0.09628,0.13,nc,nc73826471,2022-12-30T10:56:54.762Z,"6km N of Hydesville, CA",earthquake,0.24,0.41,0.144,31,reviewed,nc,nc
+2022-12-29T17:17:29.200Z,40.5995,-124.0883333,17.5,2.54,md,29,56,0.09628,0.13,nc,nc73826471,2022-12-30T10:59:19.623Z,"6km N of Hydesville, CA",earthquake,0.24,0.41,0.144,31,reviewed,nc,nc
 2022-12-29T17:02:47.370Z,38.8233337,-122.7926636,1.54,0.32,md,7,96,0.0136,0.01,nc,nc73826466,2022-12-29T17:20:13.143Z,"6km NNW of The Geysers, CA",earthquake,0.6,1.34,0.15,11,automatic,nc,nc
 2022-12-29T16:51:34.644Z,-18.8601,169.3023,250.485,4.8,mb,41,79,4.118,0.64,us,us7000j0v9,2022-12-29T17:08:18.040Z,"75 km N of Isangel, Vanuatu",earthquake,10.51,7.909,0.07,64,reviewed,us,us
 2022-12-29T16:51:07.215Z,60.1543,-151.8003,66.5,1.8,ml,,,,0.35,ak,ak022golwv0h,2022-12-29T16:53:20.087Z,"13 km NNW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
