@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T17:56:48.960Z,33.2928352,-116.2788315,24.58,1.43,ml,12,224,0.07398,0.23,ci,ci40152743,2023-01-01T17:58:53.963Z,"10km ENE of Borrego Springs, CA",earthquake,1.28,1.62,0.212,15,automatic,ci,ci
+2023-01-01T17:40:21.880Z,17.979,-66.9971666666667,8.29,2.03,md,6,168,0.04579,0.11,pr,pr71390253,2023-01-01T17:49:59.870Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.41,1,0.0892489147948322,4,reviewed,pr,pr
 2023-01-01T17:30:48.630Z,19.2334995269775,-155.393997192383,31.7299995422363,2.16,ml,42,142,,0.119999997,hv,hv73290902,2023-01-01T17:36:18.700Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.649999976,3.38,10,automatic,hv,hv
 2023-01-01T17:27:50.273Z,60.1322,-152.2372,92.5,2.3,ml,,,,0.14,ak,ak0231xtlzn,2023-01-01T17:29:38.672Z,"32 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-01T17:18:06.680Z,33.9738333,-116.7411667,17.92,1.24,ml,38,57,0.06975,0.16,ci,ci40152735,2023-01-01T17:28:21.700Z,"8km NE of Cabazon, CA",earthquake,0.22,0.56,0.195,27,automatic,ci,ci
@@ -9,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T16:53:46.660Z,36.5946655,-121.199501,8.14,2.4,md,22,124,0.02558,0.05,nc,nc73827556,2023-01-01T17:23:16.277Z,"9km NW of Pinnacles, CA",earthquake,0.26,0.53,0.17,22,automatic,nc,nc
 2023-01-01T16:49:56.370Z,35.7393333,-117.4793333,12.83,1.07,ml,8,207,0.1227,0.12,ci,ci40152711,2023-01-01T16:53:32.168Z,"8km WSW of Searles Valley, CA",earthquake,0.52,0.97,0.131,9,automatic,ci,ci
 2023-01-01T16:47:00.980Z,40.5806656,-123.9365005,17.17,2.05,md,8,215,0.1776,0.13,nc,nc73827551,2023-01-01T17:08:13.185Z,"14km ENE of Hydesville, CA",earthquake,1.4,1.19,0.13,5,automatic,nc,nc
+2023-01-01T16:28:26.875Z,31.7051,-104.2824,9.625,2.5,ml,19,115,0.19,0.33,us,us7000j1fr,2023-01-01T17:51:17.040Z,"western Texas",earthquake,1.06,8.557,0.097,48,reviewed,us,us
 2023-01-01T16:27:32.690Z,33.9903333,-116.9818333,17.55,1.15,ml,25,60,0.1098,0.18,ci,ci40152703,2023-01-01T16:31:04.889Z,"7km E of Calimesa, CA",earthquake,0.29,0.81,0.179,29,automatic,ci,ci
 2023-01-01T16:24:36.369Z,59.5778,-152.106,58.1,2.2,ml,,,,0.6,ak,ak0231x7i5w,2023-01-01T16:27:17.264Z,"26 km NNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-01T16:24:26.828Z,-25.1974,178.5519,595.75,5.3,mb,32,96,7.005,0.92,us,us7000j1fq,2023-01-01T16:37:52.040Z,"south of the Fiji Islands",earthquake,12.68,11.414,0.074,61,reviewed,us,us
@@ -169,6 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T18:10:49.350Z,34.0191667,-117.1483333,7.68,1.53,ml,58,62,0.03398,0.23,ci,ci40152287,2022-12-31T18:21:37.210Z,"5km SE of Redlands, CA",earthquake,0.24,0.73,0.162,25,automatic,ci,ci
 2022-12-31T18:10:37.510Z,33.3361667,-116.3516667,13.34,1.17,ml,34,68,0.0872,0.35,ci,ci40152279,2022-12-31T18:15:04.173Z,"9km NNE of Borrego Springs, CA",earthquake,0.59,1.14,0.206,27,automatic,ci,ci
 2022-12-31T18:02:53.660Z,19.2054996490479,-155.456161499023,29.9400005340576,2.38,ml,40,112,,0.140000001,hv,hv73289402,2022-12-31T19:09:47.040Z,"2 km E of Pāhala, Hawaii",earthquake,0.57,0.860000014,3.34,12,automatic,hv,hv
-2022-12-31T17:57:17.890Z,40.5283318,-124.3886642,17.46,2.81,md,15,257,0.06558,0.07,nc,nc73827301,2023-01-01T05:39:53.143Z,"12km WSW of Ferndale, CA",earthquake,1.45,0.33,0.06,11,automatic,nc,nc
-2022-12-31T17:56:09.530Z,38.783165,-122.7431641,0.64,0.95,md,10,112,0.005033,0.03,nc,nc73827296,2022-12-31T18:40:13.171Z,"1km ENE of The Geysers, CA",earthquake,0.31,0.47,0.31,9,automatic,nc,nc
-2022-12-31T17:50:52.605Z,62.9833,-149.1392,68.2,1.7,ml,,,,0.56,ak,ak022grxkve4,2022-12-31T17:52:41.589Z,"46 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
