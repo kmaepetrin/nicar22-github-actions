@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-03T11:49:54.589Z,61.3637,-147.4351,24.2,1.6,ml,,,,0.57,ak,ak02355gfeo,2023-01-03T11:52:55.747Z,"50 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-03T11:34:26.020Z,38.8126678,-122.8166656,1.83,0.92,md,8,102,0.01049,0.01,nc,nc73828331,2023-01-03T11:42:37.019Z,"6km NW of The Geysers, CA",earthquake,0.55,1.19,0.45,10,automatic,nc,nc
-2023-01-03T11:33:48.010Z,38.7905006,-122.7956696,1.42,1.06,md,8,67,0.006178,0.09,nc,nc73828326,2023-01-03T11:35:24.013Z,"4km WNW of The Geysers, CA",earthquake,0.45,0.57,0.15,8,automatic,nc,nc
+2023-01-03T11:33:48.010Z,38.7905006,-122.7956696,1.42,1.06,md,8,67,0.006178,0.09,nc,nc73828326,2023-01-03T12:01:12.399Z,"4km WNW of The Geysers, CA",earthquake,0.45,0.57,0.15,8,automatic,nc,nc
 2023-01-03T11:31:35.930Z,38.8381653,-122.8085022,2.18,0.69,md,7,88,0.01418,0,nc,nc73828321,2023-01-03T11:49:13.326Z,"8km WNW of Cobb, CA",earthquake,0.53,1.29,0.15,9,automatic,nc,nc
 2023-01-03T11:28:01.972Z,38.1524,-118.0124,0.8,0.3,ml,8,172.14,0.044,0.2059,nn,nn00854461,2023-01-03T11:31:34.753Z,"27 km SSE of Mina, Nevada",earthquake,,3.9,0.37,3,automatic,nn,nn
 2023-01-03T11:13:16.211Z,38.6653,-119.8595,0.5,1.1,ml,10,244.34,0.277,0.1017,nn,nn00854460,2023-01-03T11:16:56.698Z,"7 km WSW of Markleeville, California",earthquake,,40.6,0.48,4,automatic,nn,nn
